@@ -1,0 +1,30 @@
+# Cursor / editor
+.cursor/
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local assets not for Lovable yet
+World map 1.jpg
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependencies / build (also covered under site/)
+node_modules/
+dist/
+dist-ssr/
+*.local
