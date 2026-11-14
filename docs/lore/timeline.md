@@ -1,22 +1,22 @@
 # Timeline
 
-Three ages on Aethora. Physics: [The Bright](pocket-and-core.md). Energies: [Chroma and Bright](lore_the_energy.md).
+Three ages of light on Aethora. The Bright’s physics live in [the board glossary](pocket-and-core.md). The two energies live in [Chroma and Bright](lore_the_energy.md).
 
-Hard light. Bright weather. A silent sphere. A culture that names its seasons after the Bright's mood.
+Hard light. Bright weather. A silent Bright. A culture that names its seasons after the Bright’s mood.
 
-## The First Bright
+## The First Light
 
 There was one Bright, and Aethora had always known it.
 
-A hyper-saturated sphere hung in cut ground: silent, even, bright enough to read a name by. Seams erupted wherever The Bright cast its net — shattered satin curtains that enveloped and rewrote matter. Those Seams wept Tears at their edges. The Bright drank that liquid to feed itself. Near the Core, Bright energy poured out — heavier, rarer, available only to whoever reached the nucleus.
+Hyper-saturated glass-like light hung in cut ground: silent, even, bright enough to read a name by. Seams erupted wherever The Bright cast its net — shattered satin curtains that enveloped and rewrote matter. Those Seams wept Tears at their edges. The Bright drank that liquid to feed itself. Near the Core, Bright energy poured out — heavier, rarer, available only to whoever reached the nucleus.
 
-Culture grew around the sphere. Ordinary seasons did not matter. The Bright's temper did. When the seams started weeping, everyone understood. The omen was older than any faction.
+Culture grew around the Bright. Ordinary seasons did not matter. The Bright’s temper did. When the seams started weeping, everyone understood. The omen was older than any faction.
 
-The danger had a name: **Call of the Light**. A hypnotic song pulled living matter toward the Bright Core. Organic fuel calmed unrest after the sphere went hungry. Harmony meant respect. Harmony never meant safety.
+The danger had a name: **Call of the Bright**. A hypnotic song pulled living matter toward the Bright Core. Street mouths still say **the calling**. Organic fuel calmed unrest after the Bright went hungry. Harmony meant respect. Harmony never meant safety.
 
 ### Kho'Lan and fanatics
 
-The people of the First Bright treated the sphere as divinity. The Kho'Lan temper was already there: preserve the balance, do not meddle. Kho is the living world that does not weep. Lan is the promise to leave it whole. They pronounce a catch between the two. Inside that reverence lived fanatics who wanted more than prayer.
+The people of the First Light treated the Bright as divinity. The Kho'Lan temper was already there: preserve the balance, do not meddle. Kho is the living world that does not weep. Lan is the promise to leave it whole. They pronounce a catch between the two. Inside that reverence lived fanatics who wanted more than prayer.
 
 ### The First Survivor
 
@@ -30,17 +30,17 @@ The Survivor changed the argument. Organized investigation began. From Kho'Lan g
 
 ### The First Strike
 
-Rath lost his wife and child to the Call of the Light.
+Rath lost his wife and child to the Call of the Bright.
 
-He walked an Umbra into the Bright with Null-Flint and threw the crystal into the Bright Core. The flint did not bloom into fire. It imploded into vacuum. Bright energy and the sphere's charge poured into shattered shards. **Splinters** were born. The landmark went out. Rath died in the wreck.
+He walked an Umbra into the Bright with Null-Flint and threw the crystal into the Bright Core. The flint did not bloom into fire. It imploded into vacuum. Bright energy and the Bright’s charge poured into shattered shards. **Splinters** were born. The landmark went out. Rath died in the wreck.
 
 When a Bright ends, a young Bright seeds elsewhere. Aethora entered the road.
 
 ## The Traveling Light
 
-Peoples followed reseeding spheres.
+Peoples followed reseeding Brights.
 
-Camps moved with each Glimmer. Too close meant the Call. Too far meant polar cold. The Bright still set Aethora's poles of radiance and frost. Fixed sites were not yet proven. This age is the long road between lights.
+Camps moved with each Glimmer. Too close meant the calling. Too far meant polar cold. The Bright still set Aethora’s poles of radiance and frost. Fixed sites were not yet proven. This age is the long road between lights.
 
 ### The First Harvest
 
@@ -66,4 +66,4 @@ The Aureate outgrow Kardia in riches. Kardia keep more people and happier workin
 
 Last into the walls come **Adumbra**: a secret order with eyes in every camp, resentful of what Chroma and the Bright have done to Aethora, holding a rare art that can suppress or cure Bloom and steer the Chroma-exposed.
 
-Inside a Bright, crews still enter through Umbras along the Eclipse. They still say the old omen: *"The seams are weeping."* Death is Stitching back to the Umbra. Splintered gear stays. Timing worsens.
+Inside a Bright, crews still enter through Umbras along the Eclipse. They still say the old omen: *“The seams are weeping.”* Death is Stitching back to the Umbra. Splintered gear stays. Timing worsens. The calling still pulls.

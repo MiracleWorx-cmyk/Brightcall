@@ -4,19 +4,19 @@ Two energies. Four ways to spend them.
 
 Aethora tears and shines. The Bright is the cause. What weeps from torn reality is not the same as what pours from the Core.
 
-Physics: [The Bright](pocket-and-core.md). Eras: [timeline](timeline.md).
+Physics live in [The Bright — board glossary](pocket-and-core.md). Eras live in the [timeline](timeline.md).
 
 ## Chroma
 
-Chroma is torn reality made liquid. **Bright energy** fractures reality into **Seams** — paper-thin shattered satin curtains. Chroma levitates and flows on those curtains and **always** weeps at the edges where the barrier meets the unaltered world. That ooze is what street mouths call **Bright-Tears** or **Tears**.
+Chroma is torn reality made liquid. **Bright energy** fractures reality into **Seams** — paper-thin shattered satin curtains. Chroma levitates and flows on those curtains and always weeps at the edges where the barrier meets the unaltered world. That ooze is what street mouths call **Bright-Tears** or **Tears**.
 
 **Refract Labs** coined **Chroma** for that liquid. The lab word spread. Refract Labs work Chroma. They do not work the Bright, and they do not handle Bright energy.
 
-The Bright consumes Chroma to feed itself. More Chroma into the Core makes the sphere larger, stronger, and harder to predict.
+The Bright consumes Chroma to feed itself. More Chroma into the Core makes the Bright larger, stronger, and harder to predict.
 
-Chroma can be harvested wherever Seams weep. Outside a Bright, Bright energy drawn from a contained Core can force new Seams so Chroma can be farmed far from the sphere. The leak is portable. The appetite follows.
+Chroma can be harvested wherever Seams weep. Outside a Bright, Bright energy drawn from a contained Core can force new Seams so Chroma can be farmed far from the anomaly. The leak is portable. The appetite follows.
 
-Board colors: **Pressurized Magenta**, **Electric Cyan**, **Searing Gold** only. There is no White Tears color.
+On the board the Tear colors are only **Pressurized Magenta**, **Electric Cyan**, and **Searing Gold**.
 
 ## Bright energy
 
@@ -24,7 +24,7 @@ Bright energy is what the Bright Core emits at close range. It is also the force
 
 Ambient Bright energy across the bowl is generally survivable. Proximity to the Core is lethal.
 
-Extracted under Null-Flint vacuum into a Kardia **containment unit**, and held so the charge does not dump into Splinters, that nucleus powers **Brightforged** craft: city light, civic power, stable weapons — the First Harvest's gift and curse.
+Extracted under Null-Flint vacuum into a Kardia **containment unit**, and held so the charge does not dump into Splinters, that nucleus powers **Brightforged** craft: city light, civic power, stable weapons — the First Harvest’s gift and curse.
 
 ## Applications
 
@@ -48,19 +48,11 @@ Raw Chroma burned as fuel. Refract Labs designed the concept in the Resting Ligh
 
 ### Pure Bright and the Vessel
 
-Proximity to the Core is the heaviest temporal alteration Aethora knows. It feels kin to Splintering: fleeting, extreme, a rewrite that will not stay. The only way to hold that scale of power and survive it is to absorb a Bright Core into a living **Vessel**. Nobody has survived that. Lumari still hunt that person. Final Vessel title open.
+Proximity to the Core is the heaviest temporal alteration Aethora knows. It feels kin to Splintering: fleeting, extreme, a rewrite that will not stay. The only way to hold that scale of power and survive it is to absorb a Bright Core into a living **Vessel**. Nobody has survived that. Lumari still hunt that person. The final Vessel title has not settled.
 
 ## Who spends what
 
-| Who | Spends |
-| --- | --- |
-| Intruders | Tears at weeping Seams; Splinters when the spike is the plan |
-| Kardia | Brightforge; containment units; Tears processed for districts. Refuse Chroma-fuel |
-| Refract Labs | Chroma, Splinters, Bloom trials, Chroma-fuel theory. No Bright energy |
-| the Aureate | Stolen Cores; hijacked containment; Chroma-fuel |
-| Kho'Lan | Pinch / cleanse Seams with ritual, Null-Flint, and other Aethorian materials |
-| Lumari | Tears into the body; interact with weeping Chroma; Bloom toward a Vessel |
-| Adumbra | Suppress or cure Bloom; cleanse Seams; steer whoever Chroma has already opened |
+**Intruders** take Tears at weeping Seams, and Splinters when the spike is the plan. **Kardia** Brightforge, forge containment units, and process Tears for districts — they refuse Chroma-fuel. **Refract Labs** spend Chroma, Splinters, Bloom trials, and Chroma-fuel theory, never Bright energy. **The Aureate** spend stolen Cores, hijacked containment, and Chroma-fuel. **Kho'Lan** pinch and cleanse Seams with ritual, Null-Flint, and other Aethorian materials. **Lumari** take Tears into the body, work weeping Chroma, and Bloom toward a Vessel. **Adumbra** suppress or cure Bloom, cleanse Seams, and steer whoever Chroma has already opened.
 
 ## What leaving costs
 

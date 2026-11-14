@@ -64,7 +64,7 @@ export const energies = {
 export const bright = {
   title: 'The Bright',
   outside:
-    'From the outside: a massive, slightly squished sphere of glass-like light, roughly a kilometer across.',
+    'From the outside: a massive, slightly squished mass of glass-like light, roughly a kilometer across.',
   inside:
     'From the inside: vast, unpredictable, temporally distorted. Matches happen entirely here — a chaotic splice of overwritten realities, not a factory floor.',
   eclipse:
@@ -72,14 +72,14 @@ export const bright = {
   seams:
     'Every Seam is Bright energy. Paper-thin shattered satin curtains erupt like a cast net, rewrite what they wrap, and always weep Magenta, Cyan, and Gold at the edges. They are fleeting — when they end, the original returns. Splinters cast them. Kho\'Lan and Adumbra cleanse them.',
   core:
-    'The Bright Core sits at the dead center. Call of the Light pulls living matter toward it. Ambient Bright energy across the bowl is generally survivable. Proximity is lethal.',
+    'The Bright Core sits at the dead center. Call of the Bright pulls living matter toward it — street mouths say the calling. Ambient Bright energy across the bowl is generally survivable. Proximity is lethal.',
 }
 
 export const eras = [
   {
-    title: 'The First Bright',
+    title: 'The First Light',
     blurb:
-      "One known Bright. Kho'Lan divinity. First Survivor. Lumari coalesce. Kardia begin to branch. Rath's First Strike ends that sphere and births Splinters.",
+      "One known Bright. Kho'Lan divinity. First Survivor. Lumari coalesce. Kardia begin to branch. Rath's First Strike ends that Bright and births Splinters.",
   },
   {
     title: 'The Traveling Light',
@@ -156,7 +156,7 @@ export const factions: {
     motif:
       'The held ground. Kho is the living world that does not weep. Lan is the promise to leave it whole.',
     origin:
-      'Oldest temper. First Bright reverence. The catch in the name keeps Aethora and the Bright from being one word. They pinch Seams with ritual, Null-Flint, and other Aethorian materials.',
+      'Oldest temper. First Light reverence. The catch in the name keeps Aethora and the Bright from being one word. They pinch Seams with ritual, Null-Flint, and other Aethorian materials.',
     play: 'Silence. Denial. Empty Discharge. Earthbound silhouette.',
   },
   {
@@ -185,7 +185,7 @@ export const factions: {
 
 export const game = {
   pitch:
-    'A tableau-builder hex brawler. Short matches. Strange builds. The board forces those builds to touch — inside The Bright, on spliced hexes, under Call of the Light.',
+    'A tableau-builder hex brawler. Short matches. Strange builds. The board forces those builds to touch — inside The Bright, on spliced hexes, under Call of the Bright.',
   locks: [
     'Modes: 1v1, 2v2, 3v3, free-for-all up to six.',
     'Kills and objectives score. First to 15 victory points.',

@@ -21,7 +21,7 @@ export function Bright() {
         <h2>Seams &amp; spliced terrain</h2>
         <p>{bright.seams}</p>
         <p className="omen">
-          When the seams are weeping, Tears are in the air. Call of the Light thickens. Harvest weather.
+          When the seams are weeping, Tears are in the air. Call of the Bright thickens — the calling is loud. Harvest weather.
           The Blinding may be near.
         </p>
       </section>

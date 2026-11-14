@@ -11,7 +11,7 @@ She was a Brightsmith before she became a Harvester. She still keeps Kardia mann
 
 Kardia uphold traditions under Aureate pressure. Ego bruises them even when they know ego should not lead. Vesper carries that national pride in personal form: crest polished, coat civic, reload dignified.
 
-## Look (working visual lock)
+## Look
 
 **Silhouette priority.** Resonance Glaive first (this is Vesper). Shoulder Bright-battery second (this is Kardia).
 
@@ -19,7 +19,7 @@ Kardia uphold traditions under Aureate pressure. Ego bruises them even when they
 
 **Clothes.** Tailored high-collared Kardia coat — off-white, faded blue, gold trim — stained and worn, still cut like Resting Light civic wear. Leather harness and tool belts for field work. Family crest on the chest, scratched and kept.
 
-**Brightforged amount.** Small on purpose. No armor suit. No plate stack. Brightforged ceramic and metal live as **braces, gauntlet fittings, battery housing, and glaive hardware** strapped over the coat — enough to read Kardia craft, not enough to read knight.
+**Brightforged amount.** Small on purpose. No armor suit. No plate stack. Brightforged ceramic and metal live as braces, gauntlet fittings, battery housing, and glaive hardware strapped over the coat — enough to read Kardia craft, not enough to read knight.
 
 **Race.** Oru: taller, broader, dense alabaster skin. Exterior reads statue-strong. Interior does not.
 
@@ -31,21 +31,20 @@ A precision mason’s tool turned weapon: ultrasonic vibration wired to her batt
 
 **Reality scratches.** Side-effect of Bright vibration, not Chroma-fuel craft. Magenta/cyan Tears may weep where the cut passes. Vesper finds that ooze disgusting. She still flirts with the edge it gives her against enemies — figurative and literal. That tension is her moral line and her traitor lean.
 
-**On the board (open).** Scratches are not a visible lasting Seam token. Working options: dropped Bright-Tear / Chroma residue, or extra chromatic damage on the swing. Rules not locked.
+On the board, scratches are not a visible lasting Seam token. Working options: dropped Bright-Tear / Chroma residue, or extra chromatic damage on the swing. Rules not settled.
 
 ## Play fantasy
 
-- **Loyal.** Mobile bruiser. Hold pressure through durability and glaive reach. Manage finite battery spheres. Finite stability: safe tech, attrition weakness when dry.
-- **Traitor lean.** Emotion dumps charge into gap-close to delete assassins threatening her or her team. She still reads as Kardia when she does it — manners broken, crest still on the chest.
-- **Bad build (working).** All aggression, empty spheres early, no plan when the exo goes quiet.
+**Loyal.** Mobile bruiser. Hold pressure through durability and glaive reach. Manage finite battery spheres. Finite stability: safe tech, attrition weakness when dry.
+
+**Traitor lean.** Emotion dumps charge into gap-close to delete assassins threatening her or her team. She still reads as Kardia when she does it — manners broken, crest still on the chest.
+
+**Bad build.** All aggression, empty spheres early, no plan when the exo goes quiet.
 
 ## Faction habit she proves
 
 Kardia adapt. They do not own the “plant and hold the hill” fantasy — that belongs to the Aureate’s heaviest tanks. Vesper teaches adaptable Kardia play: move, brawl, reload with dignity, threaten space with a civic tool that should never have been a weapon.
 
-## Open
+## Still settling
 
-- Exact scratch payout (Tears token vs chromatic damage vs both).
-- Charge counts, sphere count, and exo braces’ exact board verbs.
-- Proper battery and glaive model names.
-- The defector friend’s name and whether they appear as an Aureate roster link.
+Exact scratch payout (Tears token vs chromatic damage vs both). Charge counts, sphere count, and exo braces’ exact board verbs. Proper battery and glaive model names. The defector friend’s name and whether they appear as an Aureate roster link.

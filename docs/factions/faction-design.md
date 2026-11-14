@@ -2,15 +2,15 @@
 
 Brightcall. Aethora. Resting Light present day.
 
-**First roster target:** two characters each. Rosters below are working drafts and will be rewritten.
+The first roster aims for two characters each. Rosters below are working drafts and will be rewritten.
 
-**Nouns:** Chroma, Bright energy, Seam, weeping, Splintered, Bloom, Brightforged, Chroma-fuel, containment unit, Vessel, Umbra, Stitching.
+The nouns that matter: Chroma, Bright energy, Seam, weeping, Splintered, Bloom, Brightforged, Chroma-fuel, containment unit, Vessel, Umbra, Stitching.
 
-**Factions:** Kho'Lan, Lumari, Kardia, Refract Labs, the Aureate, Adumbra.
+The factions: Kho'Lan, Lumari, Kardia, Refract Labs, the Aureate, Adumbra.
 
-**Guardrail.** Motive plus habit. Not a damage type.
+Each faction is a motive plus a habit — not a damage type.
 
-**Design order (for now):** Kardia first (Vesper as measuring stick), then the Aureate contrast.
+Design order for now: Kardia first (Vesper as measuring stick), then the Aureate contrast.
 
 ---
 
@@ -18,14 +18,13 @@ Brightcall. Aethora. Resting Light present day.
 
 The supreme wealth power of the Resting Light. They began as Kardia who wanted more, stole Bright Cores they could not build containment for, and outgrew their parent nation in riches. They still cannot craft Kardia containment units. They keep hijacking nearly full ones. Vicious, cutthroat, short on craft knowledge. Chroma-fuel gives their ill intent room to work.
 
-**Society.** A thin tip of the extremely rich; a mass of extremely poor laborers held by the dream of infinite wealth. Fewer people than Kardia. Less happy. Opposing nation.
+A thin tip of the extremely rich; a mass of extremely poor laborers held by the dream of infinite wealth. Fewer people than Kardia. Less happy. Opposing nation.
 
-**Heresy edge.** Refract Labs imagined burning raw Chroma as fuel. Kardia banned it. Defected Kardia smiths and inventors built it for the Aureate. Chromatic fuel tanks feed devastating, unstable weapons. Stolen Brightforged frames sometimes get Chroma pumped through them anyway. Hubris is the blind spot. Knowledge is the weakness.
+Refract Labs imagined burning raw Chroma as fuel. Kardia banned it. Defected Kardia smiths and inventors built it for the Aureate. Chromatic fuel tanks feed devastating, unstable weapons. Stolen Brightforged frames sometimes get Chroma pumped through them anyway. Hubris is the blind spot. Knowledge is the weakness.
 
-- **Motive:** Absolute dominance. Hoard Cores. Own the Chroma market.
-- **Want:** Unchallenged supremacy.
-- **Fear:** Chroma-fuel tearing their own gear apart, or Kardia reclaiming Core custody.
-- **At the table:** Hold the objective. Biggest tanks. Slow, heavy, overwhelming when planted. Overclocked Chroma-fuel lines make death catastrophic. Late hijack of a containment unit remains core business.
+They want absolute dominance — hoard Cores, own the Chroma market, unchallenged supremacy. They fear Chroma-fuel tearing their own gear apart, or Kardia reclaiming Core custody.
+
+At the table they hold the objective. Biggest tanks. Slow, heavy, overwhelming when planted. Overclocked Chroma-fuel lines make death catastrophic. Late hijack of a containment unit remains core business.
 
 **Roster (working)**
 
@@ -40,10 +39,9 @@ Larger society. Strong working economy. More people, happier people. Not as rich
 
 They alone build containment units and true Brightforged craft — gear made with enormous energy, or made to store and emit Bright energy through a Core. Stable. Reliable. They process Tears for districts. They refuse Chroma-fuel.
 
-- **Motive:** Reclaim Brightforge dignity. Survive without becoming the Aureate.
-- **Want:** Order, ordinary mornings, Core custody returned. Manners and civic etiquette held under pressure.
-- **Fear:** Extinction, or winning by adopting Chroma-fuel.
-- **At the table:** Adaptable. Finite stable Brightforged charge. Outmaneuver heavy Aureate pieces. Exploit volatility instead of matching raw overclock. They do not own plant-and-hold — the Aureate do.
+They want to reclaim Brightforge dignity and survive without becoming the Aureate — order, ordinary mornings, Core custody returned, manners and civic etiquette held under pressure. They fear extinction, or winning by adopting Chroma-fuel.
+
+At the table they are adaptable. Finite stable Brightforged charge. Outmaneuver heavy Aureate pieces. Exploit volatility instead of matching raw overclock. They do not own plant-and-hold — the Aureate do.
 
 **Roster (working)**
 
@@ -56,10 +54,9 @@ They alone build containment units and true Brightforged craft — gear made wit
 
 Amoral science. Coined Chroma for Bright-Tears. Invented the Chroma-fuel concept Kardia banned. Splinters, Bloom trials, every threshold of the leak. They do not work the Bright or Bright energy.
 
-- **Motive:** The next result.
-- **Want:** Maximum thresholds.
-- **Fear:** A tame Chroma. Civic use that leaves the burn forbidden.
-- **At the table:** Overclock, Splintered cost, burst. Honest self-damage.
+Motive: the next result. Want: maximum thresholds. Fear: a tame Chroma, or civic use that leaves the burn forbidden.
+
+At the table: overclock, Splintered cost, burst. Honest self-damage.
 
 **Roster (working)**
 
@@ -70,12 +67,11 @@ Amoral science. Coined Chroma for Bright-Tears. Invented the Chroma-fuel concept
 
 ## 4. Kho'Lan
 
-Say **KO-lan**, with a catch between the halves. Kho is the living world that does not weep. Lan is the promise to leave it whole. Conservative guardians. Bright as divinity. Preserve balance. Pinch weeping Seams with ritual, Null-Flint, and other Aethorian materials.
+Say **KO-lan**, with a catch between the halves. Kho is the living world that does not weep. Lan is the promise to leave it whole. Conservative guardians. The Bright as divinity. Preserve balance. Pinch weeping Seams with ritual, Null-Flint, and other Aethorian materials.
 
-- **Motive:** Fewer meddles. Keep the catch in the name.
-- **Want:** Silence on the board.
-- **Fear:** Permanent harvest order.
-- **At the table:** Short Silence, denial, empty Discharge.
+Motive: fewer meddles. Keep the catch in the name. Want: silence on the board. Fear: permanent harvest order.
+
+At the table: short Silence, denial, empty Discharge.
 
 **Roster (working)**
 
@@ -86,17 +82,16 @@ Say **KO-lan**, with a catch between the halves. Kho is the living world that do
 
 ## 5. Lumari
 
-Bloom lineages. They take Tears into the body. Faith as costume for that hunger. Hunt a Vessel: a person who can absorb a Bright Core and live. Nobody has. Final Vessel title open.
+Bloom lineages. They take Tears into the body. Faith as costume for that hunger. Hunt a Vessel: a person who can absorb a Bright Core and live. Nobody has. Final Vessel title still open.
 
-- **Motive:** Rewrite toward godhood.
-- **Want:** Embodiment of the Bright.
-- **Fear:** Science that bottles their god into Brightforged custody.
-- **At the table:** Health fuel, transformation, lineage hierarchy.
+Motive: rewrite toward godhood. Want: embodiment of the Bright. Fear: science that bottles their god into Brightforged custody.
+
+At the table: health fuel, transformation, lineage hierarchy.
 
 **Roster (working)**
 
 1. **The Bloomed Zealot** — Rags. Consumes Tears at weeping Seams for permanent mid-match Blooms.
-2. **The Lineage Martyr** — Lesser Lumari. Takes environmental cost or spends actions to feed Tears into the Zealot's Bloom.
+2. **The Lineage Martyr** — Lesser Lumari. Takes environmental cost or spends actions to feed Tears into the Zealot’s Bloom.
 
 ---
 
@@ -104,10 +99,9 @@ Bloom lineages. They take Tears into the body. Faith as costume for that hunger.
 
 Secret elite. Suppress or cure Bloom. Cleanse Seams. Steer anyone Chroma has opened. Pity the amplified.
 
-- **Motive:** Leverage over the amplified.
-- **Want:** Political control without open rule.
-- **Fear:** A world that needs no broker.
-- **At the table:** Redirect, borrow, cleanse Seams. No permanent theft of Splintered cards.
+Motive: leverage over the amplified. Want: political control without open rule. Fear: a world that needs no broker.
+
+At the table: redirect, borrow, cleanse Seams. No permanent theft of Splintered cards.
 
 **Roster (working)**
 
