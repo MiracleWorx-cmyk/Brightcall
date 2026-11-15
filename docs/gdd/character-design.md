@@ -110,8 +110,8 @@ A new player can explain the loyal turn in two sentences. The traitor fantasy na
 
 **Vesper** is the measuring stick, not the most original kit in the box. Detail: [characters/vesper.md](characters/vesper.md).
 
-Easy to teach. Durable mobile bruiser. Slow for a Kardian; Oru mass and a finite Bright-battery keep her in the brawl. She does not peak like a specialist. Kardia as a faction are adaptable. They do not own plant-and-hold. The Aureate own the heaviest objective tanks.
+Easy to teach. Durable mobile bruiser. Slow for a Kardian; Oru mass and finite Bright cells keep her in the brawl. She does not peak like a specialist. Kardia as a faction are adaptable. They do not own plant-and-hold. The Aureate own the heaviest objective tanks.
 
-Loyal loop: glaive pressure, dignified sphere reloads, space threat without a hill mandate. Traitor fantasy for the prototype: emotion overcommits charge into a real gap-close to delete assassins. (Chroma-edge flirt from reality scratches is flavor and a possible damage line; she does not burn Chroma-fuel.) Bad build: all three aggressive cards, spheres empty early, no plan when the exo goes quiet. Silhouette: Resonance Glaive first, shoulder battery second (through the coat cutout). Proud open face, not PTSD ruin. Cloth-first hazard gear: [armor and exosuits](armor-and-exosuits.md).
+Loyal loop: glaive pressure, dignified Bright cell reloads, space threat without a hill mandate. Traitor fantasy for the prototype: emotion overcommits charge into a real gap-close to delete assassins. (Chroma-edge flirt from reality scratches — Seams almost opening — is flavor and a possible damage line; she does not burn Chroma-fuel.) Bad build: all three aggressive cards, cells empty early, no plan when the exo goes quiet. Silhouette: Resonance Glaive first, shoulder Bright cell second (through the coat cutout). Proud open face, not PTSD ruin. Cloth-first hazard gear: [armor and exosuits](armor-and-exosuits.md). Leading plate: `site/public/art/hero-harvester.png`.
 
 After Vesper survives one session, the second Kardia widens adaptable tools, and the first Refract proves the schism in the cards. Everyone else waits.

@@ -2,11 +2,14 @@
 
 Generated Bright-punk stills for the public landing. Files live in `site/public/art/`.
 
+**Style north stars:** `hero-harvester.png` and `the-bright.png` (Stability SD3 pack). Every later still must match those plates. Full lock + prompt block: [art-direction.md](art-direction.md) → Style lock.
+
 | File | Use |
 | --- | --- |
-| `hero-harvester.png` | Home hero — full-bleed background. Oru harvester, Kardia trench, magenta Seam glaive. |
-| `the-bright.png` | The Bright page / world section — exterior luminous sphere on Aethora. |
+| `hero-harvester.png` | Home hero — full-bleed background. Oru Vesper north star (black stone-glimmer skin, trench over Brilliance, magenta scratch glaive). **Style master.** |
+| `the-bright.png` | The Bright page / world section — exterior luminous sphere on Aethora. **Style master.** |
 | `seam-curtain.jpg` | Seams section — one transparent shattered satin sheet; Magenta + Cyan + Gold Chroma oozing through the cracks together. |
+| `refract-splinter-slam.jpg` | Energies / Splintered explainer — Refract Labs slamming a Splinter; Seam envelops and rewrites the weapon. |
 
 ## Lovable wiring (paste)
 

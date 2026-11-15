@@ -18,7 +18,7 @@ Kho'Lan and Adumbra cleanse and pinch Seams (the pinch name is still open). Luma
 
 The **Eclipse** is a one-way rim (bright/see-in from outside; dark smoky from inside). **Umbras** are darkest-entry. Exit is the brightest Eclipse stretch (intermittent), or Core harvest / Null-Flint destroy. The Bright is a vast monolithic maze that defends its Core.
 
-Applications: **Bloom**, **Splintered**, **Brightforged** (pearl white, faintly radiant; safe Chroma handling), **Chroma-fuel**.
+Applications: **Bloom**, **Splintered**, **Brilliance** (pearl white, faintly radiant; safe Chroma handling; Bright cells of bright-white charge), **Chroma-fuel**.
 
 Factions: Kho'Lan, Lumari, Kardia, Refract Labs, the Aureate, Adumbra.
 

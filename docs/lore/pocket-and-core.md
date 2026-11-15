@@ -4,21 +4,23 @@ Physics for the interior of The Bright, and the words the board needs. History: 
 
 ## The words
 
-**The Bright** is hyper-saturated glass-like light, roughly a kilometer across. It feeds on Chroma. It sings for living matter. Matches happen inside it.
+**The Bright** is vast monolithic hyper-saturated light. Exact size is open and larger than early guesses. It feeds on Chroma from Seams only — it does not eject Chroma. It sings for living matter. Matches happen inside it. Brighter ground means stronger Bright energy.
 
-**The Eclipse** is the outer boundary. It expands as the Core grows.
+**The Eclipse** is the outer boundary. Outside: bright, see-through into a Seam-fractured interior. Inside: dark smoky barrier hiding Aethora.
 
-**Call of the Bright** is the siren toward the Bright Core. Street may say **the calling**. The game title **Brightcall** echoes that pull.
+**Call of the Bright** is the siren toward the Bright Core. Street may say **the calling**. Manifestation unknown. The game title **Brightcall** echoes that pull.
 
-A **Seam** is a paper-thin shattered satin curtain caused by Bright energy. It erupts like a cast net, envelops and rewrites while active, and always weeps Chroma at the edges. It is fleeting — when it ends, the original returns.
+A **Seam** is a paper-thin shattered satin curtain caused by Bright energy. It erupts like a cast net, envelops and rewrites while active, and always weeps Chroma at the edges. Fleeting — when it ends, the original returns. Brief residue may linger and hinder navigation without permanently rewriting matter.
 
-An **Umbra** is the darkest weak spot along the Eclipse: safe entry, deployment, and Stitching return.
+An **Umbra** is the darkest weak spot along the Eclipse: entry, deployment, mid-match Stitching return. Exit is the brightest Eclipse stretch, intermittent.
 
-**Chroma** — also Tears, Bright-Tears on the street — is the liquid that oozes from Seam edges. Magenta, Cyan, Searing Gold. Harvestable widely.
+**Chroma** — also Tears, Bright-Tears on the street — is the liquid that oozes from Seam edges only. Magenta, Cyan, Searing Gold. Harvestable widely.
 
-**Bright energy** is Core emission, and also the force that causes Seams. Lethal in close Core proximity.
+**Bright energy** is Core emission, and also the force that causes Seams. Stronger where the light is brighter. Lethal in close Core proximity. Looks bright white for now.
 
-The **Bright Core** is the nucleus. Ambient exposure across the bowl is generally survivable; proximity is lethal.
+A **scratch** is when a Seam almost opens — Tears may weep along the cut before a full curtain lands.
+
+The **Bright Core** is a reverse black hole of light. It emits Bright energy. Seams crowd it and weep Chroma. Interior look unknown. Harvest with Brilliance plus Null-Flint, or destroy with Null-Flint.
 
 **Null-Flint** is Aethorian vacuum crystal. It implodes on ignition. Kardia use it for containment; Kho'Lan use it in Seam craft.
 
@@ -28,7 +30,7 @@ The **Bright Core** is the nucleus. Ambient exposure across the bowl is generall
 
 **Splintered** means altered with a Splinter — the match mutation card.
 
-**Brightforged** is Kardia craft powered by a contained Bright Core, or built to store and emit Bright energy. Stable.
+**Brilliance** is Kardia craft powered by a contained Bright Core, or built to store and emit Bright energy. Stable. Pearl white, faintly radiant. The metal lets a body handle Chroma safely. **Bright cells** are Brilliance packs holding bright-white charge. **Zenith Relays** are Kardia energy substations.
 
 **Chroma-fuel** is raw Chroma burned as fuel. Refract Labs imagined it. Kardia ban it. The Aureate weaponize it. Volatile.
 
@@ -38,15 +40,15 @@ A **chromatic fuel tank** holds Chroma for Chroma-fueled weapons. Pressurized ca
 
 A **Vessel** is a person who can absorb a Bright Core and live. Nobody has. Final title still open.
 
-**Stitching** is death’s return to the Umbra. The build stays.
+**Stitching** is death’s return to the Umbra in a match (build stays). Collapse of a Bright by harvest or Null-Flint destroy Stitches survivors back to their Eclipse crossing.
 
 **Discharge** is extracting a containment unit, or pinching a Seam (pinch name still open). Both pay victory points.
 
 ## What the board is
 
-One match is one Bright, played from the inside. Spliced hexes share a floor because The Bright rewrote unlike realities into one bowl: civic house against tundra against ancient rock. Umbras sit along the Eclipse as deployment. The Core hangs at the dead center. Ambient Bright energy across the bowl is generally survivable. Proximity to the Core is lethal.
+One match is one Bright, played from the inside. A monolithic maze of gates and concrete — the Bright’s defense — cuts the bowl into chokepoints. Spliced hexes and Seam tokens share the floor. Umbras sit along the dark inner Eclipse as deployment. The Core hangs at the dead center, overexposed. Rim hexes near the inner Eclipse read darker; center hexes bleach under Core light. Proximity to the Core is lethal.
 
-Seams erupt as predatory nets — upright curtain tokens on or over hexes. They are not printed hex borders. While a Seam lasts, whatever it wraps is rewritten and Chroma weeps at the edges. When the Seam ends, the original returns.
+Seams erupt as predatory nets — upright curtain tokens on or over hexes. They are not printed hex borders. While a Seam lasts, whatever it wraps is rewritten and Chroma weeps at the edges. When the Seam ends, the original returns. Residue may briefly block or confuse a route.
 
 ## When the seams weep
 
@@ -62,7 +64,7 @@ Corporate says Chroma — the lab name Refract Labs gave Bright-Tears. Null-Flin
 
 Bloom is the body taking Tears. Lumari path. Seams are a common source.
 
-Near the nucleus, Bright energy dominates. Extract under vacuum into a Kardia containment unit for Brightforged custody. Pure exposure is fleeting temporal rewrite. Absorbing the Core into a Vessel is the Lumari myth. Nobody has lived it.
+Near the nucleus, Bright energy dominates. Extract under vacuum into a Kardia containment unit for Brilliance custody. Pure exposure is fleeting temporal rewrite. Absorbing the Core into a Vessel is the Lumari myth. Nobody has lived it.
 
 Outside the bowl, Bright energy from a held Core can force Seams so Chroma weeps in the wild.
 
@@ -84,4 +86,4 @@ Round 15 finishes a build. The match ends at 15 victory points.
 
 ## Factions, one physics
 
-**Kardia** spend Brightforge, containment units, and processed Tears. **Refract Labs** coined Chroma and spend Splinters, trials, and Chroma-fuel — never Bright energy. **Kho'Lan** pinch and cleanse Seams with ritual, Null-Flint, and other Aethorian materials. **The Aureate** hijack containment, burn Chroma-fuel weapons, and hold wealth-power. **Lumari** take Tears into the body, interact with weeping Chroma, and Bloom toward a Vessel. **Adumbra** suppress Bloom, cleanse Seams, and steer the exposed.
+**Kardia** spend Brilliance, Bright cells, Zenith Relays, containment units, and processed Tears. **Refract Labs** coined Chroma and spend Splinters, trials, and Chroma-fuel — never Bright energy. **Kho'Lan** pinch and cleanse Seams with ritual, Null-Flint, and other Aethorian materials. **The Aureate** hijack containment, burn Chroma-fuel weapons, run controlled Bloom on foot soldiers, and keep baron leaders out of The Bright. **Lumari** take Tears into the body, interact with weeping Chroma, and Bloom toward a Vessel. **Adumbra** suppress Bloom, cleanse Seams, and steer the exposed.

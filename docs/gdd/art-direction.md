@@ -47,7 +47,7 @@ generic fantasy oil painting, muddy grimdark, blood, gore, text, watermark, logo
 
 Genre: **Bright-punk Fantasy**. Stylized realism, painterly finish, sharp brushstrokes, rich texture, light cartoon exaggeration for standee read. Beautiful and lethal. Arcane / Altered neighborhood as reference, made unique through Aethora. Master plates above win when a still drifts.
 
-Resting Light Kardia may read **civic-modern magitech** (trenchcoats, compact pearl Brightforged, lit cells) — Bright-punk grit with a modern silhouette — without becoming Earth sci-fi. Guns and lasers are infant tech; computers do not exist. Aureate stay dirtier-industrial; Refract stay hazardous lab.
+Resting Light Kardia may read **civic-modern magitech** (trenchcoats, compact pearl Brilliance, Bright cells of bright-white charge) — Bright-punk grit with a modern silhouette — without becoming Earth sci-fi. Guns and lasers are infant tech; computers, screens, and internet do not exist. Aureate stay dirtier-industrial; Refract stay hazardous lab.
 
 The physical world is heavy: **Bone, Ash, and Greige**. Magic is toxic pressurized neon against that grit. Shadows are **bruised** (plum, olive, charcoal), never strip-book flat black. The Bright remains spectacular, not murky.
 
@@ -57,7 +57,7 @@ No grimdark mud as the whole mood. No soft organic landscape as the default grou
 
 ### Physical world — Bone, Ash & Greige
 
-**Alabaster Bone** carries brutalist architecture and Oru skin — it shows scratches and fight damage. **Brightforged** gear sits a step brighter: pearl white with a faint radiance, so Kardia craft reads as living Core light rather than stone. Fiction lock: that metal handles Chroma safely — useful on tools that meet weeping Tears. **Heavy Ash** is weathered concrete, dust, raw stone, war-torn ruin weight. **Gritty Greige** is weathered leather, canvas, Kho'Lan cloth — it bridges light and dark without soft sand.
+**Alabaster Bone** carries brutalist architecture and bleached stone — it shows scratches and fight damage. **Oru** skin is black with a faint stone glimmer: very large bodies, durable like carved rock; leading plate `site/public/art/hero-harvester.png`. **Brilliance** gear sits brighter than Bone: pearl white with a faint radiance, so Kardia craft reads as living Core light rather than stone. Fiction lock: that metal handles Chroma safely — useful on tools that meet weeping Tears. **Bright cells** hold bright-white Bright energy in Brilliance shells. **Heavy Ash** is weathered concrete, dust, raw stone, war-torn ruin weight. **Gritty Greige** is weathered leather, canvas, Kho'Lan cloth — it bridges light and dark without soft sand.
 
 ### Shadows — Bruised Darkness
 
@@ -93,7 +93,7 @@ The Eclipse expands as the Core grows. **Umbras** are the darkest weak spots —
 
 Hex middles show splice, monolith, and bleach. Rim near the inner Eclipse reads darker and greyer. Center overexposes toward the Core — bleached Bone, denser Seams, stronger Bright energy. Seams are curtain tokens, not printed hex borders. Brief Seam residue can haze a path after a curtain ends.
 
-Outside the Bright, Aureate districts lean darker industry under ivory towers. Kardia Brightforges work in optimistic civic light. Inside, those atmospheres arrive only as torn pieces mashed into the anomaly’s maze.
+Outside the Bright, Aureate districts lean darker industry under ivory towers. Kardia Brilliance forges and Zenith Relays work in optimistic civic light. Inside, those atmospheres arrive only as torn pieces mashed into the anomaly’s maze.
 
 ### The Bright Core
 
@@ -133,9 +133,9 @@ The world is original. Silhouettes, symbols, and costumes do not quote League of
 
 Each faction has a distinct shape language and a dedicated accent that pops against Bone / Ash / Greige and Seam light. Two characters in one faction share the accent, never the exact same pose or silhouette.
 
-**Kardia** lean **civic-modern magitech**, not medieval. Blue and silver hard-light on tailored coats, braces, and tool fittings — Resting Light high fashion under ash: crests, etiquette, clean silhouettes held in the mud. Brightforged is **hazard gear under cloth**: about **20–30%** compact pearl appliances (braces, batteries, gauntlets, weapon housings) and **70–80%** coat and field cloth — coats worn over exo frames with cutouts for mounts. Never sealed plate shells, never chrome cyberlimbs as identity: **pearl white, faintly radiant**. Lit charge cells and tube work are fine if they read as Bright-battery / safe Chroma-handling craft, not Aureate Chroma-fuel tanks. Majestic containment units with golden Core-vault hearts on pearl frames. Optimistic civic craft in the storm.
+**Kardia** lean **civic-modern magitech**, not medieval. Blue and silver hard-light on tailored coats, braces, and tool fittings — Resting Light high fashion under ash: crests, etiquette, clean silhouettes held in the mud. Brilliance is **hazard gear under cloth**: about **20–30%** compact pearl appliances (braces, Bright cells, gauntlets, weapon housings) and **70–80%** coat and field cloth — coats worn over exo frames with cutouts for mounts. Never sealed plate shells, never chrome cyberlimbs as identity: **pearl white, faintly radiant**. Bright cells hold bright-white charge. Zenith Relays are civic energy substations (appearance open). Majestic containment units with golden Core-vault hearts on pearl frames. Optimistic civic craft in the storm.
 
-**The Aureate** wear purple, white, and gold on industrial mass — cutthroat wealth, stolen Kardia frames with hissing chromatic fuel tanks, vents, failsafes, and canisters running hot. Still cloth-first where the body shows; the loud tech is the pressurized fuel line, not a sealed mecha shell. Polished display over grit.
+**The Aureate** wear purple, white, and gold on industrial mass — cutthroat wealth, stolen Kardia frames with hissing chromatic fuel tanks, vents, failsafes, and canisters running hot. Controlled-Bloom infantry mass. Baron leaders stay out of The Bright. Still cloth-first where the body shows; the loud tech is the pressurized fuel line, not a sealed mecha shell. Polished display over grit.
 
 Full hazard-gear rules: [armor and exosuits](armor-and-exosuits.md).
 
@@ -151,7 +151,7 @@ Full hazard-gear rules: [armor and exosuits](armor-and-exosuits.md).
 
 Containment units and chromatic fuel tanks must read as different objects at a glance.
 
-**Containment units** (Kardia): pearl Brightforged frames with beautiful golden Core-vaults. Stable. Civic craftsmanship. Faint radiance.
+**Containment units** (Kardia): pearl Brilliance frames with beautiful golden Core-vaults. Stable. Civic craftsmanship. Faint radiance.
 
 **Chromatic fuel tanks** (the Aureate): erratic, pressurized Chroma canisters. Volatile. Cutthroat modification.
 
@@ -209,7 +209,7 @@ Hyperrealistic 3D renders as the finish. Seams drawn as ground cracks, lava rift
 
 Paper prototypes stay flat color and icons. The first painted test is five pieces. A player who has not read the rules should be able to answer:
 
-1. A Kardia standee and a Refract Labs standee. Which one is approachable civic craft (coat, crest, clean battery), and which one is the unstable lab?
+1. A Kardia standee and a Refract Labs standee. Which one is approachable civic craft (coat, crest, clean Bright cell), and which one is the unstable lab?
 2. An ability card at level 1 and the same card at level 4. What got added?
 3. Three tucked strips on that card. What do they change, without lifting them?
 4. An event card. What should you be doing this round?

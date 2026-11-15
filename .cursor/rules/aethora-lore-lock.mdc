@@ -1,0 +1,39 @@
+---
+description: Leading Aethora lore lock — check conflicts before any world/GDD edit
+alwaysApply: true
+---
+
+# Aethora lore lock
+
+The curated lore in `docs/terminology.md` and `docs/lore/` is the leading truth for **Brightcall**.
+
+## Before any lore or GDD change
+
+1. If the user says something that **conflicts** with locked Aethora lore, **stop and check** with them before editing. Do not silently overwrite the lock.
+2. Write **English only** in all docs, even if the user prompt is in another language.
+3. **Overwrite** outdated paragraphs. Do not annotate corrections. Do not keep “formerly called X” or “do not call it Y” in narrative.
+4. Affirmative prose only: state what the world **is**.
+5. Forget retired names in story text. Legacy words live only in terminology’s retired list.
+
+## Locked pillars (summary)
+
+- Game: **Brightcall** (one word)
+- World: **Aethora** · Anomaly: **The Bright** (vast monolithic; brighter = stronger Bright energy toward Core)
+- **Eclipse:** one-way — outside bright/see-in; inside dark smoky barrier
+- **Umbra:** darkest Eclipse = entry · Exit: brightest Eclipse stretch (intermittent) · also leave by Core harvest / Null-Flint destroy
+- Monoliths/gates/walls: Bright’s defense — protect Core and trap the called
+- Two energies: **Chroma** / Tears (Seam edges only; Magenta/Cyan/Searing Gold) · **Bright energy** (Core emission; causes Seams)
+- The Bright feeds on Chroma; it does **not** eject Chroma
+- **Seams:** fleeting transparent shattered satin sheets that erupt from reality; Magenta/Cyan/Gold Chroma oozes together through the cracks; residue may briefly hinder navigation; no permanent rewrite scars
+- **Core:** reverse black hole of light; Seams crowd it; interior unknown; harvest Brilliance+Null-Flint or destroy with Null-Flint → implosion → Stitching to Eclipse crossing
+- **Call of the Bright** / **the calling:** pull toward Core; manifestation unknown (none heard and lived)
+- **Brilliance:** pearl white, faintly radiant (Kardia); metal allows safe Chroma handling; **Bright cells** hold bright-white Bright energy; **Zenith Relays** are civic energy substations
+- **Oru:** very large; black stone-glimmer skin; hero-harvester plate is leading
+- **Scratch:** Seam almost opening
+- Factions: Kho'Lan, Lumari, Kardia, Refract Labs, the Aureate, Adumbra (Aureate: controlled Bloom infantry; barons rarely enter The Bright; Lumari: excess Bloom)
+- Aesthetic: Bright-punk Fantasy — Bone/Ash/Greige, Bruised Darkness, toxic neon Chroma; Bright energy reads bright white
+- Eras: First Light → Traveling Light → Resting Light
+- Match mutation: Splintered · No Weld
+- Retired craft name: Brightforged (use Brilliance)
+
+Full vocabulary: `docs/terminology.md`. Place lock: `docs/lore/the-singularity.md`. Art: `docs/gdd/art-direction.md`.

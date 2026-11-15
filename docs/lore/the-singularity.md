@@ -1,37 +1,78 @@
 # The Bright
 
-The Bright is the central anomaly on Aethora: hyper-saturated glass-like light, slightly squished to the eye, roughly a kilometer across. Silent when it looks balanced. Blinding when you look straight. It feeds on Chroma. Under pressure it sings for living matter — **Call of the Bright**, which street mouths call **the calling**.
+The Bright is the central anomaly on Aethora: vast, monolithic, hyper-saturated light. Exact size is open and larger than early Resting Light guesses. Silent when it looks balanced. Blinding when you look straight. It feeds on Chroma that weeps from Seams — it does not eject Chroma. Under pressure it sings for living matter: **Call of the Bright**, which street mouths call **the calling**. How the call manifests is unknown. Nobody has heard it and lived to tell.
 
-Matches of **Brightcall** happen inside it. From the **Eclipse** inward, the world is spliced — civic house against tundra against ancient rock — on Bone, Ash, and Greige ground. Ambient Bright energy across the bowl is generally survivable. Proximity to the Core is lethal.
+Matches of **Brightcall** happen inside it.
 
-How the board reads that physics: [board glossary](pocket-and-core.md). How it looks: [art direction](../gdd/art-direction.md).
+Physics and board reading: [board glossary](pocket-and-core.md). Art: [style guide](../gdd/art-direction.md).
 
-## Inside the Bright
+## Inside: light and maze
 
-The **Eclipse** is the outer rim. It expands as the Core grows stronger.
+Inside, The Bright is very bright. The brighter the ground, the more potent the Bright energy. Brightness climbs toward the Core.
 
-**Umbras** are the darkest weak spots along that rim — safe entry, and the place Stitching returns a body. Deep Plum shadow lives there.
+Towering gates, walls, and concrete masses rise as the Bright’s defense: an immune system that protects the Core and traps those lured by the calling. The interior is a claustrophobic brutalist maze — warped, fused, Seam-scarred light on Bone and Ash stone — not an empty field of glow.
 
-**Seams** are always a Bright-energy effect. Paper-thin satin curtains of shattered glass erupt like a net cast to catch prey, envelop a thing, and rewrite everything inside while they last. They always weep: Chroma — Magenta, Cyan, Searing Gold — oozes at the edges. They are fleeting. When a Seam ends, the original returns. Kho'Lan and Adumbra can cleanse them. The old omen still holds: *“The seams are weeping.”*
+Seams erupt constantly. Unstable Seam residue can linger after a curtain ends and make routes hard to read. Residue is navigation hazard and afterglow. It is not a permanent rewrite scar; when a Seam curtain ends, rewritten matter returns to what it was.
 
-**Splinters** are Bright-powered Null-Flint shards. Inside a match they are a primary way crews cast Seams.
+## The Eclipse
 
-**Call of the Bright** is the hypnotic pull toward the Bright Core. Living matter feeds unrest until the Bright is satisfied. Street says **the calling**. The game **Brightcall** carries that hunger into the title.
+The Eclipse is the outer boundary. It expands as the Core grows.
 
-Two energies share the bowl. **Chroma** is the liquid that weeps from Seam edges. **Bright energy** is Core emission and the force that causes Seams. Bright energy near the Core is lethal in close proximity.
+**From outside:** the Eclipse is bright. You can look through it into a fractured, distorted, unstable interior thick with Seams — hypnotic and lethal, like peering into a terrarium of light.
 
-Mood is climate here: Glimmer / New-Light, Radiance / High Bright, Sature / harvest, Glare / the Blinding.
+**From inside:** the Eclipse is a dark, smoky barrier. Aethora disappears. You are visually cut off from home.
 
-Legend still names the hinge beats. First Strike ended the first Bright and birthed Splinters. First Harvest contained a Core and ended the Traveling Light. Resting Light cities live on Brightforged power and the next seed.
+## Entry and exit
 
-Death is **Stitching** — return to your Umbra, Splintered gear intact, tempo lost to someone else. Collapse ends this Bright. No body leaves if the Bright closes on you.
+**Umbras** are the darkest weak spots on the Eclipse. That is entry — and match deployment / mid-match Stitching return.
 
-## How it looks
+Exit is the opposite: the **brightest** stretch of the Eclipse. It appears only sometimes. Compasses may help. Leaving by harvesting the Core, or destroying it with Null-Flint, also ends the Bright and returns crews through collapse Stitching.
 
-**Bright-punk Fantasy.** Bone, Ash, Greige world. Bruised Darkness shadows. Toxic neon Chroma on shattered Seam glass. A spliced luminous interior. Faction accents live in the art guide. Umbras are Eclipse weak spots for entry and deployment — never painted cover across the bowl.
+You do not simply turn around and walk out the Umbra you used. Once inside the dark fog of the boundary, the way home is the bright door — or the Core’s end.
 
-Visual truth for Seams and Chroma: [box art](../gdd/references/brightcall-box-art.webp), [knife Seam](../gdd/references/seam-knife.webp).
+## Mapping from outside
 
-## What waits inside
+Factions have studied the interior through the bright Eclipse. Careful mapping has happened. The Bright is vast; walls cut deep sightlines; competing crews will not wait while someone draws a perfect route. In the Resting Light gold rush, Harvesters navigate from inside.
 
-**Call of the Bright** thickens near weeping Seams and the Core — **the calling** in street talk. A **Seam eruption** wraps and rewrites a thing for a time. **Touch** is always dangerous — it can Bloom, burn, fuel, or kill. Some never return: collapse, or a first entry that never Stitched. **Stitching** itself brings you back with the build intact and the afternoon already moving without you. **Weeping Chroma** is loot and hazard together, Bloom riding the same liquid. **Pure Bright** at Core proximity is fleeting godhood; nobody has survived absorbing a Core. And every lost Core or collapsed Bright becomes someone else’s **New-Light**.
+## The Bright Core
+
+The Core sits at the center — a reverse black hole of light. It emits enormous Bright energy. It does not bleed Chroma. An abundance of Seams crowds it; those Seams ooze Magenta, Cyan, and Searing Gold Tears.
+
+What the inside of a Core looks like is unknown.
+
+Crews destroy a Core by throwing **Null-Flint** into it, or harvest it with **Brilliance** craft plus Null-Flint. Either end is a violent implosion. The Bright is gone. Bodies not annihilated in the Null-Flint strike itself die and are **Stitched** back to when they crossed the Eclipse.
+
+## Physical rules (short)
+
+| Rule | Meaning |
+| --- | --- |
+| Bounded | Eclipse rim; one-way light/dark |
+| Umbras | Darkest Eclipse entry |
+| Exit | Brightest Eclipse stretch; intermittent |
+| Monoliths | Bright’s defense — gates, walls, towers |
+| Seams | Bright-energy curtains; always weep Chroma; fleeting |
+| Residue | Brief unstable afterglow; hard navigation; not permanent scars |
+| Bright energy | Stronger where the light is brighter; lethal at the Core |
+| Chroma | Only from Seam edges |
+| Call of the Bright | Pull toward the Core; manifestation unknown |
+| Collapse | Harvest or Null-Flint destroy → implosion → Stitching → Bright gone |
+
+## Visual style
+
+**Bright-punk Fantasy.** Bone, Ash, Greige monoliths under blinding interior light. Bruised Darkness at Umbras and the inner face of the Eclipse. Toxic neon Chroma only on Seam glass. Rim of the board reads darker near the smoky inside-Eclipse; center overexposes toward the Core.
+
+References: [box art](../gdd/references/brightcall-box-art.webp), [knife Seam](../gdd/references/seam-knife.webp).
+
+## Dangers
+
+| Danger | What it is |
+| --- | --- |
+| Call of the Bright | Pull toward the Core. Form unknown to the living |
+| Eclipse trap | Inside: no view of home. Exit is not the Umbra you used |
+| Monolith maze | Defense walls that protect the Core and cage Harvesters |
+| Seam eruption | Curtain rewrites a thing for a time |
+| Seam residue | Afterglow that blocks or confuses routes |
+| Seam touch | Always dangerous. Can Bloom, burn, fuel, or kill |
+| Core proximity | Peak Bright energy. Fleeting godhood. No Vessel survivors |
+| Collapse | Implosion. Stitching for those not erased by Null-Flint strike |
+| The next seed | A lost or collapsed Bright becomes someone else’s New-Light |

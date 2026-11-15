@@ -16,7 +16,11 @@ The game is **Brightcall**. The world is **Aethora**. The anomaly is **The Brigh
 
 **Chroma** is reality torn by the force of the Bright. Seams weep it. It can be harvested anywhere Seams can be made to weep, including Seams forced open outside a Bright using Bright energy from a Core. The Bright consumes Chroma to feed itself. Street mouths call it Bright-Tears or Tears. It changes cells; a successful bind is a **Bloom**.
 
-**Bright energy** is emitted near the Bright Core, inside a Bright. It can be harvested only inside a Bright, close to the Core. It is the heavy radiance of the nucleus — usually spoken of as “the Core” or the Bright itself. Pure exposure is extreme temporal alteration: fleeting, overwhelming. It is the heaviest alteration short of taking a Core into the body. The only way to hold and survive that scale of power is to absorb a Bright Core. Nobody has survived absorbing a Bright Core. That survival is the Lumari end goal.
+**Bright energy** is emitted near the Bright Core, inside a Bright. It can be harvested only inside a Bright, close to the Core. It is the heavy radiance of the nucleus — usually spoken of as “the Core” or the Bright itself. For now its look is **bright white** light; finer hue language is still open. Pure exposure is extreme temporal alteration: fleeting, overwhelming. It is the heaviest alteration short of taking a Core into the body. The only way to hold and survive that scale of power is to absorb a Bright Core. Nobody has survived absorbing a Bright Core. That survival is the Lumari end goal.
+
+## Peoples
+
+**Oru** are a people of Aethora: very large stature, black skin with a faint stone glimmer, bodies durable like carved stone. Exterior reads mass and hardness. Interior feeling is still loud. Leading visual for an Oru Harvester: `site/public/art/hero-harvester.png` (Vesper).
 
 ## Nomenclature
 
@@ -26,11 +30,13 @@ The game is **Brightcall**. The world is **Aethora**. The anomaly is **The Brigh
 
 A **Seam** is a paper-thin transparent satin sheet that erupts from reality — like looking through a shattered window draped over something. Always caused by Bright energy. It envelops and rewrites a thing while it lasts. Magenta, Cyan, and Searing Gold **Chroma** drip and ooze **together** through the cracks of that sheet and along its edges. The sheet itself is clear fractured glass-satin, not a monochrome cyan or magenta curtain. Fleeting — when the Seam ends, the original returns. Unstable Seam residue / afterglow can linger briefly and make navigation hard; that residue is not a permanent rewrite scar. Old saying: “The seams are weeping.” On the table: an upright curtain token with a timer. No permanent Altered scar.
 
+A **scratch** (reality scratch) is the moment a Seam almost opens — Bright vibration or force thinning reality until Tears weep along the cut without a full curtain token yet. Scratches can deepen into Seams. On the table: residue or chromatic damage options; not automatically a lasting Seam token.
+
 **The Eclipse** is the outer boundary of The Bright. It expands as the Core grows stronger. One-way: from outside it is bright and you can see into a fractured, Seam-thick interior; from inside it is a dark, smoky barrier that hides Aethora. On the table: the edge of the arena.
 
 An **Umbra** is the darkest weak spot along the Eclipse — entry. On the table: deployment. Exit is the opposite: the brightest stretch of the Eclipse, which appears only sometimes. Crews may use compasses; they may also leave by harvesting or destroying the Core.
 
-The **Bright Core** is the nucleus — a reverse black hole of light. It emits enormous Bright energy. It does not eject Chroma. An abundance of Seams crowds the Core, and those Seams ooze Chroma. What the inside of a Core looks like is unknown. Destroy it by throwing Null-Flint into it, or harvest it with Brightforged craft plus Null-Flint. On the table: extraction / collapse objective at center.
+The **Bright Core** is the nucleus — a reverse black hole of light. It emits enormous Bright energy. It does not eject Chroma. An abundance of Seams crowds the Core, and those Seams ooze Chroma. What the inside of a Core looks like is unknown. Destroy it by throwing Null-Flint into it, or harvest it with Brilliance craft plus Null-Flint. On the table: extraction / collapse objective at center.
 
 **Null-Flint** is Aethorian vacuum crystal — hammer and ignition that implodes. Used in Kardia containment and in Kho'Lan Seam-closing craft.
 
@@ -40,7 +46,11 @@ The **Bright Core** is the nucleus — a reverse black hole of light. It emits e
 
 **Splintered** means altered with a Splinter — the shared mutation card. It stays through Stitching.
 
-**Brightforged** is made by Kardia smiths: powered by a contained Bright Core, or built to store and emit Bright energy. Stable. Civic and war gear. **Brightforged metal lets a body handle Chroma safely** — Tears can touch the craft without the raw Bloom/burn of bare contact. Finish: pearl white, faintly radiant — calm contained light, not Tear neon. Blue and silver hard-light accents sit on that shell. Kardia reliability fantasy.
+**Brilliance** is Kardia metalcraft: machined pearl-white, faintly radiant, powered by a contained Bright Core or built to store and emit Bright energy. Stable. Civic and war gear. **Brilliance lets a body handle Chroma safely** — Tears can touch the craft without the raw Bloom/burn of bare contact. Blue and silver hard-light accents sit on that shell. Kardia reliability fantasy.
+
+A **Bright cell** is a standardized interchangeable sphere or cylinder of Brilliance that holds Bright energy. The charge reads as bright white light inside the Brilliance shell. Finite. Reloadable. Field and civic power packs. Not Tear neon.
+
+A **Zenith Relay** is Kardia civic tech: an energy substation that distributes Bright energy through a district. Appearance still open. Stable civic infrastructure fantasy.
 
 **Chroma-fuel** / chromatic fuel is raw Chroma burned as fuel. Refract Labs concept. Kardia ban it. The Aureate weaponize it with defected smiths. Volatile. Devastating. Resting Light heresy. Aureate overclock / death-burst fantasy.
 
@@ -58,7 +68,7 @@ Match mutations are Splintered, done with Splinters.
 
 Vessel is a person. Containment unit holds a Bright Core. Chromatic fuel tanks hold Chroma for weapons. Those three do not swap.
 
-Brightforged and Chroma-fuel are different applications. Brightforged is Kardia Core craft: stable, pearl white, faintly radiant, and safe to handle Chroma through. Chroma-fuel is banned raw burn: volatile, dirty, neon-pressurized. Refract Labs work Chroma. They do not work the Bright or Bright energy.
+Brilliance and Chroma-fuel are different applications. Brilliance is Kardia Core craft: stable, pearl white, faintly radiant, Bright cells of white charge, safe to handle Chroma through. Chroma-fuel is banned raw burn: volatile, dirty, neon-pressurized. Refract Labs work Chroma. They do not work the Bright or Bright energy.
 
 Street says Tears, or Bright-Tears. That liquid is the Chroma oozing from Seam edges only. The Bright does not eject Chroma. Refract Labs coined Chroma. The lab word spread. Intruders / Harvesters are street crews, not a seventh faction.
 
@@ -68,7 +78,7 @@ A Seam is one transparent shattered satin sheet. It erupts from reality, rewrite
 
 Kho'Lan and Adumbra can cleanse / pinch Seams. Lumari may interact with the Chroma that weeps from them. Physically touching a Seam is always dangerous in lore and can cause a Bloom. On the table, exposure can mean fuel, Bloom, damage, or death depending on the card.
 
-Tear / Chroma colors on the board are only Pressurized Magenta, Electric Cyan, and Searing Gold. Seam glass may look clear or fractured; that is the curtain, not a Tear.
+Tear / Chroma colors on the board are only Pressurized Magenta, Electric Cyan, and Searing Gold. Seam glass may look clear or fractured; that is the curtain, not a Tear. Bright energy’s white light is not a Tear color.
 
 ## Mood of the Bright
 
@@ -90,7 +100,7 @@ The First Survivor walked out of the Bright heavily Bloomed: dying, extraordinar
 
 Rath lost family to the Call of the Bright. First Strike: Null-Flint into the Bright Core. Vacuum. Splinters born. That Bright ends. Young Brights seed elsewhere.
 
-First Harvest: Kardia contain a Bright Core with a Null-Flint-powered device that implodes into vacuum instead of exploding. Brightforged civic power begins. Traveling Light ends. Resting Light begins.
+First Harvest: Kardia contain a Bright Core with a Null-Flint-powered device that implodes into vacuum instead of exploding. Brilliance civic power begins. Traveling Light ends. Resting Light begins.
 
 ## Stitching
 
@@ -102,32 +112,32 @@ When a Core is harvested or destroyed, the Bright implodes and ends. Survivors o
 
 **Kho'Lan** — say KO-lan, with a catch between the halves. Oldest temper. Kho is the living world that does not weep. Lan is the promise to leave it whole. The stop keeps Aethora and the Bright from being one word. Pinch Seams with ritual, Null-Flint, and other Aethorian materials. Balance.
 
-**Lumari** — Bloom lineages after the First Survivor. They take Tears into the body and hunt a Vessel.
+**Lumari** — Bloom lineages after the First Survivor. They take Tears into the body and hunt a Vessel. Their Bloom is excessive: extreme mutation for assassination and suicide missions.
 
-**Kardia** — branched from Kho'Lan. The civic heart. They house the Bright Core, Brightforge, and refuse Chroma-fuel.
+**Kardia** — branched from Kho'Lan. The civic heart. They house the Bright Core, forge Brilliance, run Zenith Relays, and refuse Chroma-fuel.
 
 **Refract Labs** — the table shortens this to Refract. Split from Kardia after the First Harvest. Coined Chroma for Bright-Tears. Invented Chroma-fuel. They do not work the Bright or Bright energy.
 
-**the Aureate** — “the” belongs to them; the box may read Aureate. Left Kardia. Wealthiest power. Steal Cores. Hijack Kardia containment. Burn Chroma-fuel they cannot forge.
+**the Aureate** — “the” belongs to them; the box may read Aureate. Left Kardia. Wealthiest power. Steal Cores. Hijack Kardia containment. Burn Chroma-fuel they cannot forge. Baron-class leaders rarely enter The Bright themselves. Foot soldiers receive **controlled Bloom** — measured Chroma exposure so bodies can survive raw fuel lines — distinct from Lumari excess Bloom.
 
 **Adumbra** — secret order. Suppress or cure Bloom. Steer the Chroma-exposed.
 
 Kho'Lan, Lumari, Kardia, and Adumbra stand without “the.” Refract Labs is the company name. Kho'Lan keeps the apostrophe; a spelling that drops the catch is an outsider smoothing the name.
 
-Faction accents: Kardia blue and silver hard-light on pearl Brightforged; the Aureate purple, white, and gold; Refract Labs green and orange heat; Lumari cyan and magenta; Kho'Lan white, red, and green; Adumbra black, purple, and orange. Containment units read as golden Core-vaults on pearl frames; chromatic fuel tanks read as pressurized canisters.
+Faction accents: Kardia blue and silver hard-light on pearl Brilliance; the Aureate purple, white, and gold; Refract Labs green and orange heat; Lumari cyan and magenta; Kho'Lan white, red, and green; Adumbra black, purple, and orange. Containment units read as golden Core-vaults on pearl frames; chromatic fuel tanks read as pressurized canisters.
 
 ## Aesthetic
 
-**Bright-punk Fantasy.** Physical world: Bone, Ash, Greige. Shadows: Bruised Darkness (Deep Plum, Industrial Olive, Charcoal). Chroma: Pressurized Magenta, Electric Cyan, Searing Gold. UI: Rich Cream, Structural Gold, cyan→magenta gradients.
+**Bright-punk Fantasy.** Physical world: Bone, Ash, Greige. Shadows: Bruised Darkness (Deep Plum, Industrial Olive, Charcoal). Chroma: Pressurized Magenta, Electric Cyan, Searing Gold. Bright energy: bright white. UI: Rich Cream, Structural Gold, cyan→magenta gradients.
 
-Seams are fleeting transparent shattered satin sheets caused by Bright energy. They erupt from reality, envelop, rewrite while active, and weep Magenta / Cyan / Gold Chroma together through the cracks — never as separate monochrome colored curtains. Arcane / Altered neighborhood as reference. Call of the Bright as psychological pull. No blood, fleshy gore, or wound metaphors for the Bright or Seams. The arena is inside The Bright.
+Seams are fleeting transparent shattered satin sheets caused by Bright energy. They erupt from reality, envelop, rewrite while active, and weep Magenta / Cyan / Gold Chroma together through the cracks — never as separate monochrome colored curtains. Arcane / Altered neighborhood as reference. Call of the Bright as psychological pull. No blood, fleshy gore, or wound metaphors for the Bright or Seams. The arena is inside The Bright. Hard tech limit: no computers, screens, internet, or modern firearms; guns and lasers are infant tech.
 
-Visual references: `docs/gdd/references/brightcall-box-art.webp`, `docs/gdd/references/seam-knife.webp`.
+Visual references: `docs/gdd/references/brightcall-box-art.webp`, `docs/gdd/references/seam-knife.webp`, `site/public/art/hero-harvester.png` (Oru / Vesper north star).
 
 ## Retired
 
-These stay off narrative pages and live only here: Weld; Pocket as the anomaly name; Given Bright, Nomadic Age, Escalation as era titles; First Bright as an era title (the age is First Light); Call of the Light; Call of the Void; treating The Bright as “the sphere” in titles or as a named element; Reprint as return fiction; treating Chroma and Bright energy as one substance; deployment zone as the only name for Umbra; the Purists, the Ascended, the Utopists, Apex Labs, the Syndicate, the Puppeteers as faction names; Project Sin U as the public game title; Seams as ground cracks, lava rifts, laser walls, or hex borders; permanent Altered scars after a Seam ends; White as a Tear / Chroma board color; printed arcane / physical hex-edge borders as the Seam system; Hex-Arena as the public game title.
+These stay off narrative pages and live only here: Weld; Pocket as the anomaly name; Given Bright, Nomadic Age, Escalation as era titles; First Bright as an era title (the age is First Light); Call of the Light; Call of the Void; treating The Bright as “the sphere” in titles or as a named element; Reprint as return fiction; treating Chroma and Bright energy as one substance; deployment zone as the only name for Umbra; the Purists, the Ascended, the Utopists, Apex Labs, the Syndicate, the Puppeteers as faction names; Project Sin U as the public game title; Seams as ground cracks, lava rifts, laser walls, or hex borders; permanent Altered scars after a Seam ends; White as a Tear / Chroma board color; printed arcane / physical hex-edge borders as the Seam system; Hex-Arena as the public game title; **Brightforged** (the metal and craft are **Brilliance**); Bright-battery / Bright-batteries (the packs are **Bright cells**); alabaster Oru skin as the race default.
 
 ## Still open
 
-Exact Bright diameter. Exact Bright Core interior (exterior reads as reverse black hole of light; surface finish open). Street name for Sature. Proper name of the containment unit (golden Core-vault look settled). Proper name of chromatic fuel tanks (pressurized canister look settled). Final title for the Vessel. Proper name for Kho'Lan Seam pinch / cleanse. Adumbra Seam-cleanse method detail. City and people names. Exact player Seam-cast rules (Splinter-led). Whether the event deck ever casts Seams. Acrylic curtain token timing and residue rules. How intermittent Eclipse exits are marked on the table. Whether direct Null-Flint annihilation skips Stitching.
+Exact Bright diameter. Exact Bright Core interior (exterior reads as reverse black hole of light; surface finish open). Finer Bright energy hue beyond bright white. Zenith Relay exact appearance. Street name for Sature. Proper name of the containment unit (golden Core-vault look settled). Proper name of chromatic fuel tanks (pressurized canister look settled). Final title for the Vessel. Proper name for Kho'Lan Seam pinch / cleanse. Adumbra Seam-cleanse method detail. City and people names. Exact player Seam-cast rules (Splinter-led). Whether the event deck ever casts Seams. Acrylic curtain token timing and residue rules. How intermittent Eclipse exits are marked on the table. Whether direct Null-Flint annihilation skips Stitching.

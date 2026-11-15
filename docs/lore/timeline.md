@@ -46,7 +46,7 @@ Camps moved with each Glimmer. Too close meant the calling. Too far meant polar 
 
 Kardia learned to contain a Bright Core.
 
-They built a Null-Flint **containment unit**: hammer and ignition that implodes instead of explodes, a controlled vacuum. They reached the Core through its Seams, drew Bright energy into custody, and walked a living Core out. That act is the **First Harvest**. Brightforged civic power begins here.
+They built a Null-Flint **containment unit**: hammer and ignition that implodes instead of explodes, a controlled vacuum. They reached the Core through its Seams, drew Bright energy into custody, and walked a living Core out. That act is the **First Harvest**. Brilliance civic power begins here.
 
 The Traveling Light ends. Settled order becomes possible.
 
@@ -56,11 +56,11 @@ This is the present.
 
 Fixed Bright sites are mapped. Cities rise on the safe ring outside the Eclipse. Mood language hardens into calendar: Glimmer / New-Light, Radiance / High Bright, Sature / harvest, Glare / the Blinding.
 
-**Kardia** Brightforge Cores, forge containment units, and process Tears so mornings open. They alone hold the craft to contain a Core.
+**Kardia** house Cores, forge Brilliance and Bright cells, raise Zenith Relays, forge containment units, and process Tears so mornings open. They alone hold the craft to contain a Core.
 
 Researchers who want every use-case — stable Bloom, perfected Splinters, human trials, raw Chroma burned as fuel — break away as **Refract Labs**. They coin **Chroma** as the lab name for Bright-Tears. They work that liquid. They do not work the Bright or Bright energy. Kardia ban Chroma-fuel.
 
-Kardia who crave more steal Bright Cores they cannot contain themselves. Theft succeeds again and again. **The Aureate** become a rival nation: vicious, cutthroat, short on knowledge, long on wealth. Defected Kardia smiths and inventors weaponize Chroma-fuel for them. Chromatic fuel tanks feed devastating, volatile arms.
+Kardia who crave more steal Bright Cores they cannot contain themselves. Theft succeeds again and again. **The Aureate** become a rival nation: vicious, cutthroat, short on knowledge, long on wealth. Defected Kardia smiths and inventors weaponize Chroma-fuel for them. Chromatic fuel tanks feed devastating, volatile arms. Baron leaders rarely enter The Bright. Foot soldiers take controlled Bloom so they can survive the fuel lines.
 
 The Aureate outgrow Kardia in riches. Kardia keep more people and happier working lives. Aureate society is a thin tip of the extremely rich over extremely poor laborers, held by the dream of infinite wealth. Kardia prosper under pressure. Aureate hijacks of nearly full containment units never stop.
 

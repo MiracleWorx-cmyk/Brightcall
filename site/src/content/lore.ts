@@ -32,9 +32,9 @@ export const energies = {
         'Null-Flint shards that touched a Bright Core, driven into gear or body. The shared mutation card. Stays through Stitching.',
     },
     {
-      name: 'Brightforged',
+      name: 'Brilliance',
       blurb:
-        'Kardia craft powered by a contained Bright Core, or built to store and emit Bright energy. Stable. Civic and war gear.',
+        'Kardia craft powered by a contained Bright Core, or built to store and emit Bright energy. Stable. Pearl white, faintly radiant. Bright cells hold bright-white charge. Brilliance lets you handle Chroma safely.',
     },
     {
       name: 'Chroma-fuel',
@@ -84,7 +84,7 @@ export const eras = [
   {
     title: 'The Traveling Light',
     blurb:
-      'Peoples follow reseeding Brights. Roads and camps. First Harvest: Kardia contain a Bright Core with Null-Flint vacuum. Brightforged civic power begins. The age ends.',
+      'Peoples follow reseeding Brights. Roads and camps. First Harvest: Kardia contain a Bright Core with Null-Flint vacuum. Brilliance civic power begins. The age ends.',
   },
   {
     title: 'The Resting Light',
@@ -119,9 +119,9 @@ export const factions: {
     motif:
       'Wealthiest power of the Resting Light: vicious, cutthroat, short on craft knowledge, long on opportunity.',
     origin:
-      'Kardia who craved more. Successful Core theft made them a rival nation. They still cannot forge containment units, so they keep hijacking Kardia hardware. Defected smiths brought them Chroma-fuel.',
+      'Kardia who craved more. Successful Core theft made them a rival nation. They still cannot forge containment units, so they keep hijacking Kardia hardware. Defected smiths brought them Chroma-fuel. Baron leaders rarely enter The Bright.',
     society:
-      'Few extremely rich. Many extremely poor laborers held by the dream of infinite wealth. Fewer people, less happiness than Kardia.',
+      'Few extremely rich. Many extremely poor laborers held by the dream of infinite wealth. Foot soldiers take controlled Bloom to survive fuel lines. Fewer people, less happiness than Kardia.',
     play: 'Hold the board. Late hijack of containment. Mass. Chroma-fuel overclock. Death that breaches fuel lines.',
   },
   {
@@ -130,9 +130,9 @@ export const factions: {
     accent: 'Blue and silver hard-light',
     accentVars: 'var(--kardia)',
     motif:
-      'The civic heart. Larger nation. Brightforged craft. Containment skill. Working prosperity under Aureate pressure.',
+      'The civic heart. Larger nation. Brilliance craft, Bright cells, Zenith Relays. Containment skill. Working prosperity under Aureate pressure.',
     origin:
-      "Branched from Kho'Lan after the First Survivor. First Harvest belongs to them. They alone house Bright Cores, forge containment units, and refuse Chroma-fuel.",
+      "Branched from Kho'Lan after the First Survivor. First Harvest belongs to them. They alone house Bright Cores, forge Brilliance and containment units, and refuse Chroma-fuel.",
     society:
       'More people than the Aureate. Strong working economy. Happier. Not as rich. They prosper, yet Aureate theft holds them back.',
     play: 'Numbers. Coordination. Siege. Readable brace. Optimistic civic military in the storm.',
@@ -165,10 +165,10 @@ export const factions: {
     accent: 'Cyan and magenta',
     accentVars: 'var(--lumari)',
     motif:
-      'Bloom zealots who take Tears into the body and hunt a Vessel — a person who can absorb a Bright Core and live. Nobody has.',
+      'Bloom zealots who take Tears into the body and hunt a Vessel — a person who can absorb a Bright Core and live. Nobody has. Excess Bloom for extreme mutation and one-way missions.',
     origin:
       'Fanatics after the First Survivor. Ritual drinking of leaked Tears killed most and tempered a few. Tolerance is hierarchy. Rags are tradition.',
-    play: 'Health as fuel. Bloom lines. Fast adaptation.',
+    play: 'Health as fuel. Bloom lines. Fast adaptation. Assassination and suicide runs.',
   },
   {
     id: 'adumbra',
@@ -215,6 +215,6 @@ export const worldBits = [
   {
     title: 'Two nations under pressure',
     blurb:
-      'Kardia house Bright Cores and Brightforge for happier working lives. The Aureate stole those Cores into wealth supremacy and burn banned Chroma-fuel. Everyone else refuses one or both nations’ terms.',
+      'Kardia house Bright Cores and forge Brilliance for happier working lives. The Aureate stole those Cores into wealth supremacy, burn banned Chroma-fuel, and Bloom infantry under control. Everyone else refuses one or both nations’ terms.',
   },
 ]
