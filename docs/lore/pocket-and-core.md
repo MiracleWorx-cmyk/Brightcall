@@ -24,13 +24,13 @@ The **Bright Core** is a reverse black hole of light. It emits Bright energy. Se
 
 **Null-Flint** is Aethorian vacuum crystal. It implodes on ignition. Kardia use it for containment; Kho'Lan use it in Seam craft.
 
-**Splinters** are Bright-powered Null-Flint shards. They carry Bright energy and are a primary way to cast Seams.
+**Splinters** are Bright-powered Null-Flint shards formed when Null-Flint violently meets a Core (smash-harvest or shatter). Crush one to cast a synthetic Seam.
 
 **Bloom** is permanent mutation when Chroma enters the body internally. External contact damages; it does not Bloom.
 
-**Enhancement** is the temporary rewrite when a Seam wraps a Harvester. Shared draft deck.
+**Enhancement** is the temporary rewrite when a Seam wraps a Harvester or a weapon — appetite wraps or Splinter-Crush synthetics.
 
-**Splintered** means altered with a Splinter — the match mutation card.
+**Splintered** means Splinter-Crush craft on gear or body — the match mutation card.
 
 **Brilliance** is Kardia craft powered by a contained Bright Core, or built to store and emit Bright energy. Stable. Pearl white, faintly radiant. The metal lets a body handle Chroma safely. **Bright cells** are Brilliance packs holding bright-white charge. **Zenith Relays** are Kardia energy substations.
 
@@ -50,7 +50,7 @@ A **Vessel** is a person who can absorb a Bright Core and live. Nobody has. Fina
 
 One match is one Bright, played from the inside. A monolithic maze of gates and concrete — the Bright’s defense — fills the cube with chokepoints. Spliced hexes and Seam tokens share the floor. Umbras sit on dark inner Eclipse faces as deployment. The Core hangs at the dead center, overexposed. Edge hexes near the inner Eclipse read darker; center hexes bleach under Core light. Proximity to the Core is lethal.
 
-Seams erupt as predatory nets — upright curtain tokens on or over hexes. Violent Chroma burst at birth; continuous weep while active. They are not printed hex borders. While a Seam lasts, whatever it wraps is rewritten. When the Seam ends, terrain and objects restore. A Harvester wrap is an Enhancement. Residue may briefly block or confuse a route.
+Seams erupt as predatory nets — upright curtain tokens on or over hexes. Violent Chroma burst at birth; continuous weep while active. They are not printed hex borders. While a Seam lasts, whatever it wraps is rewritten. When the Seam ends, terrain and objects restore. A Harvester or weapon wrap is an Enhancement. Splinter-Crush casts synthetic Seams from crushing chambers. Residue may briefly block or confuse a route.
 
 ## When the seams weep
 
@@ -60,9 +60,9 @@ Old Aethoran omen. Every Seam erupts with a Chroma burst and keeps weeping. Chro
 
 Pressurized Magenta, Electric Cyan, and Searing Gold burst at eruption and ooze at the curtain edges. Occupy, cross, or external touch: hurt and pay. Bloom requires Chroma entering the body internally. On the table, exposure can mean fuel, damage, or death; Bloom lines need an internal path.
 
-Street says Tears / Bright-Tears. Intruders Splinter gear with shards when they have them — and cast Seams with that Bright power.
+Street says Tears / Bright-Tears. Intruders load Splinters into crushing chambers when they have them — synthetic Seams for weapon Enhancements.
 
-Corporate says Chroma — the lab name Refract Labs gave Bright-Tears. Null-Flint vacuum into a containment unit. Refract Labs run hot and Splinter everything. The Aureate burn Chroma-fuel and inject infantry for controlled Bloom.
+Corporate says Chroma — the lab name Refract Labs gave Bright-Tears. Null-Flint vacuum into a containment unit. Refract pioneered Splinter-Crush and runs hot on synthetic Seams. The Aureate burn Chroma-fuel and inject infantry for controlled Bloom.
 
 Bloom is Tears taken into the body. Lumari path.
 
@@ -84,10 +84,10 @@ Harvest or pinch Discharge pays victory points with kills on the same track.
 
 ## What the board sees
 
-A zone or hill is often an active Seam curtain — fill and exposure work. An oddball is a containment unit in transit. Push and pull shove figures into or off a Seam. Kills bloom near live Seams or objectives. **Splintered** is the shared mutation offer from Splinters — draw three, keep one on those rounds — and often the cast that throws a Seam. **Stitching** drops you, returns you to Umbra, and keeps Splintered cards, levels, and points.
+A zone or hill is often an active Seam curtain — fill and exposure work. An oddball is a containment unit in transit. Push and pull shove figures into or off a Seam. Kills bloom near live Seams or objectives. **Splintered** is the shared mutation offer from Splinter-Crush — draw three, keep one on those rounds — a synthetic Seam wrapping a weapon as Enhancement. **Stitching** drops you, returns you to Umbra, and keeps Splintered cards, levels, and points.
 
 Round 15 finishes a build. The match ends at 15 victory points.
 
 ## Factions, one physics
 
-**Kardia** spend Brilliance, Bright cells, Zenith Relays, and containment units. They refuse Chroma-fuel and do not deal in Tears as a resource; they read Seams as reality disruption. **Refract Labs** coined Chroma; they run Chroma trials, Chroma-fuel theory, and scavenged Splinters — they do not contain Cores, forge Brilliance, or run Zenith Relays. **Kho'Lan** pinch and cleanse Seams — they read The Bright as a living predator and Seams as digestion. **The Aureate** hijack containment, burn Chroma-fuel weapons, inject controlled Bloom into foot soldiers, and keep baron leaders out of The Bright. **Lumari** drink Tears into the body and Bloom toward a Vessel — they read The Bright as divine will. **Adumbra** suppress Bloom, cleanse Seams, and steer the exposed.
+**Kardia** spend Brilliance, Bright cells, Zenith Relays, and containment units — stable power. They refuse Chroma-fuel and do not deal in Tears. **Refract Labs** pioneered Splinter-Crush; they run Chroma trials, Chroma-fuel theory, and synthetic Seam weaponry — The Bright as resource to exploit. **Kho'Lan** pinch and cleanse Seams — living predator doctrine. **The Aureate** hijack containment, burn raw Chroma-fuel for brute force, inject controlled Bloom into foot soldiers, and keep baron leaders out. **Lumari** drink Tears and Bloom toward a Vessel — divine will. **Adumbra** suppress Bloom, cleanse Seams, and steer the exposed.

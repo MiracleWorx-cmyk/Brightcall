@@ -34,7 +34,7 @@ A lost Core or collapsed Bright seeds New-Light elsewhere. Chroma can be farmed 
 
 ## Six answers
 
-**Kho'Lan** keep the catch, read The Bright as a living predator, pinch Seams as digestion to leave alone. **Lumari** Bloom hard — drink Tears, read The Bright as divine will, hunt a Vessel. **Kardia** are the civic heart: Brilliance, Bright cells, Zenith Relays, containment craft, industrial reality-disruption science. **Refract Labs** coined Chroma and chase trials, Chroma-fuel, and scavenged Splinters. **The Aureate** run stolen Cores, Chroma-fuel, injected controlled Bloom infantry — barons stay out. **Adumbra** suppress or cure Bloom, cleanse Seams, and steer the exposed.
+**Kho'Lan** keep the catch, read The Bright as a living predator, pinch Seams as digestion to leave alone. **Lumari** Bloom hard — drink Tears, read The Bright as divine will, hunt a Vessel. **Kardia** are the civic heart: Brilliance, Bright cells, Zenith Relays, containment craft. **Refract Labs** pioneered Splinter-Crush — exploit, study, weaponize The Bright with synthetic Seams. **The Aureate** run stolen Cores, raw Chroma-fuel brute force, injected controlled Bloom infantry — barons stay out. **Adumbra** suppress or cure Bloom, cleanse Seams, and steer the exposed.
 
 ## Missions that fit
 

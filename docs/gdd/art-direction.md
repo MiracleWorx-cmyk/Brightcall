@@ -105,7 +105,7 @@ A Seam is a paper-thin **satin sheet** that erupts out of reality and drapes ove
 
 The Seam sheet is not a cyan curtain or a magenta curtain. Color lives in the **Chroma**, not in the sheet. At eruption, Tears burst violently from the cracks and linger at the origin. While the Seam lasts, Magenta, Cyan, and Searing Gold also weep **together** through the cracks and edges. Chroma is toxic neon liquid light on clear fractured satin — never a solid colored wall of one Tear hue. External contact is damage hazard; Bloom only if Chroma enters the body internally.
 
-Every Seam is Bright energy fracturing reality. Inside the Bright this happens constantly. Splinters are Bright-powered Null-Flint and are a primary way crews cast Seams in a match. Players can cast Seams. Whether the event deck casts Seams is still open.
+Every Seam is Bright energy fracturing reality. Inside the Bright this happens constantly. Splinters are Bright-powered Null-Flint; crushing one casts a synthetic Seam — Splinter-Crush chambers on Bright-punk rifles and melee wrap the weapon as an Enhancement. Whether the event deck casts Seams is still open.
 
 Seams always weep, and they burst Chroma at eruption. The Bright does not eject Chroma from the Core. Chroma does not spew from the earth as a fountain — it leaves through Seam cracks.
 
@@ -139,7 +139,7 @@ Each faction has a distinct shape language and a dedicated accent that pops agai
 
 Full hazard-gear rules: [armor and exosuits](armor-and-exosuits.md).
 
-**Refract Labs** wear green and orange heat glow — unhinged experimental tech, brass, glass, hazard gear, glowing cables, Splinter and Chroma hardware ready to fail loud.
+**Refract Labs** wear green and orange heat glow — unhinged experimental tech, brass, glass, hazard gear, glowing cables, Splinter-Crush chambers and Chroma hardware ready to fail loud.
 
 **Lumari** wear cyan and magenta — Bloom extremists, tattered rags over bodies rewriting under Tears. Body parts may sit inside localized Seams.
 

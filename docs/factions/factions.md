@@ -18,7 +18,7 @@ Six factions shape that fight.
 
 **Kardia** and **the Aureate** are rival nations. Kardia are larger, happier, and skilled: they alone forge containment units and stable **Brilliance** gear — pearl craft that can handle Chroma safely when contact happens, Bright cells of bright-white charge, and **Zenith Relays** as district substations. They refuse Chroma-fuel and do not deal in Tears as a resource. When they hold a Core, districts keep light and craft. The Aureate are fewer, richer at the top, and cutthroat. They cannot build true containment, so they steal Cores and hijack Kardia hardware. They burn banned **Chroma-fuel** — raw volatile power invented as a concept by **Refract Labs**, refused by Kardia, and weaponized by defected smiths. Baron leaders rarely enter The Bright. Foot soldiers take **controlled Bloom** so they can survive the fuel lines.
 
-**Adumbra** move between both sides and trade in secrets. **Refract Labs**, **Kho'Lan**, and **Lumari** refuse to live under either nation’s terms — lab excess without civic leash, conservation without meddling, and excess Bloom hunger toward a living Vessel.
+**Adumbra** move between both sides and trade in secrets. **Refract Labs**, **Kho'Lan**, and **Lumari** refuse to live under either nation’s terms — Splinter-Crush weapon science without civic leash, conservation without meddling, and excess Bloom hunger toward a living Vessel.
 
 ---
 
@@ -79,18 +79,20 @@ Branched from Kho'Lan after the First Survivor. First Harvest belongs to them. T
 
 ## Refract Labs
 
-The firm that renamed Bright-Tears. Science without the civic leash: Splinters, Bloom trials, Chroma-fuel, every use of the leak.
+Scientific and weapon-manufacturing pragmatists of Aethora. The firm that renamed Bright-Tears. Speech shortens the name to Refract.
 
-After the First Harvest, Kardia science split. They coined Chroma, chased human trials and raw Chroma burned as fuel. Kardia banned that fuel. Refract kept inventing. They work Chroma and scavenged Splinters as spent Bright-charge tools. They do not contain Cores, forge Brilliance, or run Zenith Relays. Morals optional. Speech shortens the firm to Refract.
+They do not worship The Bright (Lumari) and they do not revere it as nature (Kho'Lan). To Refract, The Bright is a volatile resource meant to be exploited, studied, and weaponized.
 
-**Want:** maximum thresholds. **Fear:** a tame Chroma, or civic use that leaves the burn forbidden.
+After the First Harvest, Kardia science split. Refract coined Chroma, chased human trials and Chroma-fuel theory, and pioneered **Splinter-Crush**: mechanical crushing chambers that turn Splinters into synthetic Seams for tactical Bright-punk weaponry. Where Kardia uses stable Bright cells for electricity and power, and the Aureate burn raw Chroma for brute mechanical force, Refract specializes in synthesizing and controlling localized reality tears. They do not contain Cores, forge Brilliance, or run Zenith Relays. Morals optional.
 
-**At the table:** spike and flee, overclock, Splintered cost, burst. Honest self-damage. Green and orange heat.
+**Want:** maximum thresholds; controlled Seam weaponry. **Fear:** a tame Chroma, or civic use that leaves the burn and the crush forbidden.
+
+**At the table:** spike and flee, Splinter-Crush Enhancements, overclock, honest self-damage. Green and orange heat.
 
 **Roster (working)**
 
-1. **The Test-Subject** — Heavily Splintered. Shatter own Splinters for extreme lines, then stand exposed.
-2. **The Harvester** — Null-Flint opportunist. Stays out until a containment unit is worth taking for lab data.
+1. **The Test-Subject** — Heavily Splintered. Crush or shatter own Splinters for extreme synthetic Enhancement lines, then stand exposed.
+2. **The Harvester** — Null-Flint opportunist. Smashing harvests for fresh Splinters; stays out until a containment unit is worth taking for lab data.
 
 ---
 

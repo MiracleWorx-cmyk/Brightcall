@@ -48,9 +48,9 @@ The deck decides what scores right now. The menu: zones, about three of them; ki
 
 One event is live at a time. It names the zone, the carrier, or the payout, and it expires when the next event says so. Objectives and kills live in the same points band, so a defensive plan is not a consolation prize.
 
-The fiction for that menu is the interior of The Bright on Aethora — a cube of light filled with monolith maze. The Eclipse is the faces of that cube. Umbras on those faces are deployment entry. Crews leave only when the Core ends (Null-Flint harvest or destroy). Seams erupt as razor-thin satin / fractured-glass curtains caused by Bright energy — cast by Splinters, and cast by the Bright itself while it tries to consume Harvesters. At eruption Chroma bursts from the cracks; while active it weeps at the edges. Terrain and objects restore when a curtain ends. A Harvester wrap is an **Enhancement**. An active Seam is a zone. A containment unit in transit is the oddball. A shove into a Seam is a stall hazard. Violence near objectives is the kill window. Pinching a Seam (name still open) is a Discharge. So is harvesting a containment unit. Kho'Lan and Adumbra cleanse. Lumari drink the weep. Bright energy causes Seams; Chroma is the ooze.
+The fiction for that menu is the interior of The Bright on Aethora — a cube of light filled with monolith maze. The Eclipse is the faces of that cube. Umbras on those faces are deployment entry. Crews leave only when the Core ends (Null-Flint harvest or destroy). Seams erupt as razor-thin satin / fractured-glass curtains caused by Bright energy — cast synthetically when a Splinter is crushed, and cast by the Bright itself while it tries to consume Harvesters. At eruption Chroma bursts from the cracks; while active it weeps at the edges. Terrain and objects restore when a curtain ends. A Harvester or weapon wrap is an **Enhancement**. An active Seam is a zone. A containment unit in transit is the oddball. A shove into a Seam is a stall hazard. Violence near objectives is the kill window. Pinching a Seam (name still open) is a Discharge. So is harvesting a containment unit. Kho'Lan and Adumbra cleanse. Lumari drink the weep. Bright energy causes Seams; Chroma is the ooze.
 
-**Enhancements** are Seam wraps on Harvesters — temporary new combat abilities and fighting-style change, often from the Bright’s slow consume. Draft rounds are that appetite taking hold in steps. **Splintered** cards are the shared engineered mutation deck: draw 3, keep 1 — Bright-powered Null-Flint driven into gear or flesh that can throw Seams on purpose. **Bloom** requires Chroma taken internally.
+**Enhancements** are Seam wraps — temporary new combat power. Appetite wraps on Harvesters draft on rounds 1, 3, 6, 9, and 12. **Splintered** cards are the synthetic path: draw 3, keep 1 — Splinter-Crush chambers that smash Bright-powered Null-Flint and wrap a weapon in a fabricated Seam Enhancement. Refract pioneered that armory. **Bloom** requires Chroma taken internally.
 
 Banked victory points stay banked. A push empties an unfinished container. No per-player fill meter.
 
@@ -83,7 +83,7 @@ Still settling: how many stat points a turn gives (“raise a stat” and “rai
 A working sequence, built so the truths above happen in an order that matches them.
 
 1. If you are off the board, Stitching returns you at your Umbra at full health. Clear temporary effects. Keep the build, including every Splintered card.
-2. On a Splintered round, draw 3 and keep 1. Tuck it under a slot, or place it beside the tableau if it is global. Fiction: a Splinter driven into gear or housing — engineered rewrite, separate from Enhancements.
+2. On a Splintered round, draw 3 and keep 1. Tuck it under a slot, or place it beside the tableau if it is global. Fiction: Splinter-Crush — a shard crushed in a chamber, synthetic Seam wrapping the weapon as Enhancement.
 3. Unlock or upgrade one ability.
 4. Raise stats from the turn clock.
 5. Activate. Look at the board as it is now. Spend your resource, use abilities, move, deal flat damage.

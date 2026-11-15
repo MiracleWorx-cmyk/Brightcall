@@ -38,11 +38,20 @@ A **Bloom** is a permanent severe biological mutation. It happens only when Chro
 
 ### Enhancement
 
-When a Seam wraps a Harvester, the temporary living rewrite is an **Enhancement** — new combat abilities, changed fighting style. Often this is the Bright’s appetite: consumption spends Bright energy as Seams on living prey over time. Volatile and dangerous. Full consume kills. On the table, Enhancements are the shared draft deck. Separate from Bloom and from Splintered.
+When a Seam wraps a Harvester or a weapon, the temporary rewrite is an **Enhancement** — new combat power, changed fighting style or armament. Two sources:
 
-### Splintered
+- **Appetite.** The Bright’s consumption spends Bright energy as Seams on living prey over time. Full consume kills.
+- **Synthetic.** A crushed Splinter releases dormant Bright energy as a localized fabricated Seam that envelops a weapon (or shatter-line on a body).
 
-**Splinters** are Bright-powered Null-Flint shards, born in the First Strike. They carry Bright energy. Driven into gear or flesh they make a body or weapon **Splintered**: concentrated, engineered, volatile. In a match they are a primary way crews cast Seams on purpose. On the table, Splintered is the shared mutation card — separate from Enhancements.
+On the table, appetite wraps draft as Enhancements; Splinter-Crush wraps live on the Splintered path. Separate from Bloom.
+
+### Splinters and Splinter-Crush
+
+**Splinters** are Bright-powered Null-Flint shards. They form when Null-Flint violently meets a Bright Core — smashed against it in harvest, or born when a Core shatters under Null-Flint (First Strike / destroy). Dormant, highly unstable anomaly energy waits inside.
+
+Crush or destroy a Splinter on purpose and it triggers a **synthetic Seam**: the same glass-textured satin web, localized and fabricated. **Refract Labs** pioneered **Splinter-Crush** armory — rifles and melee weapons with a mechanical crushing chamber. Load a Splinter, crush it inside the weapon, and the synthetic Seam violently bursts out and envelops the weapon as a temporary **Enhancement**.
+
+A body or kit that runs Splinter chambers or shatter lines is **Splintered**. On the table that is the shared mutation card. Stays through Stitching.
 
 ### Brilliance
 
@@ -58,7 +67,7 @@ Proximity to the Core is the heaviest temporal alteration Aethora knows. It feel
 
 ## Who spends what
 
-**Intruders** take Tears at weeping Seams, and Splinters when the spike is the plan. **Kardia** forge Brilliance, Bright cells, Zenith Relays, and containment units — they refuse Chroma-fuel and do not deal in Tears; they read Seams as industrial reality disruption. **Refract Labs** spend Chroma, scavenged Splinters, Bloom trials, and Chroma-fuel theory — they do not contain Cores or forge Brilliance. **The Aureate** spend stolen Cores, hijacked containment, Chroma-fuel, and injected controlled Bloom on foot soldiers; baron leaders rarely walk Umbras themselves. **Kho'Lan** pinch and cleanse Seams with Null-Flint, field procedure, and other Aethorian materials — they read The Bright as a living predator and Seams as digestion. **Lumari** drink Tears into the body and Bloom toward a Vessel — they read The Bright as divine will. **Adumbra** suppress or cure Bloom, cleanse Seams, and steer whoever Chroma has already opened.
+**Intruders** take Tears at weeping Seams, and Splinters when the spike is the plan. **Kardia** forge Brilliance, Bright cells, Zenith Relays, and containment units — stable Bright-cell power; they refuse Chroma-fuel and do not deal in Tears. **Refract Labs** pioneered Splinter-Crush, spend Chroma research, Bloom trials, and Chroma-fuel theory — they treat The Bright as a volatile resource to exploit, study, and weaponize; they do not contain Cores or forge Brilliance. **The Aureate** spend stolen Cores, hijacked containment, raw Chroma-fuel for brute mechanical force, and injected controlled Bloom on foot soldiers; baron leaders rarely walk Umbras themselves. **Kho'Lan** pinch and cleanse Seams — living predator doctrine. **Lumari** drink Tears and Bloom toward a Vessel — divine will. **Adumbra** suppress or cure Bloom, cleanse Seams, and steer whoever Chroma has already opened.
 
 ## What leaving costs
 

@@ -58,7 +58,7 @@ Fixed Bright sites are mapped. Cities rise on the safe ring outside the Eclipse.
 
 **Kardia** house Cores, forge Brilliance and Bright cells, raise Zenith Relays, and forge containment units so mornings open. They alone hold the craft to contain a Core. They refuse Chroma-fuel and do not deal in Tears as a resource.
 
-Researchers who want every use-case — stable Bloom, perfected Splinters, human trials, raw Chroma burned as fuel — break away as **Refract Labs**. They coin **Chroma** as the lab name for Bright-Tears. They work that liquid and scavenged Splinters. They do not contain Cores, forge Brilliance, or run Zenith Relays. Kardia ban Chroma-fuel.
+Researchers who want every use-case — stable Bloom, perfected Splinters, human trials, raw Chroma burned as fuel, synthetic Seam weaponry — break away as **Refract Labs**. They coin **Chroma** as the lab name for Bright-Tears. They pioneer **Splinter-Crush** crushing chambers and treat The Bright as a resource to exploit. They do not contain Cores, forge Brilliance, or run Zenith Relays. Kardia ban Chroma-fuel.
 
 Kardia who crave more steal Bright Cores they cannot contain themselves. Theft succeeds again and again. **The Aureate** become a rival nation: vicious, cutthroat, short on knowledge, long on wealth. Defected Kardia smiths and inventors weaponize Chroma-fuel for them. Chromatic fuel tanks feed devastating, volatile arms. Baron leaders rarely enter The Bright. Foot soldiers take controlled Bloom so they can survive the fuel lines.
 

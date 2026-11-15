@@ -19,7 +19,7 @@ export const energies = {
   brightEnergy: {
     name: 'Bright energy',
     blurb:
-      'Core emission and the force that causes Seams. Ambient light across the cube interior is generally survivable. Proximity to the Core is lethal. Splinters are Bright-powered Null-Flint that cast Seams. Only Kardia containment holds a Core without dumping the charge into Splinters.',
+      'Core emission and the force that causes Seams. Ambient light across the cube interior is generally survivable. Proximity to the Core is lethal. Splinters are Bright-powered Null-Flint — crush one to cast a synthetic Seam. Only Kardia containment holds a Core without dumping the charge into Splinters.',
   },
   applications: [
     {
@@ -30,12 +30,12 @@ export const energies = {
     {
       name: 'Enhancement',
       blurb:
-        'Temporary rewrite when a Seam wraps a Harvester — new combat abilities, changed fighting style. Shared draft deck. Often the Bright’s appetite.',
+        'Temporary rewrite when a Seam wraps a Harvester or a weapon. Appetite wraps draft mid-match. Synthetic wraps come from Splinter-Crush.',
     },
     {
       name: 'Splintered',
       blurb:
-        'Null-Flint shards that touched a Bright Core, driven into gear or body. The shared mutation card. Stays through Stitching. Separate from Enhancements.',
+        'Splinter-Crush path: Bright-powered Null-Flint smashed from a Core, crushed in a weapon chamber to cast a synthetic Seam Enhancement. Shared mutation card. Stays through Stitching.',
     },
     {
       name: 'Brilliance',
@@ -76,7 +76,7 @@ export const bright = {
   eclipse:
     'The Eclipse is the six faces of the cube. It expands as the Core grows stronger and consumes more of Aethora. Umbras — the darkest weak spots on a face — are entry, deployment, and mid-match Stitching return. Once inside, you leave only by ending the Core.',
   seams:
-    'Every Seam is Bright energy. Razor-thin satin with fractured-glass texture. At eruption Chroma bursts from the cracks; while active it weeps Magenta, Cyan, and Gold at the edges. A wrap on a Harvester is an Enhancement. Terrain restores when the curtain ends. Kho\'Lan and Adumbra cleanse them.',
+    'Every Seam is Bright energy — appetite or Splinter-Crush synthetic. Razor-thin satin with fractured-glass texture. At eruption Chroma bursts from the cracks; while active it weeps Magenta, Cyan, and Gold at the edges. A wrap on a Harvester or weapon is an Enhancement. Terrain restores when the curtain ends. Kho\'Lan and Adumbra cleanse them.',
   core:
     'The Bright Core sits at the dead center. Call of the Bright pulls living matter toward it — street mouths say the calling. The Bright quiets on organic material and turns violent while consuming Harvesters. Ambient Bright energy across the cube is generally survivable. Proximity is lethal. Harvest takes the Core with Null-Flint containment; destroy shatters it into Splinters.',
 }
@@ -149,10 +149,10 @@ export const factions: {
     accent: 'Green and orange heat',
     accentVars: 'var(--refract)',
     motif:
-      'The firm that renamed Bright-Tears. Science without the civic leash.',
+      'Scientific weapon-makers. The Bright is a volatile resource to exploit, study, and weaponize — not a god, not sacred nature.',
     origin:
-      'Split from Kardia after the First Harvest. Coined Chroma. Invented Chroma-fuel. They work the leak and scavenged Splinters. They do not contain Cores or forge Brilliance.',
-    play: 'Spike and flee. Splintered tails that break loud. Honest self-damage.',
+      'Split from Kardia after the First Harvest. Coined Chroma. Pioneered Splinter-Crush synthetic Seam armory. Chroma-fuel theory. They do not contain Cores or forge Brilliance.',
+    play: 'Spike and flee. Splinter-Crush Enhancements. Honest self-damage.',
   },
   {
     id: 'kholan',
@@ -196,8 +196,8 @@ export const game = {
     'Modes: 1v1, 2v2, 3v3, free-for-all up to six.',
     'Kills and objectives score. First to 15 victory points.',
     'Death is Stitching: return to your Umbra with the build intact.',
-    'Shared Splintered deck: draw 3, keep 1 on mutation rounds (engineered Splinter rewrite).',
-    'Enhancement drafts on rounds 1, 3, 6, 9, and 12 — fiction: a Seam wraps the Harvester (often the Bright’s slow consume).',
+    'Shared Splintered deck: draw 3, keep 1 on mutation rounds — Splinter-Crush synthetic Seam weapon Enhancements.',
+    'Enhancement drafts on rounds 1, 3, 6, 9, and 12 — fiction: appetite Seam wraps the Harvester.',
     'Acrylic standees. Spliced terrain lives in hex middles. Seams are curtain tokens, not hex-edge borders.',
   ],
   objectives: [

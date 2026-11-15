@@ -2,9 +2,9 @@
 
 The Bright is the central anomaly on Aethora: a vast **cube** of hyper-saturated light. Exact edge length is open. Silent when it looks balanced. Blinding when you look straight. It feeds on Chroma that weeps from Seams — it does not eject Chroma. It also hungers for living matter: **Call of the Bright**, which street mouths call **the calling**. How the call manifests is unknown. Nobody has heard it and lived to tell.
 
-The Bright **quiets** when it receives **organic material**. That hunger does not stop when Harvesters walk in — it tries to consume them too. **During consumption it grows more violent.** Consumption takes time. The Bright energy spent on the attempt erupts as **Seams** that wrap living prey. That is the volatility inside the Bright. A Seam that wraps a Harvester grants a temporary **Enhancement** — new combat abilities, changed fighting style, still a wound of appetite. Full consume is lethal.
+The Bright **quiets** when it receives **organic material**. That hunger does not stop when Harvesters walk in — it tries to consume them too. **During consumption it grows more violent.** Consumption takes time. The Bright energy spent on the attempt erupts as **Seams** that wrap living prey. That is the volatility inside the Bright. A Seam that wraps a Harvester grants a temporary **Enhancement** — still a wound of appetite. Full consume is lethal. Crews also cast **synthetic** Seams by crushing Splinters — same satin web, fabricated on purpose, often wrapping a weapon as Enhancement.
 
-Factions do not agree what this is. Kho'Lan read a living predator digesting prey. Lumari read a god’s deliberate will. Kardia, the Aureate, and Refract read industrial reality disruption under Bright-energy pressure.
+Factions do not agree what this is. Kho'Lan read a living predator digesting prey. Lumari read a god’s deliberate will. Kardia, the Aureate, and Refract read industrial reality disruption under Bright-energy pressure — Refract treats The Bright as a volatile resource to weaponize.
 
 The cubic exterior matches the brutalist monolithic interior. Entrance is easy to teach: approach a face of light; find a dark weak spot; walk in. Leaving is not. Once inside, the Bright holds you until the Core ends.
 
@@ -61,9 +61,10 @@ What the inside of a Core looks like is unknown.
 | Exit | None while the Bright stands; Core Null-Flint harvest or destroy ends it |
 | Organic quiet | Bright quiets on organic material; consuming Harvesters turns it violent |
 | Consumption Seams | Appetite spends Bright energy as Seams that wrap Harvesters; wrap = Enhancement; full consume kills |
+| Splinter-Crush | Smash Null-Flint on Core → Splinters; crush Splinter → synthetic Seam → weapon Enhancement (Refract pioneered) |
 | Chroma | Eruption burst + continuous weep; external contact = damage; Bloom only if internal |
 | Monoliths | Bright’s defense — gates, walls, towers |
-| Seams | Bright-energy curtains; Chroma burst at eruption + continuous weep; fleeting; Harvester wrap = Enhancement |
+| Seams | Bright-energy curtains (appetite or synthetic); Chroma burst + weep; fleeting; Harvester/weapon wrap = Enhancement |
 | Residue | Brief unstable afterglow; hard navigation; not permanent scars |
 | Bright energy | Stronger where the light is brighter; lethal at the Core |
 | Chroma | Only from Seam edges |
