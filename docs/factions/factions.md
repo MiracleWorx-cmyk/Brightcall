@@ -1,4 +1,4 @@
-# Factions
+﻿# Factions
 
 Brightcall. Resting Light social order, table habits, and draft rosters — one page.
 
@@ -6,48 +6,50 @@ Origins: [timeline](../lore/timeline.md). Physics: [board glossary](../lore/pock
 
 Each faction is a **motive plus a habit**, not a damage type. First roster target: two characters each. Rosters below are working drafts.
 
-**Design order:** Kardia first (Vesper as measuring stick), then the Aureate as hold-objective contrast, then Refract Labs, Kho'Lan, Lumari, Adumbra.
+**Design order:** House Kardia first (Vesper as measuring stick), then the Aureate as hold-objective contrast, then Refract Labs, Kho'Lan, Lumari, Penumbra.
 
 ---
 
 ## Resting Light politics
 
-On Aethora, power comes from **The Bright** — vast cubes of light with a Bright Core at the center. Crews enter through dark weak spots on a face (Umbras), fight and harvest inside, and try to bring a Core out or shut the danger down. Cities and weapons run on what those crews recover.
+On Aethora, power comes from **The Bright** — vast cubes of light with a Bright Core at the center. Crews enter through dark weak spots on a face (Umbras), fight and harvest inside, and leave only when Null-Flint ends the Core. Cities and weapons run on what those crews recover.
 
 Six factions shape that fight.
 
-**Kardia** and **the Aureate** are rival nations. Kardia are larger, happier, and skilled: they alone forge containment units and stable **Brilliance** gear — pearl craft that can handle Chroma safely when contact happens, Bright cells of bright-white charge, and **Zenith Relays** as district substations. They refuse Chroma-fuel and do not deal in Tears as a resource. When they hold a Core, districts keep light and craft. The Aureate are fewer, richer at the top, and cutthroat. They cannot build true containment, so they steal Cores and hijack Kardia hardware. They burn banned **Chroma-fuel** — raw volatile power invented as a concept by **Refract Labs**, refused by Kardia, and weaponized by defected smiths. Baron leaders rarely enter The Bright. Foot soldiers take **controlled Bloom** so they can survive the fuel lines.
+**House Kardia** and **the Aureate** are rival nations. Kardia are the original masters of anomaly craft — Brightsmiths who still hold superior knowledge — now marginalized and oppressed under Aureate rule, retaining pride and **Brilliance** skill. They alone forge containment units and stable Brilliance gear: pearl craft that handles Chroma safely, **Bright cells** of cyan-glowing refined charge, and **Zenith Relays** as district substations. They refuse Chroma-fuel and do not deal in Tears as a resource. The Aureate are the current powerholders: wealthy debonair barons in ivory towers, immense stolen resources, no innate Brightsmith skill. They burn banned **Chroma-fuel** — raw volatile power invented as a concept by **Refract Labs**, refused by Kardia, weaponized by defectors. Baron leaders stay safe. Foot soldiers are **Altered Humans**: injected with Chroma to force a **Bloom** so they can survive crude, overheating cast-iron and copper exosuits.
 
-**Adumbra** move between both sides and trade in secrets. **Refract Labs**, **Kho'Lan**, and **Lumari** refuse to live under either nation’s terms — Splinter-Crush weapon science without civic leash, conservation without meddling, and excess Bloom hunger toward a living Vessel.
+**Penumbra** manipulate politics from the shadows. **Refract Labs**, **Kho'Lan**, and **Lumari** refuse both nations' terms — Splinter-Crush weapon science, indigenous defense of the anomaly, and excess Bloom hunger toward a living Vessel.
 
 ---
 
-## Kho'Lan
+## Kho'Lan — Indigenous Wardens
 
-Say **KO-lan**, with a catch between the halves. Kho is the living world that does not weep. Lan is the promise to leave it whole.
+Say **KO-lan**, with a catch between the halves. Kho is the living world that does not weep. Lan is the promise to leave it whole. Outsiders may call them Nativists; the catch stays.
 
-Oldest temper on Aethora. First Light conservation doctrine. The catch in the name is doctrine: Aethora and the Bright are not one word. Conservatives who refused the meddle when Kardia branched away. They pinch and cleanse Seams with Null-Flint, field procedure, and other Aethorian materials, and guard against Core theft.
+The original indigenous people who lived in harsh harmony with the anomaly until the **First Strike** — when an outsider threw Null-Flint into the Core and disrupted the ecosystem forever. Ideological opposite of Penumbra.
 
-**In-universe view.** The Bright is a colossal living apex predator. The arena is its stomach. A Seam is a digestive tendril or enzyme reacting to foreign organic matter — not a lab “reality tear.” Dying inside is digestion: natural law that feeds the organism so it may return to rest. Leave The Bright alone to feed. They reject industrial scientific theories of the anomaly.
+**In-universe view.** The Bright is not an alien invasion. It is the natural food chain — a colossal living apex predator that dictates the planet's seasons. The arena is its stomach. Seams are digestive tendrils. Death inside is digestion. They defend the anomaly from industrial exploitation and leave it alone to feed.
 
-**Want:** silence on the board; fewer meddles; the catch kept; the predator left to feed. **Fear:** permanent harvest order.
+**Technology.** **Raw Null-Flint** only. They reject Kardia Bright cells, Aureate Chroma, and Refract Splinters. Heavy raw Null-Flint crystals in analog combat — weaponizing the stone's imploding vacuum. They pinch and cleanse Seams with Null-Flint, field procedure, and other Aethorian materials.
 
-**At the table:** short Silence, denial, empty Discharge. Material craft — field cloth, Null-Flint, stone and metal tools. White, red, and green.
+**Want:** the predator left to feed; industrial harvest stopped. **Fear:** permanent harvest order; First Strike repeated forever.
+
+**At the table:** short Silence, denial, empty Discharge, raw Null-Flint pressure. Field cloth, stone and crystal tools. White, red, and green.
 
 **Roster (working)**
 
 1. **The Seam-Sealer** — Force a weeping Seam shut. Deny Chroma. Score through suppression.
-2. **The Null-Ward** — Short Silence on Splintered or Brilliance gear.
+2. **The Null-Ward** — Raw Null-Flint vacuum tools. Short Silence on Splintered or Brilliance gear.
 
 ---
 
 ## Lumari
 
-Bloom extremists. They take Tears into the body for power and hunt a **Vessel** — a person who can absorb a Bright Core and live. Nobody has. Final title still open.
+A deeply devoted spiritual order. Bloom extremists who take Tears into the body for power and hunt a **Vessel** — a person who can absorb a Bright Core and live. Nobody has. Final title still open.
 
-Lineages of the First Light. After the First Survivor — Bloomed, dying, strong, leaking Tears, wrapped in rags — they organized. Lineage trials drinking leaked Tears killed most and tempered a few. Tolerance became hierarchy. Rags became practical kit for rewriting bodies. Their Bloom is **excessive**: extreme mutation suited to assassination and suicide missions. Pure Bright absorption remains the unachieved end. Refract Labs later named that liquid Chroma. Lumari still say Tears.
+Lineages of the First Light. After the First Survivor — Bloomed, dying, strong, leaking Tears, wrapped in rags — they organized. Lineage trials drinking leaked Tears killed most and tempered a few. Tolerance became hierarchy. Rags became practical kit. Their Bloom is **excessive**: extreme mutation for assassination and suicide missions.
 
-**In-universe view.** The Bright is a conscious divine entity. Seams, Chroma, Enhancements, and arena brutality are deliberate acts of that god — not digestion, not industrial hazard physics.
+**In-universe view.** The Bright is a conscious divine entity. Seams, Chroma, Enhancements, and arena brutality are deliberate acts and communication from a god — not digestion, not industrial hazard physics.
 
 **Want:** embodiment of Core-scale rewrite. **Fear:** science that bottles that power into Brilliance custody.
 
@@ -56,15 +58,21 @@ Lineages of the First Light. After the First Survivor — Bloomed, dying, strong
 **Roster (working)**
 
 1. **The Bloomed Zealot** — Rags. Consumes Tears at weeping Seams for permanent mid-match Blooms.
-2. **The Lineage Martyr** — Lesser Lumari. Takes environmental cost or spends actions to feed Tears into the Zealot’s Bloom. Built for lethal one-way runs.
+2. **The Lineage Martyr** — Lesser Lumari. Takes environmental cost or spends actions to feed Tears into the Zealot's Bloom. Built for lethal one-way runs.
 
 ---
 
-## Kardia
+## House Kardia
 
-The civic heart. Larger nation. Brilliance craft — pearl white, faintly radiant. Bright cells. Zenith Relays. Containment skill. Working prosperity under Aureate pressure.
+The original highly skilled masters of anomaly technology — Brightsmiths — currently marginalized and oppressed by the Aureate, retaining pride and superior craftsmanship.
 
-Branched from Kho'Lan after the First Survivor. First Harvest belongs to them. They house the Core so a city can beat. They refuse Chroma-fuel and do not deal in Tears. They alone build Null-Flint containment units and stable Brilliance gear. More people than the Aureate. Happier. Not as rich. Civic manners held under theft and pressure.
+**Material.** **Brilliance** — machined, flawless, glowing pearl-white metal.
+
+**Energy.** **Bright cells** — standardized interchangeable cyan-glowing spheres of refined, stable Bright energy in Brilliance shells.
+
+**Vibe.** Fake-stoic, proud, elegant. High-fashion trenchcoats worn over clean Brilliance exosuits (cloth-first: ~30% tech braces, ~70% tailored clothing over the tech).
+
+Branched from Kho'Lan after the First Survivor. First Harvest belongs to them. They alone build Null-Flint containment units and stable Brilliance gear. They refuse Chroma-fuel and do not deal in Tears. Civic manners held under theft and oppression. Industrial scientific worldview: Bright energy pressures a third quantum field until Seams erupt.
 
 **Want:** ordinary mornings, Core custody returned, survive without becoming the Aureate. **Fear:** extinction, or winning by adopting Chroma-fuel.
 
@@ -72,18 +80,18 @@ Branched from Kho'Lan after the First Survivor. First Harvest belongs to them. T
 
 **Roster (working)**
 
-1. **Vesper** — Oru Harvester. Former Brightsmith. Resonance Glaive and shoulder Bright cell through a coat cutout over exo braces. Mobile bruiser; slow for a Kardian, durable by nature. Measuring stick. Brief: [vesper.md](../gdd/characters/vesper.md). Gear rules: [armor and exosuits](../gdd/armor-and-exosuits.md).
+1. **Vesper** — Oru Harvester. Former Brightsmith. Resonance Glaive and shoulder cyan Bright cell through a coat cutout over exo braces. Mobile bruiser; slow for a Kardian, durable by nature. Measuring stick. Brief: [vesper.md](../gdd/characters/vesper.md). Gear rules: [armor and exosuits](../gdd/armor-and-exosuits.md).
 2. **The Master Brightsmith** — Precision strikes that punish Chroma-fuel instability from range.
 
 ---
 
 ## Refract Labs
 
-Scientific and weapon-manufacturing pragmatists of Aethora. The firm that renamed Bright-Tears. Speech shortens the name to Refract.
+Scientific pragmatists and weapon-manufacturers. The firm that renamed Bright-Tears. Speech shortens the name to Refract.
 
-They do not worship The Bright (Lumari) and they do not revere it as nature (Kho'Lan). To Refract, The Bright is a volatile resource meant to be exploited, studied, and weaponized.
+**Perspective.** The Bright is a volatile resource meant to be exploited, studied, and weaponized — not a god (Lumari), not sacred nature (Kho'Lan).
 
-After the First Harvest, Kardia science split. Refract coined Chroma, chased human trials and Chroma-fuel theory, and pioneered **Splinter-Crush**: mechanical crushing chambers that turn Splinters into synthetic Seams for tactical Bright-punk weaponry. Where Kardia uses stable Bright cells for electricity and power, and the Aureate burn raw Chroma for brute mechanical force, Refract specializes in synthesizing and controlling localized reality tears. They do not contain Cores, forge Brilliance, or run Zenith Relays. Morals optional.
+**Technology.** Pioneers of **Splinter-Crush**. Specialize in synthesizing and controlling localized reality tears (Seams) for advanced Bright-punk weaponry. Chroma research and Chroma-fuel theory. They do not contain Cores, forge Brilliance, or run Zenith Relays. Morals optional.
 
 **Want:** maximum thresholds; controlled Seam weaponry. **Fear:** a tame Chroma, or civic use that leaves the burn and the crush forbidden.
 
@@ -98,34 +106,36 @@ After the First Harvest, Kardia science split. Refract coined Chroma, chased hum
 
 ## The Aureate
 
-Wealthiest power of the Resting Light: vicious, cutthroat, short on craft knowledge, long on opportunity.
+The current powerholders. Wealthy, debonair barons ruling from ivory towers. Immense stolen resources; no innate Brightsmith skill or knowledge.
 
-Kardia who craved more. Successful Core theft made them a rival nation. They still cannot forge containment, so they hijack Kardia units. Defected smiths brought them Chroma-fuel. Thin tip of the extremely rich over extremely poor laborers held by the dream of infinite wealth.
+**Tech base.** **Chroma-fueled.** Defector scientists weaponized burning raw Chroma — a method Kardia rejected as too dangerous. Crude cast-iron and copper exosuits that constantly overheat.
 
-**Barons and infantry.** Aureate leaders are baron types — they rarely enter The Bright themselves. Foot soldiers are **injected** with raw Chroma for a **controlled Bloom**: measured internal mutation so bodies can withstand the heat and pain of crude Chroma-fuel exosuits. That Bloom is industrial and capped. It is not Lumari excess mutation. Industrial scientific worldview of Seams as reality disruption (shared with Kardia and Refract).
+**Foot soldiers.** Barons stay safe. They deploy **Altered Humans** into the arena — soldiers injected with Chroma to force a **Bloom**, mutating them to withstand the extreme heat and pain of those fuel lines. Industrial capped Bloom, not Lumari excess. Industrial scientific worldview of Seams as quantum-field disruption (shared with Kardia and Refract).
 
-**Want:** unchallenged supremacy; hoard Cores; own the Chroma market. **Fear:** Chroma-fuel tearing their own gear apart, or Kardia reclaiming Core custody. Hubris is the blind spot. Knowledge is the weakness.
+**Want:** unchallenged supremacy; hoard Cores; own the Chroma market. **Fear:** Chroma-fuel tearing their own gear apart, or Kardia reclaiming Core custody. Hubris is the blind spot. Knowledge is the weakness — and Penumbra's **Voice** can pull Bloomed infantry strings.
 
 **At the table:** hold the objective. Biggest tanks. Late hijack, mass, Chroma-fuel overclock, death-burst fuel lines. Purple, white, and gold. Pressure management: vents, valves, failsafes.
 
 **Roster (working)**
 
-1. **The Dreadnought** — Stolen Brilliance mass running chromatic fuel on a controlled-Bloom body. The faction’s hill-holder. Immovable on a weeping Seam. Area pressure. If dropped, fuel lines breach and nuke nearby hexes.
-2. **The Defector (Rogue Smith)** — Craft without discipline. Pumps raw Chroma into the line. Overclock and sacrifice mobility for explosive hold. Also the hand that finishes a containment hijack. Story-adjacent to Vesper’s betrayed Brightsmith colleague.
+1. **The Dreadnought** — Stolen Brilliance mass running chromatic fuel on an Altered / controlled-Bloom body. The faction's hill-holder. Immovable on a weeping Seam. Area pressure. If dropped, fuel lines breach and nuke nearby hexes.
+2. **The Defector (Rogue Smith)** — Craft without discipline. Pumps raw Chroma into the line. Overclock and sacrifice mobility for explosive hold. Also the hand that finishes a containment hijack. Story-adjacent to Vesper's betrayed Brightsmith colleague.
 
 ---
 
-## Adumbra
+## Penumbra
 
-Secret order in every wall: pity for the amplified, hands on the Chroma-exposed.
+Secretive shadow order manipulating global politics from behind the scenes. Absolute purists.
 
-Last into the Resting Light. Extreme of Kho'Lan refusal, with a rare art: suppress Bloom, cure Bloom, cleanse Seams, steer anyone Chroma has opened. Few can do it. The right exposure is an invitation.
+**Perspective.** The Bright and Chroma are an invasive alien phenomenon. They despise the anomaly and view any faction dependent on it as pathetic and corrupted. Ideological opposite of Kho'Lan.
 
-**Want:** political control without open rule. **Fear:** a world that needs no broker.
+**The Voice.** A devastating invisible weapon: using a specific technique, Penumbra can acoustically or mentally manipulate anyone who has undergone a **Bloom**. That lets them pull the strings of Aureate Altered soldiers and control the political landscape from the shadows. They can also suppress or cure Bloom and cleanse Seams when the board requires it.
 
-**At the table:** push, pull, redirect, borrow, cleanse. Never permanently steal a Splintered card — Stitching protects the build. Black, purple, and orange.
+**Want:** political control without open rule; a world free of anomaly dependence. **Fear:** a Bloomed power they cannot Voice.
+
+**At the table:** push, pull, redirect, Voice Bloomed enemies, cleanse. Never permanently steal a Splintered card — Stitching protects the build. Black, purple, and orange.
 
 **Roster (working)**
 
-1. **The Usher** — Steer Chroma-exposed enemies (Bloomed or Splintered) off Seams or into hazards.
+1. **The Usher** — Voice or steer Bloomed enemies off Seams or into hazards.
 2. **The Auditor** — Borrow a Splintered effect for one round. Return it. Never confiscate.

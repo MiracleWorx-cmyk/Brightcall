@@ -18,28 +18,26 @@ The curated lore in `docs/terminology.md` and `docs/lore/` is the leading truth 
 ## Locked pillars (summary)
 
 - Game: **Brightcall** (one word)
-- World: **Aethora** · Anomaly: **The Bright** (vast **cube** of light; interior monolithic maze; brighter = stronger Bright energy toward Core)
-- **Eclipse:** the six faces — outside bright/see-in; inside dark smoky barrier
-- **Umbra:** darkest weak spot on a face = dark doorway **entry only** (also mid-match Stitching return)
-- Exit: none while Bright stands — only **Null-Flint harvest** (extract Core into containment) or **Null-Flint destroy** (shatter Core into Splinters) → implosion → Stitching to Eclipse crossing
-- Monoliths/gates/walls: Bright’s defense — protect Core and trap the called
-- Two energies: **Chroma** / Tears (Seam edges only; Magenta/Cyan/Searing Gold) · **Bright energy** (Core emission; causes Seams)
-- The Bright feeds on Chroma; it does **not** eject Chroma; hungers for living matter; **quiets on organic material**; **violent while consuming Harvesters** (takes time; energy spent erupts as Seams that wrap prey)
-- **Seams:** razor-thin satin / fractured-glass; **Chroma burst at eruption** + **continuous weep**; terrain/objects restore when curtain ends; Harvester or weapon wrap = **Enhancement**; **Bloom** only if Chroma enters body internally; external Chroma = damage only
-- **Splinters:** Bright-powered Null-Flint formed when Null-Flint violently meets a Core (smash-harvest or shatter); crush/destroy → **synthetic Seam**; **Splinter-Crush** chambers (Refract pioneered) wrap weapons as Enhancements; table path = **Splintered** deck
-- Perspectives: Kho'Lan = living predator / stomach / digestive Seams; Lumari = divine will; Kardia/Aureate/Refract = industrial reality-disruption science (quantum model still open — do not lock yet); Refract = Bright as volatile resource to exploit / study / weaponize
-- Industrial trio: Kardia = Bright cells (stable power); Aureate = raw Chroma-fuel (brute force); Refract = synthetic Seam weaponry
-- **Core:** reverse black hole of light; Seams crowd it; interior unknown; **Harvest** = take the Core (faction motives differ)
-- **Call of the Bright** / **the calling:** pull toward Core; manifestation unknown (none heard and lived)
-- **Brilliance:** pearl white, faintly radiant (Kardia); metal allows safe Chroma handling; **Bright cells** hold bright-white Bright energy; **Zenith Relays** are civic energy substations
-- **Kardia do not deal in Tears/Chroma** as a resource; Vesper scratches that weep Tears are frowned upon
-- **Oru:** very large; black stone-glimmer skin; hero-harvester plate is leading
-- **Scratch:** Seam almost opening
-- Factions: Kho'Lan, Lumari, Kardia, Refract Labs, the Aureate, Adumbra (Aureate: controlled Bloom infantry; barons rarely enter The Bright; Lumari: excess Bloom)
-- Aesthetic: Bright-punk Fantasy genre label — civic-modern magitech + anomaly physics; Bone/Ash/Greige, Bruised Darkness, toxic neon Chroma; Bright energy reads bright white
-- Refract: Splinter-Crush + Chroma research; no Core containment / Brilliance / Zenith Relays
+- Genre: **Bright-punk** — high-contrast, zero-digital; heavy mechanical hazard + raw anomaly magic
+- Hard tech limit: **no** computers, screens, LEDs, internet, or modern firearms; power is Bright energy (refined/stable) or Chroma (raw/volatile)
+- Armor: **30/70** — ~30% tech braces / ~70% tailored clothing worn **over** the hazard exo
+- World: **Aethora** · Anomaly: **The Bright** (vast **cube** / square exterior matching monolithic interior)
+- **Eclipse:** six faces — outside bright/see-in; inside dark smoky barrier
+- **Umbra:** entry only · Exit: only **Null-Flint harvest** or **Null-Flint destroy** → implosion → Stitching to entry / Eclipse crossing (no conventional escape)
+- **Quantum trigger:** Bright energy pressures a **third quantum field** → Seams manifest (industrial science: House Kardia / Aureate / Refract)
+- **Seams:** razor-thin satin / fractured-glass; Chroma **burst at eruption** + **weep**; Harvester/weapon wrap = **Enhancement**
+- **Bloom:** only if Chroma enters body internally; external = damage
+- **Splinters / Splinter-Crush:** smash Null-Flint on Core → shard; crush in chamber → synthetic Seam → weapon Enhancement (Refract pioneered)
+- **Brilliance** + **cyan Bright cells** (House Kardia) · **Chroma-fuel** (Aureate) · Splinter-Crush (Refract)
+- **House Kardia:** oppressed Brightsmiths under Aureate rule; superior craft; fake-stoic elegance
+- **Aureate:** gilded barons; **Altered Humans** = Chroma-injected Bloom infantry
+- **Refract Labs:** weaponizers; Bright as resource
+- **Lumari:** divine spiritualists; excess Bloom
+- **Penumbra:** shadow purists; Bright/Chroma as alien; **The Voice** controls Bloomed targets
+- **Kho'Lan:** Indigenous Wardens (Nativists as outsider label); apex-predator seasons; **raw Null-Flint only**; opposite of Penumbra
+- **Oru / Vesper:** black stone-glimmer Oru; cyan cell through coat cutout; Chroma-rot weapon sleeve; Resonance Glaive scratches
 - Eras: First Light → Traveling Light → Resting Light
 - Match mutation: Splintered · No Weld
-- Retired: Brightforged; Vertex Labs / Axiom Labs (use Refract Labs); intermittent bright-face walk-out exit
+- Retired: Brightforged; Adumbra (use Penumbra); Vertex/Axiom Labs; bright-white Bright-cell charge; Kardia as “larger happier” nation
 
 Full vocabulary: `docs/terminology.md`. Place lock: `docs/lore/the-singularity.md`. Art: `docs/gdd/art-direction.md`.

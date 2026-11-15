@@ -26,7 +26,7 @@ The event deck is the fiction of balance failing. An omen becomes a hill, an odd
 
 **The Traveling Light.** Reseeding Brights. Roads and camps. First Harvest: Kardia contain a Bright Core with Null-Flint vacuum. Age ends.
 
-**The Resting Light.** Fixed sites. Cities. Brilliance. Zenith Relays. Refract Labs splits, coins Chroma for Bright-Tears, and invents Chroma-fuel. Kardia ban it. The Aureate steal Cores, weaponize Chroma-fuel, Bloom foot soldiers under control, and rule as baron wealth. Kardia remain larger and happier under theft. Adumbra in the walls. Present.
+**The Resting Light.** Fixed sites. Cities. Brilliance. Zenith Relays. Refract Labs splits, coins Chroma for Bright-Tears, and invents Chroma-fuel. Kardia ban it. The Aureate steal Cores, weaponize Chroma-fuel, Bloom foot soldiers under control, and rule as baron wealth. House Kardia Brightsmiths stay skilled and oppressed. Penumbra Voice Bloomed strings from the walls. Present.
 
 ## Loop
 
@@ -34,7 +34,7 @@ A lost Core or collapsed Bright seeds New-Light elsewhere. Chroma can be farmed 
 
 ## Six answers
 
-**Kho'Lan** keep the catch, read The Bright as a living predator, pinch Seams as digestion to leave alone. **Lumari** Bloom hard — drink Tears, read The Bright as divine will, hunt a Vessel. **Kardia** are the civic heart: Brilliance, Bright cells, Zenith Relays, containment craft. **Refract Labs** pioneered Splinter-Crush — exploit, study, weaponize The Bright with synthetic Seams. **The Aureate** run stolen Cores, raw Chroma-fuel brute force, injected controlled Bloom infantry — barons stay out. **Adumbra** suppress or cure Bloom, cleanse Seams, and steer the exposed.
+**Kho'Lan** Indigenous Wardens — raw Null-Flint, apex-predator seasons, defend the anomaly. **Lumari** spiritualists — divine will, excess Bloom, Vessel hunt. **House Kardia** oppressed Brightsmiths — Brilliance, cyan Bright cells, quantum-field Seam science. **Refract Labs** Splinter-Crush weaponizers. **The Aureate** gilded barons, Chroma-fuel, Altered Humans. **Penumbra** shadow purists with The Voice over Bloomed targets.
 
 ## Missions that fit
 
@@ -42,4 +42,4 @@ Hold a weeping Seam for a vault. Reach the Core and harvest with Null-Flint cont
 
 ## Still settling
 
-Bright Core look. Sature’s street name. Proper names for the containment unit and chromatic fuel tanks. Final title for the Vessel. Adumbra’s method in full.
+Bright Core look. Sature’s street name. Proper names for the containment unit and chromatic fuel tanks. Final title for the Vessel. Penumbra’s method in full.

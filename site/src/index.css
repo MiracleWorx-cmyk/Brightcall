@@ -12,7 +12,7 @@
   --refract: #7dff9a;
   --lumari: #ff5ec8;
   --kholan: #e8e4d9;
-  --adumbra: #ff8a3d;
+  --penumbra: #ff8a3d;
   --seam: linear-gradient(
     115deg,
     var(--tear-magenta) 0%,

@@ -56,7 +56,7 @@ This is the present.
 
 Fixed Bright sites are mapped. Cities rise on the safe ring outside the Eclipse. Mood language hardens into calendar: Glimmer / New-Light, Radiance / High Bright, Sature / harvest, Glare / the Blinding.
 
-**Kardia** house Cores, forge Brilliance and Bright cells, raise Zenith Relays, and forge containment units so mornings open. They alone hold the craft to contain a Core. They refuse Chroma-fuel and do not deal in Tears as a resource.
+**House Kardia** Brightsmiths forge Brilliance and cyan Bright cells, raise Zenith Relays, and forge containment units. They alone hold the craft to contain a Core. Under Aureate oppression they keep the skill and lose the custody. They refuse Chroma-fuel and do not deal in Tears as a resource.
 
 Researchers who want every use-case — stable Bloom, perfected Splinters, human trials, raw Chroma burned as fuel, synthetic Seam weaponry — break away as **Refract Labs**. They coin **Chroma** as the lab name for Bright-Tears. They pioneer **Splinter-Crush** crushing chambers and treat The Bright as a resource to exploit. They do not contain Cores, forge Brilliance, or run Zenith Relays. Kardia ban Chroma-fuel.
 
@@ -64,6 +64,6 @@ Kardia who crave more steal Bright Cores they cannot contain themselves. Theft s
 
 The Aureate outgrow Kardia in riches. Kardia keep more people and happier working lives. Aureate society is a thin tip of the extremely rich over extremely poor laborers, held by the dream of infinite wealth. Kardia prosper under pressure. Aureate hijacks of nearly full containment units never stop.
 
-Last into the walls come **Adumbra**: a secret order with eyes in every camp, resentful of what Chroma and the Bright have done to Aethora, holding a rare art that can suppress or cure Bloom and steer the Chroma-exposed.
+Last into the walls come **Penumbra**: shadow purists who treat The Bright and Chroma as alien invasion. They develop **The Voice** — acoustic or mental control of anyone who has Bloomed — and can also suppress or cure Bloom.
 
 Inside a Bright, crews still enter through Umbras on Eclipse faces. They still say the old omen: *“The seams are weeping.”* Death is Stitching back to the Umbra. Splintered gear stays. Timing worsens. The calling still pulls.

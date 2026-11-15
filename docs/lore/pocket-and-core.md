@@ -22,7 +22,7 @@ A **scratch** is when a Seam almost opens — Tears may weep along the cut befor
 
 The **Bright Core** is a reverse black hole of light. It emits Bright energy. Seams crowd it and weep Chroma. Interior look unknown. **Harvest** means taking the Core — faction motives differ. Null-Flint harvesting equipment extracts it into containment instead of shattering it into Splinters. **Destroy** throws Null-Flint into the Core and shatters it into Splinters. Either ending implodes the Bright.
 
-**Null-Flint** is Aethorian vacuum crystal. It implodes on ignition. Kardia use it for containment; Kho'Lan use it in Seam craft.
+**Null-Flint** is Aethorian vacuum crystal. It implodes on ignition. Kardia use it for containment; Kho'Lan wield raw crystals as their only accepted tech.
 
 **Splinters** are Bright-powered Null-Flint shards formed when Null-Flint violently meets a Core (smash-harvest or shatter). Crush one to cast a synthetic Seam.
 
@@ -32,7 +32,7 @@ The **Bright Core** is a reverse black hole of light. It emits Bright energy. Se
 
 **Splintered** means Splinter-Crush craft on gear or body — the match mutation card.
 
-**Brilliance** is Kardia craft powered by a contained Bright Core, or built to store and emit Bright energy. Stable. Pearl white, faintly radiant. The metal lets a body handle Chroma safely. **Bright cells** are Brilliance packs holding bright-white charge. **Zenith Relays** are Kardia energy substations.
+**Brilliance** is Kardia craft powered by a contained Bright Core, or built to store and emit Bright energy. Stable. Pearl white, faintly radiant. The metal lets a body handle Chroma safely. **Bright cells** are Brilliance packs holding cyan refined charge. **Zenith Relays** are Kardia energy substations.
 
 **Chroma-fuel** is raw Chroma burned as fuel. Refract Labs imagined it. Kardia ban it. The Aureate weaponize it. Volatile.
 
@@ -78,7 +78,7 @@ Being shoved off an active Seam dumps an unfinished fill. Banked points stay.
 
 **Destroy:** Null-Flint into the Core. Splinters. Implosion. Same collapse Stitching for survivors not erased by the strike.
 
-**Pinch:** Kho'Lan (and Adumbra cleanses) shut a Seam before its natural end. The pinch name is still open. No vault from that act.
+**Pinch:** Kho'Lan (and Penumbra cleanses) shut a Seam before its natural end. The pinch name is still open. No vault from that act.
 
 Harvest or pinch Discharge pays victory points with kills on the same track.
 
@@ -90,4 +90,4 @@ Round 15 finishes a build. The match ends at 15 victory points.
 
 ## Factions, one physics
 
-**Kardia** spend Brilliance, Bright cells, Zenith Relays, and containment units — stable power. They refuse Chroma-fuel and do not deal in Tears. **Refract Labs** pioneered Splinter-Crush; they run Chroma trials, Chroma-fuel theory, and synthetic Seam weaponry — The Bright as resource to exploit. **Kho'Lan** pinch and cleanse Seams — living predator doctrine. **The Aureate** hijack containment, burn raw Chroma-fuel for brute force, inject controlled Bloom into foot soldiers, and keep baron leaders out. **Lumari** drink Tears and Bloom toward a Vessel — divine will. **Adumbra** suppress Bloom, cleanse Seams, and steer the exposed.
+**House Kardia** spend Brilliance, cyan Bright cells, Zenith Relays, and containment — oppressed Brightsmiths with superior craft. **Refract Labs** pioneered Splinter-Crush. **Kho'Lan** wield raw Null-Flint only — indigenous apex-predator doctrine. **The Aureate** hijack containment, burn Chroma-fuel, deploy Altered Humans. **Lumari** drink Tears — divine will. **Penumbra** Voice Bloomed targets and cleanse Seams.

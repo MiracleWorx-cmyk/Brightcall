@@ -8,7 +8,7 @@ Physics live in [The Bright — board glossary](pocket-and-core.md). Eras live i
 
 ## Chroma
 
-Chroma is torn reality made liquid. **Bright energy** fractures reality into **Seams** — razor-thin satin sheets with fractured-glass texture. At the moment a Seam erupts, Chroma bursts violently from the cracks and lingers at the origin. While the Seam lasts, Magenta, Cyan, and Searing Gold also **weep** together through the cracks and edges. That liquid is what street mouths call **Bright-Tears** or **Tears**.
+Chroma is torn reality made liquid. **Bright energy** exerts massive pressure on a **third quantum field**, fracturing reality into **Seams** — razor-thin satin sheets with fractured-glass texture. At the moment a Seam erupts, Chroma bursts violently from the cracks and lingers at the origin. While the Seam lasts, Magenta, Cyan, and Searing Gold also **weep** together through the cracks and edges. That liquid is what street mouths call **Bright-Tears** or **Tears**.
 
 **Refract Labs** coined **Chroma** for that liquid. The lab word spread. Refract Labs work Chroma. They do not contain Cores or forge Brilliance.
 
@@ -55,7 +55,7 @@ A body or kit that runs Splinter chambers or shatter lines is **Splintered**. On
 
 ### Brilliance
 
-**Kardia** smiths alone make Brilliance gear. It is powered through a contained Bright Core, or built to store and emit Bright energy. Stable. Pearl white, faintly radiant — calm contained light, not Tear neon. **Bright cells** are Brilliance shells holding bright-white Bright energy. **Brilliance lets you handle Chroma safely:** Tears can touch the craft without the burn of bare skin on a Seam. Bloom still requires Chroma entering a body internally — Brilliance is external hazard protection when contact happens. Kardia do not deal in Tears or Chroma as a resource, and they refuse Chroma-fuel. Civic mornings and war frames share Brilliance craft. **Zenith Relays** distribute Bright energy as district substations. Containment units are Kardia Null-Flint harvesting hardware: pearl frames with golden Core-vault hearts — extract a Core intact instead of shattering it into Splinters.
+**House Kardia** smiths alone make Brilliance gear. It is powered through a contained Bright Core, or built to store and emit Bright energy. Stable. Pearl white, faintly radiant — calm contained light, not Tear neon. **Bright cells** are Brilliance shells holding cyan refined Bright energy. **Brilliance lets you handle Chroma safely:** Tears can touch the craft without the burn of bare skin on a Seam. Bloom still requires Chroma entering a body internally — Brilliance is external hazard protection when contact happens. Kardia do not deal in Tears or Chroma as a resource, and they refuse Chroma-fuel. Civic mornings and war frames share Brilliance craft. **Zenith Relays** distribute Bright energy as district substations. Containment units are Kardia Null-Flint harvesting hardware: pearl frames with golden Core-vault hearts — extract a Core intact instead of shattering it into Splinters.
 
 ### Chroma-fuel
 
@@ -67,7 +67,7 @@ Proximity to the Core is the heaviest temporal alteration Aethora knows. It feel
 
 ## Who spends what
 
-**Intruders** take Tears at weeping Seams, and Splinters when the spike is the plan. **Kardia** forge Brilliance, Bright cells, Zenith Relays, and containment units — stable Bright-cell power; they refuse Chroma-fuel and do not deal in Tears. **Refract Labs** pioneered Splinter-Crush, spend Chroma research, Bloom trials, and Chroma-fuel theory — they treat The Bright as a volatile resource to exploit, study, and weaponize; they do not contain Cores or forge Brilliance. **The Aureate** spend stolen Cores, hijacked containment, raw Chroma-fuel for brute mechanical force, and injected controlled Bloom on foot soldiers; baron leaders rarely walk Umbras themselves. **Kho'Lan** pinch and cleanse Seams — living predator doctrine. **Lumari** drink Tears and Bloom toward a Vessel — divine will. **Adumbra** suppress or cure Bloom, cleanse Seams, and steer whoever Chroma has already opened.
+**Intruders** take Tears at weeping Seams, and Splinters when the spike is the plan. **House Kardia** forge Brilliance, cyan Bright cells, Zenith Relays, and containment — oppressed Brightsmiths; quantum-field Seam science. **Refract Labs** pioneered Splinter-Crush. **The Aureate** spend stolen Cores, Chroma-fuel, and Altered Humans. **Kho'Lan** wield raw Null-Flint only — indigenous apex-predator doctrine. **Lumari** drink Tears — divine will. **Penumbra** Voice Bloomed targets and cleanse Seams.
 
 ## What leaving costs
 
