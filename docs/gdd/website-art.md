@@ -7,7 +7,7 @@ Generated Bright-punk stills for the public landing. Files live in `site/public/
 | File | Use |
 | --- | --- |
 | `hero-harvester.png` | Home hero — full-bleed background. Oru Vesper north star (black stone-glimmer skin, trench over Brilliance, magenta scratch glaive). **Style master.** |
-| `the-bright.png` | The Bright page / world section — exterior luminous sphere on Aethora. **Style master.** |
+| `the-bright.png` | The Bright page / world section — exterior luminous **cube** on Aethora. **Style master.** (May still read spherical until SD3 regen; copy already locks cube.) |
 | `seam-curtain.jpg` | Seams section — one transparent shattered satin sheet; Magenta + Cyan + Gold Chroma oozing through the cracks together. |
 | `refract-splinter-slam.jpg` | Energies / Splintered explainer — Refract Labs slamming a Splinter; Seam envelops and rewrites the weapon. |
 

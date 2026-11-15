@@ -77,21 +77,21 @@ Costume and ground stay in Bone / Ash / Greige / faction accents. Tears on the b
 
 ## The arena: inside the anomaly
 
-Matches take place entirely inside The Bright — vast, monolithic, brighter toward the Core.
+Matches take place entirely inside The Bright — a cubic volume, monolithic inside, brighter toward the Core.
 
 ### Outside vs inside
 
-From outside, The Bright is a huge luminous mass. The Eclipse looks bright; you can see into a fractured Seam-thick interior.
+From outside, The Bright is a huge luminous **cube**. Each Eclipse face looks bright; you can see into a fractured Seam-thick interior.
 
-From inside, the Eclipse is a dark smoky wall. Aethora is gone. The bowl is a brutalist maze of gates, walls, and towering concrete — the Bright’s defense, built to protect the Core and trap those the calling lured in.
+From inside, an Eclipse face is a dark smoky wall. Aethora is gone. The cube interior is a brutalist maze of gates, walls, and towering concrete — the Bright’s defense, built to protect the Core and trap those the calling lured in.
 
 ### The Eclipse and Umbras
 
-The Eclipse expands as the Core grows. **Umbras** are the darkest weak spots — entry and mid-match Stitching return. Deep Plum lives here. Exit is the brightest stretch of the Eclipse, intermittent — not the Umbra door you used.
+The Eclipse is the six faces of the cube. It expands as the Core grows. **Umbras** are the darkest weak spots on a face — dark doorways in a wall of light; entry and mid-match Stitching return. Deep Plum lives here. Exit is the brightest stretch of a face, intermittent — not the Umbra door you used.
 
 ### Terrain and light gradient
 
-Hex middles show splice, monolith, and bleach. Rim near the inner Eclipse reads darker and greyer. Center overexposes toward the Core — bleached Bone, denser Seams, stronger Bright energy. Seams are curtain tokens, not printed hex borders. Brief Seam residue can haze a path after a curtain ends.
+Hex middles show splice, monolith, and bleach. Edge near the inner Eclipse reads darker and greyer. Center overexposes toward the Core — bleached Bone, denser Seams, stronger Bright energy. Seams are curtain tokens, not printed hex borders. Brief Seam residue can haze a path after a curtain ends.
 
 Outside the Bright, Aureate districts lean darker industry under ivory towers. Kardia Brilliance forges and Zenith Relays work in optimistic civic light. Inside, those atmospheres arrive only as torn pieces mashed into the anomaly’s maze.
 

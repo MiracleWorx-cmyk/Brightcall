@@ -12,7 +12,7 @@ Each faction is a **motive plus a habit**, not a damage type. First roster targe
 
 ## Resting Light politics
 
-On Aethora, power comes from **The Bright** — vast anomalies of light with a Bright Core at the center. Crews enter through dark weak spots on the rim (Umbras), fight and harvest inside, and try to bring a Core out or shut the danger down. Cities and weapons run on what those crews recover.
+On Aethora, power comes from **The Bright** — vast cubes of light with a Bright Core at the center. Crews enter through dark weak spots on a face (Umbras), fight and harvest inside, and try to bring a Core out or shut the danger down. Cities and weapons run on what those crews recover.
 
 Six factions shape that fight.
 

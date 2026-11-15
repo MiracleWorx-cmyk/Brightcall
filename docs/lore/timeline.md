@@ -8,7 +8,7 @@ Hard light. Bright weather. A silent Bright. A culture that names its seasons af
 
 There was one Bright, and Aethora had always known it.
 
-Hyper-saturated glass-like light hung in cut ground: silent, even, bright enough to read a name by. Seams erupted wherever The Bright cast its net — shattered satin curtains that enveloped and rewrote matter. Those Seams wept Tears at their edges. The Bright drank that liquid to feed itself. Near the Core, Bright energy poured out — heavier, rarer, available only to whoever reached the nucleus.
+A cube of hyper-saturated glass-like light stood in cut ground: silent, even, bright enough to read a name by. Seams erupted wherever The Bright cast its net — shattered satin curtains that enveloped and rewrote matter. Those Seams wept Tears at their edges. The Bright drank that liquid to feed itself. Near the Core, Bright energy poured out — heavier, rarer, available only to whoever reached the nucleus.
 
 Culture grew around the Bright. Ordinary seasons did not matter. The Bright’s temper did. When the seams started weeping, everyone understood. The omen was older than any faction.
 
@@ -66,4 +66,4 @@ The Aureate outgrow Kardia in riches. Kardia keep more people and happier workin
 
 Last into the walls come **Adumbra**: a secret order with eyes in every camp, resentful of what Chroma and the Bright have done to Aethora, holding a rare art that can suppress or cure Bloom and steer the Chroma-exposed.
 
-Inside a Bright, crews still enter through Umbras along the Eclipse. They still say the old omen: *“The seams are weeping.”* Death is Stitching back to the Umbra. Splintered gear stays. Timing worsens. The calling still pulls.
+Inside a Bright, crews still enter through Umbras on Eclipse faces. They still say the old omen: *“The seams are weeping.”* Death is Stitching back to the Umbra. Splintered gear stays. Timing worsens. The calling still pulls.

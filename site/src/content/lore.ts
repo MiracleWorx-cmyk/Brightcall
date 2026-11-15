@@ -19,7 +19,7 @@ export const energies = {
   brightEnergy: {
     name: 'Bright energy',
     blurb:
-      'Core emission and the force that causes Seams. Ambient light across the bowl is generally survivable. Proximity to the Core is lethal. Splinters are Bright-powered Null-Flint that cast Seams. Only Kardia containment holds a Core without dumping the charge into Splinters.',
+      'Core emission and the force that causes Seams. Ambient light across the cube interior is generally survivable. Proximity to the Core is lethal. Splinters are Bright-powered Null-Flint that cast Seams. Only Kardia containment holds a Core without dumping the charge into Splinters.',
   },
   applications: [
     {
@@ -64,15 +64,15 @@ export const energies = {
 export const bright = {
   title: 'The Bright',
   outside:
-    'From the outside: a massive, slightly squished mass of glass-like light, roughly a kilometer across.',
+    'From the outside: a vast cube of glass-like light. Approach a face. Find a dark doorway. Walk in.',
   inside:
-    'From the inside: vast, unpredictable, temporally distorted. Matches happen entirely here — a chaotic splice of overwritten realities, not a factory floor.',
+    'From the inside: a brutalist monolithic maze filling the cube — vast, unpredictable, temporally distorted. Matches happen entirely here — a chaotic splice of overwritten realities, not a factory floor.',
   eclipse:
-    'The Eclipse is the outer boundary. It expands as the Core grows stronger and consumes more of Aethora. Umbras — the darkest weak spots along that rim — are safe entry, deployment, and Stitching return.',
+    'The Eclipse is the six faces of the cube. It expands as the Core grows stronger and consumes more of Aethora. Umbras — the darkest weak spots on a face — are safe entry, deployment, and Stitching return.',
   seams:
     'Every Seam is Bright energy. Paper-thin shattered satin curtains erupt like a cast net, rewrite what they wrap, and always weep Magenta, Cyan, and Gold at the edges. They are fleeting — when they end, the original returns. Splinters cast them. Kho\'Lan and Adumbra cleanse them.',
   core:
-    'The Bright Core sits at the dead center. Call of the Bright pulls living matter toward it — street mouths say the calling. Ambient Bright energy across the bowl is generally survivable. Proximity is lethal.',
+    'The Bright Core sits at the dead center. Call of the Bright pulls living matter toward it — street mouths say the calling. Ambient Bright energy across the cube is generally survivable. Proximity is lethal.',
 }
 
 export const eras = [
@@ -204,7 +204,7 @@ export const game = {
 }
 
 export const heroesNote =
-  'No roster characters are locked yet. Design order starts with the Aureate, then Kardia. The first measuring stick is a Kardia anchor: easy, all-round, holds an objective and still threatens anyone who walks up.'
+  'Design order starts with Kardia (Vesper as measuring stick), then the Aureate as hold-objective contrast. Vesper is the first locked brief: Oru Harvester, Brilliance exo under trench, Bright cell, Resonance Glaive.'
 
 export const worldBits = [
   {

@@ -16,7 +16,7 @@ Two energies share Aethora: **Bright energy**, which causes Seams and pours from
 
 Kho'Lan and Adumbra cleanse and pinch Seams (the pinch name is still open). Lumari may work weeping Chroma. Touch is always dangerous in lore.
 
-The **Eclipse** is a one-way rim (bright/see-in from outside; dark smoky from inside). **Umbras** are darkest-entry. Exit is the brightest Eclipse stretch (intermittent), or Core harvest / Null-Flint destroy. The Bright is a vast monolithic maze that defends its Core.
+The Bright is a vast **cube** of light. The **Eclipse** is its six faces (bright/see-in from outside; dark smoky from inside). **Umbras** are dark doorways on a face — entry. Exit is the brightest face stretch (intermittent), or Core harvest / Null-Flint destroy. Inside is a vast monolithic maze that defends its Core.
 
 Applications: **Bloom**, **Splintered**, **Brilliance** (pearl white, faintly radiant; safe Chroma handling; Bright cells of bright-white charge), **Chroma-fuel**.
 

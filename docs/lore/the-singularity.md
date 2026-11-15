@@ -1,6 +1,8 @@
 # The Bright
 
-The Bright is the central anomaly on Aethora: vast, monolithic, hyper-saturated light. Exact size is open and larger than early Resting Light guesses. Silent when it looks balanced. Blinding when you look straight. It feeds on Chroma that weeps from Seams — it does not eject Chroma. Under pressure it sings for living matter: **Call of the Bright**, which street mouths call **the calling**. How the call manifests is unknown. Nobody has heard it and lived to tell.
+The Bright is the central anomaly on Aethora: a vast **cube** of hyper-saturated light. Exact edge length is open. Silent when it looks balanced. Blinding when you look straight. It feeds on Chroma that weeps from Seams — it does not eject Chroma. Under pressure it sings for living matter: **Call of the Bright**, which street mouths call **the calling**. How the call manifests is unknown. Nobody has heard it and lived to tell.
+
+The cubic exterior matches the brutalist monolithic interior. Entrance is easy to teach: approach a face of light; find a dark weak spot; walk in.
 
 Matches of **Brightcall** happen inside it.
 
@@ -10,29 +12,29 @@ Physics and board reading: [board glossary](pocket-and-core.md). Art: [style gui
 
 Inside, The Bright is very bright. The brighter the ground, the more potent the Bright energy. Brightness climbs toward the Core.
 
-Towering gates, walls, and concrete masses rise as the Bright’s defense: an immune system that protects the Core and traps those lured by the calling. The interior is a claustrophobic brutalist maze — warped, fused, Seam-scarred light on Bone and Ash stone — not an empty field of glow.
+Towering gates, walls, and concrete masses rise as the Bright’s defense: an immune system that protects the Core and traps those lured by the calling. The interior is a claustrophobic brutalist maze filling the cube — warped, fused, Seam-scarred light on Bone and Ash stone — not an empty field of glow.
 
 Seams erupt constantly. Unstable Seam residue can linger after a curtain ends and make routes hard to read. Residue is navigation hazard and afterglow. It is not a permanent rewrite scar; when a Seam curtain ends, rewritten matter returns to what it was.
 
 ## The Eclipse
 
-The Eclipse is the outer boundary. It expands as the Core grows.
+The Eclipse is the outer boundary — the six faces of the cube. It expands as the Core grows.
 
-**From outside:** the Eclipse is bright. You can look through it into a fractured, distorted, unstable interior thick with Seams — hypnotic and lethal, like peering into a terrarium of light.
+**From outside:** a face of the Eclipse is bright. You can look through it into a fractured, distorted, unstable interior thick with Seams — hypnotic and lethal, like peering into a terrarium of light.
 
-**From inside:** the Eclipse is a dark, smoky barrier. Aethora disappears. You are visually cut off from home.
+**From inside:** that same face is a dark, smoky barrier. Aethora disappears. You are visually cut off from home.
 
 ## Entry and exit
 
-**Umbras** are the darkest weak spots on the Eclipse. That is entry — and match deployment / mid-match Stitching return.
+**Umbras** are the darkest weak spots on an Eclipse face — dark doorways cut into a wall of light. That is entry — and match deployment / mid-match Stitching return.
 
-Exit is the opposite: the **brightest** stretch of the Eclipse. It appears only sometimes. Compasses may help. Leaving by harvesting the Core, or destroying it with Null-Flint, also ends the Bright and returns crews through collapse Stitching.
+Exit is the opposite: the **brightest** stretch of an Eclipse face. It appears only sometimes. Compasses may help. Leaving by harvesting the Core, or destroying it with Null-Flint, also ends the Bright and returns crews through collapse Stitching.
 
 You do not simply turn around and walk out the Umbra you used. Once inside the dark fog of the boundary, the way home is the bright door — or the Core’s end.
 
 ## Mapping from outside
 
-Factions have studied the interior through the bright Eclipse. Careful mapping has happened. The Bright is vast; walls cut deep sightlines; competing crews will not wait while someone draws a perfect route. In the Resting Light gold rush, Harvesters navigate from inside.
+Factions have studied the interior through the bright Eclipse faces. Careful mapping has happened. The Bright is vast; walls cut deep sightlines; competing crews will not wait while someone draws a perfect route. In the Resting Light gold rush, Harvesters navigate from inside.
 
 ## The Bright Core
 
@@ -46,9 +48,10 @@ Crews destroy a Core by throwing **Null-Flint** into it, or harvest it with **Br
 
 | Rule | Meaning |
 | --- | --- |
-| Bounded | Eclipse rim; one-way light/dark |
-| Umbras | Darkest Eclipse entry |
-| Exit | Brightest Eclipse stretch; intermittent |
+| Shape | Exterior cube; interior monolithic maze |
+| Bounded | Eclipse faces; one-way light/dark |
+| Umbras | Darkest spots on a face — entry doorways |
+| Exit | Brightest stretch of a face; intermittent |
 | Monoliths | Bright’s defense — gates, walls, towers |
 | Seams | Bright-energy curtains; always weep Chroma; fleeting |
 | Residue | Brief unstable afterglow; hard navigation; not permanent scars |
@@ -59,7 +62,7 @@ Crews destroy a Core by throwing **Null-Flint** into it, or harvest it with **Br
 
 ## Visual style
 
-**Bright-punk Fantasy.** Bone, Ash, Greige monoliths under blinding interior light. Bruised Darkness at Umbras and the inner face of the Eclipse. Toxic neon Chroma only on Seam glass. Rim of the board reads darker near the smoky inside-Eclipse; center overexposes toward the Core.
+**Bright-punk Fantasy.** Bone, Ash, Greige monoliths under blinding interior light. Bruised Darkness at Umbras and the inner face of the Eclipse. Toxic neon Chroma only on Seam glass. Board edge near the smoky inside-Eclipse reads darker; center overexposes toward the Core.
 
 References: [box art](../gdd/references/brightcall-box-art.webp), [knife Seam](../gdd/references/seam-knife.webp).
 

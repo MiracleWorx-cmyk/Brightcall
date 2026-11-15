@@ -4,15 +4,15 @@ Physics for the interior of The Bright, and the words the board needs. History: 
 
 ## The words
 
-**The Bright** is vast monolithic hyper-saturated light. Exact size is open and larger than early guesses. It feeds on Chroma from Seams only — it does not eject Chroma. It sings for living matter. Matches happen inside it. Brighter ground means stronger Bright energy.
+**The Bright** is a vast cube of hyper-saturated light. Exact edge length is open. It feeds on Chroma from Seams only — it does not eject Chroma. It sings for living matter. Matches happen inside it. Brighter ground means stronger Bright energy.
 
-**The Eclipse** is the outer boundary. Outside: bright, see-through into a Seam-fractured interior. Inside: dark smoky barrier hiding Aethora.
+**The Eclipse** is the outer boundary — the six faces of the cube. Outside: bright, see-through into a Seam-fractured interior. Inside: dark smoky barrier hiding Aethora.
 
 **Call of the Bright** is the siren toward the Bright Core. Street may say **the calling**. Manifestation unknown. The game title **Brightcall** echoes that pull.
 
 A **Seam** is a paper-thin shattered satin curtain caused by Bright energy. It erupts like a cast net, envelops and rewrites while active, and always weeps Chroma at the edges. Fleeting — when it ends, the original returns. Brief residue may linger and hinder navigation without permanently rewriting matter.
 
-An **Umbra** is the darkest weak spot along the Eclipse: entry, deployment, mid-match Stitching return. Exit is the brightest Eclipse stretch, intermittent.
+An **Umbra** is the darkest weak spot on an Eclipse face — a dark doorway in a wall of light: entry, deployment, mid-match Stitching return. Exit is the brightest stretch of a face, intermittent.
 
 **Chroma** — also Tears, Bright-Tears on the street — is the liquid that oozes from Seam edges only. Magenta, Cyan, Searing Gold. Harvestable widely.
 
@@ -46,7 +46,7 @@ A **Vessel** is a person who can absorb a Bright Core and live. Nobody has. Fina
 
 ## What the board is
 
-One match is one Bright, played from the inside. A monolithic maze of gates and concrete — the Bright’s defense — cuts the bowl into chokepoints. Spliced hexes and Seam tokens share the floor. Umbras sit along the dark inner Eclipse as deployment. The Core hangs at the dead center, overexposed. Rim hexes near the inner Eclipse read darker; center hexes bleach under Core light. Proximity to the Core is lethal.
+One match is one Bright, played from the inside. A monolithic maze of gates and concrete — the Bright’s defense — fills the cube with chokepoints. Spliced hexes and Seam tokens share the floor. Umbras sit on dark inner Eclipse faces as deployment. The Core hangs at the dead center, overexposed. Edge hexes near the inner Eclipse read darker; center hexes bleach under Core light. Proximity to the Core is lethal.
 
 Seams erupt as predatory nets — upright curtain tokens on or over hexes. They are not printed hex borders. While a Seam lasts, whatever it wraps is rewritten and Chroma weeps at the edges. When the Seam ends, the original returns. Residue may briefly block or confuse a route.
 
@@ -66,7 +66,7 @@ Bloom is the body taking Tears. Lumari path. Seams are a common source.
 
 Near the nucleus, Bright energy dominates. Extract under vacuum into a Kardia containment unit for Brilliance custody. Pure exposure is fleeting temporal rewrite. Absorbing the Core into a Vessel is the Lumari myth. Nobody has lived it.
 
-Outside the bowl, Bright energy from a held Core can force Seams so Chroma weeps in the wild.
+Outside the cube, Bright energy from a held Core can force Seams so Chroma weeps in the wild.
 
 Being shoved off an active Seam dumps an unfinished fill. Banked points stay.
 
