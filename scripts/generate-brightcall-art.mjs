@@ -48,6 +48,8 @@ function parseArgs(argv) {
   let out = path.join(root, "brightcall-art.png");
   let aspect = "16:9";
   let seed = null;
+  let strength = 0.45;
+  let image = null;
   let negative = negativePrompt;
   const promptParts = [];
   for (let i = 0; i < argv.length; i++) {
@@ -64,6 +66,14 @@ function parseArgs(argv) {
       seed = Number(argv[++i]);
       continue;
     }
+    if (arg === "--strength" && argv[i + 1]) {
+      strength = Number(argv[++i]);
+      continue;
+    }
+    if (arg === "--image" && argv[i + 1]) {
+      image = path.resolve(root, argv[++i]);
+      continue;
+    }
     if (arg === "--negative" && argv[i + 1]) {
       negative = `${negativePrompt}, ${argv[++i]}`;
       continue;
@@ -74,29 +84,57 @@ function parseArgs(argv) {
     out,
     aspect,
     seed,
+    strength,
+    image,
     negative,
     prompt: promptParts.join(" ").trim() || defaultPrompt,
   };
 }
 
-const { out: outFile, aspect, seed, negative, prompt: promptText } = parseArgs(
-  process.argv.slice(2),
-);
+const {
+  out: outFile,
+  aspect,
+  seed,
+  strength,
+  image: imagePath,
+  negative,
+  prompt: promptText,
+} = parseArgs(process.argv.slice(2));
 
 async function generateBrightcallArt(prompt) {
   const url = "https://api.stability.ai/v2beta/stable-image/generate/sd3";
   const formData = new FormData();
+  const useImg2Img = Boolean(imagePath);
+
+  if (useImg2Img) {
+    if (!fs.existsSync(imagePath)) {
+      throw new Error(`Init image not found: ${imagePath}`);
+    }
+    if (!(strength > 0 && strength < 1)) {
+      throw new Error(`--strength must be between 0 and 1 (exclusive). Got: ${strength}`);
+    }
+    const bytes = fs.readFileSync(imagePath);
+    const blob = new Blob([bytes], { type: "image/png" });
+    formData.append("image", blob, path.basename(imagePath));
+    formData.append("mode", "image-to-image");
+    formData.append("strength", String(strength));
+  } else {
+    formData.append("mode", "text-to-image");
+    formData.append("aspect_ratio", aspect);
+  }
+
   formData.append("prompt", prompt);
-  formData.append("mode", "text-to-image");
   formData.append("model", "sd3-large");
-  formData.append("aspect_ratio", aspect);
   formData.append("negative_prompt", negative);
   if (Number.isFinite(seed)) {
     formData.append("seed", String(Math.trunc(seed)));
   }
 
   const seedLabel = Number.isFinite(seed) ? ` seed=${Math.trunc(seed)}` : "";
-  console.log(`Generating → ${path.relative(root, outFile)}${seedLabel}`);
+  const modeLabel = useImg2Img
+    ? ` img2img strength=${strength} from ${path.relative(root, imagePath)}`
+    : "";
+  console.log(`Generating → ${path.relative(root, outFile)}${seedLabel}${modeLabel}`);
 
   const response = await fetch(url, {
     method: "POST",
