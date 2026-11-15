@@ -14,13 +14,13 @@ Two energies share Aethora: **Bright energy**, which causes Seams and pours from
 
 **Splinters** are Bright-powered Null-Flint shards formed when Null-Flint violently meets a Core. Crush one (**Splinter-Crush**) to cast a synthetic Seam — Refract Labs armory. Whether the event deck ever casts Seams is still open.
 
-Kho'Lan and Penumbra cleanse and pinch Seams (the pinch name is still open). Lumari may work weeping Chroma. External Chroma contact is damage hazard; Bloom only if Chroma enters the body internally.
+The Oru and Penumbra cleanse and pinch Seams (the pinch name is still open). Lumari may work weeping Chroma. External Chroma contact is damage hazard; Bloom only if Chroma enters the body internally.
 
 The Bright is a vast **cube** of light. The **Eclipse** is its six faces (bright/see-in from outside; dark smoky from inside). **Umbras** are dark doorways on a face — entry only. Once inside, leave only by ending the Core: Null-Flint **harvest** (extract into containment) or Null-Flint **destroy** (shatter into Splinters). The Bright quiets on organic material and turns violent while consuming Harvesters. Inside is a vast monolithic maze that defends its Core.
 
 Applications: **Bloom**, **Splinter-Crush** / **Splintered**, **Brilliance** (pearl white, faintly radiant; Bright cells), **Chroma-fuel**.
 
-Factions: Kho'Lan, Lumari, House Kardia, Refract Labs, the Aureate, Penumbra.
+Factions: the Oru, Lumari, House Kardia, Refract Labs, the Aureate, Penumbra.
 
 Aesthetic: **Bright-punk** (Sin City high-contrast; civic-modern magitech + anomaly physics; rare cast Brilliance under cloth) — Bone / Ash / Greige, Bruised Darkness, toxic neon Chroma.
 

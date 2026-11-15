@@ -14,9 +14,9 @@ Culture grew around the Bright. Ordinary seasons did not matter. The Bright’s 
 
 The danger had a name: **Call of the Bright**. It pulls living matter toward the Bright Core. How that pull manifests is unknown — nobody has heard it and lived to tell. Street mouths still say **the calling**. The Bright quiets when it receives organic material. When it hungers without that feed, Seams weep harder and unrest follows. Harvesters who enter become prey too — during consumption the Bright grows more violent, spends Bright energy as Seams that wrap living prey as Enhancements. Harmony meant restraint. Harmony never meant safety.
 
-### Kho'Lan and fanatics
+### The Oru and fanatics
 
-The people of the First Light treated the Bright as the axis of the world. The Kho'Lan temper was already there: preserve the balance, do not meddle. Kho is the living world that does not weep. Lan is the promise to leave it whole. They pronounce a catch between the two. Inside that conservation doctrine lived fanatics who wanted embodiment, not restraint.
+The people of the First Light treated the Bright as the axis of the world. The Oru temper was already there: preserve the balance, do not meddle, leave the predator alone. Inside that conservation doctrine lived fanatics who wanted embodiment, not restraint.
 
 ### The First Survivor
 
@@ -26,7 +26,7 @@ Heavily Bloomed. Dying. Incredibly strong. Tears leaked from the alterations. Cl
 
 ### The split toward the heart
 
-The Survivor changed the argument. Organized investigation began. From Kho'Lan ground grew a second will: civic life controlled and powered by contained Bright energy. That will becomes **Kardia**, the civic heart. Kho'Lan stay with the pause. The balance is doctrine. Meddling is the risk.
+The Survivor changed the argument. Organized investigation began. From Oru ground grew a second will: civic life controlled and powered by contained Bright energy. That will becomes **Kardia**, the civic heart. The Oru stay with the pause. The balance is doctrine. Meddling is the risk.
 
 ### The First Strike
 

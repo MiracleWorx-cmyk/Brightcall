@@ -6,7 +6,7 @@ Origins: [timeline](../lore/timeline.md). Physics: [board glossary](../lore/pock
 
 Each faction is a **motive plus a habit**, not a damage type. First roster target: two characters each. Rosters below are working drafts.
 
-**Design order:** House Kardia first (Vesper as measuring stick), then the Aureate as hold-objective contrast, then Refract Labs, Kho'Lan, Lumari, Penumbra.
+**Design order:** House Kardia first (Vesper as measuring stick), then the Aureate as hold-objective contrast, then Refract Labs, the Oru, Lumari, Penumbra.
 
 ---
 
@@ -20,13 +20,13 @@ Six factions shape that fight.
 
 **The Aureate** are former Kardia members who broke away, unified under their own flag, and seized the Bright order. Wealthy barons and crime lords — bribery, theft, extortion, hijacked containment. The volatile harvest rewarded their opportunism with power, wealth, and control. They burn banned **Chroma-fuel** (a Refract concept Kardia rejected). Barons stay safe. They send **controlled-Bloom infantry** into the arena in robust, dangerous exoskeletons — aesthetically kin to Kardia division, but heavier on metal.
 
-**Penumbra** work the shadows of that struggle. **Refract Labs**, **Kho'Lan**, and **Lumari** refuse both nations' terms — Splinter-Crush weapon science, Null-Flint defense of natural harmony, and excess Bloom hunger toward a living Vessel.
+**Penumbra** work the shadows of that struggle. **Refract Labs**, **the Oru**, and **Lumari** refuse both nations' terms — Splinter-Crush weapon science, Null-Flint defense of natural harmony, and excess Bloom hunger toward a living Vessel.
 
 ---
 
-## Kho'Lan
+## The Oru
 
-Say **KO-lan**, with a catch between the halves. Kho is the living world that does not weep. Lan is the promise to leave it whole. The name may still change; the temper does not.
+Indigenous Wardens. Working faction name for the Oru who refused to industrialize. Race and faction share the name; not every Oru walks with the wardens — city Oru live elsewhere.
 
 Protectors of natural harmony. Anti-harvest. They lived with the anomaly until the **First Strike** tore the old balance. Ideological opposite of Penumbra: The Bright belongs to the world's food chain, not to industry.
 
@@ -74,7 +74,7 @@ A large Aethoran city-nation. Former Bright-order superpower. Brightsmith pride 
 
 **Vibe.** Fake-stoic, proud, elegant. High-fashion trenchcoats over sparse cast Brilliance — Vesper’s measure is one full arm and shoulder, plus one glove on the other hand. Never a sealed mech.
 
-Branched from Kho'Lan after the First Survivor. First Harvest belongs to them. They alone build Null-Flint containment. They refuse Chroma-fuel and do not deal in Tears. Industrial science of Seams is still unfinished — a quantum model of The Bright is spoken of in labs and does not exist as settled doctrine yet.
+Branched from Oru ground after the First Survivor. First Harvest belongs to them. They alone build Null-Flint containment. They refuse Chroma-fuel and do not deal in Tears. Industrial science of Seams is still unfinished — a quantum model of The Bright is spoken of in labs and does not exist as settled doctrine yet.
 
 **Want:** Core custody returned; mornings that still open under their craft. **Fear:** extinction, or winning by becoming the Aureate.
 
@@ -91,7 +91,7 @@ Branched from Kho'Lan after the First Survivor. First Harvest belongs to them. T
 
 Scientific pragmatists and weapon-manufacturers. The firm that renamed Bright-Tears. Speech shortens the name to Refract.
 
-**Perspective.** The Bright is a volatile resource meant to be exploited, studied, and weaponized — not a god (Lumari), not sacred nature (Kho'Lan).
+**Perspective.** The Bright is a volatile resource meant to be exploited, studied, and weaponized — not a god (Lumari), not sacred nature (the Oru).
 
 **Technology.** Pioneers of **Splinter-Crush**. Specialize in synthesizing and controlling localized reality tears (Seams) for advanced Bright-punk weaponry. Chroma research and Chroma-fuel theory. They do not contain Cores, forge Brilliance, or run Zenith Relays. Morals optional.
 
@@ -129,7 +129,7 @@ Current powerholders of the Resting Light. Former Kardia who unified under their
 
 Secretive shadow order. For now the name stands; Adumbra is retired.
 
-**Perspective.** The Bright is an unnatural force. They resent it. They look down on anyone who grows dependent and greedy for Bright power or Chroma. Ideological opposite of Kho'Lan.
+**Perspective.** The Bright is an unnatural force. They resent it. They look down on anyone who grows dependent and greedy for Bright power or Chroma. Ideological opposite of the Oru.
 
 **Bloomed leverage.** They have developed a way — method still open — to manipulate Bloomed cells and bodies. That is how they exert power on global politics, including pressure on Aureate Bloomed infantry. They can also suppress or cure Bloom and cleanse Seams when the board requires it.
 

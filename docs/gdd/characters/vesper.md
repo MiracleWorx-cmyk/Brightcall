@@ -11,6 +11,8 @@
 
 She was a Brightsmith before she became a Harvester. She still keeps Kardia manners: posture, etiquette, an open proud face that reads uplifting and almost static. The stoicism is performed. Oru bodies look carved and durable; inside they are fragile and loud with feeling. When emotion breaks the mask — anger, disgust, fear, joy — form slips, and she overcommits charge to close a gap and end the threat.
 
+She is **Oru** by blood and **Kardia** by life. There are not many Oru left in the cities, so she stands out on sight. She has lived in Kardia a long time. Walking Umbras as a Harvester sits in direct conflict with **the Oru** wardens’ anti-harvest ideology — that tension is real even without calling her a traitor.
+
 House Kardia was the Bright-order superpower before Aureate crime lords took control. Brightsmith pride remains. Ego bruises them even when they know ego should not lead. Vesper carries that pride: crest polished, coat civic, reload dignified — fake-stoic with underlying tension.
 
 ## Look

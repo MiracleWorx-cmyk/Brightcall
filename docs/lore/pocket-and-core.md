@@ -22,7 +22,7 @@ A **scratch** is when a Seam almost opens — Tears may weep along the cut befor
 
 The **Bright Core** is a reverse black hole of light. It emits Bright energy. Seams crowd it and weep Chroma. Interior look unknown. **Harvest** means taking the Core — faction motives differ. Null-Flint harvesting equipment extracts it into containment instead of shattering it into Splinters. **Destroy** throws Null-Flint into the Core and shatters it into Splinters. Either ending implodes the Bright.
 
-**Null-Flint** is Aethorian vacuum crystal. It implodes on ignition. Kardia use it for containment; Kho'Lan wield raw crystals as their only accepted tech.
+**Null-Flint** is Aethorian vacuum crystal. It implodes on ignition. Kardia use it for containment; the Oru wield raw crystals as their only accepted tech.
 
 **Splinters** are Bright-powered Null-Flint shards formed when Null-Flint violently meets a Core (smash-harvest or shatter). Crush one to cast a synthetic Seam.
 
@@ -78,7 +78,7 @@ Being shoved off an active Seam dumps an unfinished fill. Banked points stay.
 
 **Destroy:** Null-Flint into the Core. Splinters. Implosion. Same collapse Stitching for survivors not erased by the strike.
 
-**Pinch:** Kho'Lan (and Penumbra cleanses) shut a Seam before its natural end. The pinch name is still open. No vault from that act.
+**Pinch:** The Oru (and Penumbra cleanses) shut a Seam before its natural end. The pinch name is still open. No vault from that act.
 
 Harvest or pinch Discharge pays victory points with kills on the same track.
 
@@ -90,4 +90,4 @@ Round 15 finishes a build. The match ends at 15 victory points.
 
 ## Factions, one physics
 
-**House Kardia** spend Brilliance, Bright cells, Zenith Relays, and containment — former Bright-order superpower with superior craft. **Refract Labs** pioneered Splinter-Crush. **Kho'Lan** wield raw Null-Flint only — indigenous apex-predator doctrine. **The Aureate** hijack containment, burn Chroma-fuel, deploy controlled-Bloom infantry. **Lumari** drink Tears — divine will. **Penumbra** Voice Bloomed targets and cleanse Seams.
+**House Kardia** spend Brilliance, Bright cells, Zenith Relays, and containment — former Bright-order superpower with superior craft. **Refract Labs** pioneered Splinter-Crush. **The Oru** wield raw Null-Flint only — indigenous apex-predator doctrine. **The Aureate** hijack containment, burn Chroma-fuel, deploy controlled-Bloom infantry. **Lumari** drink Tears — divine will. **Penumbra** leverage Bloomed cells and cleanse Seams.

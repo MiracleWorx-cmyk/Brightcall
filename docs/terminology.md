@@ -20,7 +20,7 @@ The game is **Brightcall**. The world is **Aethora**. The anomaly is **The Brigh
 
 ## Peoples
 
-**Oru** are a people of Aethora: very large stature, black skin with a faint stone glimmer, bodies durable like carved stone. Exterior reads mass and hardness. Interior feeling is still loud. Leading visual for an Oru Harvester: `site/public/art/hero-harvester.png` (Vesper).
+**Oru** are a people of Aethora: the oldest indigenous race — very large stature, black skin with a faint stone glimmer, bodies durable like carved stone. Exterior reads mass and hardness. Interior feeling is still loud. Few remain in the industrial cities; an Oru in Kardia stands out. Leading visual: `site/public/art/hero-harvester.png` (Vesper). **The Oru** as a faction name means the Indigenous Wardens who refused harvest industry — not every Oru by blood.
 
 ## Nomenclature
 
@@ -45,7 +45,7 @@ The **Bright Core** is the nucleus — a reverse black hole of light. It emits e
 - **Destroy:** throw Null-Flint into the Core. Vacuum. The Core shatters into **Splinters**. The Bright ends in violent implosion.
 - **Harvest / extract:** Null-Flint **harvesting equipment** (Kardia containment craft) pulls the Core into custody instead of shattering it into Splinters. The Bright still ends in violent implosion. Survivors Stitch to their Eclipse crossing.
 
-**Kho'Lan** rely on **Null-Flint** tech — Seam-closing craft and analog vacuum combat. They reject Bright cells, Chroma-fuel, and Splinters. Null-Flint is rare.
+**The Oru** rely on **Null-Flint** tech — Seam-closing craft and analog vacuum combat. They reject Bright cells, Chroma-fuel, and Splinters. Null-Flint is rare.
 
 **Splinters** are Bright-powered Null-Flint shards. They form when Null-Flint violently meets a Bright Core — smashed against it in a harvest, or born when a Core shatters under Null-Flint (First Strike / destroy). Each shard holds dormant, highly unstable Bright energy. Intentionally crushing or destroying a Splinter triggers a **synthetic Seam**: a localized fabricated tear that bursts out as the same glass-textured satin web. Material for the Splintered card; synthetic Enhancement fuel.
 
@@ -89,7 +89,7 @@ Every Seam is caused by Bright energy — the Bright’s force inside the anomal
 
 A Seam is one transparent shattered satin sheet. It erupts from reality, rewrites everything it wraps while active, bursts Chroma at eruption, and weeps mixed Magenta / Cyan / Gold through its cracks while active. A wrap on a Harvester or a weapon is an Enhancement. It is fleeting. When the Seam ends, the original attributes return. There is no permanent Altered scar.
 
-Kho'Lan and Penumbra can cleanse / pinch Seams. Lumari may take weeping Chroma into the body. External contact with Chroma or a Seam is always dangerous as damage hazard. Bloom requires internal entry. On the table, exposure can mean fuel, damage, or death depending on the card; Bloom lines require an internal-path card.
+The Oru and Penumbra can cleanse / pinch Seams. Lumari may take weeping Chroma into the body. External contact with Chroma or a Seam is always dangerous as damage hazard. Bloom requires internal entry. On the table, exposure can mean fuel, damage, or death depending on the card; Bloom lines require an internal-path card.
 
 Tear / Chroma colors on the board are only Pressurized Magenta, Electric Cyan, and Searing Gold. Seam glass may look clear or fractured; that is the curtain, not a Tear. Bright energy’s white light is not a Tear color.
 
@@ -99,7 +99,7 @@ Formal speech says Glimmer, Radiance, Sature, the Glare. Street says New-Light, 
 
 ## The eras
 
-**The First Light** — one known Bright. Culture, Call of the Bright, Kho'Lan divinity. First Survivor. Lumari coalesce. Kardia begin to branch. First Strike.
+**The First Light** — one known Bright. Culture, Call of the Bright, Oru divinity. First Survivor. Lumari coalesce. Kardia begin to branch. First Strike.
 
 **The Traveling Light** — peoples follow reseeding Brights. First Harvest: Kardia contain a Bright Core with a Null-Flint device.
 
@@ -123,7 +123,7 @@ When a Core is harvested or destroyed, the Bright implodes and ends. Survivors o
 
 ## Factions
 
-**Kho'Lan** — say KO-lan, with a catch between the halves. Name may still change. Protectors of natural harmony; anti-harvest; **Null-Flint**-reliant tech. Reject Bright cells, Chroma-fuel, and Splinters. The Bright is living predator and season-maker; leave it alone. Ideological opposite of Penumbra.
+**the Oru** — Indigenous Wardens. Working faction name for the people who refused industrial harvest. **Null-Flint**-reliant; anti-harvest; natural harmony. Reject Bright cells, Chroma-fuel, and Splinters. The Bright is living predator and season-maker; leave it alone. Ideological opposite of Penumbra. Race and faction share the name **Oru**; city Oru (like Vesper) are not automatically wardens.
 
 
 
@@ -139,13 +139,13 @@ When a Core is harvested or destroyed, the Bright implodes and ends. Survivors o
 
 
 
-**Penumbra** — shadow order. The Bright is unnatural; they resent it and look down on Bright/Chroma dependence and greed. They manipulate Bloomed cells and bodies (method still open) to pressure global politics, including Aureate Bloomed infantry. Can suppress or cure Bloom and cleanse Seams. Ideological opposite of Kho'Lan.
+**Penumbra** — shadow order. The Bright is unnatural; they resent it and look down on Bright/Chroma dependence and greed. They manipulate Bloomed cells and bodies (method still open) to pressure global politics, including Aureate Bloomed infantry. Can suppress or cure Bloom and cleanse Seams. Ideological opposite of the Oru.
 
 
 
-Kho'Lan, Lumari, Kardia, and Penumbra stand without “the.” Refract Labs is the company name. Kho'Lan keeps the apostrophe; a spelling that drops the catch is an outsider smoothing the name.
+Lumari, Kardia, and Penumbra stand without “the.” **The Oru** and **the Aureate** keep “the.” Refract Labs is the company name.
 
-Faction accents: Kardia blue and silver hard-light on pearl Brilliance; the Aureate purple, white, and gold; Refract Labs green and orange heat; Lumari cyan and magenta; Kho'Lan white, red, and green; Penumbra black, purple, and orange. Containment units read as golden Core-vaults on pearl frames; chromatic fuel tanks read as pressurized canisters.
+Faction accents: Kardia blue and silver hard-light on pearl Brilliance; the Aureate purple, white, and gold; Refract Labs green and orange heat; Lumari cyan and magenta; the Oru white, red, and green; Penumbra black, purple, and orange. Containment units read as golden Core-vaults on pearl frames; chromatic fuel tanks read as pressurized canisters.
 
 ## Aesthetic
 
@@ -159,8 +159,8 @@ Visual references: `docs/gdd/references/brightcall-box-art.webp`, `docs/gdd/refe
 
 ## Retired
 
-These stay off narrative pages and live only here: Weld; Pocket as the anomaly name; Given Bright, Nomadic Age, Escalation as era titles; First Bright as an era title (the age is First Light); Call of the Light; Call of the Void; treating The Bright as “the sphere” or any spherical / squished-orb exterior; Reprint as return fiction; treating Chroma and Bright energy as one substance; deployment zone as the only name for Umbra; the Purists, the Ascended, the Utopists, Apex Labs, the Syndicate, the Puppeteers as faction names; Project Sin U as the public game title; Seams as ground cracks, lava rifts, laser walls, or hex borders; permanent Altered scars after a Seam ends; White as a Tear / Chroma board color; printed arcane / physical hex-edge borders as the Seam system; Hex-Arena as the public game title; **Brightforged** (the metal and craft are **Brilliance**); Bright-battery / Bright-batteries (the packs are **Bright cells**); alabaster Oru skin as the race default; walking out an intermittent “bright Eclipse exit” while the Bright still stands; Kardia dealing in Tears / Chroma as civic resource; Bloom from external skin contact alone; using **augment** as the public rules word for Seam-wrap rewrites (the word is **Enhancement**); **Vertex Labs** / **Axiom Labs** as names for Refract Labs; **Adumbra** (the order is **Penumbra**); cyan Bright-cell charge (cells are **bright white**; cyan is Chroma); **Altered Humans** as Aureate infantry label (use **controlled-Bloom infantry**); locking a finished third-quantum-field Seam model (science still in progress); the Syndicate as a seventh faction name (Aureate use syndicate methods).
+These stay off narrative pages and live only here: Weld; Pocket as the anomaly name; Given Bright, Nomadic Age, Escalation as era titles; First Bright as an era title (the age is First Light); Call of the Light; Call of the Void; treating The Bright as “the sphere” or any spherical / squished-orb exterior; Reprint as return fiction; treating Chroma and Bright energy as one substance; deployment zone as the only name for Umbra; the Purists, the Ascended, the Utopists, Apex Labs, the Syndicate, the Puppeteers as faction names; Project Sin U as the public game title; Seams as ground cracks, lava rifts, laser walls, or hex borders; permanent Altered scars after a Seam ends; White as a Tear / Chroma board color; printed arcane / physical hex-edge borders as the Seam system; Hex-Arena as the public game title; **Brightforged** (the metal and craft are **Brilliance**); Bright-battery / Bright-batteries (the packs are **Bright cells**); alabaster Oru skin as the race default; walking out an intermittent “bright Eclipse exit” while the Bright still stands; Kardia dealing in Tears / Chroma as civic resource; Bloom from external skin contact alone; using **augment** as the public rules word for Seam-wrap rewrites (the word is **Enhancement**); **Vertex Labs** / **Axiom Labs** as names for Refract Labs; **Kho'Lan** (the faction is **the Oru**); **Adumbra** (the order is **Penumbra**); cyan Bright-cell charge (cells are **bright white**; cyan is Chroma); **Altered Humans** as Aureate infantry label (use **controlled-Bloom infantry**); locking a finished third-quantum-field Seam model (science still in progress); the Syndicate as a seventh faction name (Aureate use syndicate methods).
 
 ## Still open
 
-Industrial quantum / lab model of Seams and The Bright (in progress — not locked). Exact Bright edge length. Exact Bright Core interior (exterior reads as reverse black hole of light; surface finish open). Finer Bright energy hue beyond bright white. Zenith Relay exact appearance. How organic material is offered to quiet a Bright outside Harvester consumption. Street name for Sature. Proper name of the containment unit (golden Core-vault look settled). Proper name of chromatic fuel tanks (pressurized canister look settled). Final title for the Vessel. Proper name for Kho'Lan Seam pinch / cleanse. Penumbra Bloomed-leverage method (how they manipulate Bloomed cells/bodies). City and people names. Exact Splinter-Crush chamber rules on the table. Whether the event deck ever casts Seams. Acrylic curtain token timing and residue rules. Whether direct Null-Flint annihilation skips Stitching. Regenerating exterior marketing stills of The Bright as a cube (current `the-bright.png` may still read spherical until SD3 regen).
+Industrial quantum / lab model of Seams and The Bright (in progress — not locked). Exact Bright edge length. Exact Bright Core interior (exterior reads as reverse black hole of light; surface finish open). Finer Bright energy hue beyond bright white. Zenith Relay exact appearance. How organic material is offered to quiet a Bright outside Harvester consumption. Street name for Sature. Proper name of the containment unit (golden Core-vault look settled). Proper name of chromatic fuel tanks (pressurized canister look settled). Final title for the Vessel. Proper name for Oru Seam pinch / cleanse. Penumbra Bloomed-leverage method (how they manipulate Bloomed cells/bodies). City and people names. Exact Splinter-Crush chamber rules on the table. Whether the event deck ever casts Seams. Acrylic curtain token timing and residue rules. Whether direct Null-Flint annihilation skips Stitching. Regenerating exterior marketing stills of The Bright as a cube (current `the-bright.png` may still read spherical until SD3 regen).

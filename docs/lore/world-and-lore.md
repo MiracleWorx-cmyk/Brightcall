@@ -22,7 +22,7 @@ The event deck is the fiction of balance failing. An omen becomes a hill, an odd
 
 ## Turning points
 
-**The First Light.** One known Bright. Kho'Lan divinity. First Survivor. Lumari form. Kardia begin to branch. First Strike ends that Bright.
+**The First Light.** One known Bright. Oru divinity. First Survivor. Lumari form. Kardia begin to branch. First Strike ends that Bright.
 
 **The Traveling Light.** Reseeding Brights. Roads and camps. First Harvest: Kardia contain a Bright Core with Null-Flint vacuum. Age ends.
 
@@ -34,7 +34,7 @@ A lost Core or collapsed Bright seeds New-Light elsewhere. Chroma can be farmed 
 
 ## Six answers
 
-**Kho'Lan** Null-Flint harmony wardens — anti-harvest. **Lumari** spiritualists — divine will, excess Bloom, Vessel hunt. **House Kardia** former Bright-order superpower — Brilliance, bright-white Bright cells; Seam science still unfinished. **Refract Labs** Splinter-Crush weaponizers. **The Aureate** barons and crime lords, Chroma-fuel, controlled-Bloom infantry. **Penumbra** resent the unnatural Bright; manipulate Bloomed cells for politics (method open).
+**The Oru** Null-Flint harmony wardens — anti-harvest. **Lumari** spiritualists — divine will, excess Bloom, Vessel hunt. **House Kardia** former Bright-order superpower — Brilliance, bright-white Bright cells; Seam science still unfinished. **Refract Labs** Splinter-Crush weaponizers. **The Aureate** barons and crime lords, Chroma-fuel, controlled-Bloom infantry. **Penumbra** resent the unnatural Bright; manipulate Bloomed cells for politics (method open).
 
 ## Missions that fit
 

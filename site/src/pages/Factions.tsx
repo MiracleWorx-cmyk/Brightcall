@@ -7,7 +7,7 @@ export function Factions() {
     <PageShell
       kicker="Six names"
       title="Factions"
-      lede="House Kardia and the Aureate face each other as nations. Refract Labs, Kho'Lan, Lumari, and Penumbra refuse both nations' terms in their own ways."
+      lede="House Kardia and the Aureate face each other as nations. Refract Labs, the Oru, Lumari, and Penumbra refuse both nations' terms in their own ways."
     >
       <div className="faction-grid">
         {factions.map((faction) => (

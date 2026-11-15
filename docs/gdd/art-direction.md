@@ -57,7 +57,7 @@ No grimdark mud as the whole mood. No soft organic landscape as the default grou
 
 ### Physical world — Bone, Ash & Greige
 
-**Alabaster Bone** carries brutalist architecture and bleached stone — it shows scratches and fight damage. **Oru** skin is black with a faint stone glimmer: very large bodies, durable like carved rock; leading plate `site/public/art/hero-harvester.png`. **Brilliance** gear sits brighter than Bone: pearl white with a faint radiance, so Kardia craft reads as living Core light rather than stone. Fiction lock: that metal handles Chroma safely — useful on tools that meet weeping Tears. **Bright cells** hold bright-white Bright energy in Brilliance shells. **Heavy Ash** is weathered concrete, dust, raw stone, war-torn ruin weight. **Gritty Greige** is weathered leather, canvas, Kho'Lan cloth — it bridges light and dark without soft sand.
+**Alabaster Bone** carries brutalist architecture and bleached stone — it shows scratches and fight damage. **Oru** skin is black with a faint stone glimmer: very large bodies, durable like carved rock; leading plate `site/public/art/hero-harvester.png`. **Brilliance** gear sits brighter than Bone: pearl white with a faint radiance, so Kardia craft reads as living Core light rather than stone. Fiction lock: that metal handles Chroma safely — useful on tools that meet weeping Tears. **Bright cells** hold bright-white Bright energy in Brilliance shells. **Heavy Ash** is weathered concrete, dust, raw stone, war-torn ruin weight. **Gritty Greige** is weathered leather, canvas, Oru field cloth — it bridges light and dark without soft sand.
 
 ### Shadows — Bruised Darkness
 
@@ -109,7 +109,7 @@ Every Seam is Bright energy fracturing reality. Inside the Bright this happens c
 
 Seams always weep, and they burst Chroma at eruption. The Bright does not eject Chroma from the Core. Chroma does not spew from the earth as a fountain — it leaves through Seam cracks.
 
-A Seam is fleeting, like Splinter power. When it ends, the original attributes return. There is no permanent scar token. Kho'Lan and Penumbra can cleanse / pinch Seams. Lumari may work the weeping Chroma.
+A Seam is fleeting, like Splinter power. When it ends, the original attributes return. There is no permanent scar token. The Oru and Penumbra can cleanse / pinch Seams. Lumari may work the weeping Chroma.
 
 On the table, an active Seam reads as an upright acrylic curtain token with a duration. When it ends, remove it. Touch / exposure effects live only while the Seam (or its immediate weep) is relevant to the card.
 
@@ -143,7 +143,7 @@ Full hazard-gear rules: [armor and exosuits](armor-and-exosuits.md).
 
 **Lumari** wear cyan and magenta — Bloom extremists, tattered rags over bodies rewriting under Tears. Body parts may sit inside localized Seams.
 
-**Kho'Lan** wear white, red, and green on Gritty Greige — field cloth, raw Null-Flint crystals, structured fabrics, stone adornments. Indigenous Warden silhouette. The catch in the name.
+**The Oru** wear white, red, and green on Gritty Greige — field cloth, raw Null-Flint crystals, structured fabrics, stone adornments. Indigenous Warden silhouette. Race and faction share the name; not every Oru walks with the wardens.
 
 **Penumbra** wear black, purple, and orange — sleek, sharp, calm. Intricate silhouettes that pass until detail betrays them. Shadow order; resent the unnatural Bright; Bloomed leverage for politics (method open).
 

@@ -67,7 +67,7 @@ Proximity to the Core is the heaviest temporal alteration Aethora knows. It feel
 
 ## Who spends what
 
-**Intruders** take Tears at weeping Seams, and Splinters when the spike is the plan. **House Kardia** forge Brilliance, Bright cells, Zenith Relays, and containment — former Bright order under Aureate pressure; industrial Seam science still unfinished. **Refract Labs** pioneered Splinter-Crush. **The Aureate** spend stolen Cores, Chroma-fuel, and controlled-Bloom infantry. **Kho'Lan** wield raw Null-Flint only — indigenous apex-predator doctrine. **Lumari** drink Tears — divine will. **Penumbra** Voice Bloomed targets and cleanse Seams.
+**Intruders** take Tears at weeping Seams, and Splinters when the spike is the plan. **House Kardia** forge Brilliance, Bright cells, Zenith Relays, and containment — former Bright order under Aureate pressure; industrial Seam science still unfinished. **Refract Labs** pioneered Splinter-Crush. **The Aureate** spend stolen Cores, Chroma-fuel, and controlled-Bloom infantry. **The Oru** wield raw Null-Flint only — indigenous apex-predator doctrine. **Lumari** drink Tears — divine will. **Penumbra** leverage Bloomed cells and cleanse Seams.
 
 ## What leaving costs
 

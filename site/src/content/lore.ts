@@ -85,7 +85,7 @@ export const eras = [
   {
     title: 'The First Light',
     blurb:
-      "One known Bright. Kho'Lan divinity. First Survivor. Lumari coalesce. Kardia begin to branch. Rath's First Strike ends that Bright and births Splinters.",
+      "One known Bright. Oru divinity. First Survivor. Lumari coalesce. Kardia begin to branch. Rath's First Strike ends that Bright and births Splinters.",
   },
   {
     title: 'The Traveling Light',
@@ -104,7 +104,7 @@ export type FactionId =
   | 'aureate'
   | 'refract'
   | 'lumari'
-  | 'kholan'
+  | 'oru'
   | 'penumbra'
 
 export const factions: {
@@ -138,7 +138,7 @@ export const factions: {
     motif:
       'Oppressed Brightsmiths. Superior Brilliance craft, Bright cells, Zenith Relays — pride held under Aureate rule.',
     origin:
-      "Branched from Kho'Lan after the First Survivor. First Harvest belongs to them. They alone forge Brilliance and containment. Fake-stoic elegance; coats over exo.",
+      "Branched from Oru ground after the First Survivor. First Harvest belongs to them. They alone forge Brilliance and containment. Fake-stoic elegance; coats over exo.",
     society:
       'Large city-nation. Brightsmith skill remains. Aureate crime lords hold the stolen Cores and the upper hand.',
     play: 'Finite Bright cells. Adaptable pressure. Readable brace. Civic craft in the storm.',
@@ -155,14 +155,14 @@ export const factions: {
     play: 'Spike and flee. Splinter-Crush Enhancements. Honest self-damage.',
   },
   {
-    id: 'kholan',
-    name: "Kho'Lan",
+    id: 'oru',
+    name: "the Oru",
     accent: 'White, red, and green',
-    accentVars: 'var(--kholan)',
+    accentVars: 'var(--oru)',
     motif:
-      'Natural harmony. Kho is the living world that does not weep. Lan is the promise to leave it whole. Anti-harvest. Null-Flint craft. Opposite of Penumbra.',
+      'Indigenous Wardens. Natural harmony. Anti-harvest. Null-Flint craft. Opposite of Penumbra. Not every Oru by blood walks with this faction.',
     origin:
-      'Lived in harmony until the First Strike. Anti-harvest. Null-Flint-reliant — reject Bright cells, Chroma-fuel, and Splinters.',
+      'Lived in harmony until the First Strike. Null-Flint-reliant — reject Bright cells, Chroma-fuel, and Splinters.',
     play: 'Silence. Denial. Raw Null-Flint vacuum. Empty Discharge.',
   },
   {
