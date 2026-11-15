@@ -5,13 +5,13 @@ alwaysApply: true
 
 # Oros lore lock
 
-The curated lore in `docs/terminology.md` and `docs/lore/` is the leading truth for **Brightcall**.
+The curated lorebook in `docs/lore/` (chapters I–X) and the Appendix in `docs/terminology.md` are the leading truth for **Brightcall**. Start from `docs/lore/README.md`.
 
 ## Before any lore or GDD change
 
-1. **Conflict check first (mandatory).** Compare the request to `docs/terminology.md`, `docs/lore/`, and this rule. If anything **conflicts**, **disagrees**, or would **rename / retire / reverse** a locked fact: **stop**. Do **not** edit yet. List each conflict in chat (old lock → proposed change → why it matters) and wait for Dirk's call. A "master blueprint," paste, or full rewrite does **not** skip this step.
+1. **Conflict check first (mandatory).** Compare the request to `docs/terminology.md`, `docs/lore/` chapters, and this rule. If anything **conflicts**, **disagrees**, or would **rename / retire / reverse** a locked fact: **stop**. Do **not** edit yet. List each conflict in chat (old lock → proposed change → why it matters) and wait for Dirk's call. A "master blueprint," paste, or full rewrite does **not** skip this step.
 2. Only after conflicts are resolved (or Dirk says overwrite) may you edit. Compatible additions and non-conflicting expansions may proceed.
-3. **Full-doc consistency pass (mandatory after any approved lore change).** Before commit, search and align **all** of: `docs/terminology.md`, `docs/lore/**`, `docs/factions/**`, `docs/gdd/**`, `docs/README.md`, `site/src/content/**`, related site pages, and `.cursor/rules/aethora-lore-lock.mdc`. No leftover retired names, no one-file-only updates, no half-applied locks.
+3. **Full-doc consistency pass (mandatory after any approved lore change).** Before commit, search and align **all** of: `docs/terminology.md`, `docs/lore/**` chapters, `docs/factions/**`, `docs/gdd/**`, `docs/README.md`, `site/src/content/**`, related site pages, and `.cursor/rules/aethora-lore-lock.mdc`. No leftover retired names, no one-file-only updates, no half-applied locks.
 4. Write **English only** in all docs, even if the user prompt is in another language.
 5. **Overwrite** outdated paragraphs once a change is approved. Do not annotate corrections. Do not keep "formerly called X" or "do not call it Y" in narrative.
 6. Affirmative prose only: state what the world **is**.
@@ -23,19 +23,22 @@ The curated lore in `docs/terminology.md` and `docs/lore/` is the leading truth 
 - Genre: **Bright-punk** — between fantasy and sci-fi; modern-gloomy steampunk cousin; extreme high contrast; Sin City read (Bone/Ash/Greige + Magenta/Cyan/Gold Chroma). Master plate: `site/public/art/hero-harvester.png`
 - Hard tech limit: **no** computers, screens, LEDs, internet, or modern firearms; Bright energy (bright white) or Chroma (volatile neon)
 - **Brilliance:** rare cast-to-fit; **Kardia/Vesper body budget:** one full arm + shoulder + one glove on the other hand
-- World: **Oros** · Anomaly: **The Bright** (vast **cube**)
+- World: **Oros** · Anomaly: **The Bright** (vast **cube**); **Seeds** = spawning zones; end → must rise elsewhere (faith: one reincarnated; science: many instances, one law); Resting Light cities at Seed intersections
+- **Interior:** peristaltic brutalist maze guiding organics to Core; **fractured gravity** + parkour mobility; torn Kardia/Aureate structures as poor reality reflections; civic cloth-first kit (no sealed exosuits / hazard-suit mechs)
+- **Bright Core:** blinding white **sphere** of liquid light (reverse black hole); Core *interior* unknown; cube = Eclipse shell only
+- **Call / calling / Brightcall:** one multilayered pull; physical read = maze + gravity toward Core; sensory form still open
 - **Eclipse / Umbra / Exit:** Null-Flint harvest or destroy only → Stitching
-- **Seams / Enhancement / Bloom / Splinter-Crush:** burst + continuous weep; wraps; Bloom internal-only; Enhancement tiers (Weak/Moderate/Ultimate) are **table language only**, not lore nouns — enhancements vary a lot in the world
+- **Seams / Enhancement / Bloom / Splinter-Crush:** burst + continuous weep; wraps; Bloom internal-only; Enhancement tiers (Weak/Moderate/Ultimate) are **table language only**, not lore nouns — enhancements vary a lot in the world; Seam violence escalates with organics / combat stress
 - **Bright cells:** bright-white charge (cyan is Chroma)
 - Quantum / lab Seam model: **still in progress** — do not lock
 - **House Kardia:** large former Bright-order superpower; Brightsmith craft remains; Aureate took control
 - **Aureate:** former Kardia; barons/crime lords; syndicate methods; Chroma-fuel; **controlled-Bloom infantry**; heavier metal
 - **Refract Labs:** Splinter-Crush weaponizers
-- **Lumari:** divine spiritualists; excess Bloom
+- **Lumari:** divine spiritualists; excess Bloom; Seam-crack teleport **open** (not locked)
 - **Penumbra:** Bright unnatural; look down on dependence; **leverage Bloomed cells/bodies** (method open) — no "Voice"
 - **the Oru:** Indigenous Wardens (faction); Null-Flint; anti-harvest; natural harmony; opposite of Penumbra. Race **Oru** is broader — city Oru exist; Vesper is Oru in Kardia and stands out; Harvester work conflicts with warden ideology without requiring the word traitor
 - Eras: First Light → Traveling Light → Resting Light
 - Match mutation: Splintered · No Weld
-- Retired: Brightforged; **Aethora** (world is **Oros**); **Kho'Lan** (faction is **the Oru**); Adumbra; Vertex/Axiom Labs; Altered Humans; cyan Bright-cell charge; locked third-quantum-field model; The Voice; the Syndicate as faction name
+- Retired: Brightforged; **Aethora** (world is **Oros**); **Kho'Lan** (faction is **the Oru**); Adumbra; Vertex/Axiom Labs; Altered Humans; cyan Bright-cell charge; locked third-quantum-field model; The Voice; the Syndicate as faction name; sealed exosuits / hazard-suit mechs as Harvester identity; Husks / The Lost as locked NPC class
 
-Full vocabulary: `docs/terminology.md`. Place lock: `docs/lore/the-singularity.md`. Art: `docs/gdd/art-direction.md`.
+Full vocabulary: `docs/terminology.md`. Place lock: `docs/lore/02-the-bright.md`. Lorebook: `docs/lore/README.md`. Art: `docs/gdd/art-direction.md`.

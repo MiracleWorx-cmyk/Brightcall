@@ -2,24 +2,16 @@
 
 **Brightcall.** World: Oros. Genre: Bright-punk.
 
-The look below is settled. The table still has to read at a glance. Words: [terminology](../terminology.md). Physics: [board glossary](../lore/pocket-and-core.md).
+The look below is settled. The table still has to read at a glance. Words: [terminology](../terminology.md). Lorebook: [The Bright](../lore/02-the-bright.md). Table physics: [board glossary](board-glossary.md).
 
-Leading visual truth for Seams and Chroma:
-
-- [Box art — Seam as draping curtain](references/brightcall-box-art.webp)
-- [Knife — Seam enveloping an object](references/seam-knife.webp)
-
-Kardia / Vesper civic-modern lean (prefer the proud civic plate over grim survivor):
-
-- [Vesper civic-modern](references/vesper-civic-modern.jpg)
-- [Vesper grim lean — avoid as default mood](references/vesper-grim-lean.jpg)
-
-## Style lock (website & marketing stills)
-
-**Master plates.** Every new still must match these two first:
+Leading visual truth:
 
 1. [`site/public/art/hero-harvester.png`](../../site/public/art/hero-harvester.png) — character / close action north star
 2. [`site/public/art/the-bright.png`](../../site/public/art/the-bright.png) — world / landscape north star
+
+## Style lock (website & marketing stills)
+
+**Master plates.** Every new still must match those two first.
 
 **One pipeline.** Stability **SD3 only** (`scripts/generate-brightcall-art.mjs`, model `sd3-large`). Mixing SD3 with Cursor GenerateImage or any other model breaks the look. If SD3 has no credits or the API fails, **stop and tell Dirk** — do not generate substitutes on another model.
 
@@ -77,13 +69,13 @@ Costume and ground stay in Bone / Ash / Greige / faction accents. Tears on the b
 
 ## The arena: inside the anomaly
 
-Matches take place entirely inside The Bright — a cubic volume, monolithic inside, brighter toward the Core.
+Matches take place entirely inside The Bright — a cubic volume, peristaltic brutalist maze inside, brighter toward a spherical Core.
 
 ### Outside vs inside
 
 From outside, The Bright is a huge luminous **cube**. Each Eclipse face looks bright; you can see into a fractured Seam-thick interior.
 
-From inside, an Eclipse face is a dark smoky wall. Oros is gone. The cube interior is a brutalist maze of gates, walls, and towering concrete — the Bright’s defense, built to protect the Core and trap those the calling lured in.
+From inside, an Eclipse face is a dark smoky wall. Oros is gone. The cube interior is a brutalist maze of gates, walls, and towering square concrete — the Bright’s defense, built to protect the Core and trap those the calling lured in. The maze moves in peristaltic waves that guide organic matter toward the Core. Fractured gravity favors parkour leaps. Torn Kardia and Aureate structures appear as poor reflections of outside reality fused into the cage.
 
 ### The Eclipse and Umbras
 
@@ -91,13 +83,13 @@ The Eclipse is the six faces of the cube. It expands as the Core grows. **Umbras
 
 ### Terrain and light gradient
 
-Hex middles show splice, monolith, and bleach. Edge near the inner Eclipse reads darker and greyer. Center overexposes toward the Core — bleached Bone, denser Seams, stronger Bright energy. Seams are curtain tokens, not printed hex borders. Brief Seam residue can haze a path after a curtain ends.
+Hex middles show splice, monolith, and bleach. Edge near the inner Eclipse reads darker and greyer. Center overexposes toward the Core — bleached Bone, denser Seams, stronger Bright energy. Seams are curtain tokens, not printed hex borders. Brief Seam residue can haze a path after a curtain ends. Combat stress and organic presence escalate Seam violence in a zone.
 
-Outside the Bright, Aureate districts lean darker industry under ivory towers. Kardia Brilliance forges and Zenith Relays work in optimistic civic light. Inside, those atmospheres arrive only as torn pieces mashed into the anomaly’s maze.
+Outside the Bright, Aureate districts lean darker industry under ivory towers. Kardia Brilliance forges and Zenith Relays work in optimistic civic light. Inside, those atmospheres arrive as torn civic pieces mashed into the anomaly’s maze — the Bright’s poor attempt to resemble reality.
 
 ### The Bright Core
 
-A reverse black hole of light at dead center. Enormous Bright emission. No Chroma spray from the Core itself — Chroma only from the Seam abundance around it. Interior look unknown. Faction accents still win over Seam flood and Core bleach.
+A perfectly smooth blinding-white **sphere** of liquid light at dead center — reverse black hole of light. Enormous Bright emission. No Chroma spray from the Core itself — Chroma only from the Seam abundance around it. What the inside of a Core looks like is unknown. Faction accents still win over Seam flood and Core bleach.
 
 ## Seams and Chroma
 
@@ -133,13 +125,13 @@ The world is original. Silhouettes, symbols, and costumes do not quote League of
 
 Each faction has a distinct shape language and a dedicated accent that pops against Bone / Ash / Greige and Seam light. Two characters in one faction share the accent, never the exact same pose or silhouette.
 
-**Kardia** lean **civic-modern magitech**, not medieval. Blue and silver hard-light on tailored coats, braces, and tool fittings — Resting Light high fashion under ash: crests, etiquette, clean silhouettes held in the mud. Brilliance is **hazard gear under cloth**: Vesper’s body budget is about **one full arm and shoulder** plus **one glove** on the other hand — rare cast-to-fit pearl, Bright cell on the weapon shoulder, coat cutouts framing the metal. Never sealed plate shells, never chrome cyberlimbs as identity: **pearl white, faintly radiant**. Bright cells glow bright white. Zenith Relays are civic energy substations (appearance open). Majestic containment units with golden Core-vault hearts on pearl frames. Proud civic craft under Aureate pressure.
+**Kardia** lean **civic-modern magitech**, not medieval. Blue and silver hard-light on tailored coats, braces, and tool fittings — Resting Light high fashion under ash: crests, etiquette, clean silhouettes held in the mud. Brilliance is **scarce civic craft under cloth**: Vesper’s body budget is about **one full arm and shoulder** plus **one glove** on the other hand — rare cast-to-fit pearl, Bright cell on the weapon shoulder, coat cutouts framing the metal. Never sealed exosuits, never hazard-suit mechs, never chrome cyberlimbs as identity: **pearl white, faintly radiant**. Bright cells glow bright white. Zenith Relays are civic energy substations (appearance open). Majestic containment units with golden Core-vault hearts on pearl frames. Proud civic craft under Aureate pressure.
 
 **The Aureate** wear purple, white, and gold on industrial mass — cutthroat wealth, stolen Kardia frames with hissing chromatic fuel tanks, vents, failsafes, and canisters running hot. Controlled-Bloom infantry mass. Baron leaders stay out of The Bright. Still cloth-first where the body shows; the loud tech is the pressurized fuel line, not a sealed mecha shell. Polished display over grit.
 
-Full hazard-gear rules: [armor and exosuits](armor-and-exosuits.md).
+Full civic kit rules: [civic field kit and Brilliance](armor-and-exosuits.md).
 
-**Refract Labs** wear green and orange heat glow — unhinged experimental tech, brass, glass, hazard gear, glowing cables, Splinter-Crush chambers and Chroma hardware ready to fail loud.
+**Refract Labs** wear green and orange heat glow — unhinged experimental tech, brass, glass, field harnesses, glowing cables, Splinter-Crush chambers and Chroma hardware ready to fail loud.
 
 **Lumari** wear cyan and magenta — Bloom extremists, tattered rags over bodies rewriting under Tears. Body parts may sit inside localized Seams.
 

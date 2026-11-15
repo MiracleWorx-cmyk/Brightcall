@@ -17,7 +17,7 @@ House Kardia was the Bright-order superpower before Aureate crime lords took con
 
 ## Look
 
-Gear rules that apply to every Kardia plate also live in [armor and exosuits](../armor-and-exosuits.md): rare cast-to-fit Brilliance under tailored clothing — for Vesper, about **one full arm and shoulder** of Brilliance, plus **one glove** on the other hand.
+Gear rules that apply to every Kardia plate also live in [civic field kit and Brilliance](../armor-and-exosuits.md): rare cast-to-fit Brilliance under tailored clothing — for Vesper, about **one full arm and shoulder** of Brilliance, plus **one glove** on the other hand.
 
 **Silhouette priority.** Resonance Glaive first (this is Vesper). Shoulder **Bright cell** second (this is Kardia). Exo braces third — visible through cutouts and coat edges, never the whole silhouette.
 
@@ -81,4 +81,4 @@ Kardia adapt. They do not own the “plant and hold the hill” fantasy — that
 
 ## Still settling
 
-Exact scratch payout (Tears token vs chromatic damage vs both). Charge counts, cell count, and exo braces’ exact board verbs. Proper cell and glaive model names. The defector friend’s name and whether they appear as an Aureate roster link.
+Exact scratch payout (Tears token vs chromatic damage vs both). Charge counts, cell count, and Brilliance braces’ exact board verbs. Proper cell and glaive model names. The defector friend’s name and whether they appear as an Aureate roster link.

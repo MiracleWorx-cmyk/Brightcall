@@ -72,13 +72,13 @@ export const bright = {
   outside:
     'From the outside: a vast cube of glass-like light. Approach a face. Find a dark Umbra. Walk in. The Bright quiets on organic material — and turns violent while it tries to consume you.',
   inside:
-    'From the inside: a brutalist monolithic maze filling the cube. The Bright tries to eat Harvesters over time; Seams that wrap them grant volatile Enhancements. Once in, you leave only by ending the Core.',
+    'From the inside: a peristaltic brutalist maze — square gates and concrete grinding organic matter toward the Core. Fractured gravity favors parkour leaps. Torn Kardia and Aureate structures sit fused in as poor reflections of outside reality. Seams wrap Harvesters as volatile Enhancements. Once in, you leave only by ending the Core.',
   eclipse:
     'The Eclipse is the six faces of the cube. It expands as the Core grows stronger and consumes more of Oros. Umbras — the darkest weak spots on a face — are entry, deployment, and mid-match Stitching return. Once inside, you leave only by ending the Core.',
   seams:
-    'Every Seam is Bright energy — appetite or Splinter-Crush synthetic. Razor-thin satin with fractured-glass texture. Chroma bursts at eruption and weeps Magenta, Cyan, and Gold. A wrap on a Harvester or weapon is an Enhancement. Kho\'Lan and Penumbra cleanse them.',
+    'Every Seam is Bright energy — appetite or Splinter-Crush synthetic. Razor-thin satin with fractured-glass texture. Chroma bursts at eruption and weeps Magenta, Cyan, and Gold. A wrap on a Harvester or weapon is an Enhancement. Combat stress and organics escalate Seam violence. The Oru and Penumbra cleanse them.',
   core:
-    'The Bright Core sits at the dead center. Call of the Bright pulls living matter toward it — street mouths say the calling. The Bright quiets on organic material and turns violent while consuming Harvesters. Ambient Bright energy across the cube is generally survivable. Proximity is lethal. Harvest takes the Core with Null-Flint containment; destroy shatters it into Splinters.',
+    'The Bright Core is a blinding white sphere of liquid light at dead center. Call of the Bright, the calling, and Brightcall name the same pull — maze motion and fractured gravity guide living matter inward. The Bright quiets on organic material and turns violent while consuming Harvesters. Ambient Bright energy across the cube is generally survivable. Proximity is lethal. Harvest takes the Core with Null-Flint containment; destroy shatters it into Splinters.',
 }
 
 export const eras = [
@@ -90,12 +90,12 @@ export const eras = [
   {
     title: 'The Traveling Light',
     blurb:
-      'Peoples follow reseeding Brights. Roads and camps. First Harvest: Kardia contain a Bright Core with Null-Flint vacuum. Brilliance civic power begins. The age ends.',
+      'Peoples follow reseeding Brights before Seed patterns are known. Roads and camps. First Harvest: Kardia contain a Bright Core with Null-Flint vacuum. Brilliance civic power begins. The age ends.',
   },
   {
     title: 'The Resting Light',
     blurb:
-      'The present. Fixed sites. Refract Labs coins Chroma and invents Chroma-fuel. The Aureate — former Kardia — seize the Bright order as barons and crime lords. House Kardia remains skilled. Penumbra pressure Bloomed politics from the walls.',
+      'The present. Seed patterns mapped; cities at Seed intersections. Refract Labs coins Chroma and invents Chroma-fuel. The Aureate — former Kardia — seize the Bright order as barons and crime lords. House Kardia remains skilled. Penumbra pressure Bloomed politics from the walls.',
   },
 ]
 
