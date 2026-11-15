@@ -12,7 +12,7 @@ A cube of hyper-saturated glass-like light stood in cut ground: silent, even, br
 
 Culture grew around the Bright. Ordinary seasons did not matter. The Bright’s temper did. When the seams started weeping, everyone understood. The omen was older than any faction.
 
-The danger had a name: **Call of the Bright**. It pulls living matter toward the Bright Core. How that pull manifests is unknown — nobody has heard it and lived to tell. Street mouths still say **the calling**. When the Bright went hungry, Seams wept harder and unrest followed. Harmony meant restraint. Harmony never meant safety.
+The danger had a name: **Call of the Bright**. It pulls living matter toward the Bright Core. How that pull manifests is unknown — nobody has heard it and lived to tell. Street mouths still say **the calling**. The Bright quiets when it receives organic material. When it hungers without that feed, Seams weep harder and unrest follows. Harvesters who enter become prey too — during consumption the Bright grows more violent. Harmony meant restraint. Harmony never meant safety.
 
 ### Kho'Lan and fanatics
 
@@ -46,7 +46,7 @@ Camps moved with each Glimmer. Too close meant the calling. Too far meant polar 
 
 Kardia learned to contain a Bright Core.
 
-They built a Null-Flint **containment unit**: hammer and ignition that implodes instead of explodes, a controlled vacuum. They reached the Core through its Seams, drew Bright energy into custody, and removed a living Core. That Bright ended. That act is the **First Harvest**. Brilliance civic power begins here.
+They built Null-Flint **harvesting equipment** — a **containment unit**: hammer and ignition that implodes instead of explodes, a controlled vacuum that extracts a Core intact instead of shattering it into Splinters. They reached the Core through its Seams, drew it into custody, and that Bright ended. That act is the **First Harvest**. Brilliance civic power begins here.
 
 The Traveling Light ends. Settled order becomes possible.
 
@@ -56,7 +56,7 @@ This is the present.
 
 Fixed Bright sites are mapped. Cities rise on the safe ring outside the Eclipse. Mood language hardens into calendar: Glimmer / New-Light, Radiance / High Bright, Sature / harvest, Glare / the Blinding.
 
-**Kardia** house Cores, forge Brilliance and Bright cells, raise Zenith Relays, forge containment units, and stabilize Tears for district craft so mornings open. They alone hold the craft to contain a Core.
+**Kardia** house Cores, forge Brilliance and Bright cells, raise Zenith Relays, and forge containment units so mornings open. They alone hold the craft to contain a Core. They refuse Chroma-fuel and do not deal in Tears as a resource.
 
 Researchers who want every use-case — stable Bloom, perfected Splinters, human trials, raw Chroma burned as fuel — break away as **Refract Labs**. They coin **Chroma** as the lab name for Bright-Tears. They work that liquid and scavenged Splinters. They do not contain Cores, forge Brilliance, or run Zenith Relays. Kardia ban Chroma-fuel.
 

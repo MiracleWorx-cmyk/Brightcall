@@ -1,8 +1,10 @@
 # The Bright
 
-The Bright is the central anomaly on Aethora: a vast **cube** of hyper-saturated light. Exact edge length is open. Silent when it looks balanced. Blinding when you look straight. It feeds on Chroma that weeps from Seams — it does not eject Chroma. Under pressure it sings for living matter: **Call of the Bright**, which street mouths call **the calling**. How the call manifests is unknown. Nobody has heard it and lived to tell.
+The Bright is the central anomaly on Aethora: a vast **cube** of hyper-saturated light. Exact edge length is open. Silent when it looks balanced. Blinding when you look straight. It feeds on Chroma that weeps from Seams — it does not eject Chroma. It also hungers for living matter: **Call of the Bright**, which street mouths call **the calling**. How the call manifests is unknown. Nobody has heard it and lived to tell.
 
-The cubic exterior matches the brutalist monolithic interior. Entrance is easy to teach: approach a face of light; find a dark weak spot; walk in.
+The Bright **quiets** when it receives **organic material**. That hunger does not stop when Harvesters walk in — it tries to consume them too. **During consumption it grows more violent.**
+
+The cubic exterior matches the brutalist monolithic interior. Entrance is easy to teach: approach a face of light; find a dark weak spot; walk in. Leaving is not. Once inside, the Bright holds you until the Core ends.
 
 Matches of **Brightcall** happen inside it.
 
@@ -24,13 +26,16 @@ The Eclipse is the outer boundary — the six faces of the cube. It expands as t
 
 **From inside:** that same face is a dark, smoky barrier. Aethora disappears. You are visually cut off from home.
 
-## Entry and exit
+## Entry — and why you stay
 
-**Umbras** are the darkest weak spots on an Eclipse face — dark doorways cut into a wall of light. That is entry — and match deployment / mid-match Stitching return.
+**Umbras** are the darkest weak spots on an Eclipse face — dark doorways cut into a wall of light. That is **entry** — and match deployment / mid-match Stitching return.
 
-Exit is the opposite: the **brightest** stretch of an Eclipse face. It appears only sometimes. Compasses may help. Leaving by harvesting the Core, or destroying it with Null-Flint, also ends the Bright and returns crews through collapse Stitching.
+You do not walk back out the Umbra. You do not leave through a bright face while the Bright still stands. The only ways out are rare **Null-Flint** acts on the Core:
 
-You do not simply turn around and walk out the Umbra you used. Once inside the dark fog of the boundary, the way home is the bright door — or the Core’s end.
+- **Destroy:** Null-Flint into the Core. Vacuum. Splinters. Violent implosion. Bright gone.
+- **Harvest:** Null-Flint harvesting equipment (containment) extracts the Core intact instead of shattering it into Splinters. Violent implosion still follows. Bright gone.
+
+Survivors of that collapse who were not erased by the Null-Flint strike itself are **Stitched** back to when they crossed the Eclipse.
 
 ## Mapping from outside
 
@@ -42,7 +47,7 @@ The Core sits at the center — a reverse black hole of light. It emits enormous
 
 What the inside of a Core looks like is unknown.
 
-Crews destroy a Core by throwing **Null-Flint** into it, or harvest it with **Brilliance** craft plus Null-Flint. Either end is a violent implosion. The Bright is gone. Bodies not annihilated in the Null-Flint strike itself die and are **Stitched** back to when they crossed the Eclipse.
+**Harvest** means taking that Core. Factions want it for different ends — civic custody, theft, data, denial. The tool that ends the Bright is still Null-Flint: shatter into Splinters, or extract into containment.
 
 ## Physical rules (short)
 
@@ -50,8 +55,9 @@ Crews destroy a Core by throwing **Null-Flint** into it, or harvest it with **Br
 | --- | --- |
 | Shape | Exterior cube; interior monolithic maze |
 | Bounded | Eclipse faces; one-way light/dark |
-| Umbras | Darkest spots on a face — entry doorways |
-| Exit | Brightest stretch of a face; intermittent |
+| Umbras | Darkest spots on a face — entry doorways only |
+| Exit | None while the Bright stands; Core Null-Flint harvest or destroy ends it |
+| Organic quiet | Bright quiets on organic material; consuming Harvesters turns it violent |
 | Monoliths | Bright’s defense — gates, walls, towers |
 | Seams | Bright-energy curtains; always weep Chroma; fleeting |
 | Residue | Brief unstable afterglow; hard navigation; not permanent scars |
@@ -71,7 +77,8 @@ References: [box art](../gdd/references/brightcall-box-art.webp), [knife Seam](.
 | Danger | What it is |
 | --- | --- |
 | Call of the Bright | Pull toward the Core. Form unknown to the living |
-| Eclipse trap | Inside: no view of home. Exit is not the Umbra you used |
+| Eclipse trap | Inside: no view of home. No walk-out while the Bright stands |
+| Organic hunger | Bright tries to consume Harvesters; violence rises during consumption |
 | Monolith maze | Defense walls that protect the Core and cage Harvesters |
 | Seam eruption | Curtain rewrites a thing for a time |
 | Seam residue | Afterglow that blocks or confuses routes |

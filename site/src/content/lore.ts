@@ -64,15 +64,15 @@ export const energies = {
 export const bright = {
   title: 'The Bright',
   outside:
-    'From the outside: a vast cube of glass-like light. Approach a face. Find a dark doorway. Walk in.',
+    'From the outside: a vast cube of glass-like light. Approach a face. Find a dark Umbra. Walk in. The Bright quiets on organic material — and turns violent while it tries to consume you.',
   inside:
-    'From the inside: a brutalist monolithic maze filling the cube — vast, unpredictable, temporally distorted. Matches happen entirely here — a chaotic splice of overwritten realities, not a factory floor.',
+    'From the inside: a brutalist monolithic maze filling the cube — vast, unpredictable, temporally distorted. Matches happen entirely here. Once in, you leave only by ending the Core.',
   eclipse:
-    'The Eclipse is the six faces of the cube. It expands as the Core grows stronger and consumes more of Aethora. Umbras — the darkest weak spots on a face — are safe entry, deployment, and Stitching return.',
+    'The Eclipse is the six faces of the cube. It expands as the Core grows stronger and consumes more of Aethora. Umbras — the darkest weak spots on a face — are entry, deployment, and mid-match Stitching return. Once inside, you leave only by ending the Core.',
   seams:
     'Every Seam is Bright energy. Paper-thin shattered satin curtains erupt like a cast net, rewrite what they wrap, and always weep Magenta, Cyan, and Gold at the edges. They are fleeting — when they end, the original returns. Splinters cast them. Kho\'Lan and Adumbra cleanse them.',
   core:
-    'The Bright Core sits at the dead center. Call of the Bright pulls living matter toward it — street mouths say the calling. Ambient Bright energy across the cube is generally survivable. Proximity is lethal.',
+    'The Bright Core sits at the dead center. Call of the Bright pulls living matter toward it — street mouths say the calling. The Bright quiets on organic material and turns violent while consuming Harvesters. Ambient Bright energy across the cube is generally survivable. Proximity is lethal. Harvest takes the Core with Null-Flint containment; destroy shatters it into Splinters.',
 }
 
 export const eras = [
@@ -199,7 +199,7 @@ export const game = {
     'Containment unit oddball — pick up and secure',
     'Kill windows on live borders',
     'Stall Seams that shove',
-    'Discharge: harvest a containment unit (Bright ends), or pinch a weeping Seam',
+    'Discharge: Null-Flint harvest a Core into containment (Bright ends), or pinch a weeping Seam',
   ],
 }
 

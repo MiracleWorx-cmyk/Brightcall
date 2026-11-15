@@ -42,7 +42,7 @@ Chroma changes cells. Bound into living tissue, it rewrites the host. That rewri
 
 ### Brilliance
 
-**Kardia** smiths alone make Brilliance gear. It is powered through a contained Bright Core, or built to store and emit Bright energy. Stable. Pearl white, faintly radiant — calm contained light, not Tear neon. **Bright cells** are Brilliance shells holding bright-white Bright energy. **Brilliance lets you handle Chroma safely:** Tears can touch the craft without the Bloom or burn of bare skin on a Seam. That is why Harvesters can work weeping edges with Kardia tools. Civic mornings and war frames share that craft. **Zenith Relays** distribute Bright energy as district substations. Kardia also stabilize Tears for district craft under Brilliance custody — never as raw burn. Containment units are Kardia hardware: pearl frames with golden Core-vault hearts.
+**Kardia** smiths alone make Brilliance gear. It is powered through a contained Bright Core, or built to store and emit Bright energy. Stable. Pearl white, faintly radiant — calm contained light, not Tear neon. **Bright cells** are Brilliance shells holding bright-white Bright energy. **Brilliance lets you handle Chroma safely:** Tears can touch the craft without the Bloom or burn of bare skin on a Seam. That is hazard protection when contact happens — Kardia do not deal in Tears or Chroma as a resource, and they refuse Chroma-fuel. Civic mornings and war frames share Brilliance craft. **Zenith Relays** distribute Bright energy as district substations. Containment units are Kardia Null-Flint harvesting hardware: pearl frames with golden Core-vault hearts — extract a Core intact instead of shattering it into Splinters.
 
 ### Chroma-fuel
 
@@ -54,7 +54,7 @@ Proximity to the Core is the heaviest temporal alteration Aethora knows. It feel
 
 ## Who spends what
 
-**Intruders** take Tears at weeping Seams, and Splinters when the spike is the plan. **Kardia** forge Brilliance, Bright cells, Zenith Relays, and containment units, and stabilize Tears for districts — they refuse Chroma-fuel. **Refract Labs** spend Chroma, scavenged Splinters, Bloom trials, and Chroma-fuel theory — they do not contain Cores or forge Brilliance. **The Aureate** spend stolen Cores, hijacked containment, Chroma-fuel, and controlled Bloom on foot soldiers; baron leaders rarely walk Umbras themselves. **Kho'Lan** pinch and cleanse Seams with Null-Flint, field procedure, and other Aethorian materials. **Lumari** take Tears into the body, work weeping Chroma, and Bloom toward a Vessel. **Adumbra** suppress or cure Bloom, cleanse Seams, and steer whoever Chroma has already opened.
+**Intruders** take Tears at weeping Seams, and Splinters when the spike is the plan. **Kardia** forge Brilliance, Bright cells, Zenith Relays, and containment units — they refuse Chroma-fuel and do not deal in Tears. **Refract Labs** spend Chroma, scavenged Splinters, Bloom trials, and Chroma-fuel theory — they do not contain Cores or forge Brilliance. **The Aureate** spend stolen Cores, hijacked containment, Chroma-fuel, and controlled Bloom on foot soldiers; baron leaders rarely walk Umbras themselves. **Kho'Lan** pinch and cleanse Seams with Null-Flint, field procedure, and other Aethorian materials. **Lumari** take Tears into the body, work weeping Chroma, and Bloom toward a Vessel. **Adumbra** suppress or cure Bloom, cleanse Seams, and steer whoever Chroma has already opened.
 
 ## What leaving costs
 

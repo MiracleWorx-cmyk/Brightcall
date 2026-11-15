@@ -16,7 +16,7 @@ People enter a Bright through an Umbra — the darkest weak spot on an Eclipse f
 
 **Stitching** returns a patterned body to its Umbra in a match. When a Core is harvested or Null-Flint-destroyed, the Bright implodes and Stitches survivors to their Eclipse crossing.
 
-One Bright, from the inside: cubic volume, vast monolithic maze, brighter toward the Core. Eclipse is the cube’s faces — a one-way mirror (bright/see-through outside; dark smoky inside). Umbras are dark doorways on a face. Exit is the brightest face stretch, intermittent. Seams are fleeting; residue may briefly hinder routes. Chroma only from Seam edges. Bone / Ash / Greige monoliths. No Seam hex borders.
+One Bright, from the inside: cubic volume, vast monolithic maze, brighter toward the Core. Eclipse is the cube’s faces — a one-way mirror (bright/see-through outside; dark smoky inside). Umbras are dark doorways on a face — entry only. The Bright quiets on organic material and turns violent while consuming Harvesters. Leave only by ending the Core (Null-Flint harvest or destroy). Seams are fleeting; residue may briefly hinder routes. Chroma only from Seam edges. Bone / Ash / Greige monoliths. No Seam hex borders.
 
 The event deck is the fiction of balance failing. An omen becomes a hill, an oddball, a kill window, a shove, harvest pressure toward the Blinding.
 
@@ -38,7 +38,7 @@ A lost Core or collapsed Bright seeds New-Light elsewhere. Chroma can be farmed 
 
 ## Missions that fit
 
-Hold a weeping Seam for a vault. Reach the Core and harvest under vacuum (Bright ends; Stitching). Pinch the Seam before Chroma leaves. Hijack a containment unit. Bloom and survive. Suppress another crew’s Bloom. Leave through the intermittent bright face-exit while the Bright still stands — never back out the Umbra.
+Hold a weeping Seam for a vault. Reach the Core and harvest with Null-Flint containment (Bright ends; Stitching). Destroy the Core with Null-Flint into Splinters. Pinch the Seam before Chroma leaves. Hijack a containment unit. Bloom and survive. Suppress another crew’s Bloom.
 
 ## Still settling
 

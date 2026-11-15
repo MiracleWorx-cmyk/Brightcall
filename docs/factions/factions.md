@@ -16,7 +16,7 @@ On Aethora, power comes from **The Bright** — vast cubes of light with a Brigh
 
 Six factions shape that fight.
 
-**Kardia** and **the Aureate** are rival nations. Kardia are larger, happier, and skilled: they alone forge containment units and stable **Brilliance** gear — pearl craft that can handle Chroma safely, Bright cells of bright-white charge, and **Zenith Relays** as district substations. They stabilize Tears for civic craft under Brilliance custody; they refuse to burn Tears as fuel. When they hold a Core, districts keep light and craft. The Aureate are fewer, richer at the top, and cutthroat. They cannot build true containment, so they steal Cores and hijack Kardia hardware. They burn banned **Chroma-fuel** — raw volatile power invented as a concept by **Refract Labs**, refused by Kardia, and weaponized by defected smiths. Baron leaders rarely enter The Bright. Foot soldiers take **controlled Bloom** so they can survive the fuel lines.
+**Kardia** and **the Aureate** are rival nations. Kardia are larger, happier, and skilled: they alone forge containment units and stable **Brilliance** gear — pearl craft that can handle Chroma safely when contact happens, Bright cells of bright-white charge, and **Zenith Relays** as district substations. They refuse Chroma-fuel and do not deal in Tears as a resource. When they hold a Core, districts keep light and craft. The Aureate are fewer, richer at the top, and cutthroat. They cannot build true containment, so they steal Cores and hijack Kardia hardware. They burn banned **Chroma-fuel** — raw volatile power invented as a concept by **Refract Labs**, refused by Kardia, and weaponized by defected smiths. Baron leaders rarely enter The Bright. Foot soldiers take **controlled Bloom** so they can survive the fuel lines.
 
 **Adumbra** move between both sides and trade in secrets. **Refract Labs**, **Kho'Lan**, and **Lumari** refuse to live under either nation’s terms — lab excess without civic leash, conservation without meddling, and excess Bloom hunger toward a living Vessel.
 
@@ -60,7 +60,7 @@ Lineages of the First Light. After the First Survivor — Bloomed, dying, strong
 
 The civic heart. Larger nation. Brilliance craft — pearl white, faintly radiant. Bright cells. Zenith Relays. Containment skill. Working prosperity under Aureate pressure.
 
-Branched from Kho'Lan after the First Survivor. First Harvest belongs to them. They house the Core so a city can beat. They stabilize Tears for district craft under Brilliance custody and refuse to burn them. They alone build containment units and stable Brilliance gear. More people than the Aureate. Happier. Not as rich. Civic manners held under theft and pressure.
+Branched from Kho'Lan after the First Survivor. First Harvest belongs to them. They house the Core so a city can beat. They refuse Chroma-fuel and do not deal in Tears. They alone build Null-Flint containment units and stable Brilliance gear. More people than the Aureate. Happier. Not as rich. Civic manners held under theft and pressure.
 
 **Want:** ordinary mornings, Core custody returned, survive without becoming the Aureate. **Fear:** extinction, or winning by adopting Chroma-fuel.
 

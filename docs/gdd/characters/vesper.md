@@ -61,7 +61,7 @@ A precision mason’s tool turned weapon: ultrasonic vibration wired to her Brig
 
 **Safe Chroma contact.** Brilliance lets Vesper handle Chroma without bare-skin Bloom or burn. When Tears weep along the glaive, the craft takes the touch. That is why a Kardian Harvester can work Seam edges and scratches with a civic tool instead of dying on the first ooze.
 
-**Reality scratches.** Side-effect of Bright vibration, not Chroma-fuel craft. Magenta/cyan Tears may weep where the cut almost opens a Seam. Vesper finds that ooze disgusting. She still flirts with the edge it gives her against enemies — figurative and literal — because the glaive keeps her safe enough to stay close. That tension is her moral line and her traitor lean.
+**Reality scratches.** Side-effect of Bright vibration, not Chroma-fuel craft. Magenta/cyan Tears may weep where the cut almost opens a Seam. Kardia do not deal in Tears — this leak is frowned upon. Vesper finds the ooze disgusting. She still flirts with the edge it gives her against enemies — figurative and literal — because the glaive’s Brilliance keeps her safe enough to stay close. That tension is her moral line and her traitor lean.
 
 On the board, scratches are not automatically a lasting Seam token. Working options: dropped Bright-Tear / Chroma residue, or extra chromatic damage on the swing. Rules not settled. A scratch can deepen into a Seam.
 

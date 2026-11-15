@@ -4,7 +4,7 @@ Physics for the interior of The Bright, and the words the board needs. History: 
 
 ## The words
 
-**The Bright** is a vast cube of hyper-saturated light. Exact edge length is open. It feeds on Chroma from Seams only — it does not eject Chroma. It sings for living matter. Matches happen inside it. Brighter ground means stronger Bright energy.
+**The Bright** is a vast cube of hyper-saturated light. Exact edge length is open. It feeds on Chroma from Seams only — it does not eject Chroma. It hungers for living matter. It quiets on organic material; when it consumes Harvesters it grows more violent. Matches happen inside it. Brighter ground means stronger Bright energy.
 
 **The Eclipse** is the outer boundary — the six faces of the cube. Outside: bright, see-through into a Seam-fractured interior. Inside: dark smoky barrier hiding Aethora.
 
@@ -12,7 +12,7 @@ Physics for the interior of The Bright, and the words the board needs. History: 
 
 A **Seam** is a paper-thin shattered satin curtain caused by Bright energy. It erupts like a cast net, envelops and rewrites while active, and always weeps Chroma at the edges. Fleeting — when it ends, the original returns. Brief residue may linger and hinder navigation without permanently rewriting matter.
 
-An **Umbra** is the darkest weak spot on an Eclipse face — a dark doorway in a wall of light: entry, deployment, mid-match Stitching return. Exit is the brightest stretch of a face, intermittent.
+An **Umbra** is the darkest weak spot on an Eclipse face — a dark doorway in a wall of light: entry, deployment, mid-match Stitching return. Not an exit. Once inside, only Null-Flint Core harvest or destroy ends the Bright.
 
 **Chroma** — also Tears, Bright-Tears on the street — is the liquid that oozes from Seam edges only. Magenta, Cyan, Searing Gold. Harvestable widely.
 
@@ -20,7 +20,7 @@ An **Umbra** is the darkest weak spot on an Eclipse face — a dark doorway in a
 
 A **scratch** is when a Seam almost opens — Tears may weep along the cut before a full curtain lands.
 
-The **Bright Core** is a reverse black hole of light. It emits Bright energy. Seams crowd it and weep Chroma. Interior look unknown. Harvest with Brilliance plus Null-Flint, or destroy with Null-Flint.
+The **Bright Core** is a reverse black hole of light. It emits Bright energy. Seams crowd it and weep Chroma. Interior look unknown. **Harvest** means taking the Core — faction motives differ. Null-Flint harvesting equipment extracts it into containment instead of shattering it into Splinters. **Destroy** throws Null-Flint into the Core and shatters it into Splinters. Either ending implodes the Bright.
 
 **Null-Flint** is Aethorian vacuum crystal. It implodes on ignition. Kardia use it for containment; Kho'Lan use it in Seam craft.
 
@@ -72,11 +72,13 @@ Being shoved off an active Seam dumps an unfinished fill. Banked points stay.
 
 ## Discharge
 
-**Extract (harvest):** secure a Bright Core in a containment unit. That Bright ends in violent implosion. Survivors Stitch to their Eclipse crossing. A young Bright seeds elsewhere. Umbras are entry only — you do not walk loot out the dark door you used.
+**Harvest:** secure a Bright Core with Null-Flint harvesting equipment / containment. The Core is taken intact instead of shattered into Splinters. That Bright ends in violent implosion. Survivors Stitch to their Eclipse crossing. A young Bright seeds elsewhere. Umbras are entry only.
+
+**Destroy:** Null-Flint into the Core. Splinters. Implosion. Same collapse Stitching for survivors not erased by the strike.
 
 **Pinch:** Kho'Lan (and Adumbra cleanses) shut a Seam before its natural end. The pinch name is still open. No vault from that act.
 
-Either Discharge pays victory points with kills on the same track.
+Harvest or pinch Discharge pays victory points with kills on the same track.
 
 ## What the board sees
 
@@ -86,4 +88,4 @@ Round 15 finishes a build. The match ends at 15 victory points.
 
 ## Factions, one physics
 
-**Kardia** spend Brilliance, Bright cells, Zenith Relays, containment units, and Tears stabilized for district craft. **Refract Labs** coined Chroma; they run Chroma trials, Chroma-fuel theory, and scavenged Splinters as spent Bright-charge tools — they do not contain Cores, forge Brilliance, or run Zenith Relays. **Kho'Lan** pinch and cleanse Seams with Null-Flint, field procedure, and other Aethorian materials. **The Aureate** hijack containment, burn Chroma-fuel weapons, run controlled Bloom on foot soldiers, and keep baron leaders out of The Bright. **Lumari** take Tears into the body, interact with weeping Chroma, and Bloom toward a Vessel. **Adumbra** suppress Bloom, cleanse Seams, and steer the exposed.
+**Kardia** spend Brilliance, Bright cells, Zenith Relays, and containment units. They refuse Chroma-fuel and do not deal in Tears as a resource. **Refract Labs** coined Chroma; they run Chroma trials, Chroma-fuel theory, and scavenged Splinters as spent Bright-charge tools — they do not contain Cores, forge Brilliance, or run Zenith Relays. **Kho'Lan** pinch and cleanse Seams with Null-Flint, field procedure, and other Aethorian materials. **The Aureate** hijack containment, burn Chroma-fuel weapons, run controlled Bloom on foot soldiers, and keep baron leaders out of The Bright. **Lumari** take Tears into the body, interact with weeping Chroma, and Bloom toward a Vessel. **Adumbra** suppress Bloom, cleanse Seams, and steer the exposed.

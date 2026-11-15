@@ -23,7 +23,7 @@ export function World() {
         <ul className="list-clean">
           <li>
             <strong>Harvest or hijack</strong>
-            Secure a containment unit — harvest ends the Bright; or steal one already nearly full.
+            Null-Flint harvest takes a Core into containment and ends the Bright — or steal a unit already nearly full.
           </li>
           <li>
             <strong>Pinch a Seam</strong>

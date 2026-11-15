@@ -87,7 +87,7 @@ From inside, an Eclipse face is a dark smoky wall. Aethora is gone. The cube int
 
 ### The Eclipse and Umbras
 
-The Eclipse is the six faces of the cube. It expands as the Core grows. **Umbras** are the darkest weak spots on a face — dark doorways in a wall of light; entry and mid-match Stitching return. Deep Plum lives here. Exit is the brightest stretch of a face, intermittent — not the Umbra door you used.
+The Eclipse is the six faces of the cube. It expands as the Core grows. **Umbras** are the darkest weak spots on a face — dark doorways in a wall of light; entry and mid-match Stitching return. Deep Plum lives here. There is no walk-out while the Bright stands — Core Null-Flint harvest or destroy ends it.
 
 ### Terrain and light gradient
 
