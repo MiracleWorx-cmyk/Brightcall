@@ -22,7 +22,7 @@ Applications: **Bloom**, **Splintered**, **Brilliance** (pearl white, faintly ra
 
 Factions: Kho'Lan, Lumari, Kardia, Refract Labs, the Aureate, Adumbra.
 
-Aesthetic: **Bright-punk Fantasy** — Bone / Ash / Greige, Bruised Darkness, toxic neon Chroma.
+Aesthetic: **Bright-punk Fantasy** (civic-modern magitech + anomaly physics) — Bone / Ash / Greige, Bruised Darkness, toxic neon Chroma.
 
 Eras: First Light → Traveling Light → Resting Light. Siren: **Call of the Bright** (street: **the calling**; manifestation unknown). **Stitching** returns match-death to Umbra, and collapse survivors to their Eclipse crossing. Core: reverse black hole of light; harvest or Null-Flint destroy ends the Bright.
 

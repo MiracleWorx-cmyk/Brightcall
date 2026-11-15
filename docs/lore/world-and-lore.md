@@ -12,7 +12,7 @@ If a card needs a fact that is not here, add the fact here first.
 
 ## Why they are in the arena
 
-People enter a Bright through an Umbra — the darkest Eclipse. Someone wants a Core harvested or destroyed, a Seam pinched, a Bloom survived, a Splinter tested, or another faction beaten to the prize. Call of the Bright pulls — **the calling** — form unknown to the living. If they die first, the mission fails.
+People enter a Bright through an Umbra — the darkest weak spot on an Eclipse face. Someone wants a Core harvested or destroyed, a Seam pinched, a Bloom survived, a Splinter tested, or another faction beaten to the prize. Call of the Bright pulls — **the calling** — form unknown to the living. If they die first, the mission fails.
 
 **Stitching** returns a patterned body to its Umbra in a match. When a Core is harvested or Null-Flint-destroyed, the Bright implodes and Stitches survivors to their Eclipse crossing.
 
@@ -34,11 +34,11 @@ A lost Core or collapsed Bright seeds New-Light elsewhere. Chroma can be farmed 
 
 ## Six answers
 
-**Kho'Lan** keep the catch in the name, preserve balance, pinch and cleanse Seams. **Lumari** Bloom hard — take Tears into the body, extreme mutation for assassination and suicide work, hunt a Vessel. **Kardia** are the civic heart: Brilliance, Bright cells, Zenith Relays, containment craft, larger happier nation under Aureate pressure. **Refract Labs** coined Chroma and chase Splinters, trials, and Chroma-fuel without touching the Bright or Bright energy. **The Aureate** run stolen Cores, a Chroma-fuel empire, controlled Bloom infantry, and hijacked Kardia containment — barons stay out of The Bright. **Adumbra** suppress or cure Bloom, cleanse Seams, and steer the exposed.
+**Kho'Lan** keep the catch in the name, preserve balance, pinch and cleanse Seams. **Lumari** Bloom hard — take Tears into the body, extreme mutation for assassination and suicide work, hunt a Vessel. **Kardia** are the civic heart: Brilliance, Bright cells, Zenith Relays, containment craft, larger happier nation under Aureate pressure. **Refract Labs** coined Chroma and chase trials, Chroma-fuel, and scavenged Splinters — they do not contain Cores or forge Brilliance. **The Aureate** run stolen Cores, a Chroma-fuel empire, controlled Bloom infantry, and hijacked Kardia containment — barons stay out of The Bright. **Adumbra** suppress or cure Bloom, cleanse Seams, and steer the exposed.
 
 ## Missions that fit
 
-Hold a weeping Seam for a vault outside. Reach the Core and extract under vacuum. Pinch the Seam before Chroma leaves. Hijack a containment unit. Bloom and survive. Suppress another crew’s Bloom. Leave through an Umbra with proof.
+Hold a weeping Seam for a vault. Reach the Core and harvest under vacuum (Bright ends; Stitching). Pinch the Seam before Chroma leaves. Hijack a containment unit. Bloom and survive. Suppress another crew’s Bloom. Leave through the intermittent bright face-exit while the Bright still stands — never back out the Umbra.
 
 ## Still settling
 

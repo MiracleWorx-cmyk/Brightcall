@@ -6,7 +6,7 @@ export const brand = {
   genre: 'Bright-punk Fantasy',
   tagline: 'Walk an Umbra. Survive the Core.',
   support:
-    'A fast hex brawler played entirely inside The Bright — Bone, Ash, and Greige ground where Seams erupt as shattered satin curtains and Chroma weeps at the edges.',
+    'A fast hex brawler played entirely inside a cube of The Bright — civic-modern magitech against Bone, Ash, and Greige ground where Seams erupt as shattered satin curtains and Chroma weeps at the edges.',
 }
 
 export const energies = {
@@ -135,7 +135,7 @@ export const factions: {
       "Branched from Kho'Lan after the First Survivor. First Harvest belongs to them. They alone house Bright Cores, forge Brilliance and containment units, and refuse Chroma-fuel.",
     society:
       'More people than the Aureate. Strong working economy. Happier. Not as rich. They prosper, yet Aureate theft holds them back.',
-    play: 'Numbers. Coordination. Siege. Readable brace. Optimistic civic military in the storm.',
+    play: 'Numbers. Coordination. Adaptable pressure. Readable brace. Optimistic civic military in the storm.',
   },
   {
     id: 'refract',
@@ -145,7 +145,7 @@ export const factions: {
     motif:
       'The firm that renamed Bright-Tears. Science without the civic leash.',
     origin:
-      'Split from Kardia after the First Harvest. Coined Chroma. Invented Chroma-fuel. They work the leak. They do not work the Bright or Bright energy.',
+      'Split from Kardia after the First Harvest. Coined Chroma. Invented Chroma-fuel. They work the leak and scavenged Splinters. They do not contain Cores or forge Brilliance.',
     play: 'Spike and flee. Splintered tails that break loud. Honest self-damage.',
   },
   {
@@ -156,8 +156,8 @@ export const factions: {
     motif:
       'The held ground. Kho is the living world that does not weep. Lan is the promise to leave it whole.',
     origin:
-      'Oldest temper. First Light reverence. The catch in the name keeps Aethora and the Bright from being one word. They pinch Seams with ritual, Null-Flint, and other Aethorian materials.',
-    play: 'Silence. Denial. Empty Discharge. Earthbound silhouette.',
+      'Oldest temper. First Light conservation. The catch in the name keeps Aethora and the Bright from being one word. They pinch Seams with Null-Flint, field procedure, and other Aethorian materials.',
+    play: 'Silence. Denial. Empty Discharge. Material craft silhouette.',
   },
   {
     id: 'lumari',
@@ -165,9 +165,9 @@ export const factions: {
     accent: 'Cyan and magenta',
     accentVars: 'var(--lumari)',
     motif:
-      'Bloom zealots who take Tears into the body and hunt a Vessel — a person who can absorb a Bright Core and live. Nobody has. Excess Bloom for extreme mutation and one-way missions.',
+      'Bloom extremists who take Tears into the body and hunt a Vessel — a person who can absorb a Bright Core and live. Nobody has. Excess Bloom for extreme mutation and one-way missions.',
     origin:
-      'Fanatics after the First Survivor. Ritual drinking of leaked Tears killed most and tempered a few. Tolerance is hierarchy. Rags are tradition.',
+      'Lineages after the First Survivor. Tear trials killed most and tempered a few. Tolerance is hierarchy. Rags are practical kit.',
     play: 'Health as fuel. Bloom lines. Fast adaptation. Assassination and suicide runs.',
   },
   {
@@ -192,14 +192,14 @@ export const game = {
     'Death is Stitching: return to your Umbra with the build intact.',
     'Shared Splintered deck: draw 3, keep 1 on mutation rounds.',
     'Four ability slots per character. Shared augment drafts on rounds 1, 3, 6, 9, and 12.',
-    'Acrylic standees. Hex edges carry terrain rules. Spliced terrain lives in the hex middles.',
+    'Acrylic standees. Spliced terrain lives in hex middles. Seams are curtain tokens, not hex-edge borders.',
   ],
   objectives: [
     'Weeping Seam zones and king of the hill',
-    'Containment unit oddball — pick up and run',
+    'Containment unit oddball — pick up and secure',
     'Kill windows on live borders',
     'Stall Seams that shove',
-    'Discharge: extract a containment unit, or pinch a weeping Seam',
+    'Discharge: harvest a containment unit (Bright ends), or pinch a weeping Seam',
   ],
 }
 

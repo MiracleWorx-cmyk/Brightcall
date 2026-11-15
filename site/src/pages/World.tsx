@@ -6,7 +6,7 @@ export function World() {
     <PageShell
       kicker="The world"
       title={brand.world}
-      lede={`A Bright-punk Fantasy world of anomalies, temporal shifts, and civic power built on contained light. Matches of ${brand.game} take place inside one Bright — not across the planet.`}
+      lede={`A Bright-punk world of anomalies, temporal shifts, and civic-modern power built on contained light. Matches of ${brand.game} take place inside one cube Bright — not across the planet.`}
     >
       <section className="section split split-2">
         {worldBits.map((bit) => (
@@ -22,8 +22,8 @@ export function World() {
         <h2>Why crews walk in</h2>
         <ul className="list-clean">
           <li>
-            <strong>Extract or hijack</strong>
-            Walk a containment unit out through an Umbra — or steal one already nearly full.
+            <strong>Harvest or hijack</strong>
+            Secure a containment unit — harvest ends the Bright; or steal one already nearly full.
           </li>
           <li>
             <strong>Pinch a Seam</strong>

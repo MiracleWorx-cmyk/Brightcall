@@ -99,7 +99,7 @@ Damage is a flat number. Health is a number. There is no armor formula and no ma
 
 Physical power and ability power are dials. Thresholds on abilities read those dials. Movement speed is also a threshold stat. The Quick Shot sketch uses it.
 
-A magic shield catches magic damage. A physical shield catches physical damage. The other type goes to health. Shields are how a tank answers two mages, without a percentage.
+A magic shield catches magic damage. A physical shield catches physical damage. The other type goes to health. Shields are how a tank answers two ability-power threats, without a percentage.
 
 Still settling: the health band (10 was an example, not a tuned pool); regen; mixed damage on one ability; whether a shield can be raised mid-attack.
 

@@ -64,7 +64,7 @@ Corporate says Chroma — the lab name Refract Labs gave Bright-Tears. Null-Flin
 
 Bloom is the body taking Tears. Lumari path. Seams are a common source.
 
-Near the nucleus, Bright energy dominates. Extract under vacuum into a Kardia containment unit for Brilliance custody. Pure exposure is fleeting temporal rewrite. Absorbing the Core into a Vessel is the Lumari myth. Nobody has lived it.
+Near the nucleus, Bright energy dominates. Extract under vacuum into a Kardia containment unit for Brilliance custody. Pure exposure is fleeting temporal rewrite — lethal scale, not soft transcendence. Absorbing the Core into a Vessel is the Lumari end goal. Nobody has lived it.
 
 Outside the cube, Bright energy from a held Core can force Seams so Chroma weeps in the wild.
 
@@ -72,7 +72,7 @@ Being shoved off an active Seam dumps an unfinished fill. Banked points stay.
 
 ## Discharge
 
-**Extract:** walk a containment unit out through an Umbra. This Bright quiets. A young Bright seeds elsewhere.
+**Extract (harvest):** secure a Bright Core in a containment unit. That Bright ends in violent implosion. Survivors Stitch to their Eclipse crossing. A young Bright seeds elsewhere. Umbras are entry only — you do not walk loot out the dark door you used.
 
 **Pinch:** Kho'Lan (and Adumbra cleanses) shut a Seam before its natural end. The pinch name is still open. No vault from that act.
 
@@ -86,4 +86,4 @@ Round 15 finishes a build. The match ends at 15 victory points.
 
 ## Factions, one physics
 
-**Kardia** spend Brilliance, Bright cells, Zenith Relays, containment units, and processed Tears. **Refract Labs** coined Chroma and spend Splinters, trials, and Chroma-fuel — never Bright energy. **Kho'Lan** pinch and cleanse Seams with ritual, Null-Flint, and other Aethorian materials. **The Aureate** hijack containment, burn Chroma-fuel weapons, run controlled Bloom on foot soldiers, and keep baron leaders out of The Bright. **Lumari** take Tears into the body, interact with weeping Chroma, and Bloom toward a Vessel. **Adumbra** suppress Bloom, cleanse Seams, and steer the exposed.
+**Kardia** spend Brilliance, Bright cells, Zenith Relays, containment units, and Tears stabilized for district craft. **Refract Labs** coined Chroma; they run Chroma trials, Chroma-fuel theory, and scavenged Splinters as spent Bright-charge tools — they do not contain Cores, forge Brilliance, or run Zenith Relays. **Kho'Lan** pinch and cleanse Seams with Null-Flint, field procedure, and other Aethorian materials. **The Aureate** hijack containment, burn Chroma-fuel weapons, run controlled Bloom on foot soldiers, and keep baron leaders out of The Bright. **Lumari** take Tears into the body, interact with weeping Chroma, and Bloom toward a Vessel. **Adumbra** suppress Bloom, cleanse Seams, and steer the exposed.

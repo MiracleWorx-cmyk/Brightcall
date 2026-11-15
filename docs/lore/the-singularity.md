@@ -76,6 +76,6 @@ References: [box art](../gdd/references/brightcall-box-art.webp), [knife Seam](.
 | Seam eruption | Curtain rewrites a thing for a time |
 | Seam residue | Afterglow that blocks or confuses routes |
 | Seam touch | Always dangerous. Can Bloom, burn, fuel, or kill |
-| Core proximity | Peak Bright energy. Fleeting godhood. No Vessel survivors |
+| Core proximity | Peak Bright energy. Fleeting temporal rewrite. Lethal. No Vessel survivors |
 | Collapse | Implosion. Stitching for those not erased by Null-Flint strike |
 | The next seed | A lost or collapsed Bright becomes someone else’s New-Light |

@@ -16,9 +16,9 @@ On Aethora, power comes from **The Bright** — vast cubes of light with a Brigh
 
 Six factions shape that fight.
 
-**Kardia** and **the Aureate** are rival nations. Kardia are larger, happier, and skilled: they alone forge containment units and stable **Brilliance** gear — pearl craft that can handle Chroma safely, Bright cells of bright-white charge, and **Zenith Relays** as district substations. When they hold a Core, districts keep light and craft. The Aureate are fewer, richer at the top, and cutthroat. They cannot build true containment, so they steal Cores and hijack Kardia hardware. They burn banned **Chroma-fuel** — raw volatile power invented as a concept by **Refract Labs**, refused by Kardia, and weaponize it with defected smiths. Baron leaders rarely enter The Bright. Foot soldiers take **controlled Bloom** so they can survive the fuel lines.
+**Kardia** and **the Aureate** are rival nations. Kardia are larger, happier, and skilled: they alone forge containment units and stable **Brilliance** gear — pearl craft that can handle Chroma safely, Bright cells of bright-white charge, and **Zenith Relays** as district substations. They stabilize Tears for civic craft under Brilliance custody; they refuse to burn Tears as fuel. When they hold a Core, districts keep light and craft. The Aureate are fewer, richer at the top, and cutthroat. They cannot build true containment, so they steal Cores and hijack Kardia hardware. They burn banned **Chroma-fuel** — raw volatile power invented as a concept by **Refract Labs**, refused by Kardia, and weaponized by defected smiths. Baron leaders rarely enter The Bright. Foot soldiers take **controlled Bloom** so they can survive the fuel lines.
 
-**Adumbra** move between both sides and trade in secrets. **Refract Labs**, **Kho'Lan**, and **Lumari** refuse to live under either nation’s terms — science without morals, balance without meddling, and excess Bloom hunger toward a living Vessel.
+**Adumbra** move between both sides and trade in secrets. **Refract Labs**, **Kho'Lan**, and **Lumari** refuse to live under either nation’s terms — lab excess without civic leash, conservation without meddling, and excess Bloom hunger toward a living Vessel.
 
 ---
 
@@ -26,26 +26,26 @@ Six factions shape that fight.
 
 Say **KO-lan**, with a catch between the halves. Kho is the living world that does not weep. Lan is the promise to leave it whole.
 
-Oldest temper on Aethora. First Light reverence. The catch in the name is doctrine: Aethora and the Bright are not one word. Conservatives who refused the meddle when Kardia branched away. They pinch and cleanse Seams with ritual, Null-Flint, and other Aethorian materials, and guard against Core theft that would starve the song for a dock.
+Oldest temper on Aethora. First Light conservation doctrine. The catch in the name is doctrine: Aethora and the Bright are not one word. Conservatives who refused the meddle when Kardia branched away. They pinch and cleanse Seams with Null-Flint, field procedure, and other Aethorian materials, and guard against Core theft that would starve the anomaly’s feed cycle for a dock.
 
 **Want:** silence on the board; fewer meddles; the catch kept. **Fear:** permanent harvest order.
 
-**At the table:** short Silence, denial, empty Discharge. Earthbound. White, red, and green.
+**At the table:** short Silence, denial, empty Discharge. Material craft — field cloth, Null-Flint, stone and metal tools. White, red, and green.
 
 **Roster (working)**
 
 1. **The Seam-Sealer** — Force a weeping Seam shut. Deny Chroma. Score through suppression.
-2. **The Null-Priest** — Short Silence on Splintered or Brilliance gear.
+2. **The Null-Ward** — Short Silence on Splintered or Brilliance gear.
 
 ---
 
 ## Lumari
 
-Bloom zealots wearing faith. They take Tears into the body for power and hunt a **Vessel** — a person who can absorb a Bright Core and live. Nobody has. Final title still open.
+Bloom extremists. They take Tears into the body for power and hunt a **Vessel** — a person who can absorb a Bright Core and live. Nobody has. Final title still open.
 
-Fanatics of the First Light. After the First Survivor — Bloomed, dying, strong, leaking Tears, wrapped in rags — they organized. Ritual drinking of leaked Tears killed most and tempered a few. Tolerance became hierarchy. Rags became tradition. Their Bloom is **excessive**: extreme mutation suited to assassination and suicide missions. Pure Bright absorption remains the unachieved end. Refract Labs later named that liquid Chroma. Lumari still say Tears.
+Lineages of the First Light. After the First Survivor — Bloomed, dying, strong, leaking Tears, wrapped in rags — they organized. Lineage trials with leaked Tears killed most and tempered a few. Tolerance became hierarchy. Rags became practical kit for rewriting bodies. Their Bloom is **excessive**: extreme mutation suited to assassination and suicide missions. Pure Bright absorption remains the unachieved end. Refract Labs later named that liquid Chroma. Lumari still say Tears.
 
-**Want:** embodiment of the Bright. **Fear:** science that bottles their god into Brilliance custody.
+**Want:** embodiment of Core-scale rewrite. **Fear:** science that bottles that power into Brilliance custody.
 
 **At the table:** health as fuel, Bloom lines, fast adaptation, lineage hierarchy. Cyan and magenta.
 
@@ -60,7 +60,7 @@ Fanatics of the First Light. After the First Survivor — Bloomed, dying, strong
 
 The civic heart. Larger nation. Brilliance craft — pearl white, faintly radiant. Bright cells. Zenith Relays. Containment skill. Working prosperity under Aureate pressure.
 
-Branched from Kho'Lan after the First Survivor. First Harvest belongs to them. They house the Core so a city can beat. They process Tears for districts and refuse to burn them. They alone build containment units and stable Brilliance gear. More people than the Aureate. Happier. Not as rich. Civic manners held under theft and pressure.
+Branched from Kho'Lan after the First Survivor. First Harvest belongs to them. They house the Core so a city can beat. They stabilize Tears for district craft under Brilliance custody and refuse to burn them. They alone build containment units and stable Brilliance gear. More people than the Aureate. Happier. Not as rich. Civic manners held under theft and pressure.
 
 **Want:** ordinary mornings, Core custody returned, survive without becoming the Aureate. **Fear:** extinction, or winning by adopting Chroma-fuel.
 
@@ -77,7 +77,7 @@ Branched from Kho'Lan after the First Survivor. First Harvest belongs to them. T
 
 The firm that renamed Bright-Tears. Science without the civic leash: Splinters, Bloom trials, Chroma-fuel, every use of the leak.
 
-After the First Harvest, Kardia science split. They coined Chroma, chased human trials and raw Chroma burned as fuel. Kardia banned that fuel. Refract kept inventing. They work Chroma. They do not work the Bright or Bright energy. Morals optional. Speech shortens the firm to Refract.
+After the First Harvest, Kardia science split. They coined Chroma, chased human trials and raw Chroma burned as fuel. Kardia banned that fuel. Refract kept inventing. They work Chroma and scavenged Splinters as spent Bright-charge tools. They do not contain Cores, forge Brilliance, or run Zenith Relays. Morals optional. Speech shortens the firm to Refract.
 
 **Want:** maximum thresholds. **Fear:** a tame Chroma, or civic use that leaves the burn forbidden.
 

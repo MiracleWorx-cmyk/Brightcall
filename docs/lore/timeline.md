@@ -12,21 +12,21 @@ A cube of hyper-saturated glass-like light stood in cut ground: silent, even, br
 
 Culture grew around the Bright. Ordinary seasons did not matter. The Bright’s temper did. When the seams started weeping, everyone understood. The omen was older than any faction.
 
-The danger had a name: **Call of the Bright**. A hypnotic song pulled living matter toward the Bright Core. Street mouths still say **the calling**. Organic fuel calmed unrest after the Bright went hungry. Harmony meant respect. Harmony never meant safety.
+The danger had a name: **Call of the Bright**. It pulls living matter toward the Bright Core. How that pull manifests is unknown — nobody has heard it and lived to tell. Street mouths still say **the calling**. When the Bright went hungry, Seams wept harder and unrest followed. Harmony meant restraint. Harmony never meant safety.
 
 ### Kho'Lan and fanatics
 
-The people of the First Light treated the Bright as divinity. The Kho'Lan temper was already there: preserve the balance, do not meddle. Kho is the living world that does not weep. Lan is the promise to leave it whole. They pronounce a catch between the two. Inside that reverence lived fanatics who wanted more than prayer.
+The people of the First Light treated the Bright as the axis of the world. The Kho'Lan temper was already there: preserve the balance, do not meddle. Kho is the living world that does not weep. Lan is the promise to leave it whole. They pronounce a catch between the two. Inside that conservation doctrine lived fanatics who wanted embodiment, not restraint.
 
 ### The First Survivor
 
 Someone came out.
 
-Heavily Bloomed. Dying. Incredibly strong. Tears leaked from the alterations. Clothing would not fit the rewritten body, so the Survivor wore rags. Fanatics named the Survivor the human shape of the deity inside the Bright. They drank the leaked Tears as ritual. Most died. Some took small alterations and lived. Lineages that endured grew tolerant. Tolerance became hierarchy. Those fanatics organized into what the Resting Light still calls **Lumari**. Rags became tradition.
+Heavily Bloomed. Dying. Incredibly strong. Tears leaked from the alterations. Clothing would not fit the rewritten body, so the Survivor wore rags. Fanatics named the Survivor the living proof that a body could hold the Bright’s rewrite. They drank the leaked Tears as lineage trials. Most died. Some took small alterations and lived. Lineages that endured grew tolerant. Tolerance became hierarchy. Those fanatics organized into what the Resting Light still calls **Lumari**. Rags became practical tradition for bodies that keep rewriting.
 
 ### The split toward the heart
 
-The Survivor changed the argument. Organized investigation began. From Kho'Lan ground grew a second will: a perfect life, controlled, in sync with the Bright. That will becomes **Kardia**, the civic heart. Kho'Lan stay with the pause. The balance is holy. Meddling is the risk.
+The Survivor changed the argument. Organized investigation began. From Kho'Lan ground grew a second will: civic life controlled and powered by contained Bright energy. That will becomes **Kardia**, the civic heart. Kho'Lan stay with the pause. The balance is doctrine. Meddling is the risk.
 
 ### The First Strike
 
@@ -46,7 +46,7 @@ Camps moved with each Glimmer. Too close meant the calling. Too far meant polar 
 
 Kardia learned to contain a Bright Core.
 
-They built a Null-Flint **containment unit**: hammer and ignition that implodes instead of explodes, a controlled vacuum. They reached the Core through its Seams, drew Bright energy into custody, and walked a living Core out. That act is the **First Harvest**. Brilliance civic power begins here.
+They built a Null-Flint **containment unit**: hammer and ignition that implodes instead of explodes, a controlled vacuum. They reached the Core through its Seams, drew Bright energy into custody, and removed a living Core. That Bright ended. That act is the **First Harvest**. Brilliance civic power begins here.
 
 The Traveling Light ends. Settled order becomes possible.
 
@@ -56,9 +56,9 @@ This is the present.
 
 Fixed Bright sites are mapped. Cities rise on the safe ring outside the Eclipse. Mood language hardens into calendar: Glimmer / New-Light, Radiance / High Bright, Sature / harvest, Glare / the Blinding.
 
-**Kardia** house Cores, forge Brilliance and Bright cells, raise Zenith Relays, forge containment units, and process Tears so mornings open. They alone hold the craft to contain a Core.
+**Kardia** house Cores, forge Brilliance and Bright cells, raise Zenith Relays, forge containment units, and stabilize Tears for district craft so mornings open. They alone hold the craft to contain a Core.
 
-Researchers who want every use-case — stable Bloom, perfected Splinters, human trials, raw Chroma burned as fuel — break away as **Refract Labs**. They coin **Chroma** as the lab name for Bright-Tears. They work that liquid. They do not work the Bright or Bright energy. Kardia ban Chroma-fuel.
+Researchers who want every use-case — stable Bloom, perfected Splinters, human trials, raw Chroma burned as fuel — break away as **Refract Labs**. They coin **Chroma** as the lab name for Bright-Tears. They work that liquid and scavenged Splinters. They do not contain Cores, forge Brilliance, or run Zenith Relays. Kardia ban Chroma-fuel.
 
 Kardia who crave more steal Bright Cores they cannot contain themselves. Theft succeeds again and again. **The Aureate** become a rival nation: vicious, cutthroat, short on knowledge, long on wealth. Defected Kardia smiths and inventors weaponize Chroma-fuel for them. Chromatic fuel tanks feed devastating, volatile arms. Baron leaders rarely enter The Bright. Foot soldiers take controlled Bloom so they can survive the fuel lines.
 

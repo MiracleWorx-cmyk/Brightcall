@@ -49,7 +49,7 @@ Genre: **Bright-punk Fantasy**. Stylized realism, painterly finish, sharp brushs
 
 Resting Light Kardia may read **civic-modern magitech** (trenchcoats, compact pearl Brilliance, Bright cells of bright-white charge) — Bright-punk grit with a modern silhouette — without becoming Earth sci-fi. Guns and lasers are infant tech; computers, screens, and internet do not exist. Aureate stay dirtier-industrial; Refract stay hazardous lab.
 
-The physical world is heavy: **Bone, Ash, and Greige**. Magic is toxic pressurized neon against that grit. Shadows are **bruised** (plum, olive, charcoal), never strip-book flat black. The Bright remains spectacular, not murky.
+The physical world is heavy: **Bone, Ash, and Greige**. Anomaly light is toxic pressurized neon against that grit. Shadows are **bruised** (plum, olive, charcoal), never strip-book flat black. The Bright remains spectacular, not murky.
 
 No grimdark mud as the whole mood. No soft organic landscape as the default ground. No blood, fleshy gore, or wound imagery in the Bright’s visual language. No hyper-realistic 3D renders as the finish. The board is not a factory floor. The board is the chaotic, surreal interior of **The Bright**.
 
@@ -101,7 +101,7 @@ A reverse black hole of light at dead center. Enormous Bright emission. No Chrom
 
 ## Seams and Chroma
 
-A Seam is a paper-thin **satin sheet** that erupts out of reality and drapes over an object, a body, or a stretch of landscape. The sheet itself is transparent glass-satin — looking through it is like peering through a shattered window. Fracture lines run through the sheet. Everything trapped inside is rewritten while the Seam lasts — steel becomes clockwork and crystal; rock becomes alien ice.
+A Seam is a paper-thin **satin sheet** that erupts out of reality and drapes over an object, a body, or a stretch of landscape. The sheet itself is transparent glass-satin — looking through it is like peering through a shattered window. Fracture lines run through the sheet. Everything trapped inside is rewritten while the Seam lasts — steel becomes fused civic lattice and Bright-scarred glass; rock becomes bleached anomaly stone.
 
 The Seam sheet is not a cyan curtain or a magenta curtain. Color lives in the **Chroma**, not in the sheet. Magenta, Cyan, and Searing Gold Tears move **together** through the cracks: dripping, oozing, and crawling along the shattered lines and the edges where the sheet meets the unaltered world. Chroma is toxic neon liquid light on clear fractured satin — never a solid colored wall of one Tear hue.
 
@@ -119,13 +119,13 @@ Reference: the knife half-normal, half-rewritten behind shattered satin glass; t
 
 ## Characters: acrylic standees
 
-Characters are acrylic standees, not miniatures. Silhouette first. Slightly exaggerated proportions — larger weapons, obvious shoulders and cloaks — so the outline reads across a crowded fight inside the anomaly.
+Characters are acrylic standees, not miniatures. Silhouette first. Slightly exaggerated proportions — larger weapons, obvious shoulders and coats — so the outline reads across a crowded fight inside the anomaly.
 
-Detail inside the silhouette belongs on the card portrait. The standee carries outline, faction accent, and one prop that supports the loyal fantasy. One pose. Full body. Thick enough to cut from acrylic and still be recognized from the scrap.
+Detail inside the silhouette belongs on the card portrait. The standee carries outline, faction accent, and one prop that supports the loyal build. One pose. Full body. Thick enough to cut from acrylic and still be recognized from the scrap.
 
 The standee does not change when augments are tucked. Tucked strips on the tableau show what the character became this match.
 
-These figures are gladiators for silhouette brief only: fighters built to read across a table. Fiction remains people who walked an Umbra into a Bright to harvest, contain, pinch, or seize power. Courage under a hard job. Asymmetry and Splinter housing show the toll of the work. The art does not sell PTSD ruin as the default face of a crew. Kardia faces read open, proud, and almost static — performed composure — with feeling breaking through in posture and eyes, not in collapse.
+These figures are Harvesters for silhouette brief only: crews built to read across a table. Fiction remains people who walked an Umbra into a Bright to harvest, contain, pinch, or seize power. Courage under a hard job. Asymmetry and Splinter housing show the toll of the work. The art does not sell PTSD ruin as the default face of a crew. Kardia faces read open, proud, and almost static — performed composure — with feeling breaking through in posture and eyes, not in collapse.
 
 The world is original. Silhouettes, symbols, and costumes do not quote League of Legends champions or Aristeia teams.
 
@@ -141,9 +141,9 @@ Full hazard-gear rules: [armor and exosuits](armor-and-exosuits.md).
 
 **Refract Labs** wear green and orange heat glow — unhinged experimental tech, brass, glass, hazard gear, glowing cables, Splinter and Chroma hardware ready to fail loud.
 
-**Lumari** wear cyan and magenta — zealots of Bloom hunger, tattered rags over bodies rewriting under Tears. Body parts may sit inside localized Seams.
+**Lumari** wear cyan and magenta — Bloom extremists, tattered rags over bodies rewriting under Tears. Body parts may sit inside localized Seams.
 
-**Kho'Lan** wear white, red, and green on Gritty Greige — earthbound ritual tools, Null-Flint, organic structured fabrics, stone or metal adornments. The catch in the name.
+**Kho'Lan** wear white, red, and green on Gritty Greige — field cloth, Null-Flint tools, structured fabrics, stone or metal adornments. Conservation silhouette. The catch in the name.
 
 **Adumbra** wear black, purple, and orange — sleek, sharp, calm. Intricate silhouettes that pass until detail betrays them. Disguised tech that suppresses and steers Chroma exposure.
 

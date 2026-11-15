@@ -46,19 +46,19 @@ The **Bright Core** is the nucleus — a reverse black hole of light. It emits e
 
 **Splintered** means altered with a Splinter — the shared mutation card. It stays through Stitching.
 
-**Brilliance** is Kardia metalcraft: machined pearl-white, faintly radiant, powered by a contained Bright Core or built to store and emit Bright energy. Stable. Civic and war gear. **Brilliance lets a body handle Chroma safely** — Tears can touch the craft without the raw Bloom/burn of bare contact. Blue and silver hard-light accents sit on that shell. Kardia reliability fantasy.
+**Brilliance** is Kardia metalcraft: machined pearl-white, faintly radiant, powered by a contained Bright Core or built to store and emit Bright energy. Stable. Civic and war gear. **Brilliance lets a body handle Chroma safely** — Tears can touch the craft without the raw Bloom/burn of bare contact. Blue and silver hard-light accents sit on that shell. Kardia reliability craft.
 
 A **Bright cell** is a standardized interchangeable sphere or cylinder of Brilliance that holds Bright energy. The charge reads as bright white light inside the Brilliance shell. Finite. Reloadable. Field and civic power packs. Not Tear neon.
 
-A **Zenith Relay** is Kardia civic tech: an energy substation that distributes Bright energy through a district. Appearance still open. Stable civic infrastructure fantasy.
+A **Zenith Relay** is Kardia civic tech: an energy substation that distributes Bright energy through a district. Appearance still open. Stable civic infrastructure.
 
-**Chroma-fuel** / chromatic fuel is raw Chroma burned as fuel. Refract Labs concept. Kardia ban it. The Aureate weaponize it with defected smiths. Volatile. Devastating. Resting Light heresy. Aureate overclock / death-burst fantasy.
+**Chroma-fuel** / chromatic fuel is raw Chroma burned as fuel. Refract Labs concept. Kardia ban it. The Aureate weaponize it with defected smiths. Volatile. Devastating. Resting Light heresy. Aureate overclock / death-burst craft.
 
 A **chromatic fuel tank** holds raw Chroma for Chroma-fueled weapons. Proper model name still open. Aureate resource / hazard.
 
 A **containment unit** is Null-Flint vacuum hardware that holds a Bright Core for transport. Only Kardia can make these. Proper name still open. Oddball / extract piece.
 
-A **Vessel** is a person who can absorb a Bright Core and live. Nobody has. Final title still open. Lumari endgame fantasy.
+A **Vessel** is a person who can absorb a Bright Core and live. Nobody has. Final title still open. Lumari endgame.
 
 **Stitching** is how the Bright returns a patterned body. In a match, death returns you to your Umbra with the build intact. When a Bright ends by Core harvest or Null-Flint destruction, a violent implosion follows: the Bright is gone. Bodies not annihilated in the Null-Flint strike itself die and are Stitched back to when they crossed the Eclipse.
 
@@ -68,7 +68,7 @@ Match mutations are Splintered, done with Splinters.
 
 Vessel is a person. Containment unit holds a Bright Core. Chromatic fuel tanks hold Chroma for weapons. Those three do not swap.
 
-Brilliance and Chroma-fuel are different applications. Brilliance is Kardia Core craft: stable, pearl white, faintly radiant, Bright cells of white charge, safe to handle Chroma through. Chroma-fuel is banned raw burn: volatile, dirty, neon-pressurized. Refract Labs work Chroma. They do not work the Bright or Bright energy.
+Brilliance and Chroma-fuel are different applications. Brilliance is Kardia Core craft: stable, pearl white, faintly radiant, Bright cells of white charge, safe to handle Chroma through. Chroma-fuel is banned raw burn: volatile, dirty, neon-pressurized. Refract Labs work Chroma and scavenged Splinters. They do not contain Cores, forge Brilliance, or run Zenith Relays.
 
 Street says Tears, or Bright-Tears. That liquid is the Chroma oozing from Seam edges only. The Bright does not eject Chroma. Refract Labs coined Chroma. The lab word spread. Intruders / Harvesters are street crews, not a seventh faction.
 
@@ -96,7 +96,7 @@ First Strike belongs to the First Light era. First Harvest belongs to the Travel
 
 ## First Survivor, First Strike, First Harvest
 
-The First Survivor walked out of the Bright heavily Bloomed: dying, extraordinarily strong, Tears leaking from the Blooms. Fanatics worshipped the Survivor as the human shape of the deity in the Bright. Rags worn to cover mutations that clothing would not fit become Lumari tradition. Ritual drinking of the Survivor’s leaked Tears often killed; sometimes it left small alterations. Lineages that lived gained tolerance. Tolerance is Lumari hierarchy.
+The First Survivor walked out of the Bright heavily Bloomed: dying, extraordinarily strong, Tears leaking from the Blooms. Fanatics treated the Survivor as living proof a body could hold Bright rewrite. Rags worn to cover mutations that clothing would not fit become Lumari tradition. Lineage trials with the Survivor’s leaked Tears often killed; sometimes they left small alterations. Lineages that lived gained tolerance. Tolerance is Lumari hierarchy.
 
 Rath lost family to the Call of the Bright. First Strike: Null-Flint into the Bright Core. Vacuum. Splinters born. That Bright ends. Young Brights seed elsewhere.
 
@@ -110,13 +110,13 @@ When a Core is harvested or destroyed, the Bright implodes and ends. Survivors o
 
 ## Factions
 
-**Kho'Lan** — say KO-lan, with a catch between the halves. Oldest temper. Kho is the living world that does not weep. Lan is the promise to leave it whole. The stop keeps Aethora and the Bright from being one word. Pinch Seams with ritual, Null-Flint, and other Aethorian materials. Balance.
+**Kho'Lan** — say KO-lan, with a catch between the halves. Oldest temper. Kho is the living world that does not weep. Lan is the promise to leave it whole. The stop keeps Aethora and the Bright from being one word. Pinch Seams with Null-Flint, field procedure, and other Aethorian materials. Balance.
 
 **Lumari** — Bloom lineages after the First Survivor. They take Tears into the body and hunt a Vessel. Their Bloom is excessive: extreme mutation for assassination and suicide missions.
 
-**Kardia** — branched from Kho'Lan. The civic heart. They house the Bright Core, forge Brilliance, run Zenith Relays, and refuse Chroma-fuel.
+**Kardia** — branched from Kho'Lan. The civic heart. They house the Bright Core, forge Brilliance, run Zenith Relays, stabilize Tears for district craft, and refuse Chroma-fuel.
 
-**Refract Labs** — the table shortens this to Refract. Split from Kardia after the First Harvest. Coined Chroma for Bright-Tears. Invented Chroma-fuel. They do not work the Bright or Bright energy.
+**Refract Labs** — the table shortens this to Refract. Split from Kardia after the First Harvest. Coined Chroma for Bright-Tears. Invented Chroma-fuel. Work scavenged Splinters. They do not contain Cores, forge Brilliance, or run Zenith Relays.
 
 **the Aureate** — “the” belongs to them; the box may read Aureate. Left Kardia. Wealthiest power. Steal Cores. Hijack Kardia containment. Burn Chroma-fuel they cannot forge. Baron-class leaders rarely enter The Bright themselves. Foot soldiers receive **controlled Bloom** — measured Chroma exposure so bodies can survive raw fuel lines — distinct from Lumari excess Bloom.
 
@@ -128,7 +128,7 @@ Faction accents: Kardia blue and silver hard-light on pearl Brilliance; the Aure
 
 ## Aesthetic
 
-**Bright-punk Fantasy.** Physical world: Bone, Ash, Greige. Shadows: Bruised Darkness (Deep Plum, Industrial Olive, Charcoal). Chroma: Pressurized Magenta, Electric Cyan, Searing Gold. Bright energy: bright white. UI: Rich Cream, Structural Gold, cyan→magenta gradients.
+**Bright-punk Fantasy** (genre label): civic-modern magitech + anomaly physics — not medieval soft fantasy. Physical world: Bone, Ash, Greige. Shadows: Bruised Darkness (Deep Plum, Industrial Olive, Charcoal). Chroma: Pressurized Magenta, Electric Cyan, Searing Gold. Bright energy: bright white. UI: Rich Cream, Structural Gold, cyan→magenta gradients.
 
 Seams are fleeting transparent shattered satin sheets caused by Bright energy. They erupt from reality, envelop, rewrite while active, and weep Magenta / Cyan / Gold Chroma together through the cracks — never as separate monochrome colored curtains. Arcane / Altered neighborhood as reference. Call of the Bright as psychological pull. No blood, fleshy gore, or wound metaphors for the Bright or Seams. The arena is inside The Bright — a cube of light with a monolithic maze interior. Hard tech limit: no computers, screens, internet, or modern firearms; guns and lasers are infant tech.
 

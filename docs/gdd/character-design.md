@@ -14,7 +14,7 @@ Every character sheet needs these, and nothing else until they are filled.
 4. **Resource.** Its name, its maximum, how it comes back, and what empties it. This name never appears on a universal augment.
 5. **Four slots.** One passive, two actives, one ultimate. About three card options per slot in the first set, chosen before the match.
 6. **The loyal build.** The intended pre-game picks, and the turn they want to take with no lucky augment.
-7. **The traitor fantasy.** The augment direction that makes them play like someone else. A warrior who starts throwing ranged magic. A mage who moves like an assassin.
+7. **The traitor fantasy.** The augment direction that makes them play like someone else. A bruiser who starts casting ranged ability lines. A caster who moves like a gap-closer.
 8. **The bad build.** A combination that is legal and weak. This has to be written down so playtesters can recognize a failed experiment and not “fix” the character until every path works.
 9. **Statuses they introduce.** Defined on their tableau. Silence is the house example: one ability, one turn.
 10. **Ultimate timing.** Round 4, round 5, or a written exception.
