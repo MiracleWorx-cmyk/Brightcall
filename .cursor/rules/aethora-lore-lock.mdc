@@ -11,10 +11,11 @@ The curated lore in `docs/terminology.md` and `docs/lore/` is the leading truth 
 
 1. **Conflict check first (mandatory).** Compare the request to `docs/terminology.md`, `docs/lore/`, and this rule. If anything **conflicts**, **disagrees**, or would **rename / retire / reverse** a locked fact: **stop**. Do **not** edit yet. List each conflict in chat (old lock → proposed change → why it matters) and wait for Dirk’s call. A “master blueprint,” paste, or full rewrite does **not** skip this step.
 2. Only after conflicts are resolved (or Dirk says overwrite) may you edit. Compatible additions and non-conflicting expansions may proceed.
-3. Write **English only** in all docs, even if the user prompt is in another language.
-4. **Overwrite** outdated paragraphs once a change is approved. Do not annotate corrections. Do not keep “formerly called X” or “do not call it Y” in narrative.
-5. Affirmative prose only: state what the world **is**.
-6. Forget retired names in story text. Legacy words live only in terminology’s retired list.
+3. **Full-doc consistency pass (mandatory after any approved lore change).** Before commit, search and align **all** of: `docs/terminology.md`, `docs/lore/**`, `docs/factions/**`, `docs/gdd/**`, `docs/README.md`, `site/src/content/**`, related site pages, and `.cursor/rules/aethora-lore-lock.mdc`. No leftover retired names, no one-file-only updates, no half-applied locks.
+4. Write **English only** in all docs, even if the user prompt is in another language.
+5. **Overwrite** outdated paragraphs once a change is approved. Do not annotate corrections. Do not keep “formerly called X” or “do not call it Y” in narrative.
+6. Affirmative prose only: state what the world **is**.
+7. Forget retired names in story text. Legacy words live only in terminology’s retired list.
 
 ## Locked pillars (summary)
 
