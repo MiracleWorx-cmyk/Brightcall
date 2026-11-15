@@ -15,7 +15,7 @@ House Kardia was the Bright-order superpower before Aureate crime lords took con
 
 ## Look
 
-Gear rules that apply to every Kardia plate also live in [armor and exosuits](../armor-and-exosuits.md): hazard gear under cloth — rare cast-to-fit Brilliance braces under tailored clothing.
+Gear rules that apply to every Kardia plate also live in [armor and exosuits](../armor-and-exosuits.md): rare cast-to-fit Brilliance under tailored clothing — for Vesper, about **one full arm and shoulder** of Brilliance, plus **one glove** on the other hand.
 
 **Silhouette priority.** Resonance Glaive first (this is Vesper). Shoulder **Bright cell** second (this is Kardia). Exo braces third — visible through cutouts and coat edges, never the whole silhouette.
 
@@ -25,7 +25,7 @@ Gear rules that apply to every Kardia plate also live in [armor and exosuits](..
 
 **Coat over the exo.** The trench wears **over** her mechanical braces. Keep the trench — do not close it into a solid cylinder that hides craft. A **deliberate cutout** is sliced from the weapon-side shoulder of the coat so the Bright cell mount pushes through for combat reloads. Wind-splits and worn openings elsewhere let brace ribs catch light. The coat frames Brilliance; it does not bury it.
 
-**Brilliance amount.** Cloth-first hazard kit over rare cast-to-fit Brilliance — exact percentages open. Pearl white, faintly radiant Brilliance as braces, safety gauntlet, shoulder cell housing, belt cells, and glaive hardware — **compact appliances**, not a sealed shell and not cybernetic flesh-replace. Enough to read Kardia craft. Calm contained Bright-cell charge, not Tear neon as her fuel.
+**Brilliance amount.** The body-worn read is sparse on purpose. Pearl white, faintly radiant Brilliance covers **one full arm and its shoulder** — the weapon-side limb that feeds the Glaive, with the Bright cell mount seated there. On the **other hand**, a single Brilliance **glove** / gauntlet. Coat, cloth, and Oru skin own the rest of the silhouette. Belt cells and glaive housing are small appliances, not more body armor. Not a sealed shell. Not cybernetic flesh-replace. Calm contained bright-white cell charge, not Tear neon as her fuel.
 
 ### Bright cell (must read)
 
@@ -33,11 +33,11 @@ The **active** Bright cell is a Brilliance spherical / cylindrical pack seated i
 
 **Belt cells** are the reload kit: two or three matching Brilliance packs clipped with lock-and-click fittings. Same shape language as the shoulder cell, smaller or idle (dimmer). If the shoulder cell is hard to spot, the belt kit still teaches “finite Bright charge.”
 
-### Exo braces and safety gauntlet
+### Weapon-arm Brilliance and off-hand glove
 
-Slim pearl **brace ribs** at forearm and outer thigh / hip — the under-coat exo that keeps an Oru body in the fight and conducts Bright cell charge. One brace should catch rim light outside the coat edge or through a split so “there is Brilliance under there” is a glance fact.
+The **weapon-side arm and shoulder** are the Brilliance statement: cast-to-fit pearl from shoulder mount down the arm that holds the Glaive, Bright cell seated in that shoulder, Bright-line running toward the glaive housing. The trench cutout and Chroma-rotted sleeve frame that limb — they do not hide it.
 
-Under the ruined weapon-side cuff: a refined **Brilliance safety gauntlet** — elegant protection so she can hold the Glaive and keep Chroma off bare skin. Not a monstrous claw.
+On the **other hand**, one refined Brilliance **glove** — elegant protection for Chroma contact and civic grip. Not a monstrous claw. Not a second full arm of metal.
 
 **Asymmetric Chroma wear.** The weapon-side sleeve is heavily torn, stained, and etched where Tears weep from the Resonance Glaive’s reality scratches. That sleeve looks worked and Chroma-rotted; the other side stays cleaner civic cloth.
 
@@ -53,7 +53,7 @@ Under the ruined weapon-side cuff: a refined **Brilliance safety gauntlet** — 
 
 Keep: glaive mass and magenta scratch language on the blade edge only; trenchcoat civic cut worn over exo; Oru mass, black glimmering stone-skin, short natural hair, singular earring; proud low-angle stoic posture; Fortiche / SD3 harvester lighting from `hero-harvester.png`.
 
-Change: camera or coat so the **shoulder Bright cell** reads through a clear **cutout** as the second beat; show at least one **belt cell**; show one **exo brace** and the **safety gauntlet** under the Chroma-worn sleeve; glaive Brilliance housing stays pearl (calm), charge stays bright white, Tears stay on the scratch/weep and the ruined cuff — do not paint her whole kit Tear-neon.
+Change: camera or coat so the **full weapon-arm and shoulder Brilliance** read, with the **Bright cell** through a clear **cutout**; show the **off-hand Brilliance glove**; show at least one **belt cell**; glaive housing stays pearl (calm), charge stays bright white, Tears stay on the scratch/weep and the ruined cuff — do not paint her whole kit Tear-neon.
 
 ## The Resonance Glaive
 

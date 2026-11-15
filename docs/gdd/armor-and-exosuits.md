@@ -21,7 +21,7 @@ Cloth and leather still carry most of the silhouette. Metal exists where contact
 
 Agility keeps crews alive inside The Bright. Full-body shells slow a fighter and waste craft that is expensive and rare to forge.
 
-**Cloth over cast Brilliance.** Exact percentages are open. Brilliance is rare and expensive — carefully cast to fit — so plates stay cloth-first with fitted braces and mounts under coats, not sealed mechs.
+**Cloth over cast Brilliance.** Brilliance is rare and expensive — carefully cast to fit — so plates stay cloth-first, not sealed mechs. **Kardia / Vesper measure:** about **one full arm and shoulder** of Brilliance, plus **one glove** on the other hand. Coat and cloth own the rest. Aureate frames run heavier on metal.
 
 Hazard frames sit **under** coats, harnesses, and field kit. Strategic cutouts, splits, and wear let mounts and braces read at a glance. The outfit is lived-in: ash, grit, and asymmetric damage from the job.
 
@@ -41,13 +41,15 @@ Reference for Vesper and other Kardia field fighters. Full kit: [vesper.md](char
 
 **Coat over the exo.** Her tailored high-fashion trenchcoat wears **over** the mechanical braces. The coat is Resting Light civic-modern — not a closed cylinder that hides craft.
 
-**Bright cell cutout.** A deliberate opening is cut from the coat shoulder so the round **Bright cell** in the under-coat shoulder mount pushes through. Brilliance shell; bright-white Bright energy inside. The cutout exists so she can lock-and-click a belt cell into the mount at combat speed without stripping the coat.
+**Bright cell cutout.** A deliberate opening is cut from the coat shoulder so the round **Bright cell** in the weapon-side shoulder mount pushes through. Brilliance shell; bright-white Bright energy inside. The cutout exists so she can lock-and-click a belt cell into the mount at combat speed without stripping the coat.
 
-**Asymmetric Chroma wear.** The weapon-side sleeve is heavily torn, stained, and etched where Tears weep from the Resonance Glaive’s reality scratches (Seams almost opening). That side of the coat looks worked and rotten with Chroma contact; the other side stays cleaner civic cloth.
+**Weapon-arm Brilliance.** One full arm and its shoulder in cast pearl — the limb that feeds the Glaive. That is the body-armor budget.
 
-**Brilliance gauntlet.** Under the ruined sleeve, a refined mechanical safety gauntlet — elegant protection, not a monstrous claw. Brilliance metal so she can hold the Glaive and keep Chroma off bare skin.
+**Off-hand glove.** One Brilliance glove on the other hand. Elegant. Not a second armored arm.
 
-**Silhouette order.** Resonance Glaive first. Shoulder Bright cell (through the cutout) second. Exo braces third — visible at coat edges and splits, never the whole body.
+**Asymmetric Chroma wear.** The weapon-side sleeve is heavily torn, stained, and etched where Tears weep from the Resonance Glaive’s reality scratches. That side of the coat looks worked and rotten with Chroma contact; the other side stays cleaner civic cloth around the off-hand glove.
+
+**Silhouette order.** Resonance Glaive first. Weapon-arm / shoulder Bright cell (through the cutout) second. Off-hand glove third.
 
 **Oru read.** Very large. Black skin with faint stone glimmer. Short textured natural hair. Singular earring. Match the hero-harvester plate.
 
@@ -56,7 +58,7 @@ Reference for Vesper and other Kardia field fighters. Full kit: [vesper.md](char
 Use with the style lock in [art direction](art-direction.md). Affirmative only.
 
 ```text
-Brightcall hazard gear: cloth-first. Cloth-first over rare cast-to-fit pearl Brilliance braces, mounts, gauntlets, and Bright cell housings. Exact armor percentages open.
+Brightcall hazard gear: cloth-first. Kardia/Vesper Brilliance budget: one full arm and shoulder, plus one glove on the other hand. Rare cast-to-fit pearl. Bright cell on the weapon shoulder.
 Clothing worn OVER the exo. Strategic cutouts so shoulder Bright cells and brace ribs read through the outfit.
 Kardia: refined pearl white faintly radiant Brilliance, blue-silver hard-light, Bright cells holding bright-white Bright energy — never Tear neon as fuel.
 Aureate contrast when present: crude overheated Chroma-fuel mass, vents, pressurized tanks, purple-white-gold grit, controlled-Bloom infantry mass.

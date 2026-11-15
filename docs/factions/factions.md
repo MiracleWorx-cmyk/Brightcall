@@ -72,7 +72,7 @@ A large Aethoran city-nation. Former Bright-order superpower. Brightsmith pride 
 
 **Energy.** **Bright cells** — standardized interchangeable spheres or cylinders in Brilliance shells, holding **bright-white** refined Bright energy. Cyan is a Chroma color, not a cell color.
 
-**Vibe.** Fake-stoic, proud, elegant. High-fashion trenchcoats worn over fitted Brilliance braces and mounts — cloth and cast metal together, never a sealed mech.
+**Vibe.** Fake-stoic, proud, elegant. High-fashion trenchcoats over sparse cast Brilliance — Vesper’s measure is one full arm and shoulder, plus one glove on the other hand. Never a sealed mech.
 
 Branched from Kho'Lan after the First Survivor. First Harvest belongs to them. They alone build Null-Flint containment. They refuse Chroma-fuel and do not deal in Tears. Industrial science of Seams is still unfinished — a quantum model of The Bright is spoken of in labs and does not exist as settled doctrine yet.
 
