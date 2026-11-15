@@ -9,9 +9,45 @@ Leading visual truth for Seams and Chroma:
 - [Box art — Seam as draping curtain](references/brightcall-box-art.webp)
 - [Knife — Seam enveloping an object](references/seam-knife.webp)
 
+Kardia / Vesper civic-modern lean (prefer the proud civic plate over grim survivor):
+
+- [Vesper civic-modern](references/vesper-civic-modern.jpg)
+- [Vesper grim lean — avoid as default mood](references/vesper-grim-lean.jpg)
+
+## Style lock (website & marketing stills)
+
+**Master plates.** Every new still must match these two first:
+
+1. [`site/public/art/hero-harvester.png`](../../site/public/art/hero-harvester.png) — character / close action north star
+2. [`site/public/art/the-bright.png`](../../site/public/art/the-bright.png) — world / landscape north star
+
+**One pipeline.** Stability **SD3 only** (`scripts/generate-brightcall-art.mjs`, model `sd3-large`). Mixing SD3 with Cursor GenerateImage or any other model breaks the look. If SD3 has no credits or the API fails, **stop and tell Dirk** — do not generate substitutes on another model.
+
+**Locked finish.** Studio Fortiche / Arcane neighborhood: stylized realism, thick confident brushstrokes, sharp silhouette edges, graphic high-contrast lighting, blown rim light, limited neon palette (cyan / magenta / gold) against Bone–Ash–Greige. Painterly blocks of color, not soft airbrush fog. Not photoreal. Not hyperreal 3D. Not soft painterly concept art. Not anime cel.
+
+**Prompt block (paste every time).**
+
+```text
+Digital 2D painting, Studio Fortiche style, Arcane TV, Brightcall Bright-punk Fantasy.
+Match the style of the Brightcall harvester plate: thick confident brush strokes, sharp graphic silhouettes,
+high-contrast cinematic rim light, cyan magenta gold neon against Bone Ash Greige and bruised plum shadows.
+Stylized realism, painterly blocks, no photorealism, no 3D render, no soft generic concept art, no anime.
+```
+
+**Negative block.**
+
+```text
+photorealistic, 3d render, unreal engine, soft airbrush concept art, anime, cartoon chibi,
+generic fantasy oil painting, muddy grimdark, blood, gore, text, watermark, logo
+```
+
+**QA.** Hold the new still next to `hero-harvester.png`. If brush language, edge sharpness, or lighting family do not match at a glance, regenerate. Subject accuracy never beats style match.
+
 ## Core aesthetic
 
-Genre: **Bright-punk Fantasy**. Stylized realism, painterly finish, sharp brushstrokes, rich texture, light cartoon exaggeration for standee read. Beautiful and lethal. Arcane / Altered neighborhood as reference, made unique through Aethora.
+Genre: **Bright-punk Fantasy**. Stylized realism, painterly finish, sharp brushstrokes, rich texture, light cartoon exaggeration for standee read. Beautiful and lethal. Arcane / Altered neighborhood as reference, made unique through Aethora. Master plates above win when a still drifts.
+
+Resting Light Kardia may read **civic-modern magitech** (trenchcoats, compact pearl Brightforged, lit cells) — Bright-punk grit with a modern silhouette — without becoming Earth sci-fi. Guns and lasers are infant tech; computers do not exist. Aureate stay dirtier-industrial; Refract stay hazardous lab.
 
 The physical world is heavy: **Bone, Ash, and Greige**. Magic is toxic pressurized neon against that grit. Shadows are **bruised** (plum, olive, charcoal), never strip-book flat black. The Bright remains spectacular, not murky.
 
@@ -97,9 +133,11 @@ The world is original. Silhouettes, symbols, and costumes do not quote League of
 
 Each faction has a distinct shape language and a dedicated accent that pops against Bone / Ash / Greige and Seam light. Two characters in one faction share the accent, never the exact same pose or silhouette.
 
-**Kardia** wear blue and silver hard-light on coats, braces, and tool fittings — civic high fashion under ash: tailored coats, crests, etiquette held in the mud. Brightforged as braces, batteries, and weapons, never plate suits: **pearl white, faintly radiant** — moonlit ceramic / calm hard-light sheen, not Tear neon. Majestic containment units with golden Core-vault hearts on pearl frames. Optimistic civic craft in the storm.
+**Kardia** lean **civic-modern magitech**, not medieval. Blue and silver hard-light on tailored coats, braces, and tool fittings — Resting Light high fashion under ash: crests, etiquette, clean silhouettes held in the mud. Brightforged is **hazard gear under cloth**: about **20–30%** compact pearl appliances (braces, batteries, gauntlets, weapon housings) and **70–80%** coat and field cloth — coats worn over exo frames with cutouts for mounts. Never sealed plate shells, never chrome cyberlimbs as identity: **pearl white, faintly radiant**. Lit charge cells and tube work are fine if they read as Bright-battery / safe Chroma-handling craft, not Aureate Chroma-fuel tanks. Majestic containment units with golden Core-vault hearts on pearl frames. Optimistic civic craft in the storm.
 
-**The Aureate** wear purple, white, and gold on industrial mass — cutthroat wealth, stolen Kardia frames with hissing chromatic fuel tanks, vents, canisters, polished display over grit.
+**The Aureate** wear purple, white, and gold on industrial mass — cutthroat wealth, stolen Kardia frames with hissing chromatic fuel tanks, vents, failsafes, and canisters running hot. Still cloth-first where the body shows; the loud tech is the pressurized fuel line, not a sealed mecha shell. Polished display over grit.
+
+Full hazard-gear rules: [armor and exosuits](armor-and-exosuits.md).
 
 **Refract Labs** wear green and orange heat glow — unhinged experimental tech, brass, glass, hazard gear, glowing cables, Splinter and Chroma hardware ready to fail loud.
 

@@ -41,6 +41,7 @@ If a new request conflicts with this lock, ask before editing.
 | [World and lore](lore/world-and-lore.md) | Design filter for cards |
 | [Game design](gdd/game-design.md) | How a match works |
 | [Character design](gdd/character-design.md) | Sheet and ability grammar |
+| [Armor and exosuits](gdd/armor-and-exosuits.md) | Hazard gear, cloth-first ratio, Vesper blueprint |
 | [Vesper](gdd/characters/vesper.md) | First Kardia measuring stick |
 | [Art direction](gdd/art-direction.md) | Bright-punk look + Seam references |
 | [Balancing guardrails](gdd/balancing-guardrails.md) | How numbers are meant to behave |
