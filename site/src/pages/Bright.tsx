@@ -33,11 +33,13 @@ export function Bright() {
         <figure className="art-bleed art-bleed--tight">
           <img
             src="/art/seam-curtain.jpg"
-            alt="A Seam curtain weeping magenta, cyan, and gold Chroma"
+            alt="A Seam curtain bursting and weeping magenta, cyan, and gold Chroma"
             width={1344}
             height={768}
           />
-          <figcaption>A Seam — shattered satin glass, always weeping Chroma at the edges.</figcaption>
+          <figcaption>
+            A Seam — shattered satin glass: Chroma bursts at eruption, then weeps at the edges.
+          </figcaption>
         </figure>
         <p className="omen">
           When the seams are weeping, Tears are in the air. Call of the Bright thickens — the calling is

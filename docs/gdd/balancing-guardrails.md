@@ -6,15 +6,15 @@ If a card idea breaks one of these truths, change the card. Do not add a second 
 
 ## The pace
 
-Everyone develops on the same clock. Kills, zones, and the oddball pay victory points. They do not pay stats, levels, or augments.
+Everyone develops on the same clock. Kills, zones, and the oddball pay victory points. They do not pay stats, levels, or Enhancements.
 
-Augments are drafted on rounds 1, 3, 6, 9, and 12. Five drafts, on those rounds only. Round 1 already contains an augment and an ability unlock. The unlock works, because base stats clear every level-1 threshold.
+Enhancements are drafted on rounds 1, 3, 6, 9, and 12. Five drafts, on those rounds only. Round 1 already contains an Enhancement and an ability unlock. The unlock works, because base stats clear every level-1 threshold.
 
 Ultimates arrive around round 4 or 5 for everyone, unless that character’s design says otherwise. The build is complete around round 15, so the mutated kit gets several rounds of real use. The match may run to 16 or 17. The match ends at 15 victory points, not at a fixed round.
 
 Power that shows up only after the game is usually over is wasted design. If a line on a card needs round 14 to matter, it is a late-game line and the earlier levels have to be the card.
 
-The gaps are part of the sequence. After round 1 the waits are two rounds, then three, then three, then three. Do not deal an extra augment because a player is behind. The catch-up is the shared clock, not a bonus draft.
+The gaps are part of the sequence. After round 1 the waits are two rounds, then three, then three, then three. Do not deal an extra Enhancement because a player is behind. The catch-up is the shared clock, not a bonus draft.
 
 Still settling: how many stat points the clock pays — one point, or one point on every stat.
 
@@ -47,25 +47,25 @@ Every level is readable on its own. A player should be able to point at one expo
 
 Missing a threshold does something quiet, not something punitive. If your physical power is 2, the level-2 line simply does not upgrade the shot. The level-1 shot still happens.
 
-The same ability is allowed to care about two stats. That is how a physical kit grows a magical trick without becoming a second character. It is also how an augment that swaps “physical” and “ability” suddenly completes a line the player thought they could never reach.
+The same ability is allowed to care about two stats. That is how a physical kit grows a magical trick without becoming a second character. It is also how an Enhancement that swaps “physical” and “ability” suddenly completes a line the player thought they could never reach.
 
 Still settling: five printed levels versus four, once the base unlock is counted; three levels on the ultimate versus a single unlock at round 4 or 5. Write the card blank until that budget is one sentence: “In 15 turns I unlock exactly these lines.”
 
-## Augments
+## Enhancements
 
 One shared deck. Draw 3, keep 1. Drafts land on rounds 1, 3, 6, 9, and 12. The round-1 card is allowed to suggest the build. The later four are the mutations.
 
 Later unlocks and stat points exist so the player can steer toward that card. A build that can only be good if the deck cooperates again is too linear.
 
-Some augments belong to one ability. Some change the whole character, in the spirit of a global swap such as “ability power counts as physical power.” An augment may be the wrong pick. An archer who forces a melee build is allowed to be bad at it. The game does not rescue every combination.
+Some Enhancements belong to one ability. Some change the whole character, in the spirit of a global swap such as “ability power counts as physical power.” An Enhancement may be the wrong pick. An archer who forces a melee build is allowed to be bad at it. The game does not rescue every combination.
 
 Universal cards do not name a character’s private resource. They say “your resource,” or they ignore resources.
 
 Prefer “when this hits, apply a mark” and “when a marked enemy is pushed, they take 1” over “+1 damage” stacked three times. The attack value can stay at 2 while the turn becomes a chain. That is the escalation: if this, then that.
 
-A global augment changes which dial a card reads, or adds a trigger that any qualifying ability can trip. It does not rewrite four cards into the same blank bolt. After the mutation, the character is still recognizable.
+A global Enhancement changes which dial a card reads, or adds a trigger that any qualifying ability can trip. It does not rewrite four cards into the same blank bolt. After the mutation, the character is still recognizable.
 
-One disgusting reach augment is the turn-1 exception. It is rare in the deck, and it still needs the movement to match. It is not a reason to print range 6 on basic kits.
+One disgusting reach Enhancement is the turn-1 exception. It is rare in the deck, and it still needs the movement to match. It is not a reason to print range 6 on basic kits.
 
 Two physical homes. Slot cards tuck under one ability, with the new text on the exposed edge, so five modifiers become a readable tail. Global cards sit beside the tableau. Overlays were considered and set aside as fiddly for a fast game.
 
@@ -85,7 +85,7 @@ Dice on attacks stay out of the first prototype. Add them only if flat damage ma
 
 ## Bookkeeping budget
 
-Each player may track: health, physical power, ability power, movement, physical shield, magic shield, on dials; one personal resource; cubes on unopened ability lines; a tucked tail of slot augments and a short row of global augments; status that the character’s own tableau defines.
+Each player may track: health, physical power, ability power, movement, physical shield, magic shield, on dials; one personal resource; cubes on unopened ability lines; a tucked tail of slot Enhancements and a short row of global Enhancements; status that the character’s own tableau defines.
 
 A new status is legal when its reminder fits on that character’s tableau. Silence blocking one ability for a turn is the model. A status that needs a table-wide reference card is a rulebook status, and this game wants almost none of those.
 
@@ -97,7 +97,7 @@ Regen is on by default for health, and resource regen is part of the character. 
 
 A large roster exists so that changing a character feels like changing someone. A blank sheet who drafts a lightning bolt is a different game. The first version of that feeling should be strong, which is why the kit is chosen before the match and then broken on purpose.
 
-Every character needs one thing they do before any augment, and one fantasy for how an augment betrays that thing. If both the loyal build and the traitor build are the same cards with different dials, the character is a costume.
+Every character needs one thing they do before any Enhancement, and one fantasy for how an Enhancement betrays that thing. If both the loyal build and the traitor build are the same cards with different dials, the character is a costume.
 
 Two characters in the same faction should share a motive and a table habit, and should not share a kit. The Kardia pair can both be approachable without both being “shields and a shove.”
 
@@ -105,16 +105,16 @@ Two characters in the same faction should share a motive and a table habit, and 
 
 A combo the player spent the match building has to work when they are in range and they spend it. Priority systems that cancel a fired ability are out.
 
-Because you act on the board as it is, range is checked at the moment of the action. The hit lands. An augment may offer a delayed or aimed effect that enemies can leave. That risk is printed on the card and paid for with a bigger result.
+Because you act on the board as it is, range is checked at the moment of the action. The hit lands. An Enhancement may offer a delayed or aimed effect that enemies can leave. That risk is printed on the card and paid for with a bigger result.
 
 Any decision that routinely takes longer than the effect gets cut. Line of sight, simultaneous planning, and passing a draft around the table already failed this test.
 
 ## Red flags on a new card
 
-Stop and rewrite when a card does any of these: adds a percentage, a subtraction from incoming damage, or a second formula; raises a range, radius, or duration with no printed cap; names mana, rage, or any other private resource; grants an augment, a level, or a stat point for scoring; creates a status the opponent cannot see on the tableau or the tucked edge; makes every character who takes it play the same turn; is only impressive after the 15-point race is usually finished; needs dice, a tape measure, or a debate about a hex edge; removes the build when the character falls; lets one player take their whole turn without ever being answerable on the board.
+Stop and rewrite when a card does any of these: adds a percentage, a subtraction from incoming damage, or a second formula; raises a range, radius, or duration with no printed cap; names mana, rage, or any other private resource; grants an Enhancement, a level, or a stat point for scoring; creates a status the opponent cannot see on the tableau or the tucked edge; makes every character who takes it play the same turn; is only impressive after the 15-point race is usually finished; needs dice, a tape measure, or a debate about a hex edge; removes the build when the character falls; lets one player take their whole turn without ever being answerable on the board.
 
 ## What to playtest first
 
-One board: the playtest arena, 9 hexes wide and 13 rows deep, 12 steps between the two start hexes. The candidate real distance is 11. One health band, starting from the 10-point example. One kill value and one objective value that feel similar. Four characters, not twelve. Twenty augments, half slot and half global. Rounds 1, 3, 6, 9, 12. Unlock every turn. Ultimate at round 4. Test kit for movement and range: move 2, 3, or 4, and range 1, 2, 3, or 4, with range 6 only on an augment.
+One board: the playtest arena, 9 hexes wide and 13 rows deep, 12 steps between the two start hexes. The candidate real distance is 11. One health band, starting from the 10-point example. One kill value and one objective value that feel similar. Four characters, not twelve. Twenty Enhancements, half slot and half global. Rounds 1, 3, 6, 9, 12. Unlock every turn. Ultimate at round 4. Test kit for movement and range: move 2, 3, or 4, and range 1, 2, 3, or 4, with range 6 only on an Enhancement.
 
-The questions for that session are narrow. Can turn 1 reach happen only with the disgusting augment? Does a missed threshold feel like a quiet miss or a dead turn? Does the tucked tail stay readable at five cards? Does the tank’s objective plan score in the same afternoon as the killer’s plan? Does anyone do math?
+The questions for that session are narrow. Can turn 1 reach happen only with the disgusting Enhancement? Does a missed threshold feel like a quiet miss or a dead turn? Does the tucked tail stay readable at five cards? Does the tank’s objective plan score in the same afternoon as the killer’s plan? Does anyone do math?

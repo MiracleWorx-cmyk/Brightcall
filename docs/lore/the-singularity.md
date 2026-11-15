@@ -2,7 +2,9 @@
 
 The Bright is the central anomaly on Aethora: a vast **cube** of hyper-saturated light. Exact edge length is open. Silent when it looks balanced. Blinding when you look straight. It feeds on Chroma that weeps from Seams — it does not eject Chroma. It also hungers for living matter: **Call of the Bright**, which street mouths call **the calling**. How the call manifests is unknown. Nobody has heard it and lived to tell.
 
-The Bright **quiets** when it receives **organic material**. That hunger does not stop when Harvesters walk in — it tries to consume them too. **During consumption it grows more violent.** Consumption takes time. The Bright energy spent on the attempt erupts as **Seams** cast onto and around the prey. That is the volatility inside the Bright. Those Seams rewrite living tissue and fighting pattern — volatile, dangerous, what labs may call DNA change. A partial rewrite that sticks through a match is the fiction for **augments**: new powers, a changed fighting style, still a wound of appetite. Full consume is lethal.
+The Bright **quiets** when it receives **organic material**. That hunger does not stop when Harvesters walk in — it tries to consume them too. **During consumption it grows more violent.** Consumption takes time. The Bright energy spent on the attempt erupts as **Seams** that wrap living prey. That is the volatility inside the Bright. A Seam that wraps a Harvester grants a temporary **Enhancement** — new combat abilities, changed fighting style, still a wound of appetite. Full consume is lethal.
+
+Factions do not agree what this is. Kho'Lan read a living predator digesting prey. Lumari read a god’s deliberate will. Kardia, the Aureate, and Refract read industrial reality disruption under Bright-energy pressure.
 
 The cubic exterior matches the brutalist monolithic interior. Entrance is easy to teach: approach a face of light; find a dark weak spot; walk in. Leaving is not. Once inside, the Bright holds you until the Core ends.
 
@@ -16,7 +18,7 @@ Inside, The Bright is very bright. The brighter the ground, the more potent the 
 
 Towering gates, walls, and concrete masses rise as the Bright’s defense: an immune system that protects the Core and traps those lured by the calling. The interior is a claustrophobic brutalist maze filling the cube — warped, fused, Seam-scarred light on Bone and Ash stone — not an empty field of glow.
 
-Seams erupt constantly. Unstable Seam residue can linger after a curtain ends and make routes hard to read. Residue is navigation hazard and afterglow. It is not a permanent rewrite scar; when a Seam curtain ends, rewritten matter returns to what it was.
+Seams erupt constantly — violent Chroma burst at birth, then continuous weep through fractured-glass cracks while the curtain lasts. Unstable Seam residue can linger after a curtain ends and make routes hard to read. Residue is navigation hazard and afterglow. It is not a permanent rewrite scar; when a Seam curtain ends, rewritten terrain and objects return to what they were.
 
 ## The Eclipse
 
@@ -58,9 +60,10 @@ What the inside of a Core looks like is unknown.
 | Umbras | Darkest spots on a face — entry doorways only |
 | Exit | None while the Bright stands; Core Null-Flint harvest or destroy ends it |
 | Organic quiet | Bright quiets on organic material; consuming Harvesters turns it violent |
-| Consumption Seams | Appetite spends Bright energy as Seams on Harvesters; partial rewrite = augments; full consume kills |
+| Consumption Seams | Appetite spends Bright energy as Seams that wrap Harvesters; wrap = Enhancement; full consume kills |
+| Chroma | Eruption burst + continuous weep; external contact = damage; Bloom only if internal |
 | Monoliths | Bright’s defense — gates, walls, towers |
-| Seams | Bright-energy curtains; always weep Chroma; fleeting |
+| Seams | Bright-energy curtains; Chroma burst at eruption + continuous weep; fleeting; Harvester wrap = Enhancement |
 | Residue | Brief unstable afterglow; hard navigation; not permanent scars |
 | Bright energy | Stronger where the light is brighter; lethal at the Core |
 | Chroma | Only from Seam edges |
@@ -83,7 +86,7 @@ References: [box art](../gdd/references/brightcall-box-art.webp), [knife Seam](.
 | Monolith maze | Defense walls that protect the Core and cage Harvesters |
 | Seam eruption | Curtain rewrites a thing for a time |
 | Seam residue | Afterglow that blocks or confuses routes |
-| Seam touch | Always dangerous. Can Bloom, burn, fuel, or kill |
+| Seam / Chroma contact | External: damage hazard. Bloom only if Chroma enters the body internally |
 | Core proximity | Peak Bright energy. Fleeting temporal rewrite. Lethal. No Vessel survivors |
 | Collapse | Implosion. Stitching for those not erased by Null-Flint strike |
 | The next seed | A lost or collapsed Bright becomes someone else’s New-Light |

@@ -71,7 +71,7 @@ Chroma is not soft fairy magic. It is overpressurized chemical heat against a gr
 
 ### Interface — flat and clean
 
-**Rich Cream** for text panels, ability cards, tableaus — soft contrast under black type. **Structural Gold** for vector lines, icon frames, card edges — premium read. **Chroma Gradients** (cyan → magenta) for energy meters, level strips, Splinter augments only — a clean graphic of board chaos.
+**Rich Cream** for text panels, ability cards, tableaus — soft contrast under black type. **Structural Gold** for vector lines, icon frames, card edges — premium read. **Chroma Gradients** (cyan → magenta) for energy meters, level strips, Splinter Enhancements only — a clean graphic of board chaos.
 
 Costume and ground stay in Bone / Ash / Greige / faction accents. Tears on the board stay Magenta, Cyan, and Searing Gold. If they share one dominant color, standees disappear.
 
@@ -101,13 +101,13 @@ A reverse black hole of light at dead center. Enormous Bright emission. No Chrom
 
 ## Seams and Chroma
 
-A Seam is a paper-thin **satin sheet** that erupts out of reality and drapes over an object, a body, or a stretch of landscape. The sheet itself is transparent glass-satin — looking through it is like peering through a shattered window. Fracture lines run through the sheet. Everything trapped inside is rewritten while the Seam lasts — steel becomes fused civic lattice and Bright-scarred glass; rock becomes bleached anomaly stone.
+A Seam is a paper-thin **satin sheet** that erupts out of reality and drapes over an object, a body, or a stretch of landscape. The sheet itself is transparent glass-satin — looking through it is like peering through a shattered window. Fracture lines run through the sheet. Everything trapped inside is rewritten while the Seam lasts — steel becomes fused civic lattice and Bright-scarred glass; rock becomes bleached anomaly stone. A Harvester wrap reads as an **Enhancement**.
 
-The Seam sheet is not a cyan curtain or a magenta curtain. Color lives in the **Chroma**, not in the sheet. Magenta, Cyan, and Searing Gold Tears move **together** through the cracks: dripping, oozing, and crawling along the shattered lines and the edges where the sheet meets the unaltered world. Chroma is toxic neon liquid light on clear fractured satin — never a solid colored wall of one Tear hue.
+The Seam sheet is not a cyan curtain or a magenta curtain. Color lives in the **Chroma**, not in the sheet. At eruption, Tears burst violently from the cracks and linger at the origin. While the Seam lasts, Magenta, Cyan, and Searing Gold also weep **together** through the cracks and edges. Chroma is toxic neon liquid light on clear fractured satin — never a solid colored wall of one Tear hue. External contact is damage hazard; Bloom only if Chroma enters the body internally.
 
 Every Seam is Bright energy fracturing reality. Inside the Bright this happens constantly. Splinters are Bright-powered Null-Flint and are a primary way crews cast Seams in a match. Players can cast Seams. Whether the event deck casts Seams is still open.
 
-Seams always weep. The Bright does not eject Chroma. Chroma does not spew from the earth as a fountain.
+Seams always weep, and they burst Chroma at eruption. The Bright does not eject Chroma from the Core. Chroma does not spew from the earth as a fountain — it leaves through Seam cracks.
 
 A Seam is fleeting, like Splinter power. When it ends, the original attributes return. There is no permanent scar token. Kho'Lan and Adumbra can cleanse / pinch Seams. Lumari may work the weeping Chroma.
 
@@ -123,7 +123,7 @@ Characters are acrylic standees, not miniatures. Silhouette first. Slightly exag
 
 Detail inside the silhouette belongs on the card portrait. The standee carries outline, faction accent, and one prop that supports the loyal build. One pose. Full body. Thick enough to cut from acrylic and still be recognized from the scrap.
 
-The standee does not change when augments are tucked. Tucked strips on the tableau show what the character became this match.
+The standee does not change when Enhancements are tucked. Tucked strips on the tableau show what the character became this match.
 
 These figures are Harvesters for silhouette brief only: crews built to read across a table. Fiction remains people who walked an Umbra into a Bright to harvest, contain, pinch, or seize power. Courage under a hard job. Asymmetry and Splinter housing show the toll of the work. The art does not sell PTSD ruin as the default face of a crew. Kardia faces read open, proud, and almost static — performed composure — with feeling breaking through in posture and eyes, not in collapse.
 
@@ -161,7 +161,7 @@ Proper model names remain open in [terminology](../terminology.md).
 
 Hex board, two faces. Team games symmetrical. Free-for-all has its own layout. First playtest arena: the plain 9-by-13 board in the game-design doc. Painted spliced terrain comes after that test.
 
-Ability levels are lines on a card. Augment strips stay readable when several hang off one ability. Physical power and ability power never share a color or a shape.
+Ability levels are lines on a card. Enhancement strips stay readable when several hang off one ability. Physical power and ability power never share a color or a shape.
 
 Hex-edge arcane / physical border marks retired with the old Seam-as-border fiction. New terrain read lives in hex middles, Seam tokens, and event cards.
 
@@ -171,8 +171,8 @@ When someone looks across the table, information arrives in this order.
 
 1. Which standee is which person, from silhouette and faction accent.
 2. Which ability lines are unlocked (wooden cubes on the character card).
-3. Which augment is attached to which ability, from the exposed edge alone.
-4. Which global augments are changing the person.
+3. Which Enhancement is attached to which ability, from the exposed edge alone.
+4. Which global Enhancements are changing the person.
 5. What the current event wants, from one card left in public view.
 6. Which Seam curtains are active, and how long they have left.
 7. Device type: golden containment unit versus pressurized chromatic fuel tank.
@@ -191,7 +191,7 @@ Type for rules and stats is clean, industrial, sans serif. Painterly lettering s
 
 Ability cards are a column of level lines. Cubes hide unopened lines. The card looks finished at level 1 and finished at full unlock.
 
-Slot augments are strips tucked securely beneath ability cards. The only text that must survive tucking is the mechanical change on the exposed edge. Flavor on a tucked strip is wasted ink. Global augments are normal cards beside the tableau.
+Slot Enhancements are strips tucked securely beneath ability cards. The only text that must survive tucking is the mechanical change on the exposed edge. Flavor on a tucked strip is wasted ink. Global Enhancements are normal cards beside the tableau.
 
 Statuses invented by one character live on that character’s tableau in the same type size as a level line.
 
@@ -199,11 +199,11 @@ Deployment / Umbra zones are printed. Respawn uses them. The event is a card, no
 
 ## Production constraints
 
-Acrylic standees punish illustrations that only work as a full painting. Exaggerated silhouette does the recognition. Active Seam curtains may be upright acrylic with a visible duration. Tucked augment strips punish borders and frames that eat the one line of rules text. Cubes on cards need a margin so a wooden cube does not cover the next line. The team face of the board is symmetrical; the illustration accepts a mirror. Flavor can live on a single line under a character’s name; level lines stay clean. Colored rim light is part of the style; it cannot replace the faction accent.
+Acrylic standees punish illustrations that only work as a full painting. Exaggerated silhouette does the recognition. Active Seam curtains may be upright acrylic with a visible duration. Tucked Enhancement strips punish borders and frames that eat the one line of rules text. Cubes on cards need a margin so a wooden cube does not cover the next line. The team face of the board is symmetrical; the illustration accepts a mirror. Flavor can live on a single line under a character’s name; level lines stay clean. Colored rim light is part of the style; it cannot replace the faction accent.
 
 ## Out of bounds
 
-Hyperrealistic 3D renders as the finish. Seams drawn as ground cracks, lava rifts, laser walls, or permanent hex borders. Permanent Altered scars after a Seam ends. Chroma spewing from the earth as the default Seam read. White as a Tear color. A factory as the arena identity. Umbras painted as general cover instead of Eclipse entry and deployment. Miniatures as the default piece. Line-of-sight scenery. A unique frame per character that breaks the shared card grammar. Faction crests more recognizable than the silhouette. A second standee every time an augment is tucked. Any figure a player could name as an existing champion by outline alone. Blood or fleshy gore as Bright, Seam, or Bloom language. PTSD ruin as the default harvester face. Soft fairy-glow Chroma. The rejected graviton sentinel as a visual north star.
+Hyperrealistic 3D renders as the finish. Seams drawn as ground cracks, lava rifts, laser walls, or permanent hex borders. Permanent Altered scars after a Seam ends. Chroma spewing from the earth as the default Seam read. White as a Tear color. A factory as the arena identity. Umbras painted as general cover instead of Eclipse entry and deployment. Miniatures as the default piece. Line-of-sight scenery. A unique frame per character that breaks the shared card grammar. Faction crests more recognizable than the silhouette. A second standee every time an Enhancement is tucked. Any figure a player could name as an existing champion by outline alone. Blood or fleshy gore as Bright, Seam, or Bloom language. PTSD ruin as the default harvester face. Soft fairy-glow Chroma. The rejected graviton sentinel as a visual north star.
 
 ## The first art test
 

@@ -6,7 +6,7 @@ export const brand = {
   genre: 'Bright-punk Fantasy',
   tagline: 'Walk an Umbra. Survive the Core.',
   support:
-    'A fast hex brawler played entirely inside a cube of The Bright — civic-modern magitech against Bone, Ash, and Greige ground where Seams erupt as shattered satin curtains and Chroma weeps at the edges.',
+    'A fast hex brawler played entirely inside a cube of The Bright — civic-modern magitech against Bone, Ash, and Greige ground where Seams erupt with a Chroma burst and keep weeping at the edges.',
 }
 
 export const energies = {
@@ -24,12 +24,18 @@ export const energies = {
   applications: [
     {
       name: 'Bloom',
-      blurb: 'Chroma bound into living tissue. Lumari path. They still call the liquid Tears.',
+      blurb:
+        'Permanent mutation only when Chroma enters the body internally — eaten, drunk, or injected. External contact damages; it does not Bloom. Lumari drink Tears. The Aureate inject infantry.',
+    },
+    {
+      name: 'Enhancement',
+      blurb:
+        'Temporary rewrite when a Seam wraps a Harvester — new combat abilities, changed fighting style. Shared draft deck. Often the Bright’s appetite.',
     },
     {
       name: 'Splintered',
       blurb:
-        'Null-Flint shards that touched a Bright Core, driven into gear or body. The shared mutation card. Stays through Stitching.',
+        'Null-Flint shards that touched a Bright Core, driven into gear or body. The shared mutation card. Stays through Stitching. Separate from Enhancements.',
     },
     {
       name: 'Brilliance',
@@ -66,11 +72,11 @@ export const bright = {
   outside:
     'From the outside: a vast cube of glass-like light. Approach a face. Find a dark Umbra. Walk in. The Bright quiets on organic material — and turns violent while it tries to consume you.',
   inside:
-    'From the inside: a brutalist monolithic maze filling the cube. The Bright tries to eat Harvesters over time; that appetite casts Seams that rewrite living tissue and fighting style — volatile augments on the table. Once in, you leave only by ending the Core.',
+    'From the inside: a brutalist monolithic maze filling the cube. The Bright tries to eat Harvesters over time; Seams that wrap them grant volatile Enhancements. Once in, you leave only by ending the Core.',
   eclipse:
     'The Eclipse is the six faces of the cube. It expands as the Core grows stronger and consumes more of Aethora. Umbras — the darkest weak spots on a face — are entry, deployment, and mid-match Stitching return. Once inside, you leave only by ending the Core.',
   seams:
-    'Every Seam is Bright energy. Paper-thin shattered satin curtains erupt like a cast net, rewrite what they wrap, and always weep Magenta, Cyan, and Gold at the edges. They are fleeting — when they end, the original returns. Splinters cast them. Kho\'Lan and Adumbra cleanse them.',
+    'Every Seam is Bright energy. Razor-thin satin with fractured-glass texture. At eruption Chroma bursts from the cracks; while active it weeps Magenta, Cyan, and Gold at the edges. A wrap on a Harvester is an Enhancement. Terrain restores when the curtain ends. Kho\'Lan and Adumbra cleanse them.',
   core:
     'The Bright Core sits at the dead center. Call of the Bright pulls living matter toward it — street mouths say the calling. The Bright quiets on organic material and turns violent while consuming Harvesters. Ambient Bright energy across the cube is generally survivable. Proximity is lethal. Harvest takes the Core with Null-Flint containment; destroy shatters it into Splinters.',
 }
@@ -154,9 +160,9 @@ export const factions: {
     accent: 'White, red, and green',
     accentVars: 'var(--kholan)',
     motif:
-      'The held ground. Kho is the living world that does not weep. Lan is the promise to leave it whole.',
+      'The held ground. Kho is the living world that does not weep. Lan is the promise to leave it whole. The Bright is a living apex predator; the arena is its stomach.',
     origin:
-      'Oldest temper. First Light conservation. The catch in the name keeps Aethora and the Bright from being one word. They pinch Seams with Null-Flint, field procedure, and other Aethorian materials.',
+      'Oldest temper. First Light conservation. They reject industrial reality-tear science. Seams are digestive tendrils. Death inside is digestion — leave The Bright alone to feed.',
     play: 'Silence. Denial. Empty Discharge. Material craft silhouette.',
   },
   {
@@ -165,9 +171,9 @@ export const factions: {
     accent: 'Cyan and magenta',
     accentVars: 'var(--lumari)',
     motif:
-      'Bloom extremists who take Tears into the body and hunt a Vessel — a person who can absorb a Bright Core and live. Nobody has. Excess Bloom for extreme mutation and one-way missions.',
+      'Bloom extremists who drink Tears into the body and hunt a Vessel. They read The Bright as a conscious divine entity. Excess Bloom for extreme mutation and one-way missions.',
     origin:
-      'Lineages after the First Survivor. Tear trials killed most and tempered a few. Tolerance is hierarchy. Rags are practical kit.',
+      'Lineages after the First Survivor. Tear trials killed most and tempered a few. Tolerance is hierarchy. Rags are practical kit. Seams and Chroma are the god’s will.',
     play: 'Health as fuel. Bloom lines. Fast adaptation. Assassination and suicide runs.',
   },
   {
@@ -191,7 +197,7 @@ export const game = {
     'Kills and objectives score. First to 15 victory points.',
     'Death is Stitching: return to your Umbra with the build intact.',
     'Shared Splintered deck: draw 3, keep 1 on mutation rounds (engineered Splinter rewrite).',
-    'Augment drafts on rounds 1, 3, 6, 9, and 12 — fiction: the Bright’s slow consume via Seams on the Harvester.',
+    'Enhancement drafts on rounds 1, 3, 6, 9, and 12 — fiction: a Seam wraps the Harvester (often the Bright’s slow consume).',
     'Acrylic standees. Spliced terrain lives in hex middles. Seams are curtain tokens, not hex-edge borders.',
   ],
   objectives: [

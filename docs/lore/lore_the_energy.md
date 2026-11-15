@@ -8,15 +8,15 @@ Physics live in [The Bright — board glossary](pocket-and-core.md). Eras live i
 
 ## Chroma
 
-Chroma is torn reality made liquid. **Bright energy** fractures reality into **Seams** — paper-thin shattered satin curtains. Chroma levitates and flows on those curtains and always weeps at the edges where the barrier meets the unaltered world. That ooze is what street mouths call **Bright-Tears** or **Tears**.
+Chroma is torn reality made liquid. **Bright energy** fractures reality into **Seams** — razor-thin satin sheets with fractured-glass texture. At the moment a Seam erupts, Chroma bursts violently from the cracks and lingers at the origin. While the Seam lasts, Magenta, Cyan, and Searing Gold also **weep** together through the cracks and edges. That liquid is what street mouths call **Bright-Tears** or **Tears**.
 
-**Refract Labs** coined **Chroma** for that liquid. The lab word spread. Refract Labs work Chroma. They do not work the Bright, and they do not handle Bright energy.
+**Refract Labs** coined **Chroma** for that liquid. The lab word spread. Refract Labs work Chroma. They do not contain Cores or forge Brilliance.
 
 The Bright consumes Chroma to feed itself. It does not eject Chroma. More Chroma into the Core makes the Bright larger, stronger, and harder to predict.
 
-Chroma can be harvested wherever Seams weep. Outside a Bright, Bright energy drawn from a contained Core can force new Seams so Chroma can be farmed far from the anomaly. The leak is portable. The appetite follows.
+Chroma can be harvested wherever Seams erupt and weep. Outside a Bright, Bright energy drawn from a contained Core can force new Seams so Chroma can be farmed far from the anomaly. The leak is portable. The appetite follows.
 
-On the board the Tear colors are only **Pressurized Magenta**, **Electric Cyan**, and **Searing Gold**.
+**External** contact with Chroma is pure hazard — pain and damage. It does not Bloom. On the board the Tear colors are only **Pressurized Magenta**, **Electric Cyan**, and **Searing Gold**.
 
 ## Bright energy
 
@@ -30,23 +30,23 @@ Extracted under Null-Flint vacuum into a Kardia **containment unit**, and held s
 
 ### Bloom
 
-Chroma changes cells. Bound into living tissue, it rewrites the host. That rewrite is a **Bloom**. A Failed Bloom is the street story for a bind that killed. A Bloomed host carries Seams of altered light and gains tolerance. The Bloom lasts while the host lives.
+A **Bloom** is a permanent severe biological mutation. It happens only when Chroma enters the body **internally** — eaten, drunk, or injected. External skin contact does not Bloom. A Failed Bloom is the street story for an internal bind that killed. A Bloomed host carries altered light in the tissue and gains tolerance. The Bloom lasts while the host lives.
 
-**Lumari** live on Bloom. They call the liquid Tears. Their path is excess: extreme mutation for assassination and suicide missions. Lineages tempered by ritual exposure climb their hierarchy by how much they can take without dying.
+**Lumari** live on Bloom. They call the liquid Tears and drink it toward excess: extreme mutation for assassination and suicide missions. Lineages tempered by internal exposure climb their hierarchy by how much they can take without dying. They read The Bright as a conscious divine entity.
 
-**The Aureate** expose foot soldiers to Chroma in a controlled Bloom so those bodies can survive raw Chroma-fuel lines. Measured. Industrial. Distinct from Lumari excess.
+**The Aureate** inject foot soldiers with raw Chroma for a controlled Bloom so those bodies can withstand crude Chroma-fuel exo heat and pain. Measured. Industrial. Distinct from Lumari excess.
 
-### Consumption rewrite (augments)
+### Enhancement
 
-When the Bright tries to eat a Harvester, the energy of that attempt erupts as **Seams** cast onto living prey. The rewrite takes time. It is volatile and dangerous: living tissue, fighting style, what labs may call DNA. A partial bind that sticks through the match is an **augment** on the table. Full consume kills. This is the Bright’s appetite, not a lab procedure.
+When a Seam wraps a Harvester, the temporary living rewrite is an **Enhancement** — new combat abilities, changed fighting style. Often this is the Bright’s appetite: consumption spends Bright energy as Seams on living prey over time. Volatile and dangerous. Full consume kills. On the table, Enhancements are the shared draft deck. Separate from Bloom and from Splintered.
 
 ### Splintered
 
-**Splinters** are Bright-powered Null-Flint shards, born in the First Strike. They carry Bright energy. Driven into gear or flesh they make a body or weapon **Splintered**: concentrated, engineered, volatile. In a match they are a primary way crews cast Seams on purpose. On the table, Splintered is the shared mutation card — separate from consumption augments.
+**Splinters** are Bright-powered Null-Flint shards, born in the First Strike. They carry Bright energy. Driven into gear or flesh they make a body or weapon **Splintered**: concentrated, engineered, volatile. In a match they are a primary way crews cast Seams on purpose. On the table, Splintered is the shared mutation card — separate from Enhancements.
 
 ### Brilliance
 
-**Kardia** smiths alone make Brilliance gear. It is powered through a contained Bright Core, or built to store and emit Bright energy. Stable. Pearl white, faintly radiant — calm contained light, not Tear neon. **Bright cells** are Brilliance shells holding bright-white Bright energy. **Brilliance lets you handle Chroma safely:** Tears can touch the craft without the Bloom or burn of bare skin on a Seam. That is hazard protection when contact happens — Kardia do not deal in Tears or Chroma as a resource, and they refuse Chroma-fuel. Civic mornings and war frames share Brilliance craft. **Zenith Relays** distribute Bright energy as district substations. Containment units are Kardia Null-Flint harvesting hardware: pearl frames with golden Core-vault hearts — extract a Core intact instead of shattering it into Splinters.
+**Kardia** smiths alone make Brilliance gear. It is powered through a contained Bright Core, or built to store and emit Bright energy. Stable. Pearl white, faintly radiant — calm contained light, not Tear neon. **Bright cells** are Brilliance shells holding bright-white Bright energy. **Brilliance lets you handle Chroma safely:** Tears can touch the craft without the burn of bare skin on a Seam. Bloom still requires Chroma entering a body internally — Brilliance is external hazard protection when contact happens. Kardia do not deal in Tears or Chroma as a resource, and they refuse Chroma-fuel. Civic mornings and war frames share Brilliance craft. **Zenith Relays** distribute Bright energy as district substations. Containment units are Kardia Null-Flint harvesting hardware: pearl frames with golden Core-vault hearts — extract a Core intact instead of shattering it into Splinters.
 
 ### Chroma-fuel
 
@@ -58,7 +58,7 @@ Proximity to the Core is the heaviest temporal alteration Aethora knows. It feel
 
 ## Who spends what
 
-**Intruders** take Tears at weeping Seams, and Splinters when the spike is the plan. **Kardia** forge Brilliance, Bright cells, Zenith Relays, and containment units — they refuse Chroma-fuel and do not deal in Tears. **Refract Labs** spend Chroma, scavenged Splinters, Bloom trials, and Chroma-fuel theory — they do not contain Cores or forge Brilliance. **The Aureate** spend stolen Cores, hijacked containment, Chroma-fuel, and controlled Bloom on foot soldiers; baron leaders rarely walk Umbras themselves. **Kho'Lan** pinch and cleanse Seams with Null-Flint, field procedure, and other Aethorian materials. **Lumari** take Tears into the body, work weeping Chroma, and Bloom toward a Vessel. **Adumbra** suppress or cure Bloom, cleanse Seams, and steer whoever Chroma has already opened.
+**Intruders** take Tears at weeping Seams, and Splinters when the spike is the plan. **Kardia** forge Brilliance, Bright cells, Zenith Relays, and containment units — they refuse Chroma-fuel and do not deal in Tears; they read Seams as industrial reality disruption. **Refract Labs** spend Chroma, scavenged Splinters, Bloom trials, and Chroma-fuel theory — they do not contain Cores or forge Brilliance. **The Aureate** spend stolen Cores, hijacked containment, Chroma-fuel, and injected controlled Bloom on foot soldiers; baron leaders rarely walk Umbras themselves. **Kho'Lan** pinch and cleanse Seams with Null-Flint, field procedure, and other Aethorian materials — they read The Bright as a living predator and Seams as digestion. **Lumari** drink Tears into the body and Bloom toward a Vessel — they read The Bright as divine will. **Adumbra** suppress or cure Bloom, cleanse Seams, and steer whoever Chroma has already opened.
 
 ## What leaving costs
 

@@ -16,7 +16,7 @@ People enter a Bright through an Umbra — the darkest weak spot on an Eclipse f
 
 **Stitching** returns a patterned body to its Umbra in a match. When a Core is harvested or Null-Flint-destroyed, the Bright implodes and Stitches survivors to their Eclipse crossing.
 
-One Bright, from the inside: cubic volume, vast monolithic maze, brighter toward the Core. Eclipse is the cube’s faces — a one-way mirror (bright/see-through outside; dark smoky inside). Umbras are dark doorways on a face — entry only. The Bright quiets on organic material and turns violent while consuming Harvesters. Consumption spends Bright energy as Seams on living prey — that is how Harvesters alter mid-match (augments). Leave only by ending the Core (Null-Flint harvest or destroy). Terrain Seams are fleeting; residue may briefly hinder routes. Chroma only from Seam edges. Bone / Ash / Greige monoliths. No Seam hex borders.
+One Bright, from the inside: cubic volume, vast monolithic maze, brighter toward the Core. Eclipse is the cube’s faces — a one-way mirror (bright/see-through outside; dark smoky inside). Umbras are dark doorways on a face — entry only. The Bright quiets on organic material and turns violent while consuming Harvesters. Consumption spends Bright energy as Seams that wrap living prey — **Enhancements**. Leave only by ending the Core (Null-Flint harvest or destroy). Seams burst Chroma at eruption and weep while active. External Chroma = damage; Bloom only if internal. Bone / Ash / Greige monoliths. No Seam hex borders.
 
 The event deck is the fiction of balance failing. An omen becomes a hill, an oddball, a kill window, a shove, harvest pressure toward the Blinding.
 
@@ -34,7 +34,7 @@ A lost Core or collapsed Bright seeds New-Light elsewhere. Chroma can be farmed 
 
 ## Six answers
 
-**Kho'Lan** keep the catch in the name, preserve balance, pinch and cleanse Seams. **Lumari** Bloom hard — take Tears into the body, extreme mutation for assassination and suicide work, hunt a Vessel. **Kardia** are the civic heart: Brilliance, Bright cells, Zenith Relays, containment craft, larger happier nation under Aureate pressure. **Refract Labs** coined Chroma and chase trials, Chroma-fuel, and scavenged Splinters — they do not contain Cores or forge Brilliance. **The Aureate** run stolen Cores, a Chroma-fuel empire, controlled Bloom infantry, and hijacked Kardia containment — barons stay out of The Bright. **Adumbra** suppress or cure Bloom, cleanse Seams, and steer the exposed.
+**Kho'Lan** keep the catch, read The Bright as a living predator, pinch Seams as digestion to leave alone. **Lumari** Bloom hard — drink Tears, read The Bright as divine will, hunt a Vessel. **Kardia** are the civic heart: Brilliance, Bright cells, Zenith Relays, containment craft, industrial reality-disruption science. **Refract Labs** coined Chroma and chase trials, Chroma-fuel, and scavenged Splinters. **The Aureate** run stolen Cores, Chroma-fuel, injected controlled Bloom infantry — barons stay out. **Adumbra** suppress or cure Bloom, cleanse Seams, and steer the exposed.
 
 ## Missions that fit
 

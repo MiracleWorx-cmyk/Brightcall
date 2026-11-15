@@ -2,7 +2,7 @@
 
 **Brightcall** is a tableau builder played on a hex board inside **The Bright** on **Aethora**. The match is short, the builds get strange, and the board is there so those builds have to touch each other.
 
-The inspiration is the augment chaos of ARAM Mayhem, plus hex movement in the family of a skirmish game. Mechanics are free to reuse. Names, art, lore, and exact text from those games are not. The setting is Aethora. It is not a tournament.
+The inspiration is mid-match Enhancement chaos in the spirit of ARAM Mayhem, plus hex movement in the family of a skirmish game. Mechanics are free to reuse. Names, art, lore, and exact text from those games are not. The setting is Aethora. It is not a tournament.
 
 ## What a match feels like
 
@@ -32,9 +32,9 @@ Terrain lives in hex middles (spliced paint) and in tokens — especially fleeti
 
 The real team arena is 11 steps between opposing standees. A step is one hex of walking, counted until you would enter the other figure’s hex. Range 1 is adjacent.
 
-That distance is the one that matches the opening you want, using the test kit below: slow move 2, normal move 3, fast move 4, melee range 1, short range 2, standard range 3, long range 4. Range 6 only exists as an augment. A normal pair (move 3, range 3) who walk straight at each other do not hit in round 1. They meet in round 2. A stacked monster (move 5 and range 6) can tag someone who is still standing on their start hex. A merely fast, merely long kit cannot do that alone. The earlier sketch of 15 steps makes even that monster wait until round 2. A gap of 9 steps lets a normal range-3 character hit on the second activation of round 1.
+That distance is the one that matches the opening you want, using the test kit below: slow move 2, normal move 3, fast move 4, melee range 1, short range 2, standard range 3, long range 4. Range 6 only exists as an Enhancement. A normal pair (move 3, range 3) who walk straight at each other do not hit in round 1. They meet in round 2. A stacked monster (move 5 and range 6) can tag someone who is still standing on their start hex. A merely fast, merely long kit cannot do that alone. The earlier sketch of 15 steps makes even that monster wait until round 2. A gap of 9 steps lets a normal range-3 character hit on the second activation of round 1.
 
-For the first playtest the arena is the 11-step board with one extra step, so 12 steps between the standees. The extra hex is there so a +1 range or +1 move can be the thing that does or does not connect. On the tighter board those augments are already redundant by round 2.
+For the first playtest the arena is the 11-step board with one extra step, so 12 steps between the standees. The extra hex is there so a +1 range or +1 move can be the thing that does or does not connect. On the tighter board those Enhancements are already redundant by round 2.
 
 The playtest board is 9 hexes wide and 13 rows deep (the back rows are 12 steps apart). Deploy on the center hex of each back row. Nine wide gives a center column for the hill and four hexes of flank, so walking around costs about two steps and is a choice. The first board has no printed terrain. Three objective hexes sit on the middle row: center, and two toward the wings. This board is the 1v1 test, and it can hold a 2v2 if each side deploys as a pair on the back row. It is not the 3v3 or free-for-all map.
 
@@ -48,9 +48,9 @@ The deck decides what scores right now. The menu: zones, about three of them; ki
 
 One event is live at a time. It names the zone, the carrier, or the payout, and it expires when the next event says so. Objectives and kills live in the same points band, so a defensive plan is not a consolation prize.
 
-The fiction for that menu is the interior of The Bright on Aethora — a cube of light filled with monolith maze. The Eclipse is the faces of that cube. Umbras on those faces are deployment entry. Crews leave only when the Core ends (Null-Flint harvest or destroy). Seams erupt as shattered satin curtains caused by Bright energy — cast by Splinters, and cast by the Bright itself while it tries to consume Harvesters. While active they rewrite what they wrap and always weep Chroma at the edges. Terrain and objects restore when a curtain ends. An active Seam is a zone. A containment unit in transit is the oddball. A shove into a Seam is a stall hazard. Violence near objectives is the kill window. Pinching a Seam (name still open) is a Discharge. So is harvesting a containment unit. Kho'Lan and Adumbra cleanse. Lumari work the weep. Bright energy causes Seams; Chroma is the ooze.
+The fiction for that menu is the interior of The Bright on Aethora — a cube of light filled with monolith maze. The Eclipse is the faces of that cube. Umbras on those faces are deployment entry. Crews leave only when the Core ends (Null-Flint harvest or destroy). Seams erupt as razor-thin satin / fractured-glass curtains caused by Bright energy — cast by Splinters, and cast by the Bright itself while it tries to consume Harvesters. At eruption Chroma bursts from the cracks; while active it weeps at the edges. Terrain and objects restore when a curtain ends. A Harvester wrap is an **Enhancement**. An active Seam is a zone. A containment unit in transit is the oddball. A shove into a Seam is a stall hazard. Violence near objectives is the kill window. Pinching a Seam (name still open) is a Discharge. So is harvesting a containment unit. Kho'Lan and Adumbra cleanse. Lumari drink the weep. Bright energy causes Seams; Chroma is the ooze.
 
-**Augments** are the Bright’s consumption rewrite: Seams cast onto Harvesters over time, changing living tissue and fighting style — volatile and dangerous. Draft rounds are that appetite taking hold in steps. **Splintered** cards are the shared engineered mutation deck: draw 3, keep 1 — Bright-powered Null-Flint driven into gear or flesh that can throw Seams on purpose.
+**Enhancements** are Seam wraps on Harvesters — temporary new combat abilities and fighting-style change, often from the Bright’s slow consume. Draft rounds are that appetite taking hold in steps. **Splintered** cards are the shared engineered mutation deck: draw 3, keep 1 — Bright-powered Null-Flint driven into gear or flesh that can throw Seams on purpose. **Bloom** requires Chroma taken internally.
 
 Banked victory points stay banked. A push empties an unfinished container. No per-player fill meter.
 
@@ -60,7 +60,7 @@ Still settling: how often the deck flips; exact payouts; whether events also rew
 
 One character, with a fixed identity. A personal tableau — building happens there. Four ability slots: one passive, two actives, one ultimate. Before the match, those four slots are chosen from that character’s cards. The first roster target is about three cards per slot. Later sets add characters and more ability cards.
 
-There is no character deck during play. Drawing your kit mid-game was considered and cut. One shared augment deck for the whole table. Acrylic standees, because they set up faster, take less room, and stay readable while people get shoved around.
+There is no character deck during play. Drawing your kit mid-game was considered and cut. One shared Enhancement deck for the whole table. Acrylic standees, because they set up faster, take less room, and stay readable while people get shoved around.
 
 The first roster is 12 characters: two per faction. A smaller core of one per faction was suggested as a production step. The lean is toward 12 because faction pairs are interesting, either as something you play together or as a bonus when two of the same faction share a team. That pairing rule is not chosen yet.
 
@@ -72,9 +72,9 @@ At the start of your turn, including round 1, you unlock an ability or raise one
 
 The ultimate comes online for everyone around round 4 or 5. A character can break that on purpose. Players do not spend their early unlocks to “buy” the ultimate. If they did, someone would sit in a corner charging it.
 
-Augments are drafted on rounds 1, 3, 6, 9, and 12. That is the full sequence: five drafts, on those rounds and no others. Fiction: the Bright’s slow consume — Seam rewrites landing on the Harvester in steps. You draft before you spend that turn’s unlock, so the card can change the plan. Draft is draw 3, keep 1. A pass-around draft is too slow.
+Enhancements are drafted on rounds 1, 3, 6, 9, and 12. That is the full sequence: five drafts, on those rounds and no others. Fiction: the Bright’s slow consume — Seam wraps landing on the Harvester as Enhancements in steps. You draft before you spend that turn’s unlock, so the card can change the plan. Draft is draw 3, keep 1. A pass-around draft is too slow.
 
-You also raise stats on your own turns. Augments can add stats, and those are a bonus. The stat track cannot live only on the augments, or every build is stuck on whatever the deck handed out. Growth is natural. The skill is which stat, which ability, and which card.
+You also raise stats on your own turns. Enhancements can add stats, and those are a bonus. The stat track cannot live only on the Enhancements, or every build is stuck on whatever the deck handed out. Growth is natural. The skill is which stat, which ability, and which card.
 
 Still settling: how many stat points a turn gives (“raise a stat” and “raise each stat” are both possible readings); whether the ultimate still has its own two or three levels after it unlocks. There is room to play the full build — something like five levels on a normal ability and three on the ultimate, with the base level counting so a step comes off. The cube budget and the 15-round clock have to be reconciled on paper before cards are written. See the guardrails doc.
 
@@ -83,7 +83,7 @@ Still settling: how many stat points a turn gives (“raise a stat” and “rai
 A working sequence, built so the truths above happen in an order that matches them.
 
 1. If you are off the board, Stitching returns you at your Umbra at full health. Clear temporary effects. Keep the build, including every Splintered card.
-2. On a Splintered round, draw 3 and keep 1. Tuck it under a slot, or place it beside the tableau if it is global. Fiction: a Splinter driven into gear or housing — engineered rewrite, separate from consumption augments.
+2. On a Splintered round, draw 3 and keep 1. Tuck it under a slot, or place it beside the tableau if it is global. Fiction: a Splinter driven into gear or housing — engineered rewrite, separate from Enhancements.
 3. Unlock or upgrade one ability.
 4. Raise stats from the turn clock.
 5. Activate. Look at the board as it is now. Spend your resource, use abilities, move, deal flat damage.
@@ -107,9 +107,9 @@ Still settling: the health band (10 was an example, not a tuned pool); regen; mi
 
 ## Components the prototype needs
 
-Enough to play one faction pair and a handful of augments. Not a production list.
+Enough to play one faction pair and a handful of Enhancements. Not a production list.
 
-A hex board with two deployment layouts sketched on paper. A tableau per player with four slots and a strip where tucked cards stay readable. Ability cards with level lines hidden by cubes. An augment deck split in the hand between slot cards and global cards. An event deck of the five objective types. Dials for health, physical power, ability power, movement, and the two shields. A personal resource marker, defined by the character. Level cubes. A victory track that can pass 15. Acrylic standees, or labeled tokens until the art exists.
+A hex board with two deployment layouts sketched on paper. A tableau per player with four slots and a strip where tucked cards stay readable. Ability cards with level lines hidden by cubes. An Enhancement deck split in the hand between slot cards and global cards. An event deck of the five objective types. Dials for health, physical power, ability power, movement, and the two shields. A personal resource marker, defined by the character. Level cubes. A victory track that can pass 15. Acrylic standees, or labeled tokens until the art exists.
 
 ## What this document will not pretend
 

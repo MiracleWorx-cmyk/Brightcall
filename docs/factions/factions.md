@@ -26,9 +26,11 @@ Six factions shape that fight.
 
 Say **KO-lan**, with a catch between the halves. Kho is the living world that does not weep. Lan is the promise to leave it whole.
 
-Oldest temper on Aethora. First Light conservation doctrine. The catch in the name is doctrine: Aethora and the Bright are not one word. Conservatives who refused the meddle when Kardia branched away. They pinch and cleanse Seams with Null-Flint, field procedure, and other Aethorian materials, and guard against Core theft that would starve the anomaly’s feed cycle for a dock.
+Oldest temper on Aethora. First Light conservation doctrine. The catch in the name is doctrine: Aethora and the Bright are not one word. Conservatives who refused the meddle when Kardia branched away. They pinch and cleanse Seams with Null-Flint, field procedure, and other Aethorian materials, and guard against Core theft.
 
-**Want:** silence on the board; fewer meddles; the catch kept. **Fear:** permanent harvest order.
+**In-universe view.** The Bright is a colossal living apex predator. The arena is its stomach. A Seam is a digestive tendril or enzyme reacting to foreign organic matter — not a lab “reality tear.” Dying inside is digestion: natural law that feeds the organism so it may return to rest. Leave The Bright alone to feed. They reject industrial scientific theories of the anomaly.
+
+**Want:** silence on the board; fewer meddles; the catch kept; the predator left to feed. **Fear:** permanent harvest order.
 
 **At the table:** short Silence, denial, empty Discharge. Material craft — field cloth, Null-Flint, stone and metal tools. White, red, and green.
 
@@ -43,7 +45,9 @@ Oldest temper on Aethora. First Light conservation doctrine. The catch in the na
 
 Bloom extremists. They take Tears into the body for power and hunt a **Vessel** — a person who can absorb a Bright Core and live. Nobody has. Final title still open.
 
-Lineages of the First Light. After the First Survivor — Bloomed, dying, strong, leaking Tears, wrapped in rags — they organized. Lineage trials with leaked Tears killed most and tempered a few. Tolerance became hierarchy. Rags became practical kit for rewriting bodies. Their Bloom is **excessive**: extreme mutation suited to assassination and suicide missions. Pure Bright absorption remains the unachieved end. Refract Labs later named that liquid Chroma. Lumari still say Tears.
+Lineages of the First Light. After the First Survivor — Bloomed, dying, strong, leaking Tears, wrapped in rags — they organized. Lineage trials drinking leaked Tears killed most and tempered a few. Tolerance became hierarchy. Rags became practical kit for rewriting bodies. Their Bloom is **excessive**: extreme mutation suited to assassination and suicide missions. Pure Bright absorption remains the unachieved end. Refract Labs later named that liquid Chroma. Lumari still say Tears.
+
+**In-universe view.** The Bright is a conscious divine entity. Seams, Chroma, Enhancements, and arena brutality are deliberate acts of that god — not digestion, not industrial hazard physics.
 
 **Want:** embodiment of Core-scale rewrite. **Fear:** science that bottles that power into Brilliance custody.
 
@@ -96,7 +100,7 @@ Wealthiest power of the Resting Light: vicious, cutthroat, short on craft knowle
 
 Kardia who craved more. Successful Core theft made them a rival nation. They still cannot forge containment, so they hijack Kardia units. Defected smiths brought them Chroma-fuel. Thin tip of the extremely rich over extremely poor laborers held by the dream of infinite wealth.
 
-**Barons and infantry.** Aureate leaders are baron types — they rarely enter The Bright themselves. Foot soldiers are exposed to Chroma in a **controlled Bloom**: measured mutation so bodies can handle raw Chroma-fuel lines and pressure suits. That Bloom is industrial and capped. It is not Lumari excess mutation.
+**Barons and infantry.** Aureate leaders are baron types — they rarely enter The Bright themselves. Foot soldiers are **injected** with raw Chroma for a **controlled Bloom**: measured internal mutation so bodies can withstand the heat and pain of crude Chroma-fuel exosuits. That Bloom is industrial and capped. It is not Lumari excess mutation. Industrial scientific worldview of Seams as reality disruption (shared with Kardia and Refract).
 
 **Want:** unchallenged supremacy; hoard Cores; own the Chroma market. **Fear:** Chroma-fuel tearing their own gear apart, or Kardia reclaiming Core custody. Hubris is the blind spot. Knowledge is the weakness.
 
