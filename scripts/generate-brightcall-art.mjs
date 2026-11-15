@@ -47,6 +47,8 @@ const negativePrompt =
 function parseArgs(argv) {
   let out = path.join(root, "brightcall-art.png");
   let aspect = "16:9";
+  let seed = null;
+  let negative = negativePrompt;
   const promptParts = [];
   for (let i = 0; i < argv.length; i++) {
     const arg = argv[i];
@@ -58,16 +60,28 @@ function parseArgs(argv) {
       aspect = argv[++i];
       continue;
     }
+    if (arg === "--seed" && argv[i + 1]) {
+      seed = Number(argv[++i]);
+      continue;
+    }
+    if (arg === "--negative" && argv[i + 1]) {
+      negative = `${negativePrompt}, ${argv[++i]}`;
+      continue;
+    }
     promptParts.push(arg);
   }
   return {
     out,
     aspect,
+    seed,
+    negative,
     prompt: promptParts.join(" ").trim() || defaultPrompt,
   };
 }
 
-const { out: outFile, aspect, prompt: promptText } = parseArgs(process.argv.slice(2));
+const { out: outFile, aspect, seed, negative, prompt: promptText } = parseArgs(
+  process.argv.slice(2),
+);
 
 async function generateBrightcallArt(prompt) {
   const url = "https://api.stability.ai/v2beta/stable-image/generate/sd3";
@@ -76,9 +90,13 @@ async function generateBrightcallArt(prompt) {
   formData.append("mode", "text-to-image");
   formData.append("model", "sd3-large");
   formData.append("aspect_ratio", aspect);
-  formData.append("negative_prompt", negativePrompt);
+  formData.append("negative_prompt", negative);
+  if (Number.isFinite(seed)) {
+    formData.append("seed", String(Math.trunc(seed)));
+  }
 
-  console.log(`Generating → ${path.relative(root, outFile)}`);
+  const seedLabel = Number.isFinite(seed) ? ` seed=${Math.trunc(seed)}` : "";
+  console.log(`Generating → ${path.relative(root, outFile)}${seedLabel}`);
 
   const response = await fetch(url, {
     method: "POST",
