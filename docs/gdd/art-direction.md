@@ -45,9 +45,9 @@ generic fantasy oil painting, muddy grimdark, blood, gore, text, watermark, logo
 
 ## Core aesthetic
 
-Genre: **Bright-punk**. Stylized realism, painterly finish, sharp brushstrokes, rich texture, light cartoon exaggeration for standee read. Beautiful and lethal. Arcane / Altered neighborhood as reference, made unique through Aethora. Master plates above win when a still drifts.
+Genre: **Bright-punk** — between fantasy and sci-fi; modern-gloomy steampunk cousin; extreme high contrast; Sin City read (Bone/Ash/Greige ground + Magenta/Cyan/Gold Chroma accents). Stylized realism, painterly finish, sharp brushstrokes, rich texture, light cartoon exaggeration for standee read. Beautiful and lethal. Master plate `hero-harvester.png` wins when a still drifts.
 
-Resting Light Kardia may read **civic-modern magitech** (trenchcoats, compact pearl Brilliance, Bright cells of cyan charge) — Bright-punk grit with a modern silhouette — without becoming Earth sci-fi. No digital tech, screens, LEDs, internet, or modern firearms. Power is Bright energy or Chroma. Aureate stay dirtier-industrial; Refract stay hazardous lab.
+Resting Light Kardia may read **civic-modern magitech** (trenchcoats, compact pearl Brilliance, Bright cells of bright-white charge) — Bright-punk grit with a modern silhouette — without becoming Earth sci-fi. No digital tech, screens, LEDs, internet, or modern firearms. Power is Bright energy or Chroma. Aureate stay dirtier-industrial; Refract stay hazardous lab.
 
 The physical world is heavy: **Bone, Ash, and Greige**. Anomaly light is toxic pressurized neon against that grit. Shadows are **bruised** (plum, olive, charcoal), never strip-book flat black. The Bright remains spectacular, not murky.
 
@@ -57,7 +57,7 @@ No grimdark mud as the whole mood. No soft organic landscape as the default grou
 
 ### Physical world — Bone, Ash & Greige
 
-**Alabaster Bone** carries brutalist architecture and bleached stone — it shows scratches and fight damage. **Oru** skin is black with a faint stone glimmer: very large bodies, durable like carved rock; leading plate `site/public/art/hero-harvester.png`. **Brilliance** gear sits brighter than Bone: pearl white with a faint radiance, so Kardia craft reads as living Core light rather than stone. Fiction lock: that metal handles Chroma safely — useful on tools that meet weeping Tears. **Bright cells** hold cyan refined Bright energy in Brilliance shells. **Heavy Ash** is weathered concrete, dust, raw stone, war-torn ruin weight. **Gritty Greige** is weathered leather, canvas, Kho'Lan cloth — it bridges light and dark without soft sand.
+**Alabaster Bone** carries brutalist architecture and bleached stone — it shows scratches and fight damage. **Oru** skin is black with a faint stone glimmer: very large bodies, durable like carved rock; leading plate `site/public/art/hero-harvester.png`. **Brilliance** gear sits brighter than Bone: pearl white with a faint radiance, so Kardia craft reads as living Core light rather than stone. Fiction lock: that metal handles Chroma safely — useful on tools that meet weeping Tears. **Bright cells** hold bright-white Bright energy in Brilliance shells. **Heavy Ash** is weathered concrete, dust, raw stone, war-torn ruin weight. **Gritty Greige** is weathered leather, canvas, Kho'Lan cloth — it bridges light and dark without soft sand.
 
 ### Shadows — Bruised Darkness
 
@@ -133,7 +133,7 @@ The world is original. Silhouettes, symbols, and costumes do not quote League of
 
 Each faction has a distinct shape language and a dedicated accent that pops against Bone / Ash / Greige and Seam light. Two characters in one faction share the accent, never the exact same pose or silhouette.
 
-**Kardia** lean **civic-modern magitech**, not medieval. Blue and silver hard-light on tailored coats, braces, and tool fittings — Resting Light high fashion under ash: crests, etiquette, clean silhouettes held in the mud. Brilliance is **hazard gear under cloth**: about **30%** compact pearl appliances (braces, Bright cells, gauntlets, weapon housings) and **70%** coat and field cloth — coats worn over exo frames with cutouts for mounts. Never sealed plate shells, never chrome cyberlimbs as identity: **pearl white, faintly radiant**. Bright cells glow cyan. Zenith Relays are civic energy substations (appearance open). Majestic containment units with golden Core-vault hearts on pearl frames. Optimistic civic craft in the storm.
+**Kardia** lean **civic-modern magitech**, not medieval. Blue and silver hard-light on tailored coats, braces, and tool fittings — Resting Light high fashion under ash: crests, etiquette, clean silhouettes held in the mud. Brilliance is **hazard gear under cloth**: rare cast-to-fit pearl appliances (braces, Bright cells, gauntlets, weapon housings) under coat and field cloth — coats worn over exo frames with cutouts for mounts. Exact armor percentages open. Never sealed plate shells, never chrome cyberlimbs as identity: **pearl white, faintly radiant**. Bright cells glow bright white. Zenith Relays are civic energy substations (appearance open). Majestic containment units with golden Core-vault hearts on pearl frames. Proud civic craft under Aureate pressure.
 
 **The Aureate** wear purple, white, and gold on industrial mass — cutthroat wealth, stolen Kardia frames with hissing chromatic fuel tanks, vents, failsafes, and canisters running hot. Controlled-Bloom infantry mass. Baron leaders stay out of The Bright. Still cloth-first where the body shows; the loud tech is the pressurized fuel line, not a sealed mecha shell. Polished display over grit.
 
@@ -145,7 +145,7 @@ Full hazard-gear rules: [armor and exosuits](armor-and-exosuits.md).
 
 **Kho'Lan** wear white, red, and green on Gritty Greige — field cloth, raw Null-Flint crystals, structured fabrics, stone adornments. Indigenous Warden silhouette. The catch in the name.
 
-**Penumbra** wear black, purple, and orange — sleek, sharp, calm. Intricate silhouettes that pass until detail betrays them. Purist shadow order; The Voice over Bloomed targets.
+**Penumbra** wear black, purple, and orange — sleek, sharp, calm. Intricate silhouettes that pass until detail betrays them. Shadow order; resent the unnatural Bright; Bloomed leverage for politics (method open).
 
 ## Device types
 

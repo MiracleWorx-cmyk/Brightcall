@@ -32,7 +32,7 @@ The **Bright Core** is a reverse black hole of light. It emits Bright energy. Se
 
 **Splintered** means Splinter-Crush craft on gear or body — the match mutation card.
 
-**Brilliance** is Kardia craft powered by a contained Bright Core, or built to store and emit Bright energy. Stable. Pearl white, faintly radiant. The metal lets a body handle Chroma safely. **Bright cells** are Brilliance packs holding cyan refined charge. **Zenith Relays** are Kardia energy substations.
+**Brilliance** is Kardia craft powered by a contained Bright Core, or built to store and emit Bright energy. Stable. Pearl white, faintly radiant. The metal lets a body handle Chroma safely. **Bright cells** are Brilliance packs holding bright-white charge. **Zenith Relays** are Kardia energy substations.
 
 **Chroma-fuel** is raw Chroma burned as fuel. Refract Labs imagined it. Kardia ban it. The Aureate weaponize it. Volatile.
 
@@ -90,4 +90,4 @@ Round 15 finishes a build. The match ends at 15 victory points.
 
 ## Factions, one physics
 
-**House Kardia** spend Brilliance, cyan Bright cells, Zenith Relays, and containment — oppressed Brightsmiths with superior craft. **Refract Labs** pioneered Splinter-Crush. **Kho'Lan** wield raw Null-Flint only — indigenous apex-predator doctrine. **The Aureate** hijack containment, burn Chroma-fuel, deploy Altered Humans. **Lumari** drink Tears — divine will. **Penumbra** Voice Bloomed targets and cleanse Seams.
+**House Kardia** spend Brilliance, Bright cells, Zenith Relays, and containment — former Bright-order superpower with superior craft. **Refract Labs** pioneered Splinter-Crush. **Kho'Lan** wield raw Null-Flint only — indigenous apex-predator doctrine. **The Aureate** hijack containment, burn Chroma-fuel, deploy controlled-Bloom infantry. **Lumari** drink Tears — divine will. **Penumbra** Voice Bloomed targets and cleanse Seams.

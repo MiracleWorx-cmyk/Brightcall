@@ -4,7 +4,7 @@ The Bright is the central anomaly on Aethora: a vast **cube** of hyper-saturated
 
 The Bright **quiets** when it receives **organic material**. That hunger does not stop when Harvesters walk in — it tries to consume them too. **During consumption it grows more violent.** Consumption takes time. The Bright energy spent on the attempt erupts as **Seams** that wrap living prey. That is the volatility inside the Bright. A Seam that wraps a Harvester grants a temporary **Enhancement** — still a wound of appetite. Full consume is lethal. Crews also cast **synthetic** Seams by crushing Splinters — same satin web, fabricated on purpose, often wrapping a weapon as Enhancement.
 
-Factions do not agree what this is. Kho'Lan read a living predator digesting prey. Lumari read a god’s deliberate will. House Kardia, the Aureate, and Refract read industrial disruption of a third quantum field — Refract treats The Bright as a volatile resource to weaponize. Penumbra read an invasive alien corruption.
+Factions do not agree what this is. Kho'Lan read a living predator digesting prey. Lumari read a god’s deliberate will. House Kardia, the Aureate, and Refract read industrial reality disruption under Bright-energy pressure — their quantum model of Seams and The Bright is still in progress. Refract treats The Bright as a volatile resource to weaponize. Penumbra read an invasive alien corruption.
 
 The cubic exterior matches the brutalist monolithic interior. Entrance is easy to teach: approach a face of light; find a dark weak spot; walk in. Leaving is not. Once inside, the Bright holds you until the Core ends.
 

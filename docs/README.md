@@ -18,11 +18,11 @@ Kho'Lan and Penumbra cleanse and pinch Seams (the pinch name is still open). Lum
 
 The Bright is a vast **cube** of light. The **Eclipse** is its six faces (bright/see-in from outside; dark smoky from inside). **Umbras** are dark doorways on a face — entry only. Once inside, leave only by ending the Core: Null-Flint **harvest** (extract into containment) or Null-Flint **destroy** (shatter into Splinters). The Bright quiets on organic material and turns violent while consuming Harvesters. Inside is a vast monolithic maze that defends its Core.
 
-Applications: **Bloom**, **Splinter-Crush** / **Splintered**, **Brilliance** (pearl white, faintly radiant; cyan Bright cells), **Chroma-fuel**.
+Applications: **Bloom**, **Splinter-Crush** / **Splintered**, **Brilliance** (pearl white, faintly radiant; Bright cells), **Chroma-fuel**.
 
 Factions: Kho'Lan, Lumari, House Kardia, Refract Labs, the Aureate, Penumbra.
 
-Aesthetic: **Bright-punk** (zero-digital; civic-modern magitech + anomaly physics; ~30/70 cloth-over-exo) — Bone / Ash / Greige, Bruised Darkness, toxic neon Chroma.
+Aesthetic: **Bright-punk** (Sin City high-contrast; civic-modern magitech + anomaly physics; rare cast Brilliance under cloth) — Bone / Ash / Greige, Bruised Darkness, toxic neon Chroma.
 
 Eras: First Light → Traveling Light → Resting Light. Siren: **Call of the Bright** (street: **the calling**; manifestation unknown). **Stitching** returns match-death to Umbra, and collapse survivors to their Eclipse crossing. Core: reverse black hole of light; harvest or Null-Flint destroy ends the Bright.
 

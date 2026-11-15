@@ -26,7 +26,7 @@ The event deck is the fiction of balance failing. An omen becomes a hill, an odd
 
 **The Traveling Light.** Reseeding Brights. Roads and camps. First Harvest: Kardia contain a Bright Core with Null-Flint vacuum. Age ends.
 
-**The Resting Light.** Fixed sites. Cities. Brilliance. Zenith Relays. Refract Labs splits, coins Chroma for Bright-Tears, and invents Chroma-fuel. Kardia ban it. The Aureate steal Cores, weaponize Chroma-fuel, Bloom foot soldiers under control, and rule as baron wealth. House Kardia Brightsmiths stay skilled and oppressed. Penumbra Voice Bloomed strings from the walls. Present.
+**The Resting Light.** Fixed sites. Cities. Brilliance. Zenith Relays. Refract Labs splits, coins Chroma for Bright-Tears, and invents Chroma-fuel. Kardia ban it. The Aureate steal Cores, weaponize Chroma-fuel, Bloom foot soldiers under control, and rule as baron wealth. House Kardia remains the skilled former superpower. Penumbra work Bloomed politics from the walls. Present.
 
 ## Loop
 
@@ -34,7 +34,7 @@ A lost Core or collapsed Bright seeds New-Light elsewhere. Chroma can be farmed 
 
 ## Six answers
 
-**Kho'Lan** Indigenous Wardens — raw Null-Flint, apex-predator seasons, defend the anomaly. **Lumari** spiritualists — divine will, excess Bloom, Vessel hunt. **House Kardia** oppressed Brightsmiths — Brilliance, cyan Bright cells, quantum-field Seam science. **Refract Labs** Splinter-Crush weaponizers. **The Aureate** gilded barons, Chroma-fuel, Altered Humans. **Penumbra** shadow purists with The Voice over Bloomed targets.
+**Kho'Lan** Null-Flint harmony wardens — anti-harvest. **Lumari** spiritualists — divine will, excess Bloom, Vessel hunt. **House Kardia** former Bright-order superpower — Brilliance, bright-white Bright cells; Seam science still unfinished. **Refract Labs** Splinter-Crush weaponizers. **The Aureate** barons and crime lords, Chroma-fuel, controlled-Bloom infantry. **Penumbra** resent the unnatural Bright; manipulate Bloomed cells for politics (method open).
 
 ## Missions that fit
 

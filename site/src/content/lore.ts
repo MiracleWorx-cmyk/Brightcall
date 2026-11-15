@@ -19,13 +19,13 @@ export const energies = {
   brightEnergy: {
     name: 'Bright energy',
     blurb:
-      'Core emission. Massive pressure on a third quantum field triggers Seams. Ambient light across the cube is generally survivable; Core proximity is lethal. Splinters are Bright-powered Null-Flint — crush one to cast a synthetic Seam. Only Kardia containment holds a Core without dumping the charge into Splinters.',
+      'Core emission and the force that causes Seams. Ambient light across the cube is generally survivable; Core proximity is lethal. Splinters are Bright-powered Null-Flint — crush one to cast a synthetic Seam. Only Kardia containment holds a Core without dumping the charge into Splinters.',
   },
   applications: [
     {
       name: 'Bloom',
       blurb:
-        'Permanent mutation only when Chroma enters the body internally — eaten, drunk, or injected. External contact damages; it does not Bloom. Lumari drink Tears. Aureate Altered Humans are injected.',
+        'Permanent mutation only when Chroma enters the body internally — eaten, drunk, or injected. External contact damages; it does not Bloom. Lumari drink Tears. Aureate controlled-Bloom infantry are injected.',
     },
     {
       name: 'Enhancement',
@@ -40,7 +40,7 @@ export const energies = {
     {
       name: 'Brilliance',
       blurb:
-        'House Kardia craft: machined pearl-white Brilliance. Bright cells glow cyan with refined stable charge. Brilliance lets you handle Chroma safely.',
+        'House Kardia craft: machined pearl-white Brilliance. Bright cells glow bright white with refined stable charge. Brilliance lets you handle Chroma safely.',
     },
     {
       name: 'Chroma-fuel',
@@ -76,7 +76,7 @@ export const bright = {
   eclipse:
     'The Eclipse is the six faces of the cube. It expands as the Core grows stronger and consumes more of Aethora. Umbras — the darkest weak spots on a face — are entry, deployment, and mid-match Stitching return. Once inside, you leave only by ending the Core.',
   seams:
-    'Bright energy pressures a third quantum field until a Seam shoots out — appetite or Splinter-Crush synthetic. Razor-thin satin with fractured-glass texture. Chroma bursts at eruption and weeps Magenta, Cyan, and Gold. A wrap on a Harvester or weapon is an Enhancement. Kho\'Lan and Penumbra cleanse them.',
+    'Every Seam is Bright energy — appetite or Splinter-Crush synthetic. Razor-thin satin with fractured-glass texture. Chroma bursts at eruption and weeps Magenta, Cyan, and Gold. A wrap on a Harvester or weapon is an Enhancement. Kho\'Lan and Penumbra cleanse them.',
   core:
     'The Bright Core sits at the dead center. Call of the Bright pulls living matter toward it — street mouths say the calling. The Bright quiets on organic material and turns violent while consuming Harvesters. Ambient Bright energy across the cube is generally survivable. Proximity is lethal. Harvest takes the Core with Null-Flint containment; destroy shatters it into Splinters.',
 }
@@ -95,7 +95,7 @@ export const eras = [
   {
     title: 'The Resting Light',
     blurb:
-      'The present. Fixed sites. Refract Labs coins Chroma and invents Chroma-fuel. The Aureate steal Cores and rule as gilded barons. House Kardia Brightsmiths remain skilled and oppressed under that rule. Penumbra pull strings in the walls.',
+      'The present. Fixed sites. Refract Labs coins Chroma and invents Chroma-fuel. The Aureate — former Kardia — seize the Bright order as barons and crime lords. House Kardia remains skilled. Penumbra pressure Bloomed politics from the walls.',
   },
 ]
 
@@ -123,11 +123,11 @@ export const factions: {
     accent: 'Purple, white, and gold',
     accentVars: 'var(--aureate)',
     motif:
-      'Gilded barons. Current powerholders with stolen wealth and no innate Brightsmith skill.',
+      'Barons and crime lords. Former Kardia who took the Bright order by syndicate methods.',
     origin:
-      'Core theft made them a rival nation. They hijack Kardia containment. Defectors weaponized Chroma-fuel. Barons stay in ivory towers.',
+      'They broke from Kardia, unified, and seized power through bribery, theft, extortion, and hijacked containment. Barons stay safe.',
     society:
-      'Debonair tip over poor laborers. Altered Humans — Chroma-injected Bloom infantry — run crude overheating cast-iron and copper exosuits. Penumbra can Voice those Bloomed soldiers.',
+      'Debonair tip over poor laborers. Controlled-Bloom infantry run robust hot metal frames. Penumbra can work those Bloomed soldiers from the shadows.',
     play: 'Hold the board. Late hijack. Mass. Chroma-fuel overclock. Death that breaches fuel lines.',
   },
   {
@@ -136,12 +136,12 @@ export const factions: {
     accent: 'Blue and silver hard-light',
     accentVars: 'var(--kardia)',
     motif:
-      'Oppressed Brightsmiths. Superior Brilliance craft, cyan Bright cells, Zenith Relays — pride held under Aureate rule.',
+      'Oppressed Brightsmiths. Superior Brilliance craft, Bright cells, Zenith Relays — pride held under Aureate rule.',
     origin:
       "Branched from Kho'Lan after the First Survivor. First Harvest belongs to them. They alone forge Brilliance and containment. Fake-stoic elegance; coats over exo.",
     society:
-      'Original anomaly masters, marginalized by the Aureate. Skill remains. Wealth and Core custody do not.',
-    play: 'Finite cyan Bright cells. Adaptable pressure. Readable brace. Civic craft in the storm.',
+      'Large city-nation. Brightsmith skill remains. Aureate crime lords hold the stolen Cores and the upper hand.',
+    play: 'Finite Bright cells. Adaptable pressure. Readable brace. Civic craft in the storm.',
   },
   {
     id: 'refract',
@@ -160,9 +160,9 @@ export const factions: {
     accent: 'White, red, and green',
     accentVars: 'var(--kholan)',
     motif:
-      'Indigenous Wardens. Kho is the living world that does not weep. Lan is the promise to leave it whole. Apex predator doctrine — opposite of Penumbra.',
+      'Natural harmony. Kho is the living world that does not weep. Lan is the promise to leave it whole. Anti-harvest. Null-Flint craft. Opposite of Penumbra.',
     origin:
-      'Lived in harsh harmony until the First Strike. Defend the anomaly from industry. Raw Null-Flint only — reject Bright cells, Chroma, and Splinters.',
+      'Lived in harmony until the First Strike. Anti-harvest. Null-Flint-reliant — reject Bright cells, Chroma-fuel, and Splinters.',
     play: 'Silence. Denial. Raw Null-Flint vacuum. Empty Discharge.',
   },
   {
@@ -182,10 +182,10 @@ export const factions: {
     accent: 'Black, purple, and orange',
     accentVars: 'var(--penumbra)',
     motif:
-      'Shadow purists. The Bright and Chroma are alien corruption. Anyone dependent on them is pathetic.',
+      'Shadow order. The Bright is unnatural. They look down on Bright and Chroma dependence and greed.',
     origin:
-      'The Voice manipulates anyone who has Bloomed — including Aureate Altered soldiers. They also suppress Bloom and cleanse Seams.',
-    play: 'Voice Bloomed enemies. Push, pull, cleanse. Never permanently steal a Splintered card.',
+      'They manipulate Bloomed cells and bodies (method still open) to pressure global politics. They also suppress Bloom and cleanse Seams.',
+    play: 'Work Bloomed enemies. Push, pull, cleanse. Never permanently steal a Splintered card.',
   },
 ]
 
@@ -221,6 +221,6 @@ export const worldBits = [
   {
     title: 'Two nations under pressure',
     blurb:
-      'House Kardia forge Brilliance under Aureate oppression. The Aureate rule with stolen Cores, Chroma-fuel, and Altered Bloom infantry. Penumbra Voice those Bloomed strings. Everyone else refuses one or both nations’ terms.',
+      'House Kardia forge Brilliance after losing Bright-order supremacy. The Aureate rule with stolen Cores, Chroma-fuel, and controlled-Bloom infantry. Penumbra work Bloomed politics from the shadows. Everyone else refuses one or both nations’ terms.',
   },
 ]

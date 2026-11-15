@@ -11,25 +11,25 @@
 
 She was a Brightsmith before she became a Harvester. She still keeps Kardia manners: posture, etiquette, an open proud face that reads uplifting and almost static. The stoicism is performed. Oru bodies look carved and durable; inside they are fragile and loud with feeling. When emotion breaks the mask — anger, disgust, fear, joy — form slips, and she overcommits charge to close a gap and end the threat.
 
-House Kardia Brightsmiths remain proud under Aureate oppression. Ego bruises them even when they know ego should not lead. Vesper carries that pride in personal form: crest polished, coat civic, reload dignified — fake-stoic with underlying tension.
+House Kardia was the Bright-order superpower before Aureate crime lords took control. Brightsmith pride remains. Ego bruises them even when they know ego should not lead. Vesper carries that pride: crest polished, coat civic, reload dignified — fake-stoic with underlying tension.
 
 ## Look
 
-Gear rules that apply to every Kardia plate also live in [armor and exosuits](../armor-and-exosuits.md): hazard gear under cloth, **~30%** Brilliance braces / **~70%** tailored clothing worn *over* the tech.
+Gear rules that apply to every Kardia plate also live in [armor and exosuits](../armor-and-exosuits.md): hazard gear under cloth — rare cast-to-fit Brilliance braces under tailored clothing.
 
 **Silhouette priority.** Resonance Glaive first (this is Vesper). Shoulder **Bright cell** second (this is Kardia). Exo braces third — visible through cutouts and coat edges, never the whole silhouette.
 
-**Mood.** Lighter and prouder than grim survivor art. Bone, ash, and civic blue–silver under pearl Brilliance and cyan cell charge. Not PTSD ruin. Not a mud-caked ghost. A builder who still believes mornings can return.
+**Mood.** Lighter and prouder than grim survivor art. Bone, ash, and civic blue–silver under pearl Brilliance and bright-white cell charge. Not PTSD ruin. Not a mud-caked ghost. A builder who still believes mornings can return.
 
 **Clothes.** A literal **trenchcoat** is correct: tailored high-collared Kardia cut — off-white, faded blue, gold or silver trim — stained and worn. Resting Light **civic-modern** fashion under ash: Bright-punk grit with a modern silhouette read, not medieval costume and not Earth cyberpunk identity. Leather harness and tool belts for field work. Family crest on the chest, scratched and kept.
 
 **Coat over the exo.** The trench wears **over** her mechanical braces. Keep the trench — do not close it into a solid cylinder that hides craft. A **deliberate cutout** is sliced from the weapon-side shoulder of the coat so the Bright cell mount pushes through for combat reloads. Wind-splits and worn openings elsewhere let brace ribs catch light. The coat frames Brilliance; it does not bury it.
 
-**Brilliance amount.** Cloth-first hazard kit: about **30%** pearl craft, **70%** coat and field cloth worn over the tech. Pearl white, faintly radiant Brilliance as braces, safety gauntlet, shoulder cell housing, belt cells, and glaive hardware — **compact appliances**, not a sealed shell and not cybernetic flesh-replace. Enough to read Kardia craft. Calm contained cyan Bright-cell charge, not Tear neon as her fuel.
+**Brilliance amount.** Cloth-first hazard kit over rare cast-to-fit Brilliance — exact percentages open. Pearl white, faintly radiant Brilliance as braces, safety gauntlet, shoulder cell housing, belt cells, and glaive hardware — **compact appliances**, not a sealed shell and not cybernetic flesh-replace. Enough to read Kardia craft. Calm contained Bright-cell charge, not Tear neon as her fuel.
 
 ### Bright cell (must read)
 
-The **active** Bright cell is a Brilliance spherical / cylindrical pack seated in a **shoulder mount** on her weapon-side shoulder (or the shoulder that feeds the glaive). It reads through the coat cutout as the second silhouette beat. The shell is pearl Brilliance; the charge inside is **cyan** refined Bright energy. A short Brilliance tube or braided Bright-line runs from that mount toward the glaive housing so power is story-readable: cell → tool.
+The **active** Bright cell is a Brilliance spherical / cylindrical pack seated in a **shoulder mount** on her weapon-side shoulder (or the shoulder that feeds the glaive). It reads through the coat cutout as the second silhouette beat. The shell is pearl Brilliance; the charge inside is **bright white** Bright energy. A short Brilliance tube or braided Bright-line runs from that mount toward the glaive housing so power is story-readable: cell → tool.
 
 **Belt cells** are the reload kit: two or three matching Brilliance packs clipped with lock-and-click fittings. Same shape language as the shoulder cell, smaller or idle (dimmer). If the shoulder cell is hard to spot, the belt kit still teaches “finite Bright charge.”
 
@@ -53,11 +53,11 @@ Under the ruined weapon-side cuff: a refined **Brilliance safety gauntlet** — 
 
 Keep: glaive mass and magenta scratch language on the blade edge only; trenchcoat civic cut worn over exo; Oru mass, black glimmering stone-skin, short natural hair, singular earring; proud low-angle stoic posture; Fortiche / SD3 harvester lighting from `hero-harvester.png`.
 
-Change: camera or coat so the **shoulder Bright cell** reads through a clear **cutout** as the second beat; show at least one **belt cell**; show one **exo brace** and the **safety gauntlet** under the Chroma-worn sleeve; glaive Brilliance housing stays pearl (calm), charge stays cyan, Tears stay on the scratch/weep and the ruined cuff — do not paint her whole kit Tear-neon.
+Change: camera or coat so the **shoulder Bright cell** reads through a clear **cutout** as the second beat; show at least one **belt cell**; show one **exo brace** and the **safety gauntlet** under the Chroma-worn sleeve; glaive Brilliance housing stays pearl (calm), charge stays bright white, Tears stay on the scratch/weep and the ruined cuff — do not paint her whole kit Tear-neon.
 
 ## The Resonance Glaive
 
-A precision mason’s tool turned weapon: ultrasonic vibration wired to her Bright cell. Brilliance metal through and through — readable as refined civic tech (clean housing, lit cyan charge), not a wooden fantasy polearm. It can cut stone, metal, and — at full voice — thin reality into a **scratch** (a Seam almost opening). Among blades on Aethora it sits near the top of what refined Brilliance craft can do. It does not match a Splinter’s full rewrite, raw Chroma burn, or a Bright Core.
+A precision mason’s tool turned weapon: ultrasonic vibration wired to her Bright cell. Brilliance metal through and through — readable as refined civic tech (clean housing, lit white charge), not a wooden fantasy polearm. It can cut stone, metal, and — at full voice — thin reality into a **scratch** (a Seam almost opening). Among blades on Aethora it sits near the top of what refined Brilliance craft can do. It does not match a Splinter’s full rewrite, raw Chroma burn, or a Bright Core.
 
 **Safe Chroma contact.** Brilliance lets Vesper handle Chroma without bare-skin Bloom or burn. When Tears weep along the glaive, the craft takes the touch. That is why a Kardian Harvester can work Seam edges and scratches with a civic tool instead of dying on the first ooze.
 

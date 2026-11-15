@@ -9,37 +9,34 @@ The curated lore in `docs/terminology.md` and `docs/lore/` is the leading truth 
 
 ## Before any lore or GDD change
 
-1. **Conflict check first (mandatory).** Compare the request to `docs/terminology.md`, `docs/lore/`, and this rule. If anything **conflicts**, **disagrees**, or would **rename / retire / reverse** a locked fact: **stop**. Do **not** edit yet. List each conflict in chat (old lock → proposed change → why it matters) and wait for Dirk’s call. A “master blueprint,” paste, or full rewrite does **not** skip this step.
+1. **Conflict check first (mandatory).** Compare the request to `docs/terminology.md`, `docs/lore/`, and this rule. If anything **conflicts**, **disagrees**, or would **rename / retire / reverse** a locked fact: **stop**. Do **not** edit yet. List each conflict in chat (old lock → proposed change → why it matters) and wait for Dirk's call. A "master blueprint," paste, or full rewrite does **not** skip this step.
 2. Only after conflicts are resolved (or Dirk says overwrite) may you edit. Compatible additions and non-conflicting expansions may proceed.
 3. **Full-doc consistency pass (mandatory after any approved lore change).** Before commit, search and align **all** of: `docs/terminology.md`, `docs/lore/**`, `docs/factions/**`, `docs/gdd/**`, `docs/README.md`, `site/src/content/**`, related site pages, and `.cursor/rules/aethora-lore-lock.mdc`. No leftover retired names, no one-file-only updates, no half-applied locks.
 4. Write **English only** in all docs, even if the user prompt is in another language.
-5. **Overwrite** outdated paragraphs once a change is approved. Do not annotate corrections. Do not keep “formerly called X” or “do not call it Y” in narrative.
+5. **Overwrite** outdated paragraphs once a change is approved. Do not annotate corrections. Do not keep "formerly called X" or "do not call it Y" in narrative.
 6. Affirmative prose only: state what the world **is**.
-7. Forget retired names in story text. Legacy words live only in terminology’s retired list.
+7. Forget retired names in story text. Legacy words live only in terminology's retired list.
 
 ## Locked pillars (summary)
 
 - Game: **Brightcall** (one word)
-- Genre: **Bright-punk** — high-contrast, zero-digital; heavy mechanical hazard + raw anomaly magic
-- Hard tech limit: **no** computers, screens, LEDs, internet, or modern firearms; power is Bright energy (refined/stable) or Chroma (raw/volatile)
-- Armor: **30/70** — ~30% tech braces / ~70% tailored clothing worn **over** the hazard exo
-- World: **Aethora** · Anomaly: **The Bright** (vast **cube** / square exterior matching monolithic interior)
-- **Eclipse:** six faces — outside bright/see-in; inside dark smoky barrier
-- **Umbra:** entry only · Exit: only **Null-Flint harvest** or **Null-Flint destroy** → implosion → Stitching to entry / Eclipse crossing (no conventional escape)
-- **Quantum trigger:** Bright energy pressures a **third quantum field** → Seams manifest (industrial science: House Kardia / Aureate / Refract)
-- **Seams:** razor-thin satin / fractured-glass; Chroma **burst at eruption** + **weep**; Harvester/weapon wrap = **Enhancement**
-- **Bloom:** only if Chroma enters body internally; external = damage
-- **Splinters / Splinter-Crush:** smash Null-Flint on Core → shard; crush in chamber → synthetic Seam → weapon Enhancement (Refract pioneered)
-- **Brilliance** + **cyan Bright cells** (House Kardia) · **Chroma-fuel** (Aureate) · Splinter-Crush (Refract)
-- **House Kardia:** oppressed Brightsmiths under Aureate rule; superior craft; fake-stoic elegance
-- **Aureate:** gilded barons; **Altered Humans** = Chroma-injected Bloom infantry
-- **Refract Labs:** weaponizers; Bright as resource
+- Genre: **Bright-punk** — between fantasy and sci-fi; modern-gloomy steampunk cousin; extreme high contrast; Sin City read (Bone/Ash/Greige world + saturated Magenta/Cyan/Gold Chroma accents). Master plate: `site/public/art/hero-harvester.png`
+- Hard tech limit: **no** computers, screens, LEDs, internet, or modern firearms; power is Bright energy (refined/stable, bright white) or Chroma (raw/volatile neon)
+- **Brilliance:** rare expensive cast-to-fit refined metal (scarcer after Aureate Core theft); handles Chroma, powers weapons, conducts Bright, keeps the wearer nimble — cloth over fitted braces, not sealed mechs; exact armor % open
+- World: **Aethora** · Anomaly: **The Bright** (vast **cube**)
+- **Eclipse / Umbra / Exit:** faces; Umbra entry only; Null-Flint harvest or destroy only → implosion → Stitching
+- **Seams / Enhancement / Bloom / Splinter-Crush:** burst+weep; wraps; Bloom internal-only; Refract Splinter-Crush
+- **Bright cells:** bright-white charge (cyan is Chroma, not cells)
+- Industrial Seam science / "quantum" model: **still in progress** — do not lock as settled fact
+- **House Kardia:** large city-nation; former Bright-order superpower; Brightsmith craft remains; Aureate took control
+- **Aureate:** former Kardia; barons/crime lords; syndicate methods (bribery/theft/extortion); stolen Cores; Chroma-fuel; **controlled-Bloom infantry**; heavier metal than Kardia; barons stay out
+- **Refract Labs:** weaponizers; Splinter-Crush
 - **Lumari:** divine spiritualists; excess Bloom
-- **Penumbra:** shadow purists; Bright/Chroma as alien; **The Voice** controls Bloomed targets
-- **Kho'Lan:** Indigenous Wardens (Nativists as outsider label); apex-predator seasons; **raw Null-Flint only**; opposite of Penumbra
-- **Oru / Vesper:** black stone-glimmer Oru; cyan cell through coat cutout; Chroma-rot weapon sleeve; Resonance Glaive scratches
+- **Penumbra** (Adumbra retired): Bright unnatural; look down on Bright/Chroma dependence; manipulate Bloomed cells/bodies (method open) for global politics
+- **Kho'Lan:** name may still change; Null-Flint-reliant; natural harmony; anti-harvest; opposite of Penumbra
+- **Oru / Vesper:** black stone-glimmer; Bright cell through coat cutout; Chroma-rot sleeve; Resonance Glaive
 - Eras: First Light → Traveling Light → Resting Light
 - Match mutation: Splintered · No Weld
-- Retired: Brightforged; Adumbra (use Penumbra); Vertex/Axiom Labs; bright-white Bright-cell charge; Kardia as “larger happier” nation
+- Retired: Brightforged; Adumbra; Vertex/Axiom Labs; Altered Humans as Aureate infantry label; cyan Bright-cell charge; locked third-quantum-field Seam model; the Syndicate as a faction name (Aureate use syndicate methods)
 
 Full vocabulary: `docs/terminology.md`. Place lock: `docs/lore/the-singularity.md`. Art: `docs/gdd/art-direction.md`.
