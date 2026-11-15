@@ -21,7 +21,7 @@ No grimdark mud as the whole mood. No soft organic landscape as the default grou
 
 ### Physical world — Bone, Ash & Greige
 
-**Alabaster Bone** carries brutalist architecture, Kardia Brightforged ceramic accents, and Oru skin — it shows scratches and fight damage. **Heavy Ash** is weathered concrete, dust, raw stone, war-torn ruin weight. **Gritty Greige** is weathered leather, canvas, Kho'Lan cloth — it bridges light and dark without soft sand.
+**Alabaster Bone** carries brutalist architecture and Oru skin — it shows scratches and fight damage. **Brightforged** gear sits a step brighter: pearl white with a faint radiance, so Kardia craft reads as living Core light rather than stone. Fiction lock: that metal handles Chroma safely — useful on tools that meet weeping Tears. **Heavy Ash** is weathered concrete, dust, raw stone, war-torn ruin weight. **Gritty Greige** is weathered leather, canvas, Kho'Lan cloth — it bridges light and dark without soft sand.
 
 ### Shadows — Bruised Darkness
 
@@ -41,49 +41,45 @@ Costume and ground stay in Bone / Ash / Greige / faction accents. Tears on the b
 
 ## The arena: inside the anomaly
 
-Matches take place entirely inside The Bright.
+Matches take place entirely inside The Bright — vast, monolithic, brighter toward the Core.
 
-From the outside, The Bright is a massive, slightly squished mass of glass-like light roughly a kilometer across.
+### Outside vs inside
 
-From the inside it is vast, unpredictable, and temporally distorted.
+From outside, The Bright is a huge luminous mass. The Eclipse looks bright; you can see into a fractured Seam-thick interior.
 
-### The Eclipse
+From inside, the Eclipse is a dark smoky wall. Aethora is gone. The bowl is a brutalist maze of gates, walls, and towering concrete — the Bright’s defense, built to protect the Core and trap those the calling lured in.
 
-The Eclipse is the outer boundary of The Bright. It expands as the Bright Core grows stronger and consumes more of Aethora.
+### The Eclipse and Umbras
 
-### Umbras
+The Eclipse expands as the Core grows. **Umbras** are the darkest weak spots — entry and mid-match Stitching return. Deep Plum lives here. Exit is the brightest stretch of the Eclipse, intermittent — not the Umbra door you used.
 
-Umbras are the darkest weak spots along the Eclipse. They are safe entry and deployment. On the table they mark where crews walk in and where Stitching returns a body. They are not cover zones painted across the board. Deep Plum shadows live here.
+### Terrain and light gradient
 
-### Spliced terrain
+Hex middles show splice, monolith, and bleach. Rim near the inner Eclipse reads darker and greyer. Center overexposes toward the Core — bleached Bone, denser Seams, stronger Bright energy. Seams are curtain tokens, not printed hex borders. Brief Seam residue can haze a path after a curtain ends.
 
-The board is a chaotic patchwork of overwritten realities. The Bright consumes and alters its surroundings. A hex may be half the interior of a Victorian civic house, cut sharp against frozen tundra or ancient rock. Hex middles show that splice. Seams are curtain tokens on or over hexes — not printed borders on every hex edge.
-
-Industrial forges, vents, and steel appear as one terrain type inside that splice, not as the arena’s identity. Outside the Bright, Aureate districts lean darker industry under ivory towers. Kardia Brightforges work in bright, optimistic civic light. Inside the bowl, those atmospheres arrive only as torn pieces mashed into the anomaly.
+Outside the Bright, Aureate districts lean darker industry under ivory towers. Kardia Brightforges work in optimistic civic light. Inside, those atmospheres arrive only as torn pieces mashed into the anomaly’s maze.
 
 ### The Bright Core
 
-The Core sits at the dead center of the anomaly. Ambient Bright energy across the bowl is generally survivable. Proximity to the Core is lethal. The closer a figure stands to the center, the more extreme the Bright exposure becomes.
-
-### Lighting
-
-Cinematic rim light separates standees from bone-and-ash ground. Ambient mood stays heavy in bruised shadows. Violent Tear-light on Seam curtains breaks that mood. Faction accents still win over Seam flood.
+A reverse black hole of light at dead center. Enormous Bright emission. No Chroma spray from the Core itself — Chroma only from the Seam abundance around it. Interior look unknown. Faction accents still win over Seam flood and Core bleach.
 
 ## Seams and Chroma
 
-A Seam is a localized, paper-thin **satin curtain** of shattered glass that envelops an object, a body, or a piece of landscape. Looking through it is like peering through a fractured window draped over something. Everything trapped inside that curtain is rewritten while the Seam lasts — steel becomes clockwork and crystal; rock becomes alien ice; the alteration is heavy and complete across the enveloped volume.
+A Seam is a paper-thin **satin sheet** that erupts out of reality and drapes over an object, a body, or a stretch of landscape. The sheet itself is transparent glass-satin — looking through it is like peering through a shattered window. Fracture lines run through the sheet. Everything trapped inside is rewritten while the Seam lasts — steel becomes clockwork and crystal; rock becomes alien ice.
+
+The Seam sheet is not a cyan curtain or a magenta curtain. Color lives in the **Chroma**, not in the sheet. Magenta, Cyan, and Searing Gold Tears move **together** through the cracks: dripping, oozing, and crawling along the shattered lines and the edges where the sheet meets the unaltered world. Chroma is toxic neon liquid light on clear fractured satin — never a solid colored wall of one Tear hue.
 
 Every Seam is Bright energy fracturing reality. Inside the Bright this happens constantly. Splinters are Bright-powered Null-Flint and are a primary way crews cast Seams in a match. Players can cast Seams. Whether the event deck casts Seams is still open.
 
-Seams always weep. Magenta, Cyan, and Searing Gold **Chroma** (Bright-Tears) levitates and flows on the curtain — up, down, left, right — and oozes at the edges where the barrier meets the unaltered world. It does not spew from the earth as a fountain.
+Seams always weep. The Bright does not eject Chroma. Chroma does not spew from the earth as a fountain.
 
 A Seam is fleeting, like Splinter power. When it ends, the original attributes return. There is no permanent scar token. Kho'Lan and Adumbra can cleanse / pinch Seams. Lumari may work the weeping Chroma.
 
 On the table, an active Seam reads as an upright acrylic curtain token with a duration. When it ends, remove it. Touch / exposure effects live only while the Seam (or its immediate weep) is relevant to the card.
 
-Street says Tears / Bright-Tears. Refract Labs coined Chroma. Same liquid. Only Magenta, Cyan, and Searing Gold.
+Street says Tears / Bright-Tears. Refract Labs coined Chroma. Same liquid. Only Magenta, Cyan, and Searing Gold — always present together in the weep, not as separate monochrome sheets.
 
-Reference: the knife half-normal, half-rewritten behind shattered satin glass; the box art Seam draping a monolithic ruin with Chroma weeping only at the boundary.
+Reference: the knife half-normal, half-rewritten behind shattered satin glass; the box art Seam draping a monolithic ruin with mixed Chroma weeping from the cracks.
 
 ## Characters: acrylic standees
 
@@ -101,7 +97,7 @@ The world is original. Silhouettes, symbols, and costumes do not quote League of
 
 Each faction has a distinct shape language and a dedicated accent that pops against Bone / Ash / Greige and Seam light. Two characters in one faction share the accent, never the exact same pose or silhouette.
 
-**Kardia** wear blue and silver hard-light on coats, braces, and tool fittings — civic high fashion under ash: tailored coats, crests, etiquette held in the mud. Brightforged as braces, batteries, and weapons, never plate suits. Majestic containment units. Optimistic civic craft in the storm.
+**Kardia** wear blue and silver hard-light on coats, braces, and tool fittings — civic high fashion under ash: tailored coats, crests, etiquette held in the mud. Brightforged as braces, batteries, and weapons, never plate suits: **pearl white, faintly radiant** — moonlit ceramic / calm hard-light sheen, not Tear neon. Majestic containment units with golden Core-vault hearts on pearl frames. Optimistic civic craft in the storm.
 
 **The Aureate** wear purple, white, and gold on industrial mass — cutthroat wealth, stolen Kardia frames with hissing chromatic fuel tanks, vents, canisters, polished display over grit.
 
@@ -117,7 +113,7 @@ Each faction has a distinct shape language and a dedicated accent that pops agai
 
 Containment units and chromatic fuel tanks must read as different objects at a glance.
 
-**Containment units** (Kardia): beautiful, golden Core-vaults. Stable. Civic craftsmanship.
+**Containment units** (Kardia): pearl Brightforged frames with beautiful golden Core-vaults. Stable. Civic craftsmanship. Faint radiance.
 
 **Chromatic fuel tanks** (the Aureate): erratic, pressurized Chroma canisters. Volatile. Cutthroat modification.
 

@@ -8,23 +8,23 @@ Every page is English. The nouns live in [terminology](terminology.md). The look
 
 ## What the world holds
 
-Two energies share Aethora: **Bright energy**, which causes Seams and pours from the Core, and **Chroma** / Bright-Tears, Magenta, Cyan, and Searing Gold oozing at Seam edges.
+Two energies share Aethora: **Bright energy**, which causes Seams and pours from the Core (stronger where brighter), and **Chroma** / Bright-Tears — Magenta, Cyan, and Searing Gold oozing at Seam edges only. The Bright does not eject Chroma.
 
-**Seams** are fleeting Bright-energy satin curtains. They erupt, envelop, rewrite while active, always weep, then end and restore the original. They are not hex borders. They leave no permanent scars.
+**Seams** are fleeting transparent shattered satin sheets that erupt from reality. Looking through one is like a shattered window. Magenta, Cyan, and Gold Chroma ooze together through the cracks. They envelop, rewrite while active, then end and restore the original. Brief residue may hinder routes. They are not hex borders. They leave no permanent rewrite scars.
 
 **Splinters** are Bright-powered Null-Flint — a primary way crews cast Seams in a match. Players can cast Seams. Whether the event deck ever casts them is still open.
 
 Kho'Lan and Adumbra cleanse and pinch Seams (the pinch name is still open). Lumari may work weeping Chroma. Touch is always dangerous in lore.
 
-The **Eclipse** is the Bright’s rim. **Umbras** are entry and Stitching return.
+The **Eclipse** is a one-way rim (bright/see-in from outside; dark smoky from inside). **Umbras** are darkest-entry. Exit is the brightest Eclipse stretch (intermittent), or Core harvest / Null-Flint destroy. The Bright is a vast monolithic maze that defends its Core.
 
-Applications: **Bloom**, **Splintered**, **Brightforged**, **Chroma-fuel**.
+Applications: **Bloom**, **Splintered**, **Brightforged** (pearl white, faintly radiant; safe Chroma handling), **Chroma-fuel**.
 
 Factions: Kho'Lan, Lumari, Kardia, Refract Labs, the Aureate, Adumbra.
 
 Aesthetic: **Bright-punk Fantasy** — Bone / Ash / Greige, Bruised Darkness, toxic neon Chroma.
 
-Eras: First Light → Traveling Light → Resting Light. Siren: **Call of the Bright** (street: **the calling**). Death returns by **Stitching**.
+Eras: First Light → Traveling Light → Resting Light. Siren: **Call of the Bright** (street: **the calling**; manifestation unknown). **Stitching** returns match-death to Umbra, and collapse survivors to their Eclipse crossing. Core: reverse black hole of light; harvest or Null-Flint destroy ends the Bright.
 
 If a new request conflicts with this lock, ask before editing.
 
@@ -37,10 +37,8 @@ If a new request conflicts with this lock, ask before editing.
 | [The Bright](lore/the-singularity.md) | Anomaly place and dangers |
 | [Physics](lore/pocket-and-core.md) | Board glossary |
 | [Chroma and Bright](lore/lore_the_energy.md) | Energies and applications |
-| [Factions lore](lore/lore_factions.md) | Social order |
+| [Factions](factions/factions.md) | Lore, table habits, draft rosters |
 | [World and lore](lore/world-and-lore.md) | Design filter for cards |
-| [Factions overview](factions/factions_overview.md) | Short pitches |
-| [Faction design](factions/faction-design.md) | Motives and draft rosters |
 | [Game design](gdd/game-design.md) | How a match works |
 | [Character design](gdd/character-design.md) | Sheet and ability grammar |
 | [Vesper](gdd/characters/vesper.md) | First Kardia measuring stick |
