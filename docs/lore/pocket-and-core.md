@@ -4,13 +4,13 @@ Physics for the interior of The Bright, and the words the board needs. History: 
 
 ## The words
 
-**The Bright** is a vast cube of hyper-saturated light. Exact edge length is open. It feeds on Chroma from Seams only — it does not eject Chroma. It hungers for living matter. It quiets on organic material; when it consumes Harvesters it grows more violent. Matches happen inside it. Brighter ground means stronger Bright energy.
+**The Bright** is a vast cube of hyper-saturated light. Exact edge length is open. It feeds on Chroma from Seams only — it does not eject Chroma. It hungers for living matter. It quiets on organic material; when it consumes Harvesters it grows more violent. Consumption takes time and spends Bright energy as **Seams** cast onto the prey — that volatility rewrites Harvesters (augments on the table). Matches happen inside it. Brighter ground means stronger Bright energy.
 
 **The Eclipse** is the outer boundary — the six faces of the cube. Outside: bright, see-through into a Seam-fractured interior. Inside: dark smoky barrier hiding Aethora.
 
 **Call of the Bright** is the siren toward the Bright Core. Street may say **the calling**. Manifestation unknown. The game title **Brightcall** echoes that pull.
 
-A **Seam** is a paper-thin shattered satin curtain caused by Bright energy. It erupts like a cast net, envelops and rewrites while active, and always weeps Chroma at the edges. Fleeting — when it ends, the original returns. Brief residue may linger and hinder navigation without permanently rewriting matter.
+A **Seam** is a paper-thin shattered satin curtain caused by Bright energy. It erupts like a cast net, envelops and rewrites while active, and always weeps Chroma at the edges. Fleeting as a curtain — terrain and objects restore when it ends. Brief residue may linger and hinder navigation without permanently rewriting matter. **Consumption Seams** on living Harvesters are the Bright’s appetite; a partial living rewrite that sticks mid-match is an **augment**.
 
 An **Umbra** is the darkest weak spot on an Eclipse face — a dark doorway in a wall of light: entry, deployment, mid-match Stitching return. Not an exit. Once inside, only Null-Flint Core harvest or destroy ends the Bright.
 

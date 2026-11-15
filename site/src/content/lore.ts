@@ -66,7 +66,7 @@ export const bright = {
   outside:
     'From the outside: a vast cube of glass-like light. Approach a face. Find a dark Umbra. Walk in. The Bright quiets on organic material — and turns violent while it tries to consume you.',
   inside:
-    'From the inside: a brutalist monolithic maze filling the cube — vast, unpredictable, temporally distorted. Matches happen entirely here. Once in, you leave only by ending the Core.',
+    'From the inside: a brutalist monolithic maze filling the cube. The Bright tries to eat Harvesters over time; that appetite casts Seams that rewrite living tissue and fighting style — volatile augments on the table. Once in, you leave only by ending the Core.',
   eclipse:
     'The Eclipse is the six faces of the cube. It expands as the Core grows stronger and consumes more of Aethora. Umbras — the darkest weak spots on a face — are entry, deployment, and mid-match Stitching return. Once inside, you leave only by ending the Core.',
   seams:
@@ -190,8 +190,8 @@ export const game = {
     'Modes: 1v1, 2v2, 3v3, free-for-all up to six.',
     'Kills and objectives score. First to 15 victory points.',
     'Death is Stitching: return to your Umbra with the build intact.',
-    'Shared Splintered deck: draw 3, keep 1 on mutation rounds.',
-    'Four ability slots per character. Shared augment drafts on rounds 1, 3, 6, 9, and 12.',
+    'Shared Splintered deck: draw 3, keep 1 on mutation rounds (engineered Splinter rewrite).',
+    'Augment drafts on rounds 1, 3, 6, 9, and 12 — fiction: the Bright’s slow consume via Seams on the Harvester.',
     'Acrylic standees. Spliced terrain lives in hex middles. Seams are curtain tokens, not hex-edge borders.',
   ],
   objectives: [

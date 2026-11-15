@@ -2,7 +2,7 @@
 
 **Brightcall** is the game (one word). **Aethora** is the world.
 
-A fast hex brawler played inside **The Bright**. Characters mutate through a shared **Splintered** deck. Kills and objectives score. First to 15 victory points.
+A fast hex brawler played inside **The Bright**. The Bright tries to consume Harvesters — that appetite casts **Seams** that rewrite them mid-match (**augments**). A shared **Splintered** deck is the engineered mutation path. Kills and objectives score. First to 15 victory points.
 
 Every page is English. The nouns live in [terminology](terminology.md). The look lives in [art direction](gdd/art-direction.md).
 

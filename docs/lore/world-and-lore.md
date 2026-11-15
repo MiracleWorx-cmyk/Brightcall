@@ -16,7 +16,7 @@ People enter a Bright through an Umbra — the darkest weak spot on an Eclipse f
 
 **Stitching** returns a patterned body to its Umbra in a match. When a Core is harvested or Null-Flint-destroyed, the Bright implodes and Stitches survivors to their Eclipse crossing.
 
-One Bright, from the inside: cubic volume, vast monolithic maze, brighter toward the Core. Eclipse is the cube’s faces — a one-way mirror (bright/see-through outside; dark smoky inside). Umbras are dark doorways on a face — entry only. The Bright quiets on organic material and turns violent while consuming Harvesters. Leave only by ending the Core (Null-Flint harvest or destroy). Seams are fleeting; residue may briefly hinder routes. Chroma only from Seam edges. Bone / Ash / Greige monoliths. No Seam hex borders.
+One Bright, from the inside: cubic volume, vast monolithic maze, brighter toward the Core. Eclipse is the cube’s faces — a one-way mirror (bright/see-through outside; dark smoky inside). Umbras are dark doorways on a face — entry only. The Bright quiets on organic material and turns violent while consuming Harvesters. Consumption spends Bright energy as Seams on living prey — that is how Harvesters alter mid-match (augments). Leave only by ending the Core (Null-Flint harvest or destroy). Terrain Seams are fleeting; residue may briefly hinder routes. Chroma only from Seam edges. Bone / Ash / Greige monoliths. No Seam hex borders.
 
 The event deck is the fiction of balance failing. An omen becomes a hill, an oddball, a kill window, a shove, harvest pressure toward the Blinding.
 

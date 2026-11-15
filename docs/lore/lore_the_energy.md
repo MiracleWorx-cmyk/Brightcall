@@ -36,9 +36,13 @@ Chroma changes cells. Bound into living tissue, it rewrites the host. That rewri
 
 **The Aureate** expose foot soldiers to Chroma in a controlled Bloom so those bodies can survive raw Chroma-fuel lines. Measured. Industrial. Distinct from Lumari excess.
 
+### Consumption rewrite (augments)
+
+When the Bright tries to eat a Harvester, the energy of that attempt erupts as **Seams** cast onto living prey. The rewrite takes time. It is volatile and dangerous: living tissue, fighting style, what labs may call DNA. A partial bind that sticks through the match is an **augment** on the table. Full consume kills. This is the Bright’s appetite, not a lab procedure.
+
 ### Splintered
 
-**Splinters** are Bright-powered Null-Flint shards, born in the First Strike. They carry Bright energy. Driven into gear or flesh they make a body or weapon **Splintered**: concentrated, engineered, volatile. In a match they are a primary way to cast Seams. On the table, Splintered is the shared mutation card.
+**Splinters** are Bright-powered Null-Flint shards, born in the First Strike. They carry Bright energy. Driven into gear or flesh they make a body or weapon **Splintered**: concentrated, engineered, volatile. In a match they are a primary way crews cast Seams on purpose. On the table, Splintered is the shared mutation card — separate from consumption augments.
 
 ### Brilliance
 

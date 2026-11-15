@@ -1,6 +1,6 @@
 # Character design and mechanics
 
-A character is a person with a reason to walk an Umbra into a Bright on Aethora: four abilities, a private resource, and stats strong enough at level 1. **Splintered** cards are how that person comes back wrong. The shared mutation deck uses Splinters.
+A character is a person with a reason to walk an Umbra into a Bright on Aethora: four abilities, a private resource, and stats strong enough at level 1. Inside, the Bright tries to eat them. That appetite casts **Seams** onto living prey over time — volatile rewrites of tissue and fighting style. On the table those mid-match rewrites are **augments**. **Splintered** cards are a separate engineered path: Splinters driven into gear or flesh. The shared mutation deck uses Splinters.
 
 The first measuring stick is **Vesper** (Kardia): easy to teach, durable mobile bruiser, still interesting. Full working brief: [vesper.md](characters/vesper.md). A pre-Aethora draft that leaned on graviton charges and shock damage was thrown out. Those words arrived before the factions had habits.
 
@@ -72,7 +72,7 @@ The pick is allowed to be greedy, safe, or incoherent. The incoherent one is par
 
 ## Augments on the character
 
-Two kinds, matching the two things the game wants.
+Fiction: consumption Seams from the Bright’s appetite — new powers, changed fighting pattern, dangerous and incomplete eats. Two kinds, matching the two things the game wants.
 
 **Slot cards** change one ability. They tuck under that slot. The visible edge carries the change: more range, a push, a new damage type, “this threshold reads the other dial.” Several can hang off one ability. The tail is the build, and opponents have to be able to read it without lifting cards.
 

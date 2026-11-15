@@ -12,7 +12,7 @@ A cube of hyper-saturated glass-like light stood in cut ground: silent, even, br
 
 Culture grew around the Bright. Ordinary seasons did not matter. The Bright’s temper did. When the seams started weeping, everyone understood. The omen was older than any faction.
 
-The danger had a name: **Call of the Bright**. It pulls living matter toward the Bright Core. How that pull manifests is unknown — nobody has heard it and lived to tell. Street mouths still say **the calling**. The Bright quiets when it receives organic material. When it hungers without that feed, Seams weep harder and unrest follows. Harvesters who enter become prey too — during consumption the Bright grows more violent. Harmony meant restraint. Harmony never meant safety.
+The danger had a name: **Call of the Bright**. It pulls living matter toward the Bright Core. How that pull manifests is unknown — nobody has heard it and lived to tell. Street mouths still say **the calling**. The Bright quiets when it receives organic material. When it hungers without that feed, Seams weep harder and unrest follows. Harvesters who enter become prey too — during consumption the Bright grows more violent, spends Bright energy as Seams on living prey, and rewrites them over time. Harmony meant restraint. Harmony never meant safety.
 
 ### Kho'Lan and fanatics
 

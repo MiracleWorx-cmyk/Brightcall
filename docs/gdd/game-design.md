@@ -48,9 +48,11 @@ The deck decides what scores right now. The menu: zones, about three of them; ki
 
 One event is live at a time. It names the zone, the carrier, or the payout, and it expires when the next event says so. Objectives and kills live in the same points band, so a defensive plan is not a consolation prize.
 
-The fiction for that menu is the interior of The Bright on Aethora — a cube of light filled with monolith maze. The Eclipse is the faces of that cube. Umbras on those faces are deployment entry. Crews leave only when the Core ends (Null-Flint harvest or destroy). Seams erupt as shattered satin curtains caused by Bright energy — often cast through Splinters. While active they rewrite what they wrap and always weep Chroma at the edges. When they end, the original returns. An active Seam is a zone. A containment unit in transit is the oddball. A shove into a Seam is a stall hazard. Violence near objectives is the kill window. Pinching a Seam (name still open) is a Discharge. So is extracting a containment unit. Kho'Lan and Adumbra cleanse. Lumari work the weep. Bright energy causes Seams; Chroma is the ooze.
+The fiction for that menu is the interior of The Bright on Aethora — a cube of light filled with monolith maze. The Eclipse is the faces of that cube. Umbras on those faces are deployment entry. Crews leave only when the Core ends (Null-Flint harvest or destroy). Seams erupt as shattered satin curtains caused by Bright energy — cast by Splinters, and cast by the Bright itself while it tries to consume Harvesters. While active they rewrite what they wrap and always weep Chroma at the edges. Terrain and objects restore when a curtain ends. An active Seam is a zone. A containment unit in transit is the oddball. A shove into a Seam is a stall hazard. Violence near objectives is the kill window. Pinching a Seam (name still open) is a Discharge. So is harvesting a containment unit. Kho'Lan and Adumbra cleanse. Lumari work the weep. Bright energy causes Seams; Chroma is the ooze.
 
-Banked victory points stay banked. A push empties an unfinished container. No per-player fill meter. Splintered cards are the shared mutation deck: draw 3, keep 1 — Bright-powered Null-Flint that can throw Seams.
+**Augments** are the Bright’s consumption rewrite: Seams cast onto Harvesters over time, changing living tissue and fighting style — volatile and dangerous. Draft rounds are that appetite taking hold in steps. **Splintered** cards are the shared engineered mutation deck: draw 3, keep 1 — Bright-powered Null-Flint driven into gear or flesh that can throw Seams on purpose.
+
+Banked victory points stay banked. A push empties an unfinished container. No per-player fill meter.
 
 Still settling: how often the deck flips; exact payouts; whether events also rewrite a rule for a round (forced movement, silenced terrain, a sudden long lane) or only move the objective.
 
@@ -70,7 +72,7 @@ At the start of your turn, including round 1, you unlock an ability or raise one
 
 The ultimate comes online for everyone around round 4 or 5. A character can break that on purpose. Players do not spend their early unlocks to “buy” the ultimate. If they did, someone would sit in a corner charging it.
 
-Augments are drafted on rounds 1, 3, 6, 9, and 12. That is the full sequence: five drafts, on those rounds and no others. You draft before you spend that turn’s unlock, so the card can change the plan. Draft is draw 3, keep 1. A pass-around draft is too slow.
+Augments are drafted on rounds 1, 3, 6, 9, and 12. That is the full sequence: five drafts, on those rounds and no others. Fiction: the Bright’s slow consume — Seam rewrites landing on the Harvester in steps. You draft before you spend that turn’s unlock, so the card can change the plan. Draft is draw 3, keep 1. A pass-around draft is too slow.
 
 You also raise stats on your own turns. Augments can add stats, and those are a bonus. The stat track cannot live only on the augments, or every build is stuck on whatever the deck handed out. Growth is natural. The skill is which stat, which ability, and which card.
 
@@ -81,7 +83,7 @@ Still settling: how many stat points a turn gives (“raise a stat” and “rai
 A working sequence, built so the truths above happen in an order that matches them.
 
 1. If you are off the board, Stitching returns you at your Umbra at full health. Clear temporary effects. Keep the build, including every Splintered card.
-2. On a Splintered round, draw 3 and keep 1. Tuck it under a slot, or place it beside the tableau if it is global. Fiction: a Splinter driven into gear or housing.
+2. On a Splintered round, draw 3 and keep 1. Tuck it under a slot, or place it beside the tableau if it is global. Fiction: a Splinter driven into gear or housing — engineered rewrite, separate from consumption augments.
 3. Unlock or upgrade one ability.
 4. Raise stats from the turn clock.
 5. Activate. Look at the board as it is now. Spend your resource, use abilities, move, deal flat damage.
