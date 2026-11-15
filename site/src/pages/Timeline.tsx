@@ -6,7 +6,7 @@ export function Timeline() {
     <PageShell
       kicker="Ages of light"
       title="Timeline"
-      lede="Three ages of light on Aethora. First Strike belongs to the First Light. First Harvest ends the Traveling Light. The Resting Light is now."
+      lede="Three ages of light on Oros. First Strike belongs to the First Light. First Harvest ends the Traveling Light. The Resting Light is now."
     >
       <section className="section era-rail">
         {eras.map((era, index) => (

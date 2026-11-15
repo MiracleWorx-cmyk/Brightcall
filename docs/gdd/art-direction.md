@@ -1,6 +1,6 @@
 # Art direction
 
-**Brightcall.** World: Aethora. Genre: Bright-punk.
+**Brightcall.** World: Oros. Genre: Bright-punk.
 
 The look below is settled. The table still has to read at a glance. Words: [terminology](../terminology.md). Physics: [board glossary](../lore/pocket-and-core.md).
 
@@ -83,7 +83,7 @@ Matches take place entirely inside The Bright — a cubic volume, monolithic ins
 
 From outside, The Bright is a huge luminous **cube**. Each Eclipse face looks bright; you can see into a fractured Seam-thick interior.
 
-From inside, an Eclipse face is a dark smoky wall. Aethora is gone. The cube interior is a brutalist maze of gates, walls, and towering concrete — the Bright’s defense, built to protect the Core and trap those the calling lured in.
+From inside, an Eclipse face is a dark smoky wall. Oros is gone. The cube interior is a brutalist maze of gates, walls, and towering concrete — the Bright’s defense, built to protect the Core and trap those the calling lured in.
 
 ### The Eclipse and Umbras
 

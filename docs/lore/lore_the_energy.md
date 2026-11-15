@@ -2,7 +2,7 @@
 
 Two energies. Four ways to spend them.
 
-Aethora tears and shines. The Bright is the cause. What weeps from torn reality is not the same as what pours from the Core.
+Oros tears and shines. The Bright is the cause. What weeps from torn reality is not the same as what pours from the Core.
 
 Physics live in [The Bright — board glossary](pocket-and-core.md). Eras live in the [timeline](timeline.md).
 
@@ -59,11 +59,11 @@ A body or kit that runs Splinter chambers or shatter lines is **Splintered**. On
 
 ### Chroma-fuel
 
-Raw Chroma burned as fuel. Refract Labs designed the concept in the Resting Light. Kardia refuse it and ban it. Defected smiths and inventors carry the heresy to **the Aureate**, who weaponize it. **Chromatic fuel tanks** feed devastating, volatile arms. Sometimes a stolen Brilliance frame runs Chroma through the line anyway. Far less stable than Brilliance Core power. The only fuel of its kind on Aethora until now.
+Raw Chroma burned as fuel. Refract Labs designed the concept in the Resting Light. Kardia refuse it and ban it. Defected smiths and inventors carry the heresy to **the Aureate**, who weaponize it. **Chromatic fuel tanks** feed devastating, volatile arms. Sometimes a stolen Brilliance frame runs Chroma through the line anyway. Far less stable than Brilliance Core power. The only fuel of its kind on Oros until now.
 
 ### Pure Bright and the Vessel
 
-Proximity to the Core is the heaviest temporal alteration Aethora knows. It feels kin to Splintering: fleeting, extreme, a rewrite that will not stay. The only way to hold that scale of power and survive it is to absorb a Bright Core into a living **Vessel**. Nobody has survived that. Lumari still hunt that person. The final Vessel title has not settled.
+Proximity to the Core is the heaviest temporal alteration Oros knows. It feels kin to Splintering: fleeting, extreme, a rewrite that will not stay. The only way to hold that scale of power and survive it is to absorb a Bright Core into a living **Vessel**. Nobody has survived that. Lumari still hunt that person. The final Vessel title has not settled.
 
 ## Who spends what
 

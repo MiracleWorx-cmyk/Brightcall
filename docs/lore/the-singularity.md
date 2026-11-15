@@ -1,6 +1,6 @@
 # The Bright
 
-The Bright is the central anomaly on Aethora: a vast **cube** of hyper-saturated light. Exact edge length is open. Silent when it looks balanced. Blinding when you look straight. It feeds on Chroma that weeps from Seams — it does not eject Chroma. It also hungers for living matter: **Call of the Bright**, which street mouths call **the calling**. How the call manifests is unknown. Nobody has heard it and lived to tell.
+The Bright is the central anomaly on Oros: a vast **cube** of hyper-saturated light. Exact edge length is open. Silent when it looks balanced. Blinding when you look straight. It feeds on Chroma that weeps from Seams — it does not eject Chroma. It also hungers for living matter: **Call of the Bright**, which street mouths call **the calling**. How the call manifests is unknown. Nobody has heard it and lived to tell.
 
 The Bright **quiets** when it receives **organic material**. That hunger does not stop when Harvesters walk in — it tries to consume them too. **During consumption it grows more violent.** Consumption takes time. The Bright energy spent on the attempt erupts as **Seams** that wrap living prey. That is the volatility inside the Bright. A Seam that wraps a Harvester grants a temporary **Enhancement** — still a wound of appetite. Full consume is lethal. Crews also cast **synthetic** Seams by crushing Splinters — same satin web, fabricated on purpose, often wrapping a weapon as Enhancement.
 
@@ -26,7 +26,7 @@ The Eclipse is the outer boundary — the six faces of the cube. It expands as t
 
 **From outside:** a face of the Eclipse is bright. You can look through it into a fractured, distorted, unstable interior thick with Seams — hypnotic and lethal, like peering into a terrarium of light.
 
-**From inside:** that same face is a dark, smoky barrier. Aethora disappears. You are visually cut off from home.
+**From inside:** that same face is a dark, smoky barrier. Oros disappears. You are visually cut off from home.
 
 ## Entry — and why you stay
 

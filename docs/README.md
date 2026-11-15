@@ -1,6 +1,6 @@
 # Brightcall
 
-**Brightcall** is the game (one word). **Aethora** is the world.
+**Brightcall** is the game (one word). **Oros** is the world.
 
 A fast hex brawler played inside **The Bright**. The Bright tries to consume Harvesters — that appetite casts **Seams** that wrap them mid-match as **Enhancements**. A shared **Splintered** deck is Splinter-Crush synthetic Seam weaponry. Kills and objectives score. First to 15 victory points.
 
@@ -8,7 +8,7 @@ Every page is English. The nouns live in [terminology](terminology.md). The look
 
 ## What the world holds
 
-Two energies share Aethora: **Bright energy**, which causes Seams and pours from the Core (stronger where brighter), and **Chroma** / Bright-Tears — Magenta, Cyan, and Searing Gold oozing at Seam edges only. The Bright does not eject Chroma.
+Two energies share Oros: **Bright energy**, which causes Seams and pours from the Core (stronger where brighter), and **Chroma** / Bright-Tears — Magenta, Cyan, and Searing Gold oozing at Seam edges only. The Bright does not eject Chroma.
 
 **Seams** are fleeting transparent shattered satin sheets that erupt from reality. Looking through one is like a shattered window. At eruption Chroma bursts from the cracks; while active Magenta, Cyan, and Gold weep together at the edges. A Harvester or weapon wrap is an **Enhancement**. Terrain restores when the curtain ends. Brief residue may hinder routes. They are not hex borders. They leave no permanent rewrite scars.
 

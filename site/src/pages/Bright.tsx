@@ -7,11 +7,11 @@ export function Bright() {
       <figure className="art-bleed">
         <img
           src="/art/the-bright.png"
-          alt="The Bright — a luminous cube of light over Aethora"
+          alt="The Bright — a luminous cube of light over Oros"
           width={1344}
           height={768}
         />
-        <figcaption>The Bright from outside — a cube of glass-like light on Aethora.</figcaption>
+        <figcaption>The Bright from outside — a cube of glass-like light on Oros.</figcaption>
       </figure>
 
       <p className="body-lead">{bright.inside}</p>

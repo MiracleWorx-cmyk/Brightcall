@@ -1,12 +1,12 @@
 # Timeline
 
-Three ages of light on Aethora. The Bright’s physics live in [the board glossary](pocket-and-core.md). The two energies live in [Chroma and Bright](lore_the_energy.md).
+Three ages of light on Oros. The Bright’s physics live in [the board glossary](pocket-and-core.md). The two energies live in [Chroma and Bright](lore_the_energy.md).
 
 Hard light. Bright weather. A silent Bright. A culture that names its seasons after the Bright’s mood.
 
 ## The First Light
 
-There was one Bright, and Aethora had always known it.
+There was one Bright, and Oros had always known it.
 
 A cube of hyper-saturated glass-like light stood in cut ground: silent, even, bright enough to read a name by. Seams erupted wherever The Bright cast its net — shattered satin curtains that enveloped and rewrote matter. Those Seams wept Tears at their edges. The Bright drank that liquid to feed itself. Near the Core, Bright energy poured out — heavier, rarer, available only to whoever reached the nucleus.
 
@@ -34,13 +34,13 @@ Rath lost his wife and child to the Call of the Bright.
 
 He walked an Umbra into the Bright with Null-Flint and threw the crystal into the Bright Core. The flint did not bloom into fire. It imploded into vacuum. Bright energy and the Bright’s charge poured into shattered shards. **Splinters** were born. The landmark went out. Rath died in the wreck.
 
-When a Bright ends, a young Bright seeds elsewhere. Aethora entered the road.
+When a Bright ends, a young Bright seeds elsewhere. Oros entered the road.
 
 ## The Traveling Light
 
 Peoples followed reseeding Brights.
 
-Camps moved with each Glimmer. Too close meant the calling. Too far meant polar cold. The Bright still set Aethora’s poles of radiance and frost. Fixed sites were not yet proven. This age is the long road between lights.
+Camps moved with each Glimmer. Too close meant the calling. Too far meant polar cold. The Bright still set Oros’s poles of radiance and frost. Fixed sites were not yet proven. This age is the long road between lights.
 
 ### The First Harvest
 

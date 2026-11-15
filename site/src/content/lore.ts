@@ -2,7 +2,7 @@
 
 export const brand = {
   game: 'Brightcall',
-  world: 'Aethora',
+  world: 'Oros',
   genre: 'Bright-punk',
   tagline: 'Walk an Umbra. Survive the Core.',
   support:
@@ -74,7 +74,7 @@ export const bright = {
   inside:
     'From the inside: a brutalist monolithic maze filling the cube. The Bright tries to eat Harvesters over time; Seams that wrap them grant volatile Enhancements. Once in, you leave only by ending the Core.',
   eclipse:
-    'The Eclipse is the six faces of the cube. It expands as the Core grows stronger and consumes more of Aethora. Umbras — the darkest weak spots on a face — are entry, deployment, and mid-match Stitching return. Once inside, you leave only by ending the Core.',
+    'The Eclipse is the six faces of the cube. It expands as the Core grows stronger and consumes more of Oros. Umbras — the darkest weak spots on a face — are entry, deployment, and mid-match Stitching return. Once inside, you leave only by ending the Core.',
   seams:
     'Every Seam is Bright energy — appetite or Splinter-Crush synthetic. Razor-thin satin with fractured-glass texture. Chroma bursts at eruption and weeps Magenta, Cyan, and Gold. A wrap on a Harvester or weapon is an Enhancement. Kho\'Lan and Penumbra cleanse them.',
   core:

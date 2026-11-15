@@ -1,9 +1,9 @@
 ---
-description: Write Aethora lore and world docs in a storytelling tone — it is all lore
+description: Write Oros lore and world docs in a storytelling tone — it is all lore
 alwaysApply: true
 ---
 
-# Aethora storytelling tone
+# Oros storytelling tone
 
 Brightcall documentation is **lore**. Even terminology summaries, faction pages, GDD fiction locks, and site primer copy should read like world storytelling — not a sterile wiki dump or a patch-note changelog.
 
@@ -11,7 +11,7 @@ Brightcall documentation is **lore**. Even terminology summaries, faction pages,
 
 - Write as if telling the world: atmosphere, motive, consequence.
 - Prefer concrete image and lived habit over abstract bullet stacks when the page is narrative.
-- Keep sentences affirmative. State what Aethora **is**.
+- Keep sentences affirmative. State what Oros **is**.
 - English only.
 
 ## Still allowed to be clear

@@ -59,7 +59,7 @@ Change: camera or coat so the **full weapon-arm and shoulder Brilliance** read, 
 
 ## The Resonance Glaive
 
-A precision mason’s tool turned weapon: ultrasonic vibration wired to her Bright cell. Brilliance metal through and through — readable as refined civic tech (clean housing, lit white charge), not a wooden fantasy polearm. It can cut stone, metal, and — at full voice — thin reality into a **scratch** (a Seam almost opening). Among blades on Aethora it sits near the top of what refined Brilliance craft can do. It does not match a Splinter’s full rewrite, raw Chroma burn, or a Bright Core.
+A precision mason’s tool turned weapon: ultrasonic vibration wired to her Bright cell. Brilliance metal through and through — readable as refined civic tech (clean housing, lit white charge), not a wooden fantasy polearm. It can cut stone, metal, and — at full voice — thin reality into a **scratch** (a Seam almost opening). Among blades on Oros it sits near the top of what refined Brilliance craft can do. It does not match a Splinter’s full rewrite, raw Chroma burn, or a Bright Core.
 
 **Safe Chroma contact.** Brilliance lets Vesper handle Chroma without bare-skin Bloom or burn. When Tears weep along the glaive, the craft takes the touch. That is why a Kardian Harvester can work Seam edges and scratches with a civic tool instead of dying on the first ooze.
 

@@ -1,8 +1,8 @@
 # Game design
 
-**Brightcall** is a tableau builder played on a hex board inside **The Bright** on **Aethora**. The match is short, the builds get strange, and the board is there so those builds have to touch each other.
+**Brightcall** is a tableau builder played on a hex board inside **The Bright** on **Oros**. The match is short, the builds get strange, and the board is there so those builds have to touch each other.
 
-The inspiration is mid-match Enhancement chaos in the spirit of ARAM Mayhem, plus hex movement in the family of a skirmish game. Mechanics are free to reuse. Names, art, lore, and exact text from those games are not. The setting is Aethora. It is not a tournament.
+The inspiration is mid-match Enhancement chaos in the spirit of ARAM Mayhem, plus hex movement in the family of a skirmish game. Mechanics are free to reuse. Names, art, lore, and exact text from those games are not. The setting is Oros. It is not a tournament.
 
 ## What a match feels like
 
@@ -48,7 +48,7 @@ The deck decides what scores right now. The menu: zones, about three of them; ki
 
 One event is live at a time. It names the zone, the carrier, or the payout, and it expires when the next event says so. Objectives and kills live in the same points band, so a defensive plan is not a consolation prize.
 
-The fiction for that menu is the interior of The Bright on Aethora — a cube of light filled with monolith maze. The Eclipse is the faces of that cube. Umbras on those faces are deployment entry. Crews leave only when the Core ends (Null-Flint harvest or destroy). Seams erupt as razor-thin satin / fractured-glass curtains caused by Bright energy — cast synthetically when a Splinter is crushed, and cast by the Bright itself while it tries to consume Harvesters. At eruption Chroma bursts from the cracks; while active it weeps at the edges. Terrain and objects restore when a curtain ends. A Harvester or weapon wrap is an **Enhancement**. An active Seam is a zone. A containment unit in transit is the oddball. A shove into a Seam is a stall hazard. Violence near objectives is the kill window. Pinching a Seam (name still open) is a Discharge. So is harvesting a containment unit. The Oru and Penumbra cleanse. Lumari drink the weep. Bright energy causes Seams; Chroma is the ooze.
+The fiction for that menu is the interior of The Bright on Oros — a cube of light filled with monolith maze. The Eclipse is the faces of that cube. Umbras on those faces are deployment entry. Crews leave only when the Core ends (Null-Flint harvest or destroy). Seams erupt as razor-thin satin / fractured-glass curtains caused by Bright energy — cast synthetically when a Splinter is crushed, and cast by the Bright itself while it tries to consume Harvesters. At eruption Chroma bursts from the cracks; while active it weeps at the edges. Terrain and objects restore when a curtain ends. A Harvester or weapon wrap is an **Enhancement**. An active Seam is a zone. A containment unit in transit is the oddball. A shove into a Seam is a stall hazard. Violence near objectives is the kill window. Pinching a Seam (name still open) is a Discharge. So is harvesting a containment unit. The Oru and Penumbra cleanse. Lumari drink the weep. Bright energy causes Seams; Chroma is the ooze.
 
 **Enhancements** are Seam wraps — temporary new combat power. In the world they vary a great deal. On the table, draft tiers (Weak / Moderate / Ultimate) are game language only — not lore nouns. Appetite wraps on Harvesters draft on rounds 1, 3, 6, 9, and 12. **Splintered** cards are the synthetic path: draw 3, keep 1 — Splinter-Crush chambers that smash Bright-powered Null-Flint and wrap a weapon in a fabricated Seam Enhancement. Refract pioneered that armory. **Bloom** requires Chroma taken internally.
 
@@ -113,4 +113,4 @@ A hex board with two deployment layouts sketched on paper. A tableau per player 
 
 ## What this document will not pretend
 
-Values are not solved. Vesper is the first Kardia measuring stick in working prose ([vesper.md](characters/vesper.md)); her numbers are not locked. Aethora is locked; open numbers are not. The board distance is a feeling with two candidate numbers. Those live in the other documents on purpose, so a clean turn summary cannot smuggle them in as rules.
+Values are not solved. Vesper is the first Kardia measuring stick in working prose ([vesper.md](characters/vesper.md)); her numbers are not locked. Oros is locked; open numbers are not. The board distance is a feeling with two candidate numbers. Those live in the other documents on purpose, so a clean turn summary cannot smuggle them in as rules.

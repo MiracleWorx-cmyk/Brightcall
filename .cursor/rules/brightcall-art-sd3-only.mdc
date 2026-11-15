@@ -1,0 +1,14 @@
+---
+description: Brightcall marketing/website art — Stability SD3 only; stop if no credits
+alwaysApply: true
+---
+
+# Brightcall art: SD3 only
+
+When generating, regenerating, or replacing **Brightcall / Oros marketing or website stills** (hero plates, Seam stills, faction explainer art, Splinter slam, etc.):
+
+1. **Only** use Stability **SD3** via `scripts/generate-brightcall-art.mjs` (model `sd3-large`), reading `STABILITY_API_KEY` from `.env`.
+2. Always include the **Style lock** prompt block and negative block from `docs/gdd/art-direction.md`. Master plates: `site/public/art/hero-harvester.png` and `site/public/art/the-bright.png`.
+3. **Never** fall back to Cursor `GenerateImage`, Midjourney, DALL·E, or any other image model to “keep going” when SD3 fails or credits are empty. Style drift is worse than waiting.
+4. If the Stability API returns **payment_required**, insufficient credits, auth failure, or any block that prevents SD3 generation: **stop**, tell Dirk clearly that SD3 credits (or key) are needed, and wait for him to top up / fix the key. Do not generate substitutes.
+5. Lore-correct Seam read still applies: one transparent shattered satin sheet; Magenta + Cyan + Gold Chroma ooze together through the cracks.

@@ -1,8 +1,8 @@
 # Character design and mechanics
 
-A character is a person with a reason to walk an Umbra into a Bright on Aethora: four abilities, a private resource, and stats strong enough at level 1. Inside, the Bright tries to eat them. That appetite casts **Seams** onto living prey over time — volatile rewrites of tissue and fighting style. On the table those mid-match rewrites are **Enhancements**. **Splintered** cards are the synthetic path: Splinter-Crush chambers that cast fabricated Seams onto weapons (or shatter lines on a body).
+A character is a person with a reason to walk an Umbra into a Bright on Oros: four abilities, a private resource, and stats strong enough at level 1. Inside, the Bright tries to eat them. That appetite casts **Seams** onto living prey over time — volatile rewrites of tissue and fighting style. On the table those mid-match rewrites are **Enhancements**. **Splintered** cards are the synthetic path: Splinter-Crush chambers that cast fabricated Seams onto weapons (or shatter lines on a body).
 
-The first measuring stick is **Vesper** (Kardia): easy to teach, durable mobile bruiser, still interesting. Full working brief: [vesper.md](characters/vesper.md). A pre-Aethora draft that leaned on graviton charges and shock damage was thrown out. Those words arrived before the factions had habits.
+The first measuring stick is **Vesper** (Kardia): easy to teach, durable mobile bruiser, still interesting. Full working brief: [vesper.md](characters/vesper.md). A pre-Oros draft that leaned on graviton charges and shock damage was thrown out. Those words arrived before the factions had habits.
 
 ## The sheet
 

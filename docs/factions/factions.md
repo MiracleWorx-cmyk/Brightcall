@@ -12,11 +12,11 @@ Each faction is a **motive plus a habit**, not a damage type. First roster targe
 
 ## Resting Light politics
 
-On Aethora, power comes from **The Bright** — vast cubes of light with a Bright Core at the center. Crews enter through dark weak spots on a face (Umbras), fight and harvest inside, and leave only when Null-Flint ends the Core. Cities and weapons run on what those crews recover.
+On Oros, power comes from **The Bright** — vast cubes of light with a Bright Core at the center. Crews enter through dark weak spots on a face (Umbras), fight and harvest inside, and leave only when Null-Flint ends the Core. Cities and weapons run on what those crews recover.
 
 Six factions shape that fight.
 
-**House Kardia** is a large city-nation and the former Bright-order superpower of Aethora. Brightsmiths still hold the deepest craft: containment units, scarce **Brilliance**, bright-white **Bright cells**, and **Zenith Relays**. They refuse Chroma-fuel and do not deal in Tears as a resource.
+**House Kardia** is a large city-nation and the former Bright-order superpower of Oros. Brightsmiths still hold the deepest craft: containment units, scarce **Brilliance**, bright-white **Bright cells**, and **Zenith Relays**. They refuse Chroma-fuel and do not deal in Tears as a resource.
 
 **The Aureate** are former Kardia members who broke away, unified under their own flag, and seized the Bright order. Wealthy barons and crime lords — bribery, theft, extortion, hijacked containment. The volatile harvest rewarded their opportunism with power, wealth, and control. They burn banned **Chroma-fuel** (a Refract concept Kardia rejected). Barons stay safe. They send **controlled-Bloom infantry** into the arena in robust, dangerous exoskeletons — aesthetically kin to Kardia division, but heavier on metal.
 
@@ -66,7 +66,7 @@ Lineages of the First Light. After the First Survivor — Bloomed, dying, strong
 
 ## House Kardia
 
-A large Aethoran city-nation. Former Bright-order superpower. Brightsmith pride and superior craft remain even after the Aureate seized control.
+A large Orosian city-nation. Former Bright-order superpower. Brightsmith pride and superior craft remain even after the Aureate seized control.
 
 **Material.** **Brilliance** — extremely refined pearl-white metal, carefully cast to fit the wearer. Rare and expensive now: once abundant, then scarce as the Aureate stole Bright Cores. The cast keeps a Harvester nimble, handles Chroma safely, powers weapons, and conducts Bright energy.
 

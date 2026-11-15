@@ -1,6 +1,6 @@
 # Brightcall
 
-Public title: **Brightcall** (one word). World: **Aethora**. Genre: **Bright-punk Fantasy**.
+Public title: **Brightcall** (one word). World: **Oros**. Genre: **Bright-punk Fantasy**.
 
 This repo is the source pack for the landing site and playtest area — Lovable plus the local Vite primer.
 

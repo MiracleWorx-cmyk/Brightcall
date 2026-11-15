@@ -6,7 +6,7 @@ Physics for the interior of The Bright, and the words the board needs. History: 
 
 **The Bright** is a vast cube of hyper-saturated light. Exact edge length is open. It feeds on Chroma from Seams only — it does not eject Chroma. It hungers for living matter. It quiets on organic material; when it consumes Harvesters it grows more violent. Consumption takes time and spends Bright energy as **Seams** that wrap prey — that living wrap is an **Enhancement** on the table. Matches happen inside it. Brighter ground means stronger Bright energy.
 
-**The Eclipse** is the outer boundary — the six faces of the cube. Outside: bright, see-through into a Seam-fractured interior. Inside: dark smoky barrier hiding Aethora.
+**The Eclipse** is the outer boundary — the six faces of the cube. Outside: bright, see-through into a Seam-fractured interior. Inside: dark smoky barrier hiding Oros.
 
 **Call of the Bright** is the siren toward the Bright Core. Street may say **the calling**. Manifestation unknown. The game title **Brightcall** echoes that pull.
 
@@ -56,7 +56,7 @@ Seams erupt as predatory nets — upright curtain tokens on or over hexes. Viole
 
 *“The seams are weeping.”*
 
-Old Aethoran omen. Every Seam erupts with a Chroma burst and keeps weeping. Chroma is in the air. Call of the Bright thickens — the calling is loud. Harvest weather. The Blinding may be near.
+Old Orosian omen. Every Seam erupts with a Chroma burst and keeps weeping. Chroma is in the air. Call of the Bright thickens — the calling is loud. Harvest weather. The Blinding may be near.
 
 Pressurized Magenta, Electric Cyan, and Searing Gold burst at eruption and ooze at the curtain edges. Occupy, cross, or external touch: hurt and pay. Bloom requires Chroma entering the body internally. On the table, exposure can mean fuel, damage, or death; Bloom lines need an internal path.
 

@@ -1,12 +1,12 @@
 # World and lore
 
-Design lock for Aethora — the filter a card should pass before it enters the set.
+Design lock for Oros — the filter a card should pass before it enters the set.
 
 Narrative lives in the [timeline](timeline.md), [The Bright](the-singularity.md), [board glossary](pocket-and-core.md), [Chroma and Bright](lore_the_energy.md), and [factions](../factions/factions.md). Words live in [terminology](../terminology.md).
 
 If a new request conflicts with the leading lore, ask before changing these pages.
 
-**Brightcall** is the game. **Aethora** is the world. **Chroma** is torn-reality energy. **Bright energy** is Core emission. Intruders say Tears. Refract Labs coined Chroma for that liquid. They do not work Bright energy.
+**Brightcall** is the game. **Oros** is the world. **Chroma** is torn-reality energy. **Bright energy** is Core emission. Intruders say Tears. Refract Labs coined Chroma for that liquid. They do not work Bright energy.
 
 If a card needs a fact that is not here, add the fact here first.
 

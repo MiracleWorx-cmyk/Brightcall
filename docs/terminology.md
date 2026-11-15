@@ -4,13 +4,13 @@ Words drift faster than rules. This page is the list. Every page is English. A p
 
 If a prettier sentence disagrees with this page, this page wins.
 
-Aethora lore as of this page is the source of truth. If a new request conflicts with this page or with `docs/lore/`, ask before changing either.
+Oros lore as of this page is the source of truth. If a new request conflicts with this page or with `docs/lore/`, ask before changing either.
 
 Rules and components use the word written here. Fiction may speak in rumors; rumors are not second components. Retired words stay retired in narrative. Narrative states what things are — the correction voice belongs only on this page.
 
 ## The game and the world
 
-The game is **Brightcall**. The world is **Aethora**. The anomaly is **The Bright**. The siren is **Call of the Bright** — street may say **the calling**; the game title echoes that pull. Torn-reality energy is **Chroma** in the lab and **Bright-Tears** / **Tears** on the street. Core radiation is **Bright energy** — not the same substance as Chroma. Safe entry is an **Umbra** (plural Umbras). The outer boundary is **the Eclipse**.
+The game is **Brightcall**. The world is **Oros**. The anomaly is **The Bright**. The siren is **Call of the Bright** — street may say **the calling**; the game title echoes that pull. Torn-reality energy is **Chroma** in the lab and **Bright-Tears** / **Tears** on the street. Core radiation is **Bright energy** — not the same substance as Chroma. Safe entry is an **Umbra** (plural Umbras). The outer boundary is **the Eclipse**.
 
 ## Two energies
 
@@ -20,11 +20,11 @@ The game is **Brightcall**. The world is **Aethora**. The anomaly is **The Brigh
 
 ## Peoples
 
-**Oru** are a people of Aethora: the oldest indigenous race — very large stature, black skin with a faint stone glimmer, bodies durable like carved stone. Exterior reads mass and hardness. Interior feeling is still loud. Few remain in the industrial cities; an Oru in Kardia stands out. Leading visual: `site/public/art/hero-harvester.png` (Vesper). **The Oru** as a faction name means the Indigenous Wardens who refused harvest industry — not every Oru by blood.
+**Oru** are a people of Oros: the oldest indigenous race — very large stature, black skin with a faint stone glimmer, bodies durable like carved stone. Exterior reads mass and hardness. Interior feeling is still loud. Few remain in the industrial cities; an Oru in Kardia stands out. Leading visual: `site/public/art/hero-harvester.png` (Vesper). **The Oru** as a faction name means the Indigenous Wardens who refused harvest industry — not every Oru by blood.
 
 ## Nomenclature
 
-**The Bright** is the central anomaly on Aethora — a vast **cube** of hyper-saturated light that feeds on Chroma and hungers for living matter. Exact edge length is open. The cubic exterior matches the brutalist monolithic interior and makes entry easy to read: you approach a face of light. Inside it is very bright. Brighter ground means more potent Bright energy; brightness climbs toward the Core. One Bright per match. The Bright **quiets** when it receives **organic material**. When Harvesters enter, it tries to consume them too; **during consumption it grows more violent**. That consumption takes time. The Bright energy spent on the attempt erupts as **Seams** that wrap living prey — that is the volatility inside the Bright, and that living wrap is an **Enhancement**.
+**The Bright** is the central anomaly on Oros — a vast **cube** of hyper-saturated light that feeds on Chroma and hungers for living matter. Exact edge length is open. The cubic exterior matches the brutalist monolithic interior and makes entry easy to read: you approach a face of light. Inside it is very bright. Brighter ground means more potent Bright energy; brightness climbs toward the Core. One Bright per match. The Bright **quiets** when it receives **organic material**. When Harvesters enter, it tries to consume them too; **during consumption it grows more violent**. That consumption takes time. The Bright energy spent on the attempt erupts as **Seams** that wrap living prey — that is the volatility inside the Bright, and that living wrap is an **Enhancement**.
 
 **Call of the Bright** pulls living matter toward the Core. Street speech may say **the calling**. **Brightcall** is the game; the title carries that same hunger into the table. How the call manifests is unknown — nobody has heard it and lived to tell.
 
@@ -34,7 +34,7 @@ When a Seam wraps a **Harvester** or a **weapon**, the temporary rewrite is an *
 
 A **scratch** (reality scratch) is the moment a Seam almost opens — Bright vibration or force thinning reality until Tears weep along the cut without a full curtain token yet. Scratches can deepen into Seams. On the table: residue or chromatic damage options; not automatically a lasting Seam token.
 
-**The Eclipse** is the outer boundary of The Bright — the six faces of the cube. It expands as the Core grows stronger. One-way: from outside a face is bright and you can see into a fractured, Seam-thick interior; from inside the same face is a dark, smoky barrier that hides Aethora. On the table: the edge of the arena.
+**The Eclipse** is the outer boundary of The Bright — the six faces of the cube. It expands as the Core grows stronger. One-way: from outside a face is bright and you can see into a fractured, Seam-thick interior; from inside the same face is a dark, smoky barrier that hides Oros. On the table: the edge of the arena.
 
 An **Umbra** is the darkest weak spot on an Eclipse face — a dark doorway cut into a wall of light. That is **entry**. On the table: deployment and mid-match Stitching return. Once inside, crews do not walk out. The only ways the Bright ends — and survivors leave — are rare **Null-Flint** acts against the Core.
 
@@ -159,7 +159,7 @@ Visual references: `docs/gdd/references/brightcall-box-art.webp`, `docs/gdd/refe
 
 ## Retired
 
-These stay off narrative pages and live only here: Weld; Pocket as the anomaly name; Given Bright, Nomadic Age, Escalation as era titles; First Bright as an era title (the age is First Light); Call of the Light; Call of the Void; treating The Bright as “the sphere” or any spherical / squished-orb exterior; Reprint as return fiction; treating Chroma and Bright energy as one substance; deployment zone as the only name for Umbra; the Purists, the Ascended, the Utopists, Apex Labs, the Syndicate, the Puppeteers as faction names; Project Sin U as the public game title; Seams as ground cracks, lava rifts, laser walls, or hex borders; permanent Altered scars after a Seam ends; White as a Tear / Chroma board color; printed arcane / physical hex-edge borders as the Seam system; Hex-Arena as the public game title; **Brightforged** (the metal and craft are **Brilliance**); Bright-battery / Bright-batteries (the packs are **Bright cells**); alabaster Oru skin as the race default; walking out an intermittent “bright Eclipse exit” while the Bright still stands; Kardia dealing in Tears / Chroma as civic resource; Bloom from external skin contact alone; using **augment** as the public rules word for Seam-wrap rewrites (the word is **Enhancement**); **Vertex Labs** / **Axiom Labs** as names for Refract Labs; **Kho'Lan** (the faction is **the Oru**); **Adumbra** (the order is **Penumbra**); cyan Bright-cell charge (cells are **bright white**; cyan is Chroma); **Altered Humans** as Aureate infantry label (use **controlled-Bloom infantry**); locking a finished third-quantum-field Seam model (science still in progress); the Syndicate as a seventh faction name (Aureate use syndicate methods).
+These stay off narrative pages and live only here: Weld; Pocket as the anomaly name; Given Bright, Nomadic Age, Escalation as era titles; First Bright as an era title (the age is First Light); Call of the Light; Call of the Void; treating The Bright as “the sphere” or any spherical / squished-orb exterior; Reprint as return fiction; treating Chroma and Bright energy as one substance; deployment zone as the only name for Umbra; the Purists, the Ascended, the Utopists, Apex Labs, the Syndicate, the Puppeteers as faction names; Project Sin U as the public game title; Seams as ground cracks, lava rifts, laser walls, or hex borders; permanent Altered scars after a Seam ends; White as a Tear / Chroma board color; printed arcane / physical hex-edge borders as the Seam system; Hex-Arena as the public game title; **Brightforged** (the metal and craft are **Brilliance**); Bright-battery / Bright-batteries (the packs are **Bright cells**); alabaster Oru skin as the race default; walking out an intermittent “bright Eclipse exit” while the Bright still stands; Kardia dealing in Tears / Chroma as civic resource; Bloom from external skin contact alone; using **augment** as the public rules word for Seam-wrap rewrites (the word is **Enhancement**); **Vertex Labs** / **Axiom Labs** as names for Refract Labs; **Aethora** (the world is **Oros**); **Kho'Lan** (the faction is **the Oru**); **Adumbra** (the order is **Penumbra**); cyan Bright-cell charge (cells are **bright white**; cyan is Chroma); **Altered Humans** as Aureate infantry label (use **controlled-Bloom infantry**); locking a finished third-quantum-field Seam model (science still in progress); the Syndicate as a seventh faction name (Aureate use syndicate methods).
 
 ## Still open
 

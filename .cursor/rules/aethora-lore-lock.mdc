@@ -1,9 +1,9 @@
 ---
-description: Leading Aethora lore lock — check conflicts before any world/GDD edit
+description: Leading Oros lore lock — check conflicts before any world/GDD edit
 alwaysApply: true
 ---
 
-# Aethora lore lock
+# Oros lore lock
 
 The curated lore in `docs/terminology.md` and `docs/lore/` is the leading truth for **Brightcall**.
 
@@ -23,7 +23,7 @@ The curated lore in `docs/terminology.md` and `docs/lore/` is the leading truth 
 - Genre: **Bright-punk** — between fantasy and sci-fi; modern-gloomy steampunk cousin; extreme high contrast; Sin City read (Bone/Ash/Greige + Magenta/Cyan/Gold Chroma). Master plate: `site/public/art/hero-harvester.png`
 - Hard tech limit: **no** computers, screens, LEDs, internet, or modern firearms; Bright energy (bright white) or Chroma (volatile neon)
 - **Brilliance:** rare cast-to-fit; **Kardia/Vesper body budget:** one full arm + shoulder + one glove on the other hand
-- World: **Aethora** · Anomaly: **The Bright** (vast **cube**)
+- World: **Oros** · Anomaly: **The Bright** (vast **cube**)
 - **Eclipse / Umbra / Exit:** Null-Flint harvest or destroy only → Stitching
 - **Seams / Enhancement / Bloom / Splinter-Crush:** burst + continuous weep; wraps; Bloom internal-only; Enhancement tiers (Weak/Moderate/Ultimate) are **table language only**, not lore nouns — enhancements vary a lot in the world
 - **Bright cells:** bright-white charge (cyan is Chroma)
@@ -36,6 +36,6 @@ The curated lore in `docs/terminology.md` and `docs/lore/` is the leading truth 
 - **the Oru:** Indigenous Wardens (faction); Null-Flint; anti-harvest; natural harmony; opposite of Penumbra. Race **Oru** is broader — city Oru exist; Vesper is Oru in Kardia and stands out; Harvester work conflicts with warden ideology without requiring the word traitor
 - Eras: First Light → Traveling Light → Resting Light
 - Match mutation: Splintered · No Weld
-- Retired: Brightforged; **Kho'Lan** (faction is **the Oru**); Adumbra; Vertex/Axiom Labs; Altered Humans; cyan Bright-cell charge; locked third-quantum-field model; The Voice; the Syndicate as faction name
+- Retired: Brightforged; **Aethora** (world is **Oros**); **Kho'Lan** (faction is **the Oru**); Adumbra; Vertex/Axiom Labs; Altered Humans; cyan Bright-cell charge; locked third-quantum-field model; The Voice; the Syndicate as faction name
 
 Full vocabulary: `docs/terminology.md`. Place lock: `docs/lore/the-singularity.md`. Art: `docs/gdd/art-direction.md`.
