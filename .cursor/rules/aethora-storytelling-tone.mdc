@@ -1,0 +1,29 @@
+---
+description: Write Aethora lore and world docs in a storytelling tone — it is all lore
+alwaysApply: true
+---
+
+# Aethora storytelling tone
+
+Brightcall documentation is **lore**. Even terminology summaries, faction pages, GDD fiction locks, and site primer copy should read like world storytelling — not a sterile wiki dump or a patch-note changelog.
+
+## Voice
+
+- Write as if telling the world: atmosphere, motive, consequence.
+- Prefer concrete image and lived habit over abstract bullet stacks when the page is narrative.
+- Keep sentences affirmative. State what Aethora **is**.
+- English only.
+
+## Still allowed to be clear
+
+- Terminology may stay denser and definitional — but each entry should still sound like a storyteller naming a thing, not a database schema.
+- Tables and board rules may stay crisp; wrap them in short fiction where they touch the world.
+- Do not invent soft-fantasy fluff that breaks the Bright-punk lock.
+
+## Avoid
+
+- Changelog voice (“updated X to Y”, “formerly”, “do not call it”)
+- Dry inventory lists with no sense of place
+- Meta commentary inside narrative pages
+
+Conflict checks against the lore lock still come **before** any rewrite. Tone never excuses silent contradiction.

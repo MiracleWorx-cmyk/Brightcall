@@ -9,11 +9,12 @@ The curated lore in `docs/terminology.md` and `docs/lore/` is the leading truth 
 
 ## Before any lore or GDD change
 
-1. If the user says something that **conflicts** with locked Aethora lore, **stop and check** with them before editing. Do not silently overwrite the lock.
-2. Write **English only** in all docs, even if the user prompt is in another language.
-3. **Overwrite** outdated paragraphs. Do not annotate corrections. Do not keep “formerly called X” or “do not call it Y” in narrative.
-4. Affirmative prose only: state what the world **is**.
-5. Forget retired names in story text. Legacy words live only in terminology’s retired list.
+1. **Conflict check first (mandatory).** Compare the request to `docs/terminology.md`, `docs/lore/`, and this rule. If anything **conflicts**, **disagrees**, or would **rename / retire / reverse** a locked fact: **stop**. Do **not** edit yet. List each conflict in chat (old lock → proposed change → why it matters) and wait for Dirk’s call. A “master blueprint,” paste, or full rewrite does **not** skip this step.
+2. Only after conflicts are resolved (or Dirk says overwrite) may you edit. Compatible additions and non-conflicting expansions may proceed.
+3. Write **English only** in all docs, even if the user prompt is in another language.
+4. **Overwrite** outdated paragraphs once a change is approved. Do not annotate corrections. Do not keep “formerly called X” or “do not call it Y” in narrative.
+5. Affirmative prose only: state what the world **is**.
+6. Forget retired names in story text. Legacy words live only in terminology’s retired list.
 
 ## Locked pillars (summary)
 
