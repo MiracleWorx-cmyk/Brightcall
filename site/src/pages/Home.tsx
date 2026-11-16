@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import { brand } from '../content/lore'
+import { BrightcallWordmark } from '../components/BrightcallWordmark'
 
 export function Home() {
   return (
@@ -15,7 +16,9 @@ export function Home() {
         <div className="hero-media__veil" />
       </div>
       <div className="hero-copy">
-        <h1 className="hero-brand">{brand.game}</h1>
+        <h1 className="hero-brand">
+          <BrightcallWordmark size="hero" />
+        </h1>
         <p className="hero-line">{brand.tagline}</p>
         <p className="hero-support">
           A fast hex brawler inside The Bright — where Seams burst and weep neon Chroma.

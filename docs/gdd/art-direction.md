@@ -10,6 +10,17 @@ Leading visual truth:
 2. [`site/public/art/the-bright.png`](../../site/public/art/the-bright.png) — world / landscape north star
 3. [`site/public/art/seam-curtain.jpg`](../../site/public/art/seam-curtain.jpg) — Seam / Chroma north star (also [`references/seam-curtain.jpg`](references/seam-curtain.jpg))
 
+## Logo (wordmark)
+
+**Brightcall** is a **minimalist wordmark only** — no emblem lock beside the favicon companion.
+
+- One word. Syne 800 (site). Bone / cream type (`#F7F4EC`) on void.
+- **Subtle accents only:** the **i** tittle is a tiny **cube** (Bright wink) with a thin Gold edge; three short Magenta / Cyan / Gold hairlines sit under the word — Chroma triad, not a rainbow wash.
+- No full Seam gradient fill on the letters. No heavy glow. No trench icon. No character silhouette in the logo.
+- Live component: `site/src/components/BrightcallWordmark.tsx` (nav / hero / footer).
+- Export SVG: `site/public/brand/brightcall-wordmark.svg` (outline in Figma for print).
+- Favicon companion (not the logo): `site/public/favicon.svg` — cube shell + white Core sphere + same three hairlines.
+
 ## Style lock (website & marketing stills)
 
 **Master plates.** Character and world stills must match plates 1–2. Any Seam or Chroma still must match plate 3: one transparent shattered satin / cracked-glass curtain draped across an opening; Magenta + Cyan + Searing Gold as liquid neon on and through that sheet — never paint splatters on bare concrete with no curtain.
