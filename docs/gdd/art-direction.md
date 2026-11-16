@@ -137,7 +137,11 @@ Each faction has a distinct shape language and a dedicated accent that pops agai
 
 **Kardia** lean **civic-modern magitech**, not medieval. Blue and silver hard-light on tailored coats, braces, and tool fittings — Resting Light high fashion under ash: crests, etiquette, clean silhouettes held in the mud. Brilliance is **scarce civic craft under cloth**: Vesper’s body budget is about **one full arm and shoulder** plus **one glove** on the other hand — rare cast-to-fit pearl, **cube** Bright cell on the weapon shoulder, coat cutouts framing the metal. Never sealed exosuits, never hazard-suit mechs, never chrome cyberlimbs as identity: **pearl white, faintly radiant**. Bright cells glow bright white; under load they vent **pure bright-white** steam — clean, high-pressure, sharp, fleeting. Zenith Relays are civic energy substations (appearance open). Majestic containment units with golden Core-vault hearts on pearl frames. Proud civic craft under Aureate pressure. Cell refs: `docs/gdd/references/vesper-full-bright-cell.png`, `docs/gdd/references/vesper-shoulder-mount.png`.
 
-**The Aureate** wear purple, white, and gold on industrial mass — cutthroat wealth, stolen Kardia frames with hissing chromatic fuel tanks, vents, failsafes, and canisters running hot. Controlled-Bloom infantry mass. Baron leaders stay out of The Bright. Still cloth-first where the body shows; the loud tech is the pressurized fuel line, not a sealed mecha shell. Polished display over grit. Chroma exhaust is thick and lingering: about **60% Magenta**, **35% Cyan**, **15% Gold** sparks — corrosive steam that clings and stains. **Valen** reads as the refined tip of that spear: human slender-muscular sellout under velvet and gold (no trench), slender anatomical Chroma prosthesis (right) that looks almost too fine for the body, and a sneaky Resonance-inspired Chroma dagger (left, working name Resonance Dagger) — Swiss-watch precision with jet-engine venting, not infantry bulk. Exploration plates kept: `docs/gdd/references/valen-line-concept.png` (primary), `docs/gdd/references/valen-line-concept-b.png` (second pass).
+**The Aureate** wear purple, white, and gold on industrial mass — cutthroat wealth, stolen Kardia frames with hissing chromatic fuel tanks, vents, failsafes, and canisters running hot. Controlled-Bloom infantry mass. Baron leaders stay out of The Bright. Still cloth-first where the body shows; the loud tech is the pressurized fuel line, not a sealed mecha shell. Polished display over grit. Chroma exhaust is thick and lingering: about **60% Magenta**, **35% Cyan**, **15% Gold** sparks — corrosive steam that clings and stains — same law for Architect and grunt; only the *delivery* changes.
+
+**Valen (Architect)** — refined tip of the spear. Human slender-muscular sellout in a **white high-collar formal coat-vest** (primary plate) or purple blazer beat — **never** Vesper’s trench, **never** Brilliance. Slender anatomical **Chroma** prosthesis (right): gold plating over dark chassis (Brightsmith *skill*, Aureate metal); **micro Chroma ampules** flush in forearm/wrist behind crystal; jet-engine venting on the 60 / 35 / 15 mix. Left hand: Resonance-inspired Chroma dagger (working name Resonance Dagger). Plates: `docs/gdd/references/valen-line-concept.png` (primary), `docs/gdd/references/valen-line-concept-b.png` (second).
+
+**Controlled-Bloom infantry** — well-made, robust, heavier metal; not gold showcase, not Brilliance, not rust fantasy. **Oversized Chroma canisters** on back or chest; **long hoses** to weapons and mounts. Same exhaust mix; louder leaks at hose joints.
 
 Full civic kit rules: [civic field kit and Brilliance](armor-and-exosuits.md).
 
@@ -157,9 +161,11 @@ Containment units and chromatic fuel tanks must read as different objects at a g
 
 **Bright cells** (Kardia): Eminence-pattern (VE-3) Brilliance cubes ~Rubik’s-cube scale; bright-white charge; pin receivers; white steam vent on seat/strike. Issued charged; empties discarded.
 
-**Chromatic fuel tanks** (the Aureate): erratic, pressurized Chroma canisters. Volatile. Cutthroat modification. Exhaust Magenta-heavy with Cyan and Gold.
+**Chromatic fuel tanks** (the Aureate infantry): oversized pressurized Chroma canisters on back or chest, long hoses to tools. Well-made robust grit — not gold, not Brilliance. Volatile. Exhaust Magenta-heavy with Cyan and Gold.
 
-**Chroma vial rack (working plate):** `site/public/art/chroma-vials.png` only. Magenta / Cyan / Gold liquid Tears in glass under valves and fumes — strong Chroma atom. Reads more Refract lab glassware than Aureate military exo tankage. Aureate power-arm canisters stay crude pressurized grit, not this clean vial bank.
+**Architect ampules (Valen):** micro-pressurized glass cartridges seated flush in the Chroma prosthesis forearm — refined delivery of the same fuel, not a different substance.
+
+**Chroma vial rack (working plate):** `site/public/art/chroma-vials.png` only. Magenta / Cyan / Gold liquid Tears in glass under valves and fumes — strong Chroma atom. Reads more Refract lab glassware than Aureate infantry tankage; Valen’s forearm ampules sit closer to this *scale* of glass than to grunt kegs.
 
 
 Proper model names remain open in [terminology](../terminology.md).

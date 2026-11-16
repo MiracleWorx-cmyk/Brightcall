@@ -23,13 +23,17 @@ He knows what he is: a self-aware sellout. Velvet, gold accents, tailored Aureat
 
 **Body.** Muscular sellout. Broad chest, thick neck, fighter shoulders, legs built to close distance. The first read is brawler — not clerk, not frail genius. The smith mind sits *inside* that mass. Vanity kept: short controlled hair, clean-cut handsome face, sharp eyes that still measure angles like a forge.
 
-**Clothes.** Aureate luxury cut for a crime lord who still walks fights — fitted velvet jacket or waistcoat, open collar, purple / white / gold trim, cloth that strains slightly across the chest. No trenchcoat. The trench belongs to Vesper alone. His silhouette is tailored wealth over muscle, not rain-canvas Harvester civic.
+**Clothes.** Aureate elite Inventor-Smith wealth — not a Harvester coat. Leading plate read (`valen-line-concept.png`): a **white high-collar formal coat-vest** — long, tailored, sleeveless / open-arm cut so the prosthesis reads clean — purple V-chest panel, gold studs down the front, cloth cut for a fighter’s chest. Alternate beat (`valen-line-concept-b.png`): purple blazer over open white shirt. **No trenchcoat.** The trench belongs to Vesper alone; Valen’s white long formal is court luxury with the sleeves sacrificed to the arm, never rain-canvas civic.
 
-**Right arm — Chroma prosthesis.** The money contrast. Beside the thick torso the arm reads almost too fine: anatomical, slender, hyper-refined — Swiss-watch craft with jet thrust underneath. Not infantry bulk. Valves at forearm and knuckles. When he punches or grapples they vent Aureate exhaust: about **60% Magenta**, **35% Cyan**, **15% Gold**. The white-steam purity of Kardia Bright vents is gone; his body advertises the stigma. Enormous force from a delicate line — that is the point.
+**No Brilliance.** Exile cut him off from Kardia Core-smithy metal and Bright-cell Tithe. The prosthesis is **Aureate Chroma craft** — gold plating and dark chassis paid for by barons — not pearl Brilliance, not a leftover Kardia sleeve. What remains of the Brightsmith is *skill*: anatomy, joints, flush integration, the same eye that forged the Glaive, now spent on Chroma ampules and jet vents.
+
+**Right arm — Chroma prosthesis (Architect).** Beside the thick torso the arm reads almost too fine: anatomical, slender, hyper-refined — Swiss-watch craft with jet thrust underneath. Not infantry bulk. **Micro-pressurized Chroma ampules** (medical-cartridge scale) seat **flush in the forearm and wrist** behind reinforced crystal — Magenta / Cyan / Gold liquid visible, feeding fist and dagger line. Knuckle and forearm valves vent on punch or grapple: about **60% Magenta**, **35% Cyan**, **15% Gold** — same Aureate Chroma law as the grunts, refined delivery only. Enormous force from a delicate line — that is the point.
 
 **Left hand — Resonance-inspired dagger (working name: Resonance Dagger; final name TBD).** Biological arm under light armor. A sneaky compact blade carried in the *other* hand — never the prosthesis. Inspired by the **Resonance Glaive** he forged for Vesper, but it works **fundamentally differently**: no Bright cell, no Core-smithy purity, Chroma-fuel drive instead. Same craft *family* (Resonance), corrupted substitute. Concealable. Fast. Dirty. Magenta-heavy weep and vent when it sings.
 
-**Silhouette vs Vesper.** She: Oru mass, white trench, long Glaive, bright-white cell steam. He: human muscle, velvet gold, slender Chroma arm, short sneaky dagger, Magenta-heavy exhaust. Same forge history; opposite visual grammar.
+**Silhouette vs Vesper.** She: Oru mass, white trench, long Glaive, bright-white cell steam, pearl Brilliance. He: human muscle, white formal coat-vest / purple wealth, slender gold-dark Chroma arm with flush ampules, short sneaky dagger, Magenta-heavy jet exhaust. Same forge history; opposite power and grammar.
+
+**Vs his infantry.** He miniaturizes and integrates. They carry the mass-production tanks.
 
 ## Kit and Resonance craft
 
@@ -47,9 +51,10 @@ Before exile, Valen designed and forged Vesper’s **Resonance Glaive** in that 
 
 ## Visual refs
 
-- Primary exploration: [`valen-line-concept.png`](../references/valen-line-concept.png) — slender-muscular human read, elegant right prosthesis, no trench.
-- Second pass kept: [`valen-line-concept-b.png`](../references/valen-line-concept-b.png) — alternate color / attitude beat (review before promoting).
+- Primary exploration: [`valen-line-concept.png`](../references/valen-line-concept.png) — white high-collar formal coat-vest, gold-dark slender prosthesis, no trench, no Brilliance.
+- Second pass kept: [`valen-line-concept-b.png`](../references/valen-line-concept-b.png) — purple blazer / open white shirt attitude beat.
+- Fuel hierarchy vs grunts: Architect ampules in-arm; infantry oversized canisters + long hoses — [art-direction](../art-direction.md) Aureate block.
 
 ## Still settling
 
-Final dagger name (working: Resonance Dagger). Body lock may move fully to slender-muscular (vs earlier broad-spike wording above). Exact board verbs for steam-denial hexes. Prosthesis model name. Whether Valen and Vesper share a match as default rivals. Exact exile-to-recruitment timeline relative to the First Harvest calendar. Exact human height band vs Oru seven-foot read.
+Final dagger name (working: Resonance Dagger). Exact ampule count on the forearm. Exact board verbs for steam-denial hexes. Prosthesis model name. Whether Valen and Vesper share a match as default rivals. Exact exile-to-recruitment timeline relative to the First Harvest calendar. Exact human height band vs Oru seven-foot read.

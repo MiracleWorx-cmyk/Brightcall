@@ -55,7 +55,7 @@ The **Bright Core** is the nucleus — a perfectly smooth blinding-white **spher
 
 **Bloom** is a permanent severe biological mutation. It happens only when Chroma enters the body **internally** — eaten, drunk, or injected. External skin contact burns and damages; it does not Bloom. Lumari drink Tears toward excess Bloom. The Aureate inject foot soldiers — controlled-Bloom infantry — with raw Chroma for controlled Bloom so those bodies can withstand crude Chroma-fuel heat and pain.
 
-**Enhancement** is the temporary tactical rewrite when a Seam wraps a Harvester or a weapon. New combat power, changed fighting style or armament. Sources: the Bright’s consumption Seams on living prey, or **synthetic** Seams from crushed Splinters. On the table: the shared Enhancement draft deck covers appetite wraps; Splinter-Crush weapon wraps live on the Splintered path.
+**Enhancement** is the temporary tactical rewrite when a Seam wraps a Harvester or a weapon. New combat power, changed fighting style or armament. Sources: the Bright’s consumption Seams on living prey, or **synthetic** Seams from crushed Splinters. On the table: the shared Enhancement draft deck covers appetite wraps; Splinter-Crush weapon wraps live on the Splintered path. Draft tiers (Weak / Moderate / Ultimate) and Path A (global / structural) versus Path B (slot / trigger) are **table language only** — not lore nouns. In the world, wraps vary a great deal.
 
 **Splinter-Crush** is Bright-punk armory tech pioneered by **Refract Labs**. A rifle or melee weapon carries a mechanical crushing chamber. Load a Splinter, crush it inside the weapon, and a synthetic Seam violently bursts out and envelops the weapon — a temporary weapon **Enhancement**.
 
@@ -139,7 +139,7 @@ When a Core is harvested or destroyed, the Bright implodes and ends. Survivors o
 
 **Refract Labs** — the table shortens this to Refract. Scientific and weapon-manufacturing pragmatists. Split from Kardia after the First Harvest. Coined Chroma for Bright-Tears. Invented Chroma-fuel theory. Pioneered **Splinter-Crush**. They treat The Bright as a volatile resource to exploit, study, and weaponize — not a god, not a sacred predator. Specialize in synthesizing and controlling localized Seams for advanced Bright-punk armory. They do not contain Cores, forge Brilliance, or run Zenith Relays. Share the industrial scientific worldview of Seams as reality disruption.
 
-**the Aureate** — “the” belongs to them. Former Kardia; barons and crime lords who seized the Bright order by bribery, theft, extortion, and hijacked containment. Burn Chroma-fuel. Heavier metal frames than Kardia. Barons stay out. Foot soldiers are **controlled-Bloom infantry**. **Valen** — human Chroma-Smith exile; sleek Chroma prosthesis and Resonance-inspired Chroma dagger. Share unfinished industrial Seam science with Kardia and Refract.
+**the Aureate** — “the” belongs to them. Former Kardia; barons and crime lords who seized the Bright order by bribery, theft, extortion, and hijacked containment. Burn Chroma-fuel. Heavier metal frames than Kardia. Barons stay out. Foot soldiers are **controlled-Bloom infantry** with oversized Chroma canisters and long hoses. **Valen** — human Chroma-Smith exile and elite Architect; no Brilliance after exile; white high-collar formal coat-vest (not a trench); gold-dark Chroma prosthesis with flush forearm ampules; Resonance-inspired Chroma dagger; same 60 / 35 / 15 exhaust law. Share unfinished industrial Seam science with Kardia and Refract.
 
 
 
