@@ -37,13 +37,15 @@ Gear rules that apply to every Kardia plate also live in [civic field kit and Br
 
 **Coat over the mount.** The trench wears **over** her mechanical braces. Keep the trench — do not close it into a solid cylinder that hides craft. A **deliberate cutout** is sliced from the weapon-side shoulder of the coat so the Bright cell mount pushes through for combat reloads. Wind-splits and worn openings elsewhere let brace ribs catch light. The coat frames Brilliance; it does not bury it.
 
-**Brilliance amount.** The body-worn read is sparse on purpose. Pearl white, faintly radiant Brilliance covers **one full arm and its shoulder** — the weapon-side limb that feeds the Glaive, with the Bright cell mount seated there as a sleek Brilliance sleeve and shoulder socket. On the **other hand**, a single Brilliance **glove**. Coat, cloth, and Oru skin own the rest of the silhouette. Belt cells and glaive housing are small appliances, not more body armor. Not a sealed shell. Not cybernetic flesh-replace. Calm contained bright-white cell charge, not Tear neon as her fuel.
+**Brilliance amount.** The body-worn read is sparse on purpose. A **metallic Brilliance sleeve** covers **one full arm and its shoulder** — organic cast curves (living pearl, not Valen’s machine anatomy), faintly radiant with a **very light blue gleam** on the metal. The **cube Bright cell** in the shoulder mount powers that sleeve; the charge shining through is **bright white / off-white**, never cyan. On the **other hand**, a single Brilliance **glove**. Coat, cloth, and Oru skin own the rest of the silhouette. Not a sealed shell. Not cybernetic flesh-replace. Not Tear neon as her fuel.
+
+**Vs Valen’s arm.** Hers is still flesh under organic Brilliance craft, cell-swappable, subtle white Bright personality. His is a full Chroma prosthesis — gold-dark, hose-free ampules, Magenta-heavy jet vents. Same forge mind; opposite grammar.
 
 ### Bright cell (must read)
 
-**Eminence-pattern (VE-3)** Bright cells are perfect **cubes** — about the size of a Rubik’s cube (~7.5 cm / 3 in on a side), dense (~1 kg). Ultra-thin pearl **Brilliance** casing with circular cutouts that show the bright-white glass core and act as tactile finger-holds for a blind belt draw. Three mechanical connector pins seat into the shoulder receiver. Charged cells are **issued** for the run; empties are discarded. She does not forge today’s cells.
+**Eminence-pattern (VE-3)** Bright cells are perfect **cubes** — about the size of a Rubik’s cube (~7.5 cm / 3 in on a side), dense (~1 kg). Ultra-thin pearl **Brilliance** casing with circular cutouts that show the bright-white glass core and act as tactile finger-holds for a blind belt draw. Three mechanical connector pins seat into the shoulder receiver. Charged cells are **issued** for the run; empties are discarded. She does not forge today’s cells. The cube **must stay easy to replace** — Brilliance conducts Bright only in part; loss and hunger force the Tithe swap.
 
-The **active** cell seats in the **weapon-side shoulder mount** and reads through the coat cutout as the second silhouette beat. Energy conduits run from the mount down the Brilliance arm toward the Resonance Glaive — cell → tool. When the cell seats or the glaive draws hard, venting valves hiss **pure bright-white** steam: clean, high-pressure, sharp, fleeting.
+The **active** cell seats in the **weapon-side shoulder mount** and reads through the coat cutout as the second silhouette beat. Energy runs cell → Brilliance sleeve → Resonance Glaive. Bright energy through her kit stays **extremely subtle**: calm white stream at rest, a stronger white wind when the glaive draws, a faint white smoky cloud on impact — never Chroma fog.
 
 **The Tithe.** Under Aureate rationing, Harvesters operate on a meager allotment. Harvest is one of the most lucrative and important businesses on Oros, so the house still invests — Vesper is allotted enough charge for **two or three** cells per run. They would give her more if Kardia could afford it. She carries those few on heavy-duty belt sockets. She cannot waste a swing.
 
@@ -51,7 +53,7 @@ The **active** cell seats in the **weapon-side shoulder mount** and reads throug
 
 ### Weapon-arm Brilliance and off-hand glove
 
-The **weapon-side arm and shoulder** are the Brilliance statement: cast-to-fit pearl from shoulder mount down the arm that holds the Glaive, Bright cell seated in that shoulder, conduits running toward the glaive housing. The trench cutout and Chroma-rotted sleeve frame that limb — they do not hide it.
+The **weapon-side arm and shoulder** are the Brilliance statement: organic cast-to-fit pearl sleeve from shoulder mount down the arm that holds the Glaive, cube Bright cell seated for fast swap, light-blue gleam on the metal, white charge in the glass. The trench cutout and Chroma-rotted cloth sleeve frame that limb — they do not hide it.
 
 On the **other hand**, one refined Brilliance **glove** — elegant protection for Chroma contact and civic grip. Not a monstrous claw. Not a second full arm of metal.
 

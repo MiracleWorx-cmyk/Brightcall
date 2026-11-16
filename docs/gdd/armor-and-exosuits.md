@@ -29,7 +29,7 @@ Braces sit **under** coats, harnesses, and field kit. Strategic cutouts, splits,
 
 ### Kardia — Brilliance
 
-Refined. Elegant. Pearl white, faintly radiant Brilliance. Compact braces, gauntlets, Bright cell housings, and weapon fittings. Blue and silver hard-light accents on that pearl shell. Bright cells glow with **bright white** charge. Civic efficiency. **Zenith Relays** feed districts as energy substations (appearance still open).
+Refined. Elegant. Pearl white, faintly radiant Brilliance with **organic** cast curves and a very light blue gleam on the metal. Compact braces, gauntlets, Bright cell housings, and weapon fittings. Blue and silver hard-light accents on that pearl shell. Bright cells glow with **bright white / off-white** charge (cyan is Chroma). Brilliance conducts Bright only in part — cubes stay easy to swap. Bright energy through craft stays extremely subtle: calm stream at rest, stronger wind in motion, faint smoke-cloud on impact. Civic efficiency. **Zenith Relays** feed districts as energy substations (appearance still open).
 
 ### The Aureate — Chroma-fueled
 
@@ -41,9 +41,9 @@ Reference for Vesper and other Kardia field fighters. Full kit: [vesper.md](char
 
 **Coat over the braces.** Her tailored high-fashion **trenchcoat** — unique to Vesper among locked characters — wears **over** the mechanical braces. The coat is Resting Light civic-modern — not a closed cylinder that hides craft. Other Kardia field kit uses varied civic coats; do not clone her trench onto the roster.
 
-**Bright cell cutout.** A deliberate opening is cut from the coat shoulder so the **cube Bright cell** in the weapon-side shoulder mount pushes through. Brilliance shell; bright-white Bright energy inside; seating hisses white steam. The cutout exists so she can lock-and-click a Tithe belt cell into the mount at combat speed without stripping the coat.
+**Bright cell cutout.** A deliberate opening is cut from the coat shoulder so the **cube Bright cell** in the weapon-side shoulder mount pushes through. Brilliance shell; bright-white Bright energy inside; seating shows the subtle white stream→wind of charge moving into the sleeve. The cutout exists so she can lock-and-click a Tithe belt cell into the mount at combat speed without stripping the coat.
 
-**Weapon-arm Brilliance.** One full arm and its shoulder in cast pearl — the limb that feeds the Glaive. That is the body-armor budget.
+**Weapon-arm Brilliance.** One full arm and its shoulder in organic cast pearl — metallic sleeve powered by the cube — the limb that feeds the Glaive. That is the body-armor budget.
 
 **Off-hand glove.** One Brilliance glove on the other hand. Elegant. Not a second armored arm.
 

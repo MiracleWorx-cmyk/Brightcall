@@ -27,7 +27,7 @@ He knows what he is: a self-aware sellout. Velvet, gold accents, tailored Aureat
 
 **No Brilliance.** Exile cut him off from Kardia Core-smithy metal and Bright-cell Tithe. The prosthesis is **Aureate Chroma craft** — gold plating and dark chassis paid for by barons — not pearl Brilliance, not a leftover Kardia sleeve. What remains of the Brightsmith is *skill*: anatomy, joints, flush integration, the same eye that forged the Glaive, now spent on Chroma ampules and jet vents.
 
-**Right arm — Chroma prosthesis (Architect).** Beside the thick torso the arm reads almost too fine: anatomical, slender, hyper-refined — Swiss-watch craft with jet thrust underneath. Not infantry bulk. **Micro-pressurized Chroma ampules** (medical-cartridge scale) seat **flush in the forearm and wrist** behind reinforced crystal — Magenta / Cyan / Gold liquid visible, feeding fist and dagger line. Knuckle and forearm valves vent on punch or grapple: about **60% Magenta**, **35% Cyan**, **15% Gold** — same Aureate Chroma law as the grunts, refined delivery only. Enormous force from a delicate line — that is the point.
+**Right arm — Chroma prosthesis (Architect).** Beside the thick torso the arm reads almost too fine: anatomical, slender, hyper-refined — Swiss-watch craft with jet thrust underneath. Not infantry bulk. He **perfected the delivery**: no external wires or fuel hoses — safer than the grunt umbilical — **micro-pressurized Chroma ampules** seated **flush in the forearm and wrist** behind reinforced crystal. Magenta / Cyan / Gold liquid visible, feeding fist and dagger line. Knuckle and joint valves vent on punch or grapple: about **60% Magenta**, **35% Cyan**, **15% Gold** — same Aureate Chroma law as the grunts, refined delivery only. Enormous force from a delicate line — that is the point. Leading arm study: [`valen-chroma-arm-inspiration.jpg`](../references/valen-chroma-arm-inspiration.jpg).
 
 **Left hand — Resonance-inspired dagger (working name: Resonance Dagger; final name TBD).** Biological arm under light armor. A sneaky compact blade carried in the *other* hand — never the prosthesis. Inspired by the **Resonance Glaive** he forged for Vesper, but it works **fundamentally differently**: no Bright cell, no Core-smithy purity, Chroma-fuel drive instead. Same craft *family* (Resonance), corrupted substitute. Concealable. Fast. Dirty. Magenta-heavy weep and vent when it sings.
 
@@ -52,8 +52,10 @@ Before exile, Valen designed and forged Vesper’s **Resonance Glaive** in that 
 ## Visual refs
 
 - Primary exploration: [`valen-line-concept.png`](../references/valen-line-concept.png) — white high-collar formal coat-vest, gold-dark slender prosthesis, no trench, no Brilliance.
+- Arm study (locked vibe): [`valen-chroma-arm-inspiration.jpg`](../references/valen-chroma-arm-inspiration.jpg) — flush ampules, gold-dark anatomy, Magenta jet vents, hose-free.
 - Second pass kept: [`valen-line-concept-b.png`](../references/valen-line-concept-b.png) — purple blazer / open white shirt attitude beat.
 - Fuel hierarchy vs grunts: Architect ampules in-arm; infantry oversized canisters + long hoses — [art-direction](../art-direction.md) Aureate block.
+- Vs Vesper: her organic Brilliance sleeve + swap cube + subtle white Bright personality; his Chroma prosthesis + loud Magenta-heavy vents.
 
 ## Still settling
 
