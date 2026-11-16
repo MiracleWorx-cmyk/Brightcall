@@ -29,7 +29,8 @@ if (!apiKey) {
 const styleLock =
   "Digital 2D painting, Studio Fortiche style, Arcane TV, Brightcall Bright-punk Fantasy. " +
   "Match the style of the Brightcall harvester plate: thick confident brush strokes, sharp graphic silhouettes, " +
-  "high-contrast cinematic rim light, cyan magenta gold neon against Bone Ash Greige and bruised plum shadows. " +
+  "high-contrast cinematic rim light, Bone Ash Greige ground dominant, sparse Magenta Cyan Gold Chroma only at " +
+  "Seam cracks weapon Tears or fuel vents — rare dangerous neon not ambient paint splatters, bruised plum shadows. " +
   "Stylized realism, painterly blocks, no photorealism, no 3D render, no soft generic concept art, no anime. ";
 
 const defaultPrompt =
@@ -42,7 +43,8 @@ const defaultPrompt =
 const negativePrompt =
   "photorealistic, 3d render, unreal engine, soft airbrush concept art, anime, cartoon chibi, " +
   "generic fantasy oil painting, muddy grimdark, heavy armor, metallic knight plates, " +
-  "blood, gore, ugly, text, watermark, logo, UI, soft fairy magic";
+  "blood, gore, ugly, text, watermark, logo, UI, soft fairy magic, " +
+  "chroma splattered everywhere, neon paint graffiti on walls, rainbow paint rain, ambient chroma spray";
 
 function parseArgs(argv) {
   let out = path.join(root, "brightcall-art.png");

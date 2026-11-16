@@ -14,16 +14,19 @@ Leading visual truth:
 
 **Master plates.** Character and world stills must match plates 1–2. Any Seam or Chroma still must match plate 3: one transparent shattered satin / cracked-glass curtain draped across an opening; Magenta + Cyan + Searing Gold as liquid neon on and through that sheet — never paint splatters on bare concrete with no curtain.
 
+**Chroma is scarce and dangerous.** Fortiche contrast still wins — but neon is a *hazard accent*, not wallpaper. Most of every frame stays Bone / Ash / Greige (and Bright-white Core light). Magenta / Cyan / Gold appear only where Tears actually are: Seam cracks, weapon scratches, contained vials/fuel lines, vent exhaust. Not graffiti on walls. Not ambient paint rain. Hero north star: `hero-harvester.png` (magenta lives on the glaive scratch, not the city). Logo vibe reference: `docs/gdd/references/brightcall-logomark-inspiration-a.png` (color concentrated, bone field dominant).
+
 **One pipeline.** Stability **SD3 only** (`scripts/generate-brightcall-art.mjs`, model `sd3-large`). Mixing SD3 with Cursor GenerateImage or any other model breaks the look. If SD3 has no credits or the API fails, **stop and tell Dirk** — do not generate substitutes on another model.
 
-**Locked finish.** Studio Fortiche / Arcane neighborhood: stylized realism, thick confident brushstrokes, sharp silhouette edges, graphic high-contrast lighting, blown rim light, limited neon palette (cyan / magenta / gold) against Bone–Ash–Greige. Painterly blocks of color, not soft airbrush fog. Not photoreal. Not hyperreal 3D. Not soft painterly concept art. Not anime cel.
+**Locked finish.** Studio Fortiche / Arcane neighborhood: stylized realism, thick confident brushstrokes, sharp silhouette edges, graphic high-contrast lighting, blown rim light, sparse Magenta/Cyan/Gold Chroma against Bone–Ash–Greige. Painterly blocks of color, not soft airbrush fog. Not photoreal. Not hyperreal 3D. Not soft painterly concept art. Not anime cel.
 
 **Prompt block (paste every time).**
 
 ```text
 Digital 2D painting, Studio Fortiche style, Arcane TV, Brightcall Bright-punk.
 Match the style of the Brightcall harvester plate: thick confident brush strokes, sharp graphic silhouettes,
-high-contrast cinematic rim light, cyan magenta gold neon against Bone Ash Greige and bruised plum shadows.
+high-contrast cinematic rim light, Bone Ash Greige ground dominant, sparse Magenta Cyan Gold Chroma only at
+Seam cracks / weapon Tears / fuel vents — rare dangerous neon, not ambient paint splatters.
 Stylized realism, painterly blocks, no photorealism, no 3D render, no soft generic concept art, no anime.
 ```
 
@@ -33,18 +36,19 @@ Stylized realism, painterly blocks, no photorealism, no 3D render, no soft gener
 photorealistic, 3d render, unreal engine, soft airbrush concept art, anime, cartoon chibi,
 generic fantasy oil painting, muddy grimdark, blood, gore, text, watermark, logo,
 neon paint graffiti on concrete without a Seam curtain, solid colored energy wall,
-chroma as ambient spray with no transparent shattered satin sheet
+chroma as ambient spray with no transparent shattered satin sheet,
+chroma splattered everywhere, rainbow paint rain, walls covered in neon drips
 ```
 
-**QA.** Hold the new still next to `hero-harvester.png`. If brush language, edge sharpness, or lighting family do not match at a glance, regenerate. Subject accuracy never beats style match.
+**QA.** Hold the new still next to `hero-harvester.png`. If brush language, edge sharpness, or lighting family do not match at a glance, regenerate. If Magenta/Cyan/Gold cover more than a minority of the frame with no Seam/fuel/weapon source, regenerate. Subject accuracy never beats style match.
 
 ## Core aesthetic
 
-Genre: **Bright-punk** — between fantasy and sci-fi; modern-gloomy steampunk cousin; extreme high contrast; Sin City read (Bone/Ash/Greige ground + Magenta/Cyan/Gold Chroma accents). Stylized realism, painterly finish, sharp brushstrokes, rich texture, light cartoon exaggeration for standee read. Beautiful and lethal. Master plate `hero-harvester.png` wins when a still drifts.
+Genre: **Bright-punk** — between fantasy and sci-fi; modern-gloomy steampunk cousin; extreme high contrast; Sin City read (Bone/Ash/Greige ground + sparse Magenta/Cyan/Gold Chroma hazard accents). Stylized realism, painterly finish, sharp brushstrokes, rich texture, light cartoon exaggeration for standee read. Beautiful and lethal. Master plate `hero-harvester.png` wins when a still drifts.
 
 Resting Light Kardia may read **civic-modern magitech** (varied civic coats and tailored fashion, compact pearl Brilliance, Bright cells of bright-white charge) — Bright-punk grit with a modern silhouette — without becoming Earth sci-fi. **Vesper’s trenchcoat is unique to her**, not a faction uniform. No digital tech, screens, LEDs, internet, or modern firearms. Power is Bright energy or Chroma. Aureate stay dirtier-industrial; Refract stay hazardous lab.
 
-The physical world is heavy: **Bone, Ash, and Greige**. Anomaly light is toxic pressurized neon against that grit. Shadows are **bruised** (plum, olive, charcoal), never strip-book flat black. The Bright remains spectacular, not murky.
+The physical world is heavy: **Bone, Ash, and Greige**. That is the default frame. **Chroma** is rareish toxic neon — pressurized, dangerous, never casual décor. When it appears it hits hard against the grit; most of the image stays grey. Shadows are **bruised** (plum, olive, charcoal), never strip-book flat black. The Bright’s white Core light can dominate a landscape plate without needing Tears everywhere.
 
 No grimdark mud as the whole mood. No soft organic landscape as the default ground. No blood, fleshy gore, or wound imagery in the Bright’s visual language. No hyper-realistic 3D renders as the finish. The board is not a factory floor. The board is the chaotic, surreal interior of **The Bright**.
 
@@ -62,7 +66,7 @@ No grimdark mud as the whole mood. No soft organic landscape as the default grou
 
 **Pressurized Magenta** flows and levitates on Seam glass — oil-slick glow on bone stone. **Electric Cyan** is radioactive blue on reality tears and active Splinter tech. **Searing Gold** is liquid sun / hot plasma — raw Call of the Bright hunger.
 
-Chroma is not soft fairy magic. It is overpressurized chemical heat against a grey world.
+Chroma is not soft fairy magic. It is overpressurized chemical heat against a grey world — scarce enough that a weep or vial reads as a crisis, not a texture pass.
 
 ### Interface — flat and clean
 
@@ -112,7 +116,7 @@ Street says Tears / Bright-Tears. Refract Labs coined Chroma. Same liquid. Only 
 
 **North star:** [`seam-curtain.jpg`](../../site/public/art/seam-curtain.jpg) — translucent fractured curtain across a brutalist void; Chroma blobs and drips only on the sheet. Also: the knife half-normal, half-rewritten behind shattered satin glass; the box art Seam draping a monolithic ruin with mixed Chroma weeping from the cracks.
 
-**Reject as Seam art:** neon paint on walls/floor with no satin sheet; solid colored energy walls; Chroma as ambient graffiti; white void “rewrite” halves with no curtain.
+**Reject as Seam art:** neon paint on walls/floor with no satin sheet; solid colored energy walls; Chroma as ambient graffiti; Chroma covering most of a frame with no Seam/fuel/weapon source; white void “rewrite” halves with no curtain.
 
 ## Characters: acrylic standees
 

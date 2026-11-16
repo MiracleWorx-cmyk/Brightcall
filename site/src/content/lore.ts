@@ -14,7 +14,7 @@ export const energies = {
     name: 'Chroma',
     street: 'Bright-Tears / Tears',
     blurb:
-      'Torn reality made liquid — the Bright-Tears that ooze from Seam edges. Pressurized Magenta, Electric Cyan, Searing Gold only. Street says Tears. Refract Labs coined Chroma. The Bright drinks it to grow.',
+      'Torn reality made liquid — rareish, dangerous Bright-Tears that ooze from Seam edges. Pressurized Magenta, Electric Cyan, Searing Gold only — hazard accents, not wall paint. Street says Tears. Refract Labs coined Chroma. The Bright drinks it to grow.',
   },
   brightEnergy: {
     name: 'Bright energy',

@@ -6,8 +6,18 @@ export function Energies() {
     <PageShell
       kicker="Two energies · four applications"
       title="Chroma & Bright"
-      lede="Chroma is the leak of torn reality. Bright energy is what the Core puts out at close range. They are not the same substance."
+      lede="Chroma is the rareish, dangerous leak of torn reality. Bright energy is what the Core puts out at close range. They are not the same substance."
     >
+      <figure className="art-bleed art-bleed--tight">
+        <img
+          src="/art/chroma-vials.png"
+          alt="Contained Magenta, Cyan, and Gold Chroma in lab vials"
+          width={1024}
+          height={1024}
+        />
+        <figcaption>Contained Tears — scarce enough to keep in glass.</figcaption>
+      </figure>
+
       <section className="section split split-2">
         <div className="panel panel--tear">
           <h3>{energies.chroma.name}</h3>
