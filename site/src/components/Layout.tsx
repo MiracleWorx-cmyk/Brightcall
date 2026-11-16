@@ -1,5 +1,6 @@
 import { NavLink, Outlet } from 'react-router-dom'
 import { brand } from '../content/lore'
+import { BrightcallWordmark } from './BrightcallWordmark'
 
 const links = [
   { to: '/world', label: 'World' },
@@ -15,8 +16,8 @@ export function Layout() {
   return (
     <div className="shell">
       <header className="nav">
-        <NavLink to="/" className="nav-brand" end>
-          Bright<span>call</span>
+        <NavLink to="/" className="nav-brand" end aria-label="Brightcall home">
+          <BrightcallWordmark size="nav" />
         </NavLink>
         <nav className="nav-links" aria-label="Primary">
           {links.map((link) => (
@@ -31,7 +32,7 @@ export function Layout() {
       </main>
       <footer className="footer">
         <div className="footer-inner">
-          <strong>{brand.game}</strong>
+          <BrightcallWordmark size="footer" />
           <span>{brand.world}</span>
           <span>{brand.genre}</span>
         </div>

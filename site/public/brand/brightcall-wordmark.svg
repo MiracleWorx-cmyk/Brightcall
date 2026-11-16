@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 120" fill="none" role="img" aria-label="Brightcall">
+  <title>Brightcall</title>
+  <!-- Export lock. Live site uses BrightcallWordmark (Syne + cube tittle). Outline in Figma for print. -->
+  <text
+    x="12"
+    y="78"
+    fill="#F7F4EC"
+    font-family="Syne, Arial Black, Helvetica Neue, sans-serif"
+    font-size="72"
+    font-weight="800"
+    letter-spacing="-3.6"
+  >Brightcall</text>
+  <!-- Cube tittle wink on the i -->
+  <rect x="130.5" y="22" width="10" height="10" fill="#F7FBFF" stroke="#F5E6A3" stroke-width="1"/>
+  <!-- Subtle Magenta / Cyan / Gold hairlines -->
+  <rect x="14" y="96" width="20" height="1.5" fill="#FF2D95"/>
+  <rect x="40" y="96" width="20" height="1.5" fill="#2EE6FF"/>
+  <rect x="66" y="96" width="20" height="1.5" fill="#F5E6A3"/>
+</svg>
