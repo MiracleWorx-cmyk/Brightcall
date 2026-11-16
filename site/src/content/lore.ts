@@ -191,15 +191,16 @@ export const factions: {
 
 export const game = {
   pitch:
-    'A tableau-builder hex brawler. Short matches. Strange builds. The board forces those builds to touch — inside The Bright, on spliced hexes, under Call of the Bright.',
+    'A tableau-builder hex brawler. Short matches. Strange builds. The board is a maze patch inside The Bright — hex floor, void gaps, Seam curtains — so builds have to touch under Call of the Bright.',
   locks: [
     'Modes: 1v1, 2v2, 3v3, free-for-all up to six.',
     'Kills and objectives score. First to 15 victory points.',
     'Death is Stitching: return to your Umbra with the build intact.',
+    'Arena is a hex-patch with missing hexes (voids), not a flat rectangle — one slice of the Bright maze.',
     'Shared Splintered deck: draw 3, keep 1 on mutation rounds — Splinter-Crush synthetic Seam weapon Enhancements.',
     'Enhancement drafts on rounds 1, 3, 6, 9, and 12 — fiction: appetite Seam wraps the Harvester. Path A (global) and Path B (slot) are table homes only.',
     'Printed Growth Track per character feeds dials; dual-gate ability lines need unlock cubes and dial requirements.',
-    'Acrylic standees. Spliced terrain lives in hex middles. Seams are curtain tokens, not hex-edge borders.',
+    'Acrylic standees. Seams are curtain tokens on floor hexes, not hex-edge borders.',
   ],
   objectives: [
     'Weeping Seam zones and king of the hill',
