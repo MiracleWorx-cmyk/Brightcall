@@ -7,7 +7,7 @@
 
 **Leading plate.** [`site/public/art/hero-harvester.png`](../../../site/public/art/hero-harvester.png) is the visual north star for Vesper and Oru Harvesters.
 
-**Concept refs.** Shoulder mount: [`vesper-shoulder-mount.png`](../references/vesper-shoulder-mount.png). Full kit + cell: [`vesper-full-bright-cell.png`](../references/vesper-full-bright-cell.png). Cell schematic: [`bright-cell-schematic.png`](../references/bright-cell-schematic.png).
+**Concept refs.** Arm study (organic Brilliance sleeve + cube cell): [`vesper-brilliance-arm-inspiration.jpg`](../references/vesper-brilliance-arm-inspiration.jpg). Shoulder mount: [`vesper-shoulder-mount.png`](../references/vesper-shoulder-mount.png). Full kit + cell: [`vesper-full-bright-cell.png`](../references/vesper-full-bright-cell.png). Cell schematic: [`bright-cell-schematic.png`](../references/bright-cell-schematic.png).
 
 ## Who she is
 
