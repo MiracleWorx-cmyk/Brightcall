@@ -39,7 +39,7 @@ Crude mass over stolen or hijacked frames. Heavy. Always running hot. Raw Chroma
 
 Reference for Vesper and other Kardia field fighters. Full kit: [vesper.md](characters/vesper.md). Leading plate: `site/public/art/hero-harvester.png`.
 
-**Coat over the braces.** Her tailored high-fashion trenchcoat wears **over** the mechanical braces. The coat is Resting Light civic-modern — not a closed cylinder that hides craft.
+**Coat over the braces.** Her tailored high-fashion **trenchcoat** — unique to Vesper among locked characters — wears **over** the mechanical braces. The coat is Resting Light civic-modern — not a closed cylinder that hides craft. Other Kardia field kit uses varied civic coats; do not clone her trench onto the roster.
 
 **Bright cell cutout.** A deliberate opening is cut from the coat shoulder so the **cube Bright cell** in the weapon-side shoulder mount pushes through. Brilliance shell; bright-white Bright energy inside; seating hisses white steam. The cutout exists so she can lock-and-click a Tithe belt cell into the mount at combat speed without stripping the coat.
 

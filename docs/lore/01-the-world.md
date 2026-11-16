@@ -10,8 +10,10 @@ Now mornings belong to whoever holds a **Bright Core** in custody. Districts glo
 
 Life still orients itself around **The Bright**: a vast cube of hyper-saturated light on the land. Faith may say there is only one Bright, reincarnated wherever it falls. Industry counts many cubes and one law — when a Bright ends, another must grow. Approach a face. Find a dark doorway. Walk in. Cities and crews build their fortunes on what returns from that interior — or on what is stolen from those who returned.
 
+**Humans** fill most streets. **Oru** are the old indigenous race — few in the industrial cities, unmistakable when they walk among human crowds.
+
 Six answers shape the Resting Light. Indigenous wardens refuse the harvest. Spiritualists drink Tears toward a living Vessel. A former Bright-order house still forges the finest pearl metal under coats and etiquette. A lab turns Seams into weapons. Barons and crime lords burn raw Chroma and send Bloomed infantry into the cube. A shadow order works Bloomed bodies from the walls and looks down on dependence itself.
 
-Harvesters are the ones who enter. They wear civic coats and field harnesses, Brilliance cast sparingly under cloth, Null-Flint at the belt, or Splinter chambers ready to crush. They walk Umbras because someone needs a Core taken, a Seam shut, a Bloom survived, a rival beaten to the prize — and because the Bright itself pulls. Street mouths call that pull **the calling**. The game that stages those crews inside one cube is called **Brightcall**.
+Harvesters are the ones who enter. They wear civic coats and field harnesses — silhouettes that vary by crew; a trenchcoat is not the house default — Brilliance cast sparingly under cloth, Null-Flint at the belt, or Splinter chambers ready to crush. They walk Umbras because someone needs a Core taken, a Seam shut, a Bloom survived, a rival beaten to the prize — and because the Bright itself pulls. Street mouths call that pull **the calling**. The game that stages those crews inside one cube is called **Brightcall**.
 
 Oros does not forgive soft fantasy. It is Bright-punk: modern-gloomy craft against anomaly weather, beautiful and lethal, always one Umbra away from the maze that feeds.

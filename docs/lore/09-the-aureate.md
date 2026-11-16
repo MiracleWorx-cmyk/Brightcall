@@ -14,4 +14,4 @@ Current powerholders of the Resting Light. Former Kardia who unified under their
 **Roster (working)**
 
 1. **The Dreadnought** — Stolen mass running chromatic fuel on a controlled-Bloom body. The faction’s hill-holder. Immovable on a weeping Seam. Area pressure. If dropped, fuel lines breach and nuke nearby hexes.
-2. **Valen (Chroma-Smith / Kingpin Architect)** — Vesper’s former partner. Exiled after a Chroma accident took his right arm; Aureate-funded prosthesis and unlimited Chroma resources. Designs infantry harnesses; brawls with sleek Chroma right arm and left-hand Chroma-blade; vents Magenta-heavy steam. Brief: [valen.md](../gdd/characters/valen.md).
+2. **Valen (Chroma-Smith / Kingpin Architect)** — Human. Vesper’s former partner. Exiled after a Chroma accident took his right arm; Aureate-funded prosthesis and unlimited Chroma resources. Muscular sellout under velvet/gold — never a trench. Designs infantry harnesses; brawls with slender Chroma right arm and left-hand Resonance-inspired Chroma dagger (working name Resonance Dagger); vents Magenta-heavy steam. Brief: [valen.md](../gdd/characters/valen.md).

@@ -27,7 +27,7 @@ Every page is English. Read the world as one lorebook. The nouns live in [termin
 | [Character design](gdd/character-design.md) | Sheet and ability grammar |
 | [Civic field kit and Brilliance](gdd/armor-and-exosuits.md) | Cloth-first civic kit, scarce Brilliance, Vesper blueprint |
 | [Vesper](gdd/characters/vesper.md) | First Kardia measuring stick |
-| [Valen](gdd/characters/valen.md) | Aureate Chroma-Smith; Vesper’s exile foil |
+| [Valen](gdd/characters/valen.md) | Human Aureate Chroma-Smith; muscular sellout; Resonance-inspired dagger |
 | [Art direction](gdd/art-direction.md) | Bright-punk look + Seam references |
 | [Balancing guardrails](gdd/balancing-guardrails.md) | How numbers are meant to behave |
 | [Website](../site/) | Local primer (moving toward Lovable) |

@@ -13,7 +13,7 @@
 
 She was a Brightsmith before she became a Harvester. In the forge she cast **Brilliance** — pearl metal fitted with care. She does not cast for the house anymore. The cells on her belt now are made by others and issued for the run. She still keeps Kardia manners: posture, etiquette, an open proud face that reads uplifting and almost static. The stoicism is performed. Oru bodies look carved and durable; inside they are fragile and loud with feeling. When emotion breaks the mask — anger, disgust, fear, joy — form slips, and she overcommits charge to close a gap and end the threat.
 
-She is **Oru** by blood and **Kardia** by life — about **seven feet** of stone-glimmer stature in a city of smaller frames. There are not many Oru left in the cities, so she stands out on sight among pale Kardian crowds. She has lived in Kardia a long time, in the pearl-white civic spires. Walking Umbras as a Harvester sits in direct conflict with **the Oru** wardens’ anti-harvest ideology — that tension is real even without calling her a traitor.
+She is **Oru** by blood and **Kardia** by life — about **seven feet** of stone-glimmer stature in a city of **human** frames. There are not many Oru left in the cities, so she stands out on sight among pale human Kardian crowds. She has lived in Kardia a long time, in the pearl-white civic spires. Walking Umbras as a Harvester sits in direct conflict with **the Oru** wardens’ anti-harvest ideology — that tension is real even without calling her a traitor.
 
 When wardens come to the city borders to trade raw **Null-Flint**, many refuse her eye. Her cousin **Tarn**, a fierce Oru Warden, spits at her boots. To them she is not a traitor by title; she is a tragedy — an Oru in the white trench of the city that harvests the sacred Bright.
 
@@ -21,9 +21,9 @@ House Kardia was the Bright-order superpower before Aureate crime lords took con
 
 ### Valen
 
-**Valen** was her Brightsmith partner and closest friend — a Kardia prodigy. He ran illicit **Chroma-fuel** experiments beneath Kardia’s purity laws. A violent reaction destroyed his right arm and exposed the work. The house fired and **exiled** him. The Aureate funded a sleek Chroma prosthesis and made him their **Chroma-Smith** architect — harnesses for **controlled-Bloom infantry**, fuel lines, hijacks, and a brawler’s kit of prosthetic fist and Chroma-blade. Full brief: [valen.md](valen.md).
+**Valen** was her Brightsmith partner and closest friend — a **human** Kardia prodigy. He ran illicit **Chroma-fuel** experiments beneath Kardia’s purity laws. A violent reaction destroyed his right arm and exposed the work. The house fired and **exiled** him. The Aureate funded a sleek Chroma prosthesis and made him their **Chroma-Smith** architect — harnesses for **controlled-Bloom infantry**, fuel lines, hijacks, and a brawler’s kit of muscular sellout body, slender prosthetic fist, and Resonance-inspired Chroma dagger. Full brief: [valen.md](valen.md).
 
-Before the exile, Valen designed and forged the **Resonance Glaive** for her — a masterpiece of Kardia engineering: an ultrasonic blade that cuts with a clean high-frequency hum. Every time she seats a fresh cell in the shoulder mount, she powers an exile’s genius. The weapon is her greatest asset and an open wound.
+Before the exile, Valen designed and forged the **Resonance Glaive** for her in a **Bright Core–powered smithy** — masterpiece of the Resonance craft family: an ultrasonic blade that cuts with a clean high-frequency hum and runs on Bright cells. Every time she seats a fresh cell in the shoulder mount, she powers an exile’s genius. The weapon is her greatest asset and an open wound. His Aureate dagger borrows Resonance *shape* and burns Chroma instead — same family name, different heart.
 
 ## Look
 
@@ -33,7 +33,7 @@ Gear rules that apply to every Kardia plate also live in [civic field kit and Br
 
 **Mood.** Lighter and prouder than grim survivor art. Bone, ash, and civic blue–silver under pearl Brilliance and bright-white cell charge. Not PTSD ruin. Not a mud-caked ghost. A builder who still believes mornings can return.
 
-**Clothes.** A literal **trenchcoat** is correct: worn heavy-duty rain-canvas Kardia cut — high collar, storm flaps, off-white / faded blue, gold or silver trim — stained and worked. Resting Light **civic-modern** fashion under ash. Tailored fabric vest and shirt under the coat — cloth, not torso armor. Family crest on the lapel / chest, scratched and kept. Rugged canvas trousers; leather straps. Leather harness and tool belts for field work.
+**Clothes.** A literal **trenchcoat** is correct — and **hers alone** among locked characters: worn heavy-duty rain-canvas Kardia cut — high collar, storm flaps, off-white / faded blue, gold or silver trim — stained and worked. Resting Light **civic-modern** fashion under ash. Other Kardians wear varied civic coats and tailored cloth; the trench is Vesper’s silhouette, not house uniform. Tailored fabric vest and shirt under the coat — cloth, not torso armor. Family crest on the lapel / chest, scratched and kept. Rugged canvas trousers; leather straps. Leather harness and tool belts for field work.
 
 **Coat over the mount.** The trench wears **over** her mechanical braces. Keep the trench — do not close it into a solid cylinder that hides craft. A **deliberate cutout** is sliced from the weapon-side shoulder of the coat so the Bright cell mount pushes through for combat reloads. Wind-splits and worn openings elsewhere let brace ribs catch light. The coat frames Brilliance; it does not bury it.
 
@@ -69,13 +69,13 @@ On the **other hand**, one refined Brilliance **glove** — elegant protection f
 
 ### Hero plate checklist (keep what works)
 
-Keep: glaive mass and magenta scratch language on the blade edge only; trenchcoat civic cut worn over the mount; Oru mass, black glimmering stone-skin, short natural hair, singular earring; proud low-angle stoic posture; Fortiche / SD3 harvester lighting from `hero-harvester.png`.
+Keep: glaive mass and magenta scratch language on the blade edge only; her unique trenchcoat civic cut worn over the mount; Oru mass among human crowds, black glimmering stone-skin, short natural hair, singular earring; proud low-angle stoic posture; Fortiche / SD3 harvester lighting from `hero-harvester.png`.
 
 Change: camera or coat so the **full weapon-arm and shoulder Brilliance** read, with the **cube Bright cell** through a clear **cutout**; show **white steam vents** on use; show the **off-hand Brilliance glove**; show belt cells and the **empty legacy cell**; glaive housing stays pearl (calm), charge stays bright white, Tears stay on the scratch/weep and the ruined cuff — do not paint her whole kit Tear-neon.
 
 ## The Resonance Glaive
 
-A precision mason’s tool turned weapon: ultrasonic vibration wired to her Bright cell — Valen’s design. Brilliance metal through and through — readable as refined civic tech (clean housing, lit white charge), not a wooden fantasy polearm. It can cut stone, metal, and — at full voice — thin reality into a **scratch** (a Seam almost opening). Among blades on Oros it sits near the top of what refined Brilliance craft can do. It does not match a Splinter’s full rewrite, raw Chroma burn, or a Bright Core. That hunger is why two or three Tithe cells vanish in a single run.
+A precision mason’s tool turned weapon: peak of the **Resonance** craft family. Ultrasonic vibration wired to her Bright cell — Valen’s design, forged in a Bright Core–powered smithy. Brilliance metal through and through — readable as refined civic tech (clean housing, lit white charge), not a wooden fantasy polearm. It can cut stone, metal, and — at full voice — thin reality into a **scratch** (a Seam almost opening). Among blades on Oros it sits near the top of what refined Brilliance craft can do. It does not match a Splinter’s full rewrite, raw Chroma burn, or a Bright Core. That hunger is why two or three Tithe cells vanish in a single run.
 
 **Safe Chroma contact.** Brilliance lets Vesper handle Chroma without bare-skin Bloom or burn. When Tears weep along the glaive, the craft takes the touch. That is why a Kardian Harvester can work Seam edges and scratches with a civic tool instead of dying on the first ooze.
 

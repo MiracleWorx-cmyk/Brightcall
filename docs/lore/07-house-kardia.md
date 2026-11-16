@@ -8,7 +8,7 @@ They branched from Oru ground after the First Survivor. The First Harvest belong
 
 **Energy.** **Bright cells** — standardized interchangeable Brilliance **cubes** (Eminence-pattern / VE-3 scale) holding bright-white refined Bright energy. Cyan is a Chroma color, not a cell color. Under Aureate rationing, Harvesters work a **Tithe**: enough charge for two or three cells per run — harvest is lucrative enough to fund that investment; the house would issue more if it could afford it. **Zenith Relays** distribute civic charge through districts. Anomaly kit vents **bright-white** steam under load — clean, sharp, fleeting — never Chroma-colored exhaust.
 
-**Vibe.** Fake-stoic, proud, elegant. High-fashion trenchcoats over sparse cast Brilliance — Vesper’s measure is one full arm and shoulder, plus one glove on the other hand. Never a sealed mech. Civic-modern magitech under ash: crests polished, manners held, charge finite.
+**Vibe.** Fake-stoic, proud, elegant. Varied civic coats and tailored fashion over sparse cast Brilliance — Vesper’s measure is one full arm and shoulder, plus one glove on the other hand. Her **trenchcoat** is personal silhouette, not house uniform. Never a sealed mech. Civic-modern magitech under ash: crests polished, manners held, charge finite. Brightsmith forges run **Bright Core–powered smithies** for Resonance-class craft.
 
 **Want:** Core custody returned; mornings that still open under their craft.  
 **Fear:** extinction, or winning by becoming the Aureate.
@@ -17,5 +17,5 @@ They branched from Oru ground after the First Survivor. The First Harvest belong
 
 **Roster (working)**
 
-1. **Vesper** — Oru Harvester (~7 ft). Former Brightsmith. Resonance Glaive (Valen’s design) and Eminence-pattern shoulder Bright cell through a coat cutout; Tithe of two or three cells per run. Mobile bruiser; slow for a Kardian, durable by nature. Measuring stick. Brief: [vesper.md](../gdd/characters/vesper.md). Gear: [civic field kit and Brilliance](../gdd/armor-and-exosuits.md).
+1. **Vesper** — Oru Harvester (~7 ft) among human Kardia. Former Brightsmith. Signature trenchcoat; Resonance Glaive (Valen’s design, Core-smithy forged) and Eminence-pattern shoulder Bright cell through a coat cutout; Tithe of two or three cells per run. Mobile bruiser; slow for a Kardian, durable by nature. Measuring stick. Brief: [vesper.md](../gdd/characters/vesper.md). Gear: [civic field kit and Brilliance](../gdd/armor-and-exosuits.md).
 2. **The Master Brightsmith** — Precision strikes that punish Chroma-fuel instability from range.

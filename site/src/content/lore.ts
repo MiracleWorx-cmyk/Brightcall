@@ -127,7 +127,7 @@ export const factions: {
     origin:
       'They broke from Kardia, unified, and seized power through bribery, theft, extortion, and hijacked containment. Barons stay safe.',
     society:
-      'Debonair tip over poor laborers. Controlled-Bloom infantry run robust hot metal frames. Penumbra can work those Bloomed soldiers from the shadows.',
+      'Debonair tip over poor laborers. Controlled-Bloom infantry run robust hot metal frames. Valen — human Chroma-Smith — walks velvet over muscle with a Chroma arm and Resonance-inspired dagger. Penumbra can work those Bloomed soldiers from the shadows.',
     play: 'Hold the board. Late hijack. Mass. Chroma-fuel overclock. Death that breaches fuel lines.',
   },
   {
@@ -138,9 +138,9 @@ export const factions: {
     motif:
       'Oppressed Brightsmiths. Superior Brilliance craft, Bright cells, Zenith Relays — pride held under Aureate rule.',
     origin:
-      "Branched from Oru ground after the First Survivor. First Harvest belongs to them. They alone forge Brilliance and containment. Fake-stoic elegance; coats over exo.",
+      'Branched from Oru ground after the First Survivor. First Harvest belongs to them. They alone forge Brilliance, containment, and Resonance craft in Core-powered smithies. Fake-stoic elegance; civic coats over sparse Brilliance.',
     society:
-      'Large city-nation. Brightsmith skill remains. Aureate crime lords hold the stolen Cores and the upper hand.',
+      'Large human city-nation with rare Oru. Brightsmith skill remains. Aureate crime lords hold the stolen Cores and the upper hand.',
     play: 'Finite Bright cells. Adaptable pressure. Readable brace. Civic craft in the storm.',
   },
   {
@@ -210,7 +210,7 @@ export const game = {
 }
 
 export const heroesNote =
-  'Design order starts with Kardia (Vesper as measuring stick), then the Aureate as hold-objective contrast. Vesper is the first locked brief: Oru Harvester, Brilliance sleeve under trench, cube Bright cell Tithe, Resonance Glaive (Valen).'
+  'Design order starts with Kardia (Vesper as measuring stick), then the Aureate as hold-objective contrast. Vesper is the first locked brief: Oru among humans, signature trench, Brilliance sleeve, cube Bright cell Tithe, Resonance Glaive (Valen). Valen is human muscular sellout, slender Chroma arm, Resonance-inspired Chroma dagger.'
 
 export const worldBits = [
   {

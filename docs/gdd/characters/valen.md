@@ -1,6 +1,7 @@
 # Valen
 
 **Faction.** The Aureate.  
+**Race.** Human (Kardian native).  
 **Role on the roster.** Chroma-Smith architect and asymmetrical melee brawler. Aggressive industrial foil to Vesper’s elegant Glaive.  
 **Working title.** Kingpin Architect of the Aureate.
 
@@ -14,22 +15,36 @@ In Kardia high society, Chroma carries a heavy stigma: unnatural, dirty, a hazar
 
 The Aureate barons arrived with gold and use. They did not need him to swing a smith’s hammer in pearl. They needed the mind that could weaponize Tears. They funded a sleek mechanical prosthesis and opened unlimited resources for Chroma armory. He designs overheating harnesses and fuel lines for **controlled-Bloom infantry**, finishes containment hijacks when the board needs a thief’s hand, and walks the Bright as a brawler when the barons send an architect to bleed.
 
-He knows what he is: a self-aware sellout. Velvet, gold accents, tailored Aureate luxury over the trauma. The Chroma that took the arm now powers the replacement.
+He knows what he is: a self-aware sellout. Velvet, gold accents, tailored Aureate luxury stretched over a fighter’s body. The Chroma that took the arm now powers the replacement.
 
-## Kit
+## Look
 
-**Right arm — Chroma prosthesis.** Anatomical, hyper-refined, built like precision chronometry with jet thrust underneath. Not the crude bulk of infantry gauntlets. Fueled by Chroma-fuel. When he punches or grapples, forearm and knuckle valves vent Aureate exhaust: about **60% Magenta**, **35% Cyan**, **15% Gold**. The white-steam purity of Kardia Bright vents is gone; his body advertises the stigma.
+**Race and scale.** Human. Pale Kardian skin. Tall and heavy for his people — still clearly shorter and differently proportioned than seven-foot Oru Vesper. On a street of humans he is the spike; next to her he is the denser, smaller frame.
 
-**Left hand — Chroma-blade.** Biological arm under armor. A vicious Chroma-fueled trench knife / combat blade for rapid close lethal work.
+**Body.** Muscular sellout. Broad chest, thick neck, fighter shoulders, legs built to close distance. The first read is brawler — not clerk, not frail genius. The smith mind sits *inside* that mass. Vanity kept: short controlled hair, clean-cut handsome face, sharp eyes that still measure angles like a forge.
 
-**Asymmetry.** Heavy prosthetic AoE slam, grapple, and toxic area-denial (hazardous Magenta-heavy steam lingering on hexes) paired with fast knife strikes. High-mobility melee. He is the industrial mirror of Vesper’s sweeping Glaive.
+**Clothes.** Aureate luxury cut for a crime lord who still walks fights — fitted velvet jacket or waistcoat, open collar, purple / white / gold trim, cloth that strains slightly across the chest. No trenchcoat. The trench belongs to Vesper alone. His silhouette is tailored wealth over muscle, not rain-canvas Harvester civic.
+
+**Right arm — Chroma prosthesis.** The money contrast. Beside the thick torso the arm reads almost too fine: anatomical, slender, hyper-refined — Swiss-watch craft with jet thrust underneath. Not infantry bulk. Valves at forearm and knuckles. When he punches or grapples they vent Aureate exhaust: about **60% Magenta**, **35% Cyan**, **15% Gold**. The white-steam purity of Kardia Bright vents is gone; his body advertises the stigma. Enormous force from a delicate line — that is the point.
+
+**Left hand — Resonance-inspired dagger (working name: Resonance Dagger; final name TBD).** Biological arm under light armor. A sneaky compact blade carried in the *other* hand — never the prosthesis. Inspired by the **Resonance Glaive** he forged for Vesper, but it works **fundamentally differently**: no Bright cell, no Core-smithy purity, Chroma-fuel drive instead. Same craft *family* (Resonance), corrupted substitute. Concealable. Fast. Dirty. Magenta-heavy weep and vent when it sings.
+
+**Silhouette vs Vesper.** She: Oru mass, white trench, long Glaive, bright-white cell steam. He: human muscle, velvet gold, slender Chroma arm, short sneaky dagger, Magenta-heavy exhaust. Same forge history; opposite visual grammar.
+
+## Kit and Resonance craft
+
+**Resonance** is a Kardia craft family: ultrasonic Brilliance tools that cut with a clean high-frequency hum and can thin reality into a **scratch**. True Glaive-class Resonance designs require a **Bright Core–powered smithy** — Core-fed forge infrastructure, not a Core seated in the weapon. The weapon itself runs on **Bright cells**.
+
+Before exile, Valen designed and forged Vesper’s **Resonance Glaive** in that Core-smithy world. Under the Aureate he cannot recreate that design at Glaive scale or purity: no Core-powered smithy, no Bright-cell Tithe economy of his own. The dagger is what Chroma-fuel lets him build instead — Resonance-inspired geometry with a different heart.
+
+**Asymmetry.** Heavy prosthetic AoE slam, grapple, and toxic area-denial (hazardous Magenta-heavy steam lingering on hexes) paired with fast sneaky dagger strikes. High-mobility melee. He is the industrial mirror of Vesper’s sweeping Glaive.
 
 ## Play fantasy
 
-**Loyal Aureate.** Aggressive brawler. Close the gap. Slam and deny ground with vented Chroma. Knife to finish. Pressure management — overclock and the steam that marks every hex he takes.
+**Loyal Aureate.** Aggressive brawler. Close the gap. Slam and deny ground with vented Chroma. Dagger to finish. Pressure management — overclock and the steam that marks every hex he takes.
 
-**Story tension.** Every vented Magenta cloud is the same sin that cost the arm and the friendship. Facing Vesper means facing the Glaive he forged and the purity culture that threw him away.
+**Story tension.** Every vented Magenta cloud is the same sin that cost the arm and the friendship. Facing Vesper means facing the Glaive he forged in a Core-smithy he no longer owns — and the dirty dagger that proves he could not remake it clean.
 
 ## Still settling
 
-Exact board verbs for steam-denial hexes. Prosthesis model name. Whether Valen and Vesper share a match as default rivals. Exact exile-to-recruitment timeline relative to the First Harvest calendar.
+Final dagger name (working: Resonance Dagger). Exact board verbs for steam-denial hexes. Prosthesis model name. Whether Valen and Vesper share a match as default rivals. Exact exile-to-recruitment timeline relative to the First Harvest calendar. Exact human height band vs Oru seven-foot read.
