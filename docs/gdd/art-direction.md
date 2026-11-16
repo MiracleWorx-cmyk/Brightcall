@@ -8,10 +8,11 @@ Leading visual truth:
 
 1. [`site/public/art/hero-harvester.png`](../../site/public/art/hero-harvester.png) — character / close action north star
 2. [`site/public/art/the-bright.png`](../../site/public/art/the-bright.png) — world / landscape north star
+3. [`site/public/art/seam-curtain.jpg`](../../site/public/art/seam-curtain.jpg) — Seam / Chroma north star (also [`references/seam-curtain.jpg`](references/seam-curtain.jpg))
 
 ## Style lock (website & marketing stills)
 
-**Master plates.** Every new still must match those two first.
+**Master plates.** Character and world stills must match plates 1–2. Any Seam or Chroma still must match plate 3: one transparent shattered satin / cracked-glass curtain draped across an opening; Magenta + Cyan + Searing Gold as liquid neon on and through that sheet — never paint splatters on bare concrete with no curtain.
 
 **One pipeline.** Stability **SD3 only** (`scripts/generate-brightcall-art.mjs`, model `sd3-large`). Mixing SD3 with Cursor GenerateImage or any other model breaks the look. If SD3 has no credits or the API fails, **stop and tell Dirk** — do not generate substitutes on another model.
 
@@ -30,7 +31,9 @@ Stylized realism, painterly blocks, no photorealism, no 3D render, no soft gener
 
 ```text
 photorealistic, 3d render, unreal engine, soft airbrush concept art, anime, cartoon chibi,
-generic fantasy oil painting, muddy grimdark, blood, gore, text, watermark, logo
+generic fantasy oil painting, muddy grimdark, blood, gore, text, watermark, logo,
+neon paint graffiti on concrete without a Seam curtain, solid colored energy wall,
+chroma as ambient spray with no transparent shattered satin sheet
 ```
 
 **QA.** Hold the new still next to `hero-harvester.png`. If brush language, edge sharpness, or lighting family do not match at a glance, regenerate. Subject accuracy never beats style match.
@@ -107,7 +110,9 @@ On the table, an active Seam reads as an upright acrylic curtain token with a du
 
 Street says Tears / Bright-Tears. Refract Labs coined Chroma. Same liquid. Only Magenta, Cyan, and Searing Gold — always present together in the weep, not as separate monochrome sheets.
 
-Reference: the knife half-normal, half-rewritten behind shattered satin glass; the box art Seam draping a monolithic ruin with mixed Chroma weeping from the cracks.
+**North star:** [`seam-curtain.jpg`](../../site/public/art/seam-curtain.jpg) — translucent fractured curtain across a brutalist void; Chroma blobs and drips only on the sheet. Also: the knife half-normal, half-rewritten behind shattered satin glass; the box art Seam draping a monolithic ruin with mixed Chroma weeping from the cracks.
+
+**Reject as Seam art:** neon paint on walls/floor with no satin sheet; solid colored energy walls; Chroma as ambient graffiti; white void “rewrite” halves with no curtain.
 
 ## Characters: acrylic standees
 
@@ -146,6 +151,9 @@ Containment units and chromatic fuel tanks must read as different objects at a g
 **Containment units** (Kardia): pearl Brilliance frames with beautiful golden Core-vaults. Stable. Civic craftsmanship. Faint radiance.
 
 **Chromatic fuel tanks** (the Aureate): erratic, pressurized Chroma canisters. Volatile. Cutthroat modification.
+
+**Chroma vial rack (working plate):** \site/public/art/chroma-vials.png\ (efract-chroma-vials.png\). Magenta / Cyan / Gold liquid Tears in glass under valves and fumes — strong Chroma atom. Reads more Refract lab glassware than Aureate military exo tankage. Aureate power-arm canisters stay crude pressurized grit, not this clean vial bank.
+
 
 Proper model names remain open in [terminology](../terminology.md).
 
