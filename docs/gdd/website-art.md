@@ -1,6 +1,6 @@
 # Website art pack (Lovable)
 
-Generated Bright-punk stills for the public landing. Files live in `site/public/art/`.
+Generated Bright-punk stills for the public landing. Files live in `site/public/art/`. **Lovable** may replace these stills; SD3 remains available for an explicit SD3 pass. Keep Style lock + lore locks.
 
 **Style north stars:** `hero-harvester.png` (character) and `seam-curtain.jpg` (Seam / Chroma). Full lock + **scarce Chroma** rule: [art-direction.md](art-direction.md) → Style lock.
 
@@ -8,7 +8,7 @@ Generated Bright-punk stills for the public landing. Files live in `site/public/
 
 | File | Use |
 | --- | --- |
-| `hero-harvester.png` | Home hero — full-bleed. Oru Vesper north star. Magenta on the glaive scratch only. **Style master.** |
+| `hero-harvester.png` | Home hero — full-bleed. Oru Vesper north star. Magenta + Cyan + Gold Tears on the glaive scratch together. **Style master.** |
 | `seam-curtain.jpg` | Bright / Seams section — one transparent shattered satin sheet; Magenta + Cyan + Gold only on/through the curtain. **Seam / Chroma master.** |
 | `chroma-vials.png` | Energies — contained Chroma in glass. Scarce dangerous liquid, not ambient splatter. |
 | `seam-diagram.png` | Optional diagram aid for Seam structure (not a style master). |

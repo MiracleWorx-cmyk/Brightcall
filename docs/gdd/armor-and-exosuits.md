@@ -29,7 +29,7 @@ Braces sit **under** coats, harnesses, and field kit. Strategic cutouts, splits,
 
 ### Kardia — Brilliance
 
-Refined. Elegant. Pearl white, faintly radiant Brilliance with **organic** cast curves and a very light blue gleam on the metal. Compact braces, gauntlets, Bright cell housings, and weapon fittings. Blue and silver hard-light accents on that pearl shell. Bright cells glow with **bright white / off-white** charge (cyan is Chroma). Brilliance conducts Bright only in part — cubes stay easy to swap. Bright energy through craft stays extremely subtle: calm stream at rest, stronger wind in motion, faint smoke-cloud on impact. Civic efficiency. **Zenith Relays** feed districts as energy substations (appearance still open).
+Refined. Elegant. Pearl white, faintly radiant Brilliance with **organic** cast curves and a very light blue gleam on the metal — solid-state resonant conductor (micro-fluting; no cables/hoses). Compact braces, weapon-hand sleeve fittings, off-hand glove, Bright cell housings. Blue and silver hard-light accents on that pearl shell. Bright cells glow with **bright white / off-white** charge (cyan is Chroma). Brilliance conducts Bright only in part — cubes stay easy to swap. **Bright streams** read as subtle white visual signatures of nearby charge (not a drain); enforced, they move civic power through the air; concentrated, they thin reality. Civic efficiency. **Zenith Relays** feed districts and can empower those air streams (appearance still open).
 
 ### The Aureate — Chroma-fueled
 
