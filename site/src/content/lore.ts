@@ -173,7 +173,7 @@ export const factions: {
     origin:
       'They broke from Kardia, unified, and seized power through bribery, theft, extortion, and hijacked containment. Barons stay safe.',
     society:
-      'Debonair tip over poor laborers. Controlled-Bloom infantry run robust hot metal frames with oversized Chroma canisters and long hoses. Valen — human Chroma-Smith Architect — white formal coat-vest, gold-dark Chroma arm with flush ampules, Resonance-inspired dagger; no Brilliance, no trench. Penumbra can work those Bloomed soldiers from the shadows.',
+      'Debonair tip over poor laborers. Controlled-Bloom infantry run robust hot metal frames with oversized Chroma canisters and long hoses. Valen — human Chroma-Smith Architect, calculated and ashamed of his wealth; ambition to the Aureate, heart still with Kardia; white formal coat-vest, gold-dark Chroma arm with flush ampules, Resonance-inspired dagger; no Brilliance, no trench. Penumbra can work those Bloomed soldiers from the shadows.',
     play: 'Hold the board. Late hijack. Mass. Chroma-fuel overclock. Death that breaches fuel lines.',
   },
   {
@@ -212,7 +212,7 @@ export const game = {
 }
 
 export const heroesNote =
-  'Design order starts with Kardia (Vesper as measuring stick), then the Aureate as hold-objective contrast. Vesper is the first locked brief: Oru among humans, signature trench, Brilliance sleeve, cube Bright cell Tithe, Resonance Glaive (Valen). Valen is human muscular sellout Architect: white formal coat-vest, slender Chroma arm with flush ampules (no Brilliance), Resonance-inspired Chroma dagger.'
+  'Design order starts with Kardia (Vesper as measuring stick), then the Aureate as hold-objective contrast. Vesper is the first locked brief: Oru among humans, signature trench, Brilliance sleeve, cube Bright cell Tithe, Resonance Glaive (Valen). Valen is human Architect: refined ex-jewel-smith, calculated strategist, wealth with shame, heart with Kardia; white formal coat-vest, slender Chroma arm with flush ampules (no Brilliance), Resonance-inspired Chroma dagger.'
 
 export const worldBits = [
   {

@@ -2,26 +2,26 @@
 
 **Faction.** The Aureate.  
 **Race.** Human (Kardian native).  
-**Role on the roster.** Chroma-Smith architect and asymmetrical melee brawler. Aggressive industrial foil to Vesper’s elegant Glaive.  
+**Role on the roster.** Chroma-Smith Architect and asymmetrical melee — calculated industrial foil to Vesper’s elegant Glaive.  
 **Working title.** Kingpin Architect of the Aureate.
 
-**One sentence.** Exiled from Kardia after illicit Chroma-fuel research destroyed his right arm, Valen sold his genius to the barons — and now builds the Chroma war machine that hunts the same Bright he once served with Vesper.
+**One sentence.** Exiled from Kardia after illicit Chroma-fuel research destroyed his right arm, Valen’s ambition sold his genius to the barons — while his heart stayed with the house that cast him out — and now he builds the Chroma war machine that hunts the same Bright he once served with Vesper.
 
 ## Who he is
 
-Valen was a prodigy **Brightsmith** of House Kardia and Vesper’s closest partner. Bright energy felt too stable, too elegant, too expensive for the power he wanted. He ran secret underground experiments with **Chroma-fuel** — volatile, toxic, devastating.
+Valen was a prodigy **Brightsmith** of House Kardia and Vesper’s closest partner — not a forge brute with a great hammer, but a **refined jewel-smith** of Brilliance: exquisite castings, precise anatomy, the eye that made the Resonance Glaive sing. Bright energy felt too stable, too elegant, too expensive for the power he wanted. Ambition pushed him underground into **Chroma-fuel** — volatile, toxic, devastating.
 
 In Kardia high society, Chroma carries a heavy stigma: unnatural, dirty, a hazard to bystanders — the social mark of a toxic habit. During one experiment, raw Chroma reacted violently and **destroyed his right arm**. The accident exposed the forbidden work. Kardia purity culture **fired and exiled** him.
 
-The Aureate barons arrived with gold and use. They did not need him to swing a smith’s hammer in pearl. They needed the mind that could weaponize Tears. They funded a sleek mechanical prosthesis and opened unlimited resources for Chroma armory. He designs overheating harnesses and fuel lines for **controlled-Bloom infantry**, finishes containment hijacks when the board needs a thief’s hand, and walks the Bright as a brawler when the barons send an architect to bleed.
+The Aureate barons arrived with gold and use. They needed the mind that could weaponize Tears. They funded a sleek mechanical prosthesis and opened unlimited resources for Chroma armory. He designs overheating harnesses and fuel lines for **controlled-Bloom infantry**, finishes containment hijacks when the board needs a thief’s hand, and walks the Bright when the barons send an architect to bleed.
 
-He knows what he is: a self-aware sellout. Velvet, gold accents, tailored Aureate luxury stretched over a fighter’s body. The Chroma that took the arm now powers the replacement.
+He is a **calculated strategist** — intelligent, strong, efficiency first. He will not strike the first blow; provoke him and the answer is precise and final. He wears Aureate wealth **with shame**: white formal cut, purple and gold, luxury he earned by leaving home. Ambition brought him to the Aureate. His **heart still lies with Kardia**. He knows what he is. The Chroma that took the arm now powers the replacement.
 
 ## Look
 
 **Race and scale.** Human. Pale Kardian skin. Tall and heavy for his people — still clearly shorter and differently proportioned than seven-foot Oru Vesper. On a street of humans he is the spike; next to her he is the denser, smaller frame.
 
-**Body.** Muscular sellout. Broad chest, thick neck, fighter shoulders, legs built to close distance. The first read is brawler — not clerk, not frail genius. The smith mind sits *inside* that mass. Vanity kept: short controlled hair, clean-cut handsome face, sharp eyes that still measure angles like a forge.
+**Body.** Strong sellout frame — broad chest, fighter shoulders, legs built to close distance when he chooses. The first read is power held in check, not a hot-headed bruiser. Inside that mass sits the jewel-smith mind: angles, tolerances, efficiency. Vanity kept and ashamed of it: short controlled hair, clean-cut handsome face, sharp eyes that still measure like a forge.
 
 **Clothes.** Aureate elite Inventor-Smith wealth — not a Harvester coat. Leading plate read (`valen-line-concept.png`): a **white high-collar formal coat-vest** — long, tailored, sleeveless / open-arm cut so the prosthesis reads clean — purple V-chest panel, gold studs down the front, cloth cut for a fighter’s chest. Alternate beat (`valen-line-concept-b.png`): purple blazer over open white shirt. **No trenchcoat.** The trench belongs to Vesper alone; Valen’s white long formal is court luxury with the sleeves sacrificed to the arm, never rain-canvas civic.
 
@@ -45,9 +45,9 @@ Before exile, Valen designed and forged Vesper’s **Resonance Glaive** in that 
 
 ## Play fantasy
 
-**Loyal Aureate.** Aggressive brawler. Close the gap. Slam and deny ground with vented Chroma. Dagger to finish. Pressure management — overclock and the steam that marks every hex he takes.
+**Loyal Aureate (ambitious).** Calculated melee. He does not open the fight — he answers it. Close when efficiency demands. Slam and deny ground with vented Chroma. Dagger to finish. Pressure management — overclock and the steam that marks every hex he takes.
 
-**Story tension.** Every vented Magenta cloud is the same sin that cost the arm and the friendship. Facing Vesper means facing the Glaive he forged in a Core-smithy he no longer owns — and the dirty dagger that proves he could not remake it clean.
+**Story tension.** Every vented Magenta cloud is the same sin that cost the arm and the friendship. Wealth sits on him like a confession. Facing Vesper means facing the Glaive he forged as Kardia’s fine smith — and the dirty dagger that proves ambition took him where his heart would not have gone clean.
 
 ## Visual refs
 
