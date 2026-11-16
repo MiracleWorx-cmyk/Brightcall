@@ -7,7 +7,7 @@
 
 **Leading plate.** [`site/public/art/hero-harvester.png`](../../../site/public/art/hero-harvester.png) is the visual north star for Vesper and Oru Harvesters.
 
-**Concept refs.** Shoulder mount: [`vesper-shoulder-mount.png`](../references/vesper-shoulder-mount.png). Full kit + cell: [`vesper-full-bright-cell.png`](../references/vesper-full-bright-cell.png). Cell schematic: [`bright-cell-schematic.png`](../references/bright-cell-schematic.png).
+**Concept refs.** Arm study (organic Brilliance sleeve + cube cell): [`vesper-brilliance-arm-inspiration.jpg`](../references/vesper-brilliance-arm-inspiration.jpg). Shoulder mount: [`vesper-shoulder-mount.png`](../references/vesper-shoulder-mount.png). Full kit + cell: [`vesper-full-bright-cell.png`](../references/vesper-full-bright-cell.png). Cell schematic: [`bright-cell-schematic.png`](../references/bright-cell-schematic.png).
 
 ## Who she is
 
@@ -21,7 +21,7 @@ House Kardia was the Bright-order superpower before Aureate crime lords took con
 
 ### Valen
 
-**Valen** was her Brightsmith partner and closest friend — a **human** Kardia prodigy. He ran illicit **Chroma-fuel** experiments beneath Kardia’s purity laws. A violent reaction destroyed his right arm and exposed the work. The house fired and **exiled** him. The Aureate funded a sleek Chroma prosthesis and made him their **Chroma-Smith** architect — harnesses for **controlled-Bloom infantry**, fuel lines, hijacks, and a brawler’s kit of muscular sellout body, slender prosthetic fist, and Resonance-inspired Chroma dagger. Full brief: [valen.md](valen.md).
+**Valen** was her Brightsmith partner and closest friend — a **human** Kardia prodigy, a **refined jewel-smith** of Brilliance castings (filaments, micro-fluting, Resonance geometry), not a hammer brute. Ambition drove illicit **Chroma-fuel** work beneath Kardia’s purity laws. A violent reaction destroyed his right arm and exposed the work. The house fired and **exiled** him. Cut off from Brilliance and Core-smithy, the Aureate funded a sleek **Chroma** prosthesis and made him their **Chroma-Smith** Architect — calculated strategist, slight forward lean, wealth worn as penance, heart still with Kardia, temple Resonance receiver that hears metal and Seam stress. Harnesses and canister/hose lines for **controlled-Bloom infantry**; white formal coat-vest (never her trench); horological gold-dark arm with flush ampules; Resonance-inspired Chroma dagger placed on break-points. He will not strike first. Do not provoke him. Full brief: [valen.md](valen.md).
 
 Before the exile, Valen designed and forged the **Resonance Glaive** for her in a **Bright Core–powered smithy** — masterpiece of the Resonance craft family: an ultrasonic blade that cuts with a clean high-frequency hum and runs on Bright cells. Every time she seats a fresh cell in the shoulder mount, she powers an exile’s genius. The weapon is her greatest asset and an open wound. His Aureate dagger borrows Resonance *shape* and burns Chroma instead — same family name, different heart.
 
@@ -37,13 +37,24 @@ Gear rules that apply to every Kardia plate also live in [civic field kit and Br
 
 **Coat over the mount.** The trench wears **over** her mechanical braces. Keep the trench — do not close it into a solid cylinder that hides craft. A **deliberate cutout** is sliced from the weapon-side shoulder of the coat so the Bright cell mount pushes through for combat reloads. Wind-splits and worn openings elsewhere let brace ribs catch light. The coat frames Brilliance; it does not bury it.
 
-**Brilliance amount.** The body-worn read is sparse on purpose. Pearl white, faintly radiant Brilliance covers **one full arm and its shoulder** — the weapon-side limb that feeds the Glaive, with the Bright cell mount seated there as a sleek Brilliance sleeve and shoulder socket. On the **other hand**, a single Brilliance **glove**. Coat, cloth, and Oru skin own the rest of the silhouette. Belt cells and glaive housing are small appliances, not more body armor. Not a sealed shell. Not cybernetic flesh-replace. Calm contained bright-white cell charge, not Tear neon as her fuel.
+**Brilliance amount.** The body-worn read is sparse on purpose. A **metallic Brilliance sleeve** covers **one full arm and its shoulder** — organic cast curves (living pearl, not Valen’s machine anatomy), faintly radiant with a **very light blue gleam** on the metal. The **cube Bright cell** in the shoulder mount powers that sleeve; the charge shining through is **bright white / off-white**, never cyan. On the **other hand**, a single Brilliance **glove**. Coat, cloth, and Oru skin own the rest of the silhouette. Not a sealed shell. Not cybernetic flesh-replace. Not Tear neon as her fuel.
+
+**Vs Valen’s arm.** Hers is still flesh under organic Brilliance craft, cell-swappable, subtle white Bright streams. His is a full Chroma prosthesis — gold-dark, hose-free ampules, Magenta-heavy jet vents. Same forge mind; opposite grammar.
+
+### How the arm powers the Glaive
+
+Solid-state Brilliance conduction — no cables, plugs, or hoses.
+
+1. **Source.** The cube Bright cell locks into the cast Brilliance receiver at the weapon-side shoulder through the trench cutout. Pins meet; a short puff of pure bright-white steam marks the seat.
+2. **Sleeve.** Her biological arm stays intact. The organic pearl Brilliance casing hugs the limb as a resonant conductor — micro-fluting forged in the metal carries white charge down bicep and forearm into the **weapon-hand** (full sleeve, including the gripping hand). The **off-hand** stays a single Brilliance **glove** only.
+3. **Grip induction.** When that Brilliance weapon-hand holds the Resonance Glaive haft, metal-to-metal contact closes a resonance circuit. Charge passes into the glaive’s ultrasonic core — the high-frequency hum — with nothing dangling.
+4. **Streams.** Bright-white streams may read along belt cells, the seated mount, the sleeve, and the haft. That is a **visual signature** of nearby charge — not Tithe leaking away. Unenforced streams only announce a source; the working path is still seated cell → sleeve → haft → blade. When the glaive draws hard, the stream becomes a stronger white wind; on impact, a faint white smoke-cloud — always extremely subtle.
 
 ### Bright cell (must read)
 
-**Eminence-pattern (VE-3)** Bright cells are perfect **cubes** — about the size of a Rubik’s cube (~7.5 cm / 3 in on a side), dense (~1 kg). Ultra-thin pearl **Brilliance** casing with circular cutouts that show the bright-white glass core and act as tactile finger-holds for a blind belt draw. Three mechanical connector pins seat into the shoulder receiver. Charged cells are **issued** for the run; empties are discarded. She does not forge today’s cells.
+**Eminence-pattern (VE-3)** Bright cells are perfect **cubes** — about the size of a Rubik’s cube (~7.5 cm / 3 in on a side), dense (~1 kg). Ultra-thin pearl **Brilliance** casing with circular cutouts that show the bright-white glass core and act as tactile finger-holds for a blind belt draw. Three mechanical connector pins seat into the shoulder receiver. Charged cells are **issued** for the run; empties are discarded. She does not forge today’s cells. The cube **must stay easy to replace** — Brilliance conducts Bright only in part; loss and hunger force the Tithe swap.
 
-The **active** cell seats in the **weapon-side shoulder mount** and reads through the coat cutout as the second silhouette beat. Energy conduits run from the mount down the Brilliance arm toward the Resonance Glaive — cell → tool. When the cell seats or the glaive draws hard, venting valves hiss **pure bright-white** steam: clean, high-pressure, sharp, fleeting.
+The **active** cell seats in the **weapon-side shoulder mount** and reads through the coat cutout as the second silhouette beat.
 
 **The Tithe.** Under Aureate rationing, Harvesters operate on a meager allotment. Harvest is one of the most lucrative and important businesses on Oros, so the house still invests — Vesper is allotted enough charge for **two or three** cells per run. They would give her more if Kardia could afford it. She carries those few on heavy-duty belt sockets. She cannot waste a swing.
 
@@ -51,13 +62,13 @@ The **active** cell seats in the **weapon-side shoulder mount** and reads throug
 
 ### Weapon-arm Brilliance and off-hand glove
 
-The **weapon-side arm and shoulder** are the Brilliance statement: cast-to-fit pearl from shoulder mount down the arm that holds the Glaive, Bright cell seated in that shoulder, conduits running toward the glaive housing. The trench cutout and Chroma-rotted sleeve frame that limb — they do not hide it.
+The **weapon-side arm and shoulder** are the Brilliance statement: organic cast-to-fit pearl sleeve from shoulder mount down the arm that holds the Glaive, cube Bright cell seated for fast swap, light-blue gleam on the metal, white charge in the glass. The trench cutout and Chroma-rotted cloth sleeve frame that limb — they do not hide it.
 
-On the **other hand**, one refined Brilliance **glove** — elegant protection for Chroma contact and civic grip. Not a monstrous claw. Not a second full arm of metal.
+**Weapon-hand** = full Brilliance sleeve through the palm that holds the Glaive. **Off-hand** = one refined Brilliance **glove** only — elegant protection for Chroma contact and civic grip. Not a monstrous claw. Not a second full arm of metal.
 
 **Asymmetric Chroma wear.** The weapon-side sleeve is heavily torn, stained, and etched where Tears weep from the Resonance Glaive’s reality scratches. That sleeve looks worked and Chroma-rotted; the other side stays cleaner civic cloth.
 
-**Tech ceiling.** No digital tech, screens, LEDs, internet, or modern firearms. Bright-punk power only. Vesper’s answer is the glaive and finite Bright cell charge. Lit cells, white steam vents, and conduit work on her kit are Brilliance / Bright energy craft, never Earth firearms or screens.
+**Tech ceiling.** No digital tech, screens, LEDs, internet, or modern firearms. Bright-punk power only. Vesper’s answer is the glaive and finite Bright cell charge. Lit cells, white seat-puffs, Bright streams, and solid-state Brilliance conduction are Bright energy craft, never Earth firearms or screens.
 
 **Carry.** She walks into Umbras. The glaive rides a harness sling across the back or locks to a Brilliance hip/shoulder clip on the coat — pearl fittings that hold the housing without Earth magnets-as-sci-fi. Live Bright cells sit on the belt. The empty legacy cell travels with her. Tear jars and field tools hang where a mason would hang them. No vehicle fantasy on her default plate.
 
@@ -69,9 +80,9 @@ On the **other hand**, one refined Brilliance **glove** — elegant protection f
 
 ### Hero plate checklist (keep what works)
 
-Keep: glaive mass and magenta scratch language on the blade edge only; her unique trenchcoat civic cut worn over the mount; Oru mass among human crowds, black glimmering stone-skin, short natural hair, singular earring; proud low-angle stoic posture; Fortiche / SD3 harvester lighting from `hero-harvester.png`.
+Keep: glaive mass with **Magenta + Cyan + Gold** Tears weeping together on the scratch edge; her unique trenchcoat civic cut worn over the mount; Oru mass among human crowds, black glimmering stone-skin, short natural hair, singular earring; proud low-angle stoic posture; Fortiche harvester lighting from `hero-harvester.png`.
 
-Change: camera or coat so the **full weapon-arm and shoulder Brilliance** read, with the **cube Bright cell** through a clear **cutout**; show **white steam vents** on use; show the **off-hand Brilliance glove**; show belt cells and the **empty legacy cell**; glaive housing stays pearl (calm), charge stays bright white, Tears stay on the scratch/weep and the ruined cuff — do not paint her whole kit Tear-neon.
+Change: camera or coat so the **full weapon-arm and shoulder Brilliance** read, with the **cube Bright cell** through a clear **cutout**; show subtle **white Bright streams** (signature, not leak) and seat puff; show the **off-hand Brilliance glove**; show belt cells and the **empty legacy cell**; glaive housing stays pearl (calm), charge stays bright white — do not paint her whole kit Tear-neon.
 
 ## The Resonance Glaive
 
@@ -79,7 +90,7 @@ A precision mason’s tool turned weapon: peak of the **Resonance** craft family
 
 **Safe Chroma contact.** Brilliance lets Vesper handle Chroma without bare-skin Bloom or burn. When Tears weep along the glaive, the craft takes the touch. That is why a Kardian Harvester can work Seam edges and scratches with a civic tool instead of dying on the first ooze.
 
-**Reality scratches.** Side-effect of Bright vibration, not Chroma-fuel craft. Magenta/cyan Tears may weep where the cut almost opens a Seam. Kardia do not deal in Tears — this leak is frowned upon. Vesper finds the ooze disgusting. She still flirts with the edge it gives her against enemies — figurative and literal — because the glaive’s Brilliance keeps her safe enough to stay close. That tension is her moral line and her traitor lean.
+**Reality scratches.** Side-effect of Bright vibration, not Chroma-fuel craft. Where the cut almost opens a Seam, Tears weep in the full tri-color: **Magenta** as the deep weep, **Cyan** along the fracture hairline, **Searing Gold** at the highest stress where reality thins. Kardia do not deal in Tears — this leak is frowned upon. Vesper finds the ooze disgusting. She still flirts with the edge it gives her against enemies — figurative and literal — because the glaive’s Brilliance keeps her safe enough to stay close. That tension is her moral line and her traitor lean.
 
 On the board, scratches are not automatically a lasting Seam token. Working options: dropped Bright-Tear / Chroma residue, or extra chromatic damage on the swing. Rules not settled. A scratch can deepen into a Seam.
 

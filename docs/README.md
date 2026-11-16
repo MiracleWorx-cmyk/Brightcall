@@ -26,6 +26,7 @@ Every page is English. Read the world as one lorebook. The nouns live in [termin
 | [Game design](gdd/game-design.md) | How a match works |
 | [Hex-patch arena v0](gdd/playtest/hex-patch-arena-v0.md) | Playtest maze slice with voids |
 | [Vesper v0 kit](gdd/playtest/vesper-v0.md) | First paper measuring-stick kit |
+| [Aureate mercenary canister](gdd/references/aureate-mercenary-canister-design.md) | Infantry Chroma tank + hose brief |
 | [Character design](gdd/character-design.md) | Sheet and ability grammar |
 | [Civic field kit and Brilliance](gdd/armor-and-exosuits.md) | Cloth-first civic kit, scarce Brilliance, Vesper blueprint |
 | [Vesper](gdd/characters/vesper.md) | First Kardia measuring stick |
