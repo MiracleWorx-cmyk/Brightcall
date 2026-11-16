@@ -15,7 +15,7 @@ Leading visual truth:
 
 **Master plates.** Character stills match plate 1. Any Seam or Chroma still must match plate 2: one transparent shattered satin / cracked-glass curtain draped across an opening; Magenta + Cyan + Searing Gold as liquid neon on and through that sheet — never paint splatters on bare concrete with no curtain.
 
-**Chroma is scarce and dangerous.** Fortiche contrast still wins — but neon is a *hazard accent*, not wallpaper. Most of every frame stays Bone / Ash / Greige (and Bright-white Core light). Magenta / Cyan / Gold appear only where Tears actually are: Seam cracks, weapon scratches, contained vials/fuel lines, vent exhaust. Not graffiti on walls. Not ambient paint rain. Hero north star: `hero-harvester.png` (magenta lives on the glaive scratch, not the city). Logo vibe reference: `docs/gdd/references/brightcall-logomark-inspiration-a.png` (color concentrated, bone field dominant).
+**Chroma is scarce and dangerous.** Fortiche contrast still wins — but neon is a *hazard accent*, not wallpaper. Most of every frame stays Bone / Ash / Greige (and Bright-white Core light). Magenta / Cyan / Gold appear only where Tears actually are: Seam cracks, weapon scratches, contained vials/fuel lines, vent exhaust. Not graffiti on walls. Not ambient paint rain. Hero north star: `hero-harvester.png` (magenta lives on the glaive scratch, not the city). Logo vibe reference: `docs/gdd/references/brightcall-logomark-inspiration-a.png` (color concentrated, bone field dominant). Contrast vibe reference (Lovable, design only): `docs/gdd/references/lovable-chroma-splash-inspiration.jpg` — dead bone field, one violent Magenta/Cyan/Gold splash; not a site still, not character or place lock.
 
 **One pipeline.** Stability **SD3 only** (`scripts/generate-brightcall-art.mjs`, model `sd3-large`). Mixing SD3 with Cursor GenerateImage or any other model breaks the look. If SD3 has no credits or the API fails, **stop and tell Dirk** — do not generate substitutes on another model.
 
@@ -159,7 +159,7 @@ Containment units and chromatic fuel tanks must read as different objects at a g
 
 **Chromatic fuel tanks** (the Aureate): erratic, pressurized Chroma canisters. Volatile. Cutthroat modification. Exhaust Magenta-heavy with Cyan and Gold.
 
-**Chroma vial rack (working plate):** `site/public/art/chroma-vials.png` (same plate as `refract-chroma-vials.png`). Magenta / Cyan / Gold liquid Tears in glass under valves and fumes — strong Chroma atom. Reads more Refract lab glassware than Aureate military exo tankage. Aureate power-arm canisters stay crude pressurized grit, not this clean vial bank.
+**Chroma vial rack (working plate):** `site/public/art/chroma-vials.png` only. Magenta / Cyan / Gold liquid Tears in glass under valves and fumes — strong Chroma atom. Reads more Refract lab glassware than Aureate military exo tankage. Aureate power-arm canisters stay crude pressurized grit, not this clean vial bank.
 
 
 Proper model names remain open in [terminology](../terminology.md).
@@ -178,11 +178,12 @@ When someone looks across the table, information arrives in this order.
 
 1. Which standee is which person, from silhouette and faction accent.
 2. Which ability lines are unlocked (wooden cubes on the character card).
-3. Which Enhancement is attached to which ability, from the exposed edge alone.
-4. Which global Enhancements are changing the person.
-5. What the current event wants, from one card left in public view.
-6. Which Seam curtains are active, and how long they have left.
-7. Device type: golden containment unit versus pressurized chromatic fuel tank.
+3. Where the Growth Track sits this round (public dial curve on the sheet).
+4. Which Path B Enhancement is attached to which ability, from the exposed edge alone — verb still readable.
+5. Which Path A (global) Enhancements are changing the person.
+6. What the current event wants, from one card left in public view.
+7. Which Seam curtains are active, and how long they have left.
+8. Device type: golden containment unit versus pressurized chromatic fuel tank.
 
 Facing is not a rule. The standee should not imply that it is.
 
@@ -196,9 +197,11 @@ Icons are flat vector marks in the family of MOBA and ARAM skill icons, sitting 
 
 Type for rules and stats is clean, industrial, sans serif. Painterly lettering stays off the level lines.
 
-Ability cards are a column of level lines. Cubes hide unopened lines. The card looks finished at level 1 and finished at full unlock.
+Ability cards are a column of dual-gate level lines. Cubes hide unopened lines. Dial requirements stay visible on unlocked lines. The card looks finished at level 1 and finished at full unlock.
 
-Slot Enhancements are strips tucked securely beneath ability cards. The only text that must survive tucking is the mechanical change on the exposed edge. Flavor on a tucked strip is wasted ink. Global Enhancements are normal cards beside the tableau.
+The Growth Track prints on the character sheet as a short public strip — round marks and dial bumps readable without lifting cards.
+
+Path B (slot) Enhancements are strips tucked securely beneath ability cards. The only text that must survive tucking is the mechanical change on the exposed edge, and it must leave the ability verb recognizable. Flavor on a tucked strip is wasted ink. Path A (global) Enhancements are normal cards beside the tableau.
 
 Statuses invented by one character live on that character’s tableau in the same type size as a level line.
 
@@ -217,10 +220,11 @@ Hyperrealistic 3D renders as the finish. Seams drawn as ground cracks, lava rift
 Paper prototypes stay flat color and icons. The first painted test is five pieces. A player who has not read the rules should be able to answer:
 
 1. A Kardia standee and a Refract Labs standee. Which one is approachable civic craft (coat, crest, clean Bright cell), and which one is the unstable lab?
-2. An ability card at level 1 and the same card at level 4. What got added?
-3. Three tucked strips on that card. What do they change, without lifting them?
-4. An event card. What should you be doing this round?
-5. A golden containment unit beside a pressurized chromatic fuel tank. Which faction owns which device fantasy?
-6. An upright Seam curtain mid-duration. What is rewritten inside, and where does the Chroma weep?
+2. An ability card at level 1 and the same card at level 4. What got added, and which dial gates the new lines?
+3. Three tucked Path B strips on that card. What do they change, without lifting them — and is the ability verb still readable?
+4. A Growth Track strip beside the dials. What rises this round?
+5. An event card. What should you be doing this round?
+6. A golden containment unit beside a pressurized chromatic fuel tank. Which faction owns which device fantasy?
+7. An upright Seam curtain mid-duration. What is rewritten inside, and where does the Chroma weep?
 
 Seam light reads Magenta, Cyan, or Searing Gold on shattered satin glass. If the painting wins and the token rule disappears, the Seam fails.
