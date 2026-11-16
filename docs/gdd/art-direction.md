@@ -7,12 +7,13 @@ The look below is settled. The table still has to read at a glance. Words: [term
 Leading visual truth:
 
 1. [`site/public/art/hero-harvester.png`](../../site/public/art/hero-harvester.png) — character / close action north star
-2. [`site/public/art/the-bright.png`](../../site/public/art/the-bright.png) — world / landscape north star
-3. [`site/public/art/seam-curtain.jpg`](../../site/public/art/seam-curtain.jpg) — Seam / Chroma north star (also [`references/seam-curtain.jpg`](references/seam-curtain.jpg))
+2. [`site/public/art/seam-curtain.jpg`](../../site/public/art/seam-curtain.jpg) — Seam / Chroma north star (also [`references/seam-curtain.jpg`](references/seam-curtain.jpg))
+
+`the-bright.png` (cube exterior) is **culled** until a new scarce-Chroma SD3 pass. Do not restore old miss plates. Culled list: [website-art.md](website-art.md).
 
 ## Style lock (website & marketing stills)
 
-**Master plates.** Character and world stills must match plates 1–2. Any Seam or Chroma still must match plate 3: one transparent shattered satin / cracked-glass curtain draped across an opening; Magenta + Cyan + Searing Gold as liquid neon on and through that sheet — never paint splatters on bare concrete with no curtain.
+**Master plates.** Character stills match plate 1. Any Seam or Chroma still must match plate 2: one transparent shattered satin / cracked-glass curtain draped across an opening; Magenta + Cyan + Searing Gold as liquid neon on and through that sheet — never paint splatters on bare concrete with no curtain.
 
 **Chroma is scarce and dangerous.** Fortiche contrast still wins — but neon is a *hazard accent*, not wallpaper. Most of every frame stays Bone / Ash / Greige (and Bright-white Core light). Magenta / Cyan / Gold appear only where Tears actually are: Seam cracks, weapon scratches, contained vials/fuel lines, vent exhaust. Not graffiti on walls. Not ambient paint rain. Hero north star: `hero-harvester.png` (magenta lives on the glaive scratch, not the city). Logo vibe reference: `docs/gdd/references/brightcall-logomark-inspiration-a.png` (color concentrated, bone field dominant).
 

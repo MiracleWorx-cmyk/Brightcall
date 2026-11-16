@@ -24,21 +24,21 @@ Still settling: assist credit; the exact points for a kill versus an objective; 
 
 ## The board
 
-Hexes. The team map is symmetrical. Players start far enough apart that reaching someone on turn 1 takes an extreme range build plus a movement build. Range 6 is already extreme.
+Hexes. The match is a **patch** inside The Bright’s maze — not the whole cube. The arena shape is a **hex-patch** (roughly hexagonal cluster), not a mandatory rectangle. **Missing hexes (voids)** are legal design: no standing, no walking through — maze gaps that force branches and flanks.
+
+The team map is symmetrical. Players start far enough apart that reaching someone on turn 1 takes an extreme range build plus a movement build. Range 6 is already extreme. Walk distance and ability range count along **floor hexes only**; voids break paths.
 
 Free-for-all needs its own layout. The working plan is a double-sided board: one face for team games, one face for free-for-all. Free-for-all is aimed at odd counts (3 and 5). Four players might use it too.
 
-Terrain lives in hex middles (spliced paint) and in tokens — especially fleeting Seam curtains. Printed arcane / physical hex-edge borders are gone. Cover, line of sight, and “is the miniature’s shoulder hidden” are out.
+Terrain lives as voids (structure), spliced paint in hex middles, and tokens — especially fleeting Seam curtains on floor hexes. Printed arcane / physical hex-edge borders are gone. Cover, line of sight, and “is the miniature’s shoulder hidden” are out.
 
-The real team arena is 11 steps between opposing standees. A step is one hex of walking, counted until you would enter the other figure’s hex. Range 1 is adjacent.
+The real team arena keeps about **11–12 walk-steps** between opposing Umbras on the shortest **legal** route (spine). A step is one hex of walking, counted until you would enter the other figure’s hex. Flank branches are longer on purpose. Range 1 is adjacent floor hexes.
 
-That distance is the one that matches the opening you want, using the test kit below: slow move 2, normal move 3, fast move 4, melee range 1, short range 2, standard range 3, long range 4. Range 6 only exists as an Enhancement. A normal pair (move 3, range 3) who walk straight at each other do not hit in round 1. They meet in round 2. A stacked monster (move 5 and range 6) can tag someone who is still standing on their start hex. A merely fast, merely long kit cannot do that alone. The earlier sketch of 15 steps makes even that monster wait until round 2. A gap of 9 steps lets a normal range-3 character hit on the second activation of round 1.
+Test kit feel (unchanged): slow move 2, normal move 3, fast move 4, melee range 1, short range 2, standard range 3, long range 4. Range 6 only exists as an Enhancement. A normal pair (move 3, range 3) who take the spine do not hit in round 1; they meet in round 2. Voids make “walk around” a real cost.
 
-For the first playtest the arena is the 11-step board with one extra step, so 12 steps between the standees. The extra hex is there so a +1 range or +1 move can be the thing that does or does not connect. On the tighter board those Enhancements are already redundant by round 2.
+**Playtest v0 layout:** [playtest/hex-patch-arena-v0.md](playtest/hex-patch-arena-v0.md) — hex-patch with spine, flank branches, voids, Umbra / hill / wing objectives. The old 9×13 open rectangle is retired for playtesting.
 
-The playtest board is 9 hexes wide and 13 rows deep (the back rows are 12 steps apart). Deploy on the center hex of each back row. Nine wide gives a center column for the hill and four hexes of flank, so walking around costs about two steps and is a choice. The first board has no printed terrain. Three objective hexes sit on the middle row: center, and two toward the wings. This board is the 1v1 test, and it can hold a 2v2 if each side deploys as a pair on the back row. It is not the 3v3 or free-for-all map.
-
-Still settling: whether 11 survives the playtest, or the extra step was the real game; how a 3-player game uses the team face; whether any terrain shrinks or moves, or whether the event deck is the only thing that changes the arena.
+Still settling: exact Umbra→Umbra step count on the printed patch; whether forced movement into a void stops or punishes; whether events can open/close a void for a round; FFA face; how a 3-player game uses the team face.
 
 ## Objectives and the event deck
 
@@ -51,6 +51,13 @@ One event is live at a time. It names the zone, the carrier, or the payout, and 
 The fiction for that menu is the interior of The Bright on Oros — a cube of light filled with a peristaltic brutalist maze under fractured gravity, guiding organics toward a spherical white Core. The Eclipse is the faces of that cube. Umbras on those faces are deployment entry. Crews leave only when the Core ends (Null-Flint harvest or destroy). Seams erupt as razor-thin satin / fractured-glass curtains caused by Bright energy — cast synthetically when a Splinter is crushed, and cast by the Bright itself while it tries to consume Harvesters. At eruption Chroma bursts from the cracks; while active it weeps at the edges. Terrain and objects restore when a curtain ends. A Harvester or weapon wrap is an **Enhancement**. An active Seam is a zone. A containment unit in transit is the oddball. A shove into a Seam is a stall hazard. Violence near objectives is the kill window. Pinching a Seam (name still open) is a Discharge. So is harvesting a containment unit. The Oru and Penumbra cleanse. Lumari drink the weep. Bright energy causes Seams; Chroma is the ooze.
 
 **Enhancements** are Seam wraps — temporary new combat power. In the world they vary a great deal. On the table, draft tiers (Weak / Moderate / Ultimate) are game language only — not lore nouns. Appetite wraps on Harvesters draft on rounds 1, 3, 6, 9, and 12. **Splintered** cards are the synthetic path: draw 3, keep 1 — Splinter-Crush chambers that smash Bright-powered Null-Flint and wrap a weapon in a fabricated Seam Enhancement. Refract pioneered that armory. **Bloom** requires Chroma taken internally.
+
+Two homes on the tableau, two design paths — not a third card type:
+
+- **Path A — Global / Structural.** Card beside the tableau. Rewrites rules the whole body obeys: dial conversions, baseline geometry, “whenever you [tag]…” riders. Soft map control across every qualifying action.
+- **Path B — Slot / Trigger.** Strip tucked under one ability. Rewrites what that button does when pressed: “when you use this ability…,” repeats, local hazards, post-hit steps. Dense payoff, narrow window.
+
+Prototype deck mix leans fun over glue: about half Path B triggers, about three-tenths Path A triggers and conversions, about one-fifth Path A flat dial bumps (Weak-tier glue). Dial-swap heists stay rare. Enhancements are modifiers — never a fifth ability with its own cube track.
 
 Banked victory points stay banked. A push empties an unfinished container. No per-player fill meter.
 
@@ -74,19 +81,19 @@ The ultimate comes online for everyone around round 4 or 5. A character can brea
 
 Enhancements are drafted on rounds 1, 3, 6, 9, and 12. That is the full sequence: five drafts, on those rounds and no others. Fiction: the Bright’s slow consume — Seam wraps landing on the Harvester as Enhancements in steps. You draft before you spend that turn’s unlock, so the card can change the plan. Draft is draw 3, keep 1. A pass-around draft is too slow.
 
-You also raise stats on your own turns. Enhancements can add stats, and those are a bonus. The stat track cannot live only on the Enhancements, or every build is stuck on whatever the deck handed out. Growth is natural. The skill is which stat, which ability, and which card.
+Dial growth is a printed **Growth Track** on each character sheet — per-round bumps, round milestones, or both. The track is public and fixed for that person. It replaces an open “raise any dial” choice for the first prototype. Path A conversions can still hijack the curve (ability power counting as physical power turns an ability-heavy track into a physical monster). Enhancements may add bonus dials on top; they must not be the only way to clear a level-2 line. Write the first roster against sparse tracks. If play feels starved, thicken the tracks — do not hide +1 damage on every Enhancement.
 
-Still settling: how many stat points a turn gives (“raise a stat” and “raise each stat” are both possible readings); whether the ultimate still has its own two or three levels after it unlocks. There is room to play the full build — something like five levels on a normal ability and three on the ultimate, with the base level counting so a step comes off. The cube budget and the 15-round clock have to be reconciled on paper before cards are written. See the guardrails doc.
+Still settling: whether the ultimate still has its own two or three levels after it unlocks. There is room to play the full build — something like five levels on a normal ability and three on the ultimate, with the base level counting so a step comes off. The cube budget and the 15-round clock have to be reconciled on paper before cards are written. See the guardrails doc.
 
 ## A turn
 
 A working sequence, built so the truths above happen in an order that matches them.
 
-1. If you are off the board, Stitching returns you at your Umbra at full health. Clear temporary effects. Keep the build, including every Splintered card.
-2. On a Splintered round, draw 3 and keep 1. Tuck it under a slot, or place it beside the tableau if it is global. Fiction: Splinter-Crush — a shard crushed in a chamber, synthetic Seam wrapping the weapon as Enhancement.
-3. Unlock or upgrade one ability.
-4. Raise stats from the turn clock.
-5. Activate. Look at the board as it is now. Spend your resource, use abilities, move, deal flat damage.
+1. If you are off the board, Stitching returns you at your Umbra at full health. Clear temporary effects. Keep the build, including every Splintered card, levels, and Growth Track progress.
+2. On a Splintered round, draw 3 and keep 1. Tuck a Path B strip under a slot, or place a Path A card beside the tableau if it is global. Fiction: Splinter-Crush — a shard crushed in a chamber, synthetic Seam wrapping the weapon as Enhancement.
+3. Unlock or upgrade one ability line (Gate 1 — the cube).
+4. Apply this round’s Growth Track bump(s).
+5. Activate. Look at the board as it is now. Spend your resource, fire open lines that meet their dial requirements (Gate 2), resolve tucked Path B text, trip Path A “whenever” clauses, deal flat damage.
 6. Score anything you just earned.
 
 Activation is alternating, one character at a time. Teams do not write a secret plan and reveal it. You fire at the board in front of you, so a combo in range hits. A team-based turn order was floated and not settled. Alternating activations are the version that answers the fizzle problem without a priority chart.
@@ -109,7 +116,7 @@ Still settling: the health band (10 was an example, not a tuned pool); regen; mi
 
 Enough to play one faction pair and a handful of Enhancements. Not a production list.
 
-A hex board with two deployment layouts sketched on paper. A tableau per player with four slots and a strip where tucked cards stay readable. Ability cards with level lines hidden by cubes. An Enhancement deck split in the hand between slot cards and global cards. An event deck of the five objective types. Dials for health, physical power, ability power, movement, and the two shields. A personal resource marker, defined by the character. Level cubes. A victory track that can pass 15. Acrylic standees, or labeled tokens until the art exists.
+A hex board with two deployment layouts sketched on paper. A tableau per player with four slots, a Growth Track on the sheet, and a strip where tucked cards stay readable. Ability cards with dual-gate level lines hidden by cubes. An Enhancement deck split between Path B slot strips and Path A global cards. An event deck of the five objective types. Dials for health, physical power, ability power, movement, and the two shields. A personal resource marker, defined by the character. Level cubes. A victory track that can pass 15. Acrylic standees, or labeled tokens until the art exists.
 
 ## What this document will not pretend
 

@@ -6,7 +6,7 @@ export const brand = {
   genre: 'Bright-punk',
   tagline: 'Walk an Umbra. Survive the Core.',
   support:
-    'A fast hex brawler played entirely inside a cube of The Bright — civic-modern magitech against Bone, Ash, and Greige ground where Seams erupt with a Chroma burst and keep weeping at the edges.',
+    'A fast hex brawler played entirely inside a cube of The Bright — civic-modern magitech against Bone, Ash, and Greige, where Seams erupt and scarce Chroma weeps at the cracks.',
 }
 
 export const energies = {
@@ -118,17 +118,26 @@ export const factions: {
   society?: string
 }[] = [
   {
-    id: 'aureate',
-    name: 'the Aureate',
-    accent: 'Purple, white, and gold',
-    accentVars: 'var(--aureate)',
+    id: 'oru',
+    name: 'the Oru',
+    accent: 'White, red, and green',
+    accentVars: 'var(--oru)',
     motif:
-      'Barons and crime lords. Former Kardia who took the Bright order by syndicate methods.',
+      'Indigenous Wardens. Natural harmony. Anti-harvest. Null-Flint craft. Opposite of Penumbra. Not every Oru by blood walks with this faction.',
     origin:
-      'They broke from Kardia, unified, and seized power through bribery, theft, extortion, and hijacked containment. Barons stay safe.',
-    society:
-      'Debonair tip over poor laborers. Controlled-Bloom infantry run robust hot metal frames. Valen — human Chroma-Smith — walks velvet over muscle with a Chroma arm and Resonance-inspired dagger. Penumbra can work those Bloomed soldiers from the shadows.',
-    play: 'Hold the board. Late hijack. Mass. Chroma-fuel overclock. Death that breaches fuel lines.',
+      'Lived in harmony until the First Strike. Null-Flint-reliant — reject Bright cells, Chroma-fuel, and Splinters.',
+    play: 'Silence. Denial. Raw Null-Flint vacuum. Empty Discharge.',
+  },
+  {
+    id: 'lumari',
+    name: 'Lumari',
+    accent: 'Cyan and magenta',
+    accentVars: 'var(--lumari)',
+    motif:
+      'Bloom extremists who drink Tears into the body and hunt a Vessel. They read The Bright as a conscious divine entity. Excess Bloom for extreme mutation and one-way missions.',
+    origin:
+      'Lineages after the First Survivor. Tear trials killed most and tempered a few. Tolerance is hierarchy. Rags are practical kit. Seams and Chroma are the god’s will.',
+    play: 'Health as fuel. Bloom lines. Fast adaptation. Assassination and suicide runs.',
   },
   {
     id: 'kardia',
@@ -155,26 +164,17 @@ export const factions: {
     play: 'Spike and flee. Splinter-Crush Enhancements. Honest self-damage.',
   },
   {
-    id: 'oru',
-    name: "the Oru",
-    accent: 'White, red, and green',
-    accentVars: 'var(--oru)',
+    id: 'aureate',
+    name: 'the Aureate',
+    accent: 'Purple, white, and gold',
+    accentVars: 'var(--aureate)',
     motif:
-      'Indigenous Wardens. Natural harmony. Anti-harvest. Null-Flint craft. Opposite of Penumbra. Not every Oru by blood walks with this faction.',
+      'Barons and crime lords. Former Kardia who took the Bright order by syndicate methods.',
     origin:
-      'Lived in harmony until the First Strike. Null-Flint-reliant — reject Bright cells, Chroma-fuel, and Splinters.',
-    play: 'Silence. Denial. Raw Null-Flint vacuum. Empty Discharge.',
-  },
-  {
-    id: 'lumari',
-    name: 'Lumari',
-    accent: 'Cyan and magenta',
-    accentVars: 'var(--lumari)',
-    motif:
-      'Bloom extremists who drink Tears into the body and hunt a Vessel. They read The Bright as a conscious divine entity. Excess Bloom for extreme mutation and one-way missions.',
-    origin:
-      'Lineages after the First Survivor. Tear trials killed most and tempered a few. Tolerance is hierarchy. Rags are practical kit. Seams and Chroma are the god’s will.',
-    play: 'Health as fuel. Bloom lines. Fast adaptation. Assassination and suicide runs.',
+      'They broke from Kardia, unified, and seized power through bribery, theft, extortion, and hijacked containment. Barons stay safe.',
+    society:
+      'Debonair tip over poor laborers. Controlled-Bloom infantry run robust hot metal frames. Valen — human Chroma-Smith — walks velvet over muscle with a Chroma arm and Resonance-inspired dagger. Penumbra can work those Bloomed soldiers from the shadows.',
+    play: 'Hold the board. Late hijack. Mass. Chroma-fuel overclock. Death that breaches fuel lines.',
   },
   {
     id: 'penumbra',
@@ -197,7 +197,8 @@ export const game = {
     'Kills and objectives score. First to 15 victory points.',
     'Death is Stitching: return to your Umbra with the build intact.',
     'Shared Splintered deck: draw 3, keep 1 on mutation rounds — Splinter-Crush synthetic Seam weapon Enhancements.',
-    'Enhancement drafts on rounds 1, 3, 6, 9, and 12 — fiction: appetite Seam wraps the Harvester.',
+    'Enhancement drafts on rounds 1, 3, 6, 9, and 12 — fiction: appetite Seam wraps the Harvester. Path A (global) and Path B (slot) are table homes only.',
+    'Printed Growth Track per character feeds dials; dual-gate ability lines need unlock cubes and dial requirements.',
     'Acrylic standees. Spliced terrain lives in hex middles. Seams are curtain tokens, not hex-edge borders.',
   ],
   objectives: [
@@ -214,9 +215,14 @@ export const heroesNote =
 
 export const worldBits = [
   {
+    title: 'Seeds and cities',
+    blurb:
+      'When a Bright ends, another must rise from a Seed. Resting Light scientists mapped those spawning zones; civilization sits at their intersections. Faith may call every cube one reincarnated Bright. Industry counts many instances under one law.',
+  },
+  {
     title: 'Resting Light present',
     blurb:
-      'Fixed Bright sites are mapped. Cities rise on the safe ring. Mood language is calendar: Glimmer, Radiance, Sature, the Glare. Stitching returns patterned bodies to their Umbra. Splintered gear stays.',
+      'Fixed Bright sites are mapped. Cities rise on the safe ring outside whichever Eclipse stands. Mood language is calendar: Glimmer, Radiance, Sature, the Glare. Stitching returns patterned bodies to their Umbra. Splintered gear stays.',
   },
   {
     title: 'Two nations under pressure',

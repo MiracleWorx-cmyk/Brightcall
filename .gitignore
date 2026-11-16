@@ -15,6 +15,18 @@ Thumbs.db
 # Local assets not for Lovable yet
 World map 1.jpg
 
+# Culled / exploration plates — never keep at repo root (use site/public/art keepers only)
+/seam-eruption*.png
+/chroma-liquid*.png
+/vesper-bright-cell.png
+/vesper-cell-remove*.png
+/brightcall-art.png
+/site/public/art/seam-eruption*.png
+/site/public/art/chroma-liquid*.png
+/site/public/art/vesper-bright-cell.png
+/site/public/art/vesper-cell-remove*.png
+/site/public/art/the-bright.png
+
 # Logs
 logs
 *.log

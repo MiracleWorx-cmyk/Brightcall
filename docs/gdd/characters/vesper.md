@@ -87,14 +87,48 @@ On the board, scratches are not automatically a lasting Seam token. Working opti
 
 **Loyal.** Mobile bruiser. Hold pressure through durability and glaive reach. Manage the Tithe — two or three cells. Finite stability: safe tech, attrition weakness when dry.
 
-**Traitor lean.** Emotion dumps charge into gap-close to delete assassins threatening her or her team. She still reads as Kardia when she does it — manners broken, crest still on the chest.
+**Traitor lean.** Emotion dumps charge into gap-close to delete assassins threatening her or her team. She still reads as Kardia when she does it — manners broken, crest still on the chest. Prototype Path B bait: a strip that adds a post-hit Move 2 and a 3-hex hazard drop on the glaive active. Prototype Path A bait: “whenever you push, place yourself in an adjacent hex of the target” — only cash if the kit actually pushes.
 
 **Bad build.** All aggression, empty cells early, no plan when the mount goes quiet.
+
+## Growth Track (playtest sketch)
+
+Numbers open. Sparse loyal curve for a durable bruiser who flirts with ability-power scratch lines. Public on the sheet. Path A conversions can hijack it.
+
+| Round | Bump |
+| --- | --- |
+| Every round | +1 Physical Power |
+| 3 | +2 Health |
+| 5 | +1 Physical Shield |
+| 7 | +1 Ability Power |
+| 9 | +1 Movement |
+| 11 | +2 Health |
+| 13 | +1 Ability Power |
+| 15 | +1 Physical Power |
+
+Base stats at round 1 must still clear every level-1 line before this track fires. The every-round physical bump is the bruiser spine; ability-power milestones are the scratch / Reality Fracture chase.
+
+## Active sketch — Resonance Arc (dual gate)
+
+One active slot candidate. Illustrative only — not locked numbers. Tags: melee, physical, push (if a later line or Path B strip adds shove).
+
+| Level | Gate 1 | Gate 2 | Effect |
+| --- | --- | --- | --- |
+| 1 | Unlock | — | Move 1. Range 1. Deal 1 physical damage in a 3-hex arc. |
+| 2 | Upgrade | Ability Power ≥ 3 | Reality Fracture — that hit also deals +3 magic damage (scratch / Chroma exposure read). |
+| 3 | Upgrade | Movement ≥ 2 | After the hit, Move 2. |
+| 4 | Upgrade | Ability Power ≥ 4 and Physical Power ≥ 3 | Seam Expulsion — deal 10 damage to one target in the arc; that enemy gains Strengthen (tradeoff). |
+
+Quiet miss: if level 2 is unlocked but Ability Power is only 2, the level-1 arc still fires. Path B strips tuck under this card (“when you use this ability, drop a 3-hex hazard adjacent and step back 2”) without erasing the arc verb on the exposed edge.
 
 ## Faction habit she proves
 
 Kardia adapt. They do not own the “plant and hold the hill” fantasy — that belongs to the Aureate’s heaviest tanks. Vesper teaches adaptable Kardia play: move, brawl, reload with dignity, threaten space with a civic tool that should never have been a weapon.
 
+## Playtest kit
+
+First paper kit (fixed tableau + Tithe cells + hex-patch arena): [playtest/vesper-v0.md](../playtest/vesper-v0.md). Numbers there are playtest only.
+
 ## Still settling
 
-Exact scratch payout (Tears token vs chromatic damage vs both). Board verbs for mount braces. Exact disposition of discarded empty cells (trash vs reclaim). Shared match framing with Valen.
+Exact scratch payout (Tears token vs chromatic damage vs both). Whether Strengthen is a shared status or tableau-only. Exact Growth Track integers after first paper session. Board verbs for mount braces. Exact disposition of discarded empty cells (trash vs reclaim). Shared match framing with Valen.

@@ -4,16 +4,6 @@ import { bright } from '../content/lore'
 export function Bright() {
   return (
     <PageShell kicker="The anomaly" title={bright.title} lede={bright.outside}>
-      <figure className="art-bleed">
-        <img
-          src="/art/the-bright.png"
-          alt="The Bright — a luminous cube of light over Oros"
-          width={1344}
-          height={768}
-        />
-        <figcaption>The Bright from outside — a cube of glass-like light on Oros.</figcaption>
-      </figure>
-
       <p className="body-lead">{bright.inside}</p>
 
       <section className="section split split-2">
