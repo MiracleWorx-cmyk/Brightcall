@@ -152,7 +152,7 @@ Containment units and chromatic fuel tanks must read as different objects at a g
 
 **Chromatic fuel tanks** (the Aureate): erratic, pressurized Chroma canisters. Volatile. Cutthroat modification.
 
-**Chroma vial rack (working plate):** \site/public/art/chroma-vials.png\ (efract-chroma-vials.png\). Magenta / Cyan / Gold liquid Tears in glass under valves and fumes — strong Chroma atom. Reads more Refract lab glassware than Aureate military exo tankage. Aureate power-arm canisters stay crude pressurized grit, not this clean vial bank.
+**Chroma vial rack (working plate):** `site/public/art/chroma-vials.png` (same plate as `refract-chroma-vials.png`). Magenta / Cyan / Gold liquid Tears in glass under valves and fumes — strong Chroma atom. Reads more Refract lab glassware than Aureate military exo tankage. Aureate power-arm canisters stay crude pressurized grit, not this clean vial bank.
 
 
 Proper model names remain open in [terminology](../terminology.md).
