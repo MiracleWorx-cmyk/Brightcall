@@ -3,7 +3,7 @@
 **Faction.** House Kardia.  
 **Role on the roster.** First measuring-stick character. Mobile bruiser. Slow for a Kardian, durable and strong from Oru nature. Brilliance tech keeps her in the fight; it does not make her a specialist peak.
 
-**One sentence.** Vesper walks an Umbra into The Bright because **Valen** — her dearest friend and former Brightsmith partner — defected to the Aureate; she wants revenge for that betrayal. He designed and forged the Resonance Glaive she still carries.
+**One sentence.** Vesper walks an Umbra into The Bright because **Valen** — her dearest friend and former Brightsmith partner — was exiled after illicit Chroma work and now builds for the Aureate; she wants revenge for that betrayal. He designed and forged the Resonance Glaive she still carries.
 
 **Leading plate.** [`site/public/art/hero-harvester.png`](../../../site/public/art/hero-harvester.png) is the visual north star for Vesper and Oru Harvesters.
 
@@ -21,9 +21,9 @@ House Kardia was the Bright-order superpower before Aureate crime lords took con
 
 ### Valen
 
-**Valen** was her Brightsmith partner and closest friend — a Kardia prodigy. Under Aureate oppression he broke. Rather than starve as a marginalized Kardian, he defected to the barons. He works in their gilded towers as a **Chroma-Smith**, designing overheating cast-iron harnesses and fuel lines that push **controlled-Bloom infantry** through crude Chroma-fuel heat.
+**Valen** was her Brightsmith partner and closest friend — a Kardia prodigy. He ran illicit **Chroma-fuel** experiments beneath Kardia’s purity laws. A violent reaction destroyed his right arm and exposed the work. The house fired and **exiled** him. The Aureate funded a sleek Chroma prosthesis and made him their **Chroma-Smith** architect — harnesses for **controlled-Bloom infantry**, fuel lines, hijacks, and a brawler’s kit of prosthetic fist and Chroma-blade. Full brief: [valen.md](valen.md).
 
-Before he left, Valen designed and forged the **Resonance Glaive** for her — a masterpiece of Kardia engineering: an ultrasonic blade that cuts with a clean high-frequency hum. Every time she seats a fresh cell in the shoulder mount, she powers a traitor’s genius. The weapon is her greatest asset and an open wound.
+Before the exile, Valen designed and forged the **Resonance Glaive** for her — a masterpiece of Kardia engineering: an ultrasonic blade that cuts with a clean high-frequency hum. Every time she seats a fresh cell in the shoulder mount, she powers an exile’s genius. The weapon is her greatest asset and an open wound.
 
 ## Look
 
@@ -97,4 +97,4 @@ Kardia adapt. They do not own the “plant and hold the hill” fantasy — that
 
 ## Still settling
 
-Exact scratch payout (Tears token vs chromatic damage vs both). Board verbs for mount braces. Whether Valen appears as an Aureate roster link. Exact disposition of discarded empty cells (trash vs reclaim).
+Exact scratch payout (Tears token vs chromatic damage vs both). Board verbs for mount braces. Exact disposition of discarded empty cells (trash vs reclaim). Shared match framing with Valen.

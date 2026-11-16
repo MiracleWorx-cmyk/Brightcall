@@ -67,7 +67,7 @@ A **Bright cell** is a standardized interchangeable **cube** of Brilliance that 
 
 A **Zenith Relay** is Kardia civic tech: an energy substation that distributes Bright energy through a district. Appearance still open. Stable civic infrastructure.
 
-**Chroma-fuel** / chromatic fuel is raw Chroma burned as fuel. Refract Labs concept. Kardia ban it. The Aureate weaponize it with defected smiths. Volatile. Devastating. Resting Light heresy. Aureate overclock / death-burst craft.
+**Chroma-fuel** / chromatic fuel is raw Chroma burned as fuel. Refract Labs concept. Kardia ban it — Chroma use carries hard social stigma there (dirty, unnatural, hazard to bystanders). The Aureate weaponize it with defectors and exiles (**Chroma-Smiths** such as Valen). Volatile. Devastating. Resting Light heresy. Aureate overclock / death-burst craft. Exhaust reads about **60% Magenta**, **35% Cyan**, **15% Gold**.
 
 A **chromatic fuel tank** holds raw Chroma for Chroma-fueled weapons. Proper model name still open. Aureate resource / hazard.
 
