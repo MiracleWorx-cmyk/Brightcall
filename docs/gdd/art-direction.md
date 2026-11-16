@@ -161,7 +161,7 @@ Containment units and chromatic fuel tanks must read as different objects at a g
 
 **Bright cells** (Kardia): Eminence-pattern (VE-3) Brilliance cubes ~Rubik’s-cube scale; bright-white charge; pin receivers; white steam vent on seat/strike. Issued charged; empties discarded.
 
-**Chromatic fuel tanks** (the Aureate infantry / mercenary “vial”): oversized pressurized Chroma canisters on back or chest, long hoses to tools. Well-made robust grit — not gold, not Brilliance. Volatile. Exhaust Magenta-heavy with Cyan and Gold. Full brief: [references/aureate-mercenary-canister-design.md](references/aureate-mercenary-canister-design.md).
+**Chromatic fuel tanks** (the Aureate infantry / mercenary “vial”): oversized pressurized Chroma canisters on back or chest, long hoses to tools. Well-made robust grit — not gold, not Brilliance. Volatile. Exhaust Magenta-heavy with Cyan and Gold. Full brief: [references/aureate-mercenary-canister-design.md](references/aureate-mercenary-canister-design.md). Object study: [references/aureate-mercenary-canister-inspiration.jpg](references/aureate-mercenary-canister-inspiration.jpg).
 
 **Architect ampules (Valen):** micro-pressurized glass cartridges seated flush in the Chroma prosthesis forearm — refined delivery of the same fuel, not a different substance. Arm study: [references/valen-chroma-arm-inspiration.jpg](references/valen-chroma-arm-inspiration.jpg).
 

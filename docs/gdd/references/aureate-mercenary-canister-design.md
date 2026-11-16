@@ -6,6 +6,8 @@
 
 Contrast north stars: Valen ampules = [`valen-chroma-arm-inspiration.jpg`](valen-chroma-arm-inspiration.jpg). Refract glass rack = `site/public/art/chroma-vials.png` (lab scale — not this).
 
+**Object study (kept):** [`aureate-mercenary-canister-inspiration.jpg`](aureate-mercenary-canister-inspiration.jpg) — dark bolted frame, Magenta/Cyan/Gold Chroma in the cylinder, braided hose stubs, top vent weep. Product plate, not a full soldier mount yet.
+
 ## Job of the silhouette
 
 One glance must answer: *this body carries the fuel; the weapon drinks through a hose.*  
