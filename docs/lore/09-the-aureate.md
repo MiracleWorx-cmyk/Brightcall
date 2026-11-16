@@ -2,7 +2,7 @@
 
 Current powerholders of the Resting Light. Former Kardia who unified under their own flag and took the Bright order by syndicate methods — bribery, theft, extortion, hijacked containment. Wealthy barons and crime lords. Opportunists of the volatile harvest. Short on innate Brightsmith knowledge; long on stolen Cores and leverage.
 
-**Tech base.** **Chroma-fueled.** Defectors weaponized raw Chroma burn — a path Kardia refused. Robust, dangerous exoskeletons and armor: same civic-military family as Kardia silhouettes, but heavier on metal, always running hot.
+**Tech base.** **Chroma-fueled.** Defectors — **Chroma-Smiths** among them — weaponized raw Chroma burn — a path Kardia refused. Robust, dangerous frames and armor: same civic-military family as Kardia silhouettes, but heavier on metal, always running hot. Exhaust vents thick toxic steam: about **60% Magenta**, **35% Cyan**, **15% Gold**.
 
 **Foot soldiers.** Barons stay safe. Controlled-Bloom infantry — injected with Chroma so Bloomed bodies can wield those fuel lines and frames. Industrial capped Bloom, not Lumari excess. Penumbra can work those Bloomed soldiers from the shadows.
 
@@ -14,4 +14,4 @@ Current powerholders of the Resting Light. Former Kardia who unified under their
 **Roster (working)**
 
 1. **The Dreadnought** — Stolen mass running chromatic fuel on a controlled-Bloom body. The faction’s hill-holder. Immovable on a weeping Seam. Area pressure. If dropped, fuel lines breach and nuke nearby hexes.
-2. **The Defector (Rogue Smith)** — Craft without discipline. Pumps raw Chroma into the line. Overclock and sacrifice mobility for explosive hold. Also the hand that finishes a containment hijack. Story-adjacent to Vesper’s betrayed Brightsmith colleague.
+2. **Valen (Chroma-Smith)** — Vesper’s former partner. Craft without Kardia discipline. Designs overheating cast-iron harnesses for controlled-Bloom infantry; pumps raw Chroma into the line. Overclock and sacrifice mobility for explosive hold. Also the hand that finishes a containment hijack.

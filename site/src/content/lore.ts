@@ -40,7 +40,7 @@ export const energies = {
     {
       name: 'Brilliance',
       blurb:
-        'House Kardia craft: machined pearl-white Brilliance. Bright cells glow bright white with refined stable charge. Brilliance lets you handle Chroma safely.',
+        'House Kardia craft: machined pearl-white Brilliance. Cube Bright cells glow bright white with refined stable charge and hiss white steam under load. Brilliance lets you handle Chroma safely.',
     },
     {
       name: 'Chroma-fuel',
@@ -210,7 +210,7 @@ export const game = {
 }
 
 export const heroesNote =
-  'Design order starts with Kardia (Vesper as measuring stick), then the Aureate as hold-objective contrast. Vesper is the first locked brief: Oru Harvester, Brilliance exo under trench, Bright cell, Resonance Glaive.'
+  'Design order starts with Kardia (Vesper as measuring stick), then the Aureate as hold-objective contrast. Vesper is the first locked brief: Oru Harvester, Brilliance sleeve under trench, cube Bright cell Tithe, Resonance Glaive (Valen).'
 
 export const worldBits = [
   {

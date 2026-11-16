@@ -41,7 +41,7 @@ Reference for Vesper and other Kardia field fighters. Full kit: [vesper.md](char
 
 **Coat over the braces.** Her tailored high-fashion trenchcoat wears **over** the mechanical braces. The coat is Resting Light civic-modern — not a closed cylinder that hides craft.
 
-**Bright cell cutout.** A deliberate opening is cut from the coat shoulder so the round **Bright cell** in the weapon-side shoulder mount pushes through. Brilliance shell; bright-white Bright energy inside. The cutout exists so she can lock-and-click a belt cell into the mount at combat speed without stripping the coat.
+**Bright cell cutout.** A deliberate opening is cut from the coat shoulder so the **cube Bright cell** in the weapon-side shoulder mount pushes through. Brilliance shell; bright-white Bright energy inside; seating hisses white steam. The cutout exists so she can lock-and-click a Tithe belt cell into the mount at combat speed without stripping the coat.
 
 **Weapon-arm Brilliance.** One full arm and its shoulder in cast pearl — the limb that feeds the Glaive. That is the body-armor budget.
 

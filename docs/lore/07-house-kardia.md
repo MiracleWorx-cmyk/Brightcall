@@ -6,7 +6,7 @@ They branched from Oru ground after the First Survivor. The First Harvest belong
 
 **Material.** **Brilliance** — extremely refined pearl-white metal, carefully cast to fit the wearer. Rare and expensive now: once abundant, then scarce as the Aureate stole Bright Cores. The cast keeps a Harvester nimble, handles Chroma safely, powers weapons, and conducts Bright energy.
 
-**Energy.** **Bright cells** — standardized interchangeable spheres or cylinders in Brilliance shells, holding bright-white refined Bright energy. Cyan is a Chroma color, not a cell color. **Zenith Relays** distribute that charge through districts.
+**Energy.** **Bright cells** — standardized interchangeable Brilliance **cubes** (Eminence-pattern / VE-3 scale) holding bright-white refined Bright energy. Cyan is a Chroma color, not a cell color. Under Aureate rationing, Harvesters work a **Tithe**: enough charge for two or three cells per run — harvest is lucrative enough to fund that investment; the house would issue more if it could afford it. **Zenith Relays** distribute civic charge through districts. Anomaly kit vents **bright-white** steam under load — clean, sharp, fleeting — never Chroma-colored exhaust.
 
 **Vibe.** Fake-stoic, proud, elegant. High-fashion trenchcoats over sparse cast Brilliance — Vesper’s measure is one full arm and shoulder, plus one glove on the other hand. Never a sealed mech. Civic-modern magitech under ash: crests polished, manners held, charge finite.
 
@@ -17,5 +17,5 @@ They branched from Oru ground after the First Survivor. The First Harvest belong
 
 **Roster (working)**
 
-1. **Vesper** — Oru Harvester. Former Brightsmith. Resonance Glaive and shoulder Bright cell through a coat cutout over sparse Brilliance braces. Mobile bruiser; slow for a Kardian, durable by nature. Measuring stick. Brief: [vesper.md](../gdd/characters/vesper.md). Gear: [civic field kit and Brilliance](../gdd/armor-and-exosuits.md).
+1. **Vesper** — Oru Harvester (~7 ft). Former Brightsmith. Resonance Glaive (Valen’s design) and Eminence-pattern shoulder Bright cell through a coat cutout; Tithe of two or three cells per run. Mobile bruiser; slow for a Kardian, durable by nature. Measuring stick. Brief: [vesper.md](../gdd/characters/vesper.md). Gear: [civic field kit and Brilliance](../gdd/armor-and-exosuits.md).
 2. **The Master Brightsmith** — Precision strikes that punish Chroma-fuel instability from range.

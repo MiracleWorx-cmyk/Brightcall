@@ -63,7 +63,7 @@ The **Bright Core** is the nucleus — a perfectly smooth blinding-white **spher
 
 
 
-A **Bright cell** is a standardized interchangeable sphere or cylinder of Brilliance that holds Bright energy. The charge reads as **bright white** light inside the Brilliance shell. Finite. Reloadable. Field and civic power packs. Cyan is a Chroma/Tear color — not the cell.
+A **Bright cell** is a standardized interchangeable **cube** of Brilliance that holds Bright energy — about Rubik’s-cube scale (~7.5 cm / 3 in), dense, with circular cutouts over a glass core and pin connectors for mount receivers. Working pattern mark: **Eminence-pattern (VE-3)**. The charge reads as **bright white** light inside the Brilliance shell. Finite. Harvesters **swap** charged cells into a mount; empties are discarded (not field-recharged). Civic residents may need only a couple across a lifetime; a hungry tool like a Resonance Glaive burns a Tithe of two or three in a single harvest run. Cyan is a Chroma/Tear color — not the cell. Concept: `docs/gdd/references/bright-cell-schematic.png`, `docs/gdd/references/vesper-full-bright-cell.png`.
 
 A **Zenith Relay** is Kardia civic tech: an energy substation that distributes Bright energy through a district. Appearance still open. Stable civic infrastructure.
 
