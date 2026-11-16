@@ -45,6 +45,11 @@ Before exile, Valen designed and forged Vesper’s **Resonance Glaive** in that 
 
 **Story tension.** Every vented Magenta cloud is the same sin that cost the arm and the friendship. Facing Vesper means facing the Glaive he forged in a Core-smithy he no longer owns — and the dirty dagger that proves he could not remake it clean.
 
+## Visual refs
+
+- Primary exploration: [`valen-line-concept.png`](../references/valen-line-concept.png) — slender-muscular human read, elegant right prosthesis, no trench.
+- Second pass kept: [`valen-line-concept-b.png`](../references/valen-line-concept-b.png) — alternate color / attitude beat (review before promoting).
+
 ## Still settling
 
-Final dagger name (working: Resonance Dagger). Exact board verbs for steam-denial hexes. Prosthesis model name. Whether Valen and Vesper share a match as default rivals. Exact exile-to-recruitment timeline relative to the First Harvest calendar. Exact human height band vs Oru seven-foot read.
+Final dagger name (working: Resonance Dagger). Body lock may move fully to slender-muscular (vs earlier broad-spike wording above). Exact board verbs for steam-denial hexes. Prosthesis model name. Whether Valen and Vesper share a match as default rivals. Exact exile-to-recruitment timeline relative to the First Harvest calendar. Exact human height band vs Oru seven-foot read.
