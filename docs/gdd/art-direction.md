@@ -161,9 +161,9 @@ Containment units and chromatic fuel tanks must read as different objects at a g
 
 **Bright cells** (Kardia): Eminence-pattern (VE-3) Brilliance cubes ~Rubik’s-cube scale; bright-white charge; pin receivers; white steam vent on seat/strike. Issued charged; empties discarded.
 
-**Chromatic fuel tanks** (the Aureate infantry): oversized pressurized Chroma canisters on back or chest, long hoses to tools. Well-made robust grit — not gold, not Brilliance. Volatile. Exhaust Magenta-heavy with Cyan and Gold.
+**Chromatic fuel tanks** (the Aureate infantry / mercenary “vial”): oversized pressurized Chroma canisters on back or chest, long hoses to tools. Well-made robust grit — not gold, not Brilliance. Volatile. Exhaust Magenta-heavy with Cyan and Gold. Full brief: [references/aureate-mercenary-canister-design.md](references/aureate-mercenary-canister-design.md).
 
-**Architect ampules (Valen):** micro-pressurized glass cartridges seated flush in the Chroma prosthesis forearm — refined delivery of the same fuel, not a different substance.
+**Architect ampules (Valen):** micro-pressurized glass cartridges seated flush in the Chroma prosthesis forearm — refined delivery of the same fuel, not a different substance. Arm study: [references/valen-chroma-arm-inspiration.jpg](references/valen-chroma-arm-inspiration.jpg).
 
 **Chroma vial rack (working plate):** `site/public/art/chroma-vials.png` only. Magenta / Cyan / Gold liquid Tears in glass under valves and fumes — strong Chroma atom. Reads more Refract lab glassware than Aureate infantry tankage; Valen’s forearm ampules sit closer to this *scale* of glass than to grunt kegs.
 
@@ -172,7 +172,7 @@ Proper model names remain open in [terminology](../terminology.md).
 
 ## Board and pieces
 
-Hex board, two faces. Team games symmetrical. Free-for-all has its own layout. First playtest arena: the plain 9-by-13 board in the game-design doc. Painted spliced terrain comes after that test.
+Hex board, two faces. Team games symmetrical. Free-for-all has its own layout. First playtest arena: hex-patch with voids — [playtest/hex-patch-arena-v0.md](playtest/hex-patch-arena-v0.md). Painted spliced terrain comes after that test.
 
 Ability levels are lines on a card. Enhancement strips stay readable when several hang off one ability. Physical power and ability power never share a color or a shape.
 
